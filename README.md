@@ -6,8 +6,9 @@
 
 *A curated list of notable open-source AI models, libraries, infrastructure, and developer tools.*
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Updates](https://img.shields.io/github/last-commit/alvinunreal/awesome-opensource-ai?style=flat-square)](https://github.com/alvinunreal/awesome-opensource-ai/commits/main)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
+[![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-blue.svg?style=flat-square)](./LICENSE)
 
 </div>
 
@@ -89,10 +90,10 @@
 - **[Llama 4 (Meta)](https://github.com/meta-llama/llama)** ![GitHub stars](https://img.shields.io/github/stars/meta-llama/llama?style=social) - Latest flagship open LLM series (8B–405B) with exceptional reasoning, multilingual support, and long-context performance.
 - **[Qwen3.5 (Alibaba)](https://github.com/QwenLM/Qwen)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen?style=social) - State-of-the-art open series spanning from small to frontier-scale models, consistently strong in coding, math, and instruction following.
 - **[DeepSeek-V3.2 / R1 (DeepSeek)](https://github.com/deepseek-ai/DeepSeek-V3)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social) - Mixture-of-Experts family with exceptional reasoning, math, and efficient large-scale inference.
-- **[Gemma 3 (Google)](https://github.com/google/gemma)** ![GitHub stars](https://img.shields.io/github/stars/google/gemma?style=social) - Lightweight yet powerful open models with excellent efficiency for on-device, research, and production use.
+- **[Gemma 3 (Google)](https://github.com/google-deepmind/gemma)** ![GitHub stars](https://img.shields.io/github/stars/google-deepmind/gemma?style=social) - Lightweight yet powerful open models with excellent efficiency for on-device, research, and production use.
 - **[Mistral Large / Nemo / Small](https://github.com/mistralai)** - High-performance model family with strong multilingual capability, tool use, and efficient deployment profiles.
-- **[Phi-4 / Phi-3.5 (Microsoft)](https://github.com/microsoft/Phi-3)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/Phi-3?style=social) - Small but highly capable models optimized for reasoning, edge devices, and on-device inference.
-- **[GLM-5 (Zhipu AI)](https://github.com/THUDM/GLM-4)** ![GitHub stars](https://img.shields.io/github/stars/THUDM/GLM-4?style=social) - Strong open model line with solid coding, reasoning, and agentic-task performance.
+- **[Phi-4 / Phi-3.5 (Microsoft)](https://github.com/microsoft/PhiCookBook)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/PhiCookBook?style=social) - Small but highly capable models optimized for reasoning, edge devices, and on-device inference.
+- **[GLM-5 (Zhipu AI)](https://github.com/zai-org/GLM-5)** ![GitHub stars](https://github.com/zai-org/GLM-5?style=social) - Strong open model line with solid coding, reasoning, and agentic-task performance.
 
 #### Coding & Reasoning Models
 
@@ -104,14 +105,14 @@
 #### Multimodal Models (Vision + Language)
 
 - **[LLaVA 1.6 / Next (Liu et al.)](https://github.com/haotian-liu/LLaVA)** ![GitHub stars](https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social) - Most popular open vision-language model. Strong image understanding and reasoning.
-- **[Phi-3.5-Vision / Phi-4-Multimodal (Microsoft)](https://github.com/microsoft/Phi-3)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/Phi-3?style=social) - Lightweight multimodal with excellent chart/table/document understanding.
+- **[Phi-3.5-Vision / Phi-4-Multimodal (Microsoft)](https://github.com/microsoft/PhiCookBook)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/PhiCookBook?style=social) - Lightweight multimodal with excellent chart/table/document understanding.
 - **[Qwen2.5-VL (Alibaba)](https://github.com/QwenLM/Qwen-VL)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen-VL?style=social) - State-of-the-art open multimodal (text + image + video). Tops many VL benchmarks.
 - **[InternVL 2.5 (OpenGVLab)](https://github.com/OpenGVLab/InternVL)** ![GitHub stars](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social) - Massive open multimodal family (up to 26B) with strong performance on OCR, charts, and video.
 
 #### Speech & Audio Models (TTS, STT, Music)
 
 - **[Whisper (OpenAI → community forks)](https://github.com/openai/whisper)** ![GitHub stars](https://img.shields.io/github/stars/openai/whisper?style=social) - The gold-standard open speech-to-text model. Massive community fine-tunes available.
-- **[OuteTTS / CosyVoice 2](https://github.com/OuteAI/OuteTTS)** ![GitHub stars](https://img.shields.io/github/stars/OuteAI/OuteTTS?style=social) - High-quality open TTS with natural prosody and multilingual support.
+- **[OuteTTS / CosyVoice 2](https://github.com/edwko/OuteTTS)** ![GitHub stars](https://img.shields.io/github/stars/edwko/OuteTTS?style=social) - High-quality open TTS with natural prosody and multilingual support.
 - **[Fish Speech / StyleTTS 2](https://github.com/fishaudio/fish-speech)** ![GitHub stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=social) - Zero-shot TTS with excellent voice cloning. Extremely popular in 2026.
 - **[MusicGen / AudioCraft (Meta)](https://github.com/facebookresearch/audiocraft)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social) - Open music and audio generation models.
 
@@ -231,7 +232,7 @@
 - **[Fooocus](https://github.com/lllyasviel/Fooocus)** ![GitHub stars](https://img.shields.io/github/stars/lllyasviel/Fooocus?style=social) - Midjourney-style UI with beautiful out-of-the-box results.
 - **[FLUX.1 / FLUX.2 (Black Forest Labs)](https://github.com/black-forest-labs/flux)** ![GitHub stars](https://img.shields.io/github/stars/black-forest-labs/flux?style=social) - State-of-the-art open text-to-image model family.
 - **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** ![GitHub stars](https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=social) - Full-featured creative studio.
-- **[Stable Diffusion 3.5 (Stability AI)](https://github.com/Stability-AI/stable-diffusion)** ![GitHub stars](https://img.shields.io/github/stars/Stability-AI/stable-diffusion?style=social) - Latest open-weight diffusion model.
+- **[Stable Diffusion 3.5 (Stability AI)](https://github.com/Stability-AI/sd3.5)** ![GitHub stars](https://img.shields.io/github/stars/Stability-AI/sd3.5?style=social) - Latest open-weight diffusion model.
 
 #### Video Generation
 
@@ -239,7 +240,7 @@
 - **[Mochi 1 (Genmo)](https://github.com/genmoai/mochi)** ![GitHub stars](https://img.shields.io/github/stars/genmoai/mochi?style=social) - 10B-parameter open video model.
 - **[LTX-Video (Lightricks)](https://github.com/Lightricks/LTX-Video)** ![GitHub stars](https://img.shields.io/github/stars/Lightricks/LTX-Video?style=social) - Fast native 4K video generation.
 - **[Open-Sora 2.0 (HPC-AI Tech)](https://github.com/hpcaitech/Open-Sora)** ![GitHub stars](https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social) - Fully open training + inference pipeline.
-- **[Stable Video Diffusion (Stability AI)](https://github.com/Stability-AI/stable-video-diffusion)** ![GitHub stars](https://img.shields.io/github/stars/Stability-AI/stable-video-diffusion?style=social) - Official image-to-video and text-to-video model.
+- **[Stable Video Diffusion (Stability AI)](https://github.com/Stability-AI/generative-models)** ![GitHub stars](https://img.shields.io/github/stars/Stability-AI/generative-models?style=social) - Official image-to-video and text-to-video implementation within Stability AI’s generative models repository.
 - **[AnimateDiff](https://github.com/guoyww/AnimateDiff)** ![GitHub stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social) - Motion module ecosystem.
 
 #### Audio / Music / Voice Generation
@@ -248,7 +249,7 @@
 - **[Fish Speech](https://github.com/fishaudio/fish-speech)** ![GitHub stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=social) - Zero-shot TTS and voice cloning.
 - **[CosyVoice 2](https://github.com/FunAudioLLM/CosyVoice)** ![GitHub stars](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=social) - Natural multilingual TTS with emotional control.
 - **[StyleTTS 2](https://github.com/yl4579/StyleTTS2)** ![GitHub stars](https://img.shields.io/github/stars/yl4579/StyleTTS2?style=social) - Expressive zero-shot TTS.
-- **[OuteTTS](https://github.com/OuteAI/OuteTTS)** ![GitHub stars](https://img.shields.io/github/stars/OuteAI/OuteTTS?style=social) - High-quality open TTS.
+- **[OuteTTS](https://github.com/edwko/OuteTTS)** ![GitHub stars](https://img.shields.io/github/stars/edwko/OuteTTS?style=social) - High-quality open TTS.
 - **[RVC (Retrieval-based Voice Conversion)](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)** ![GitHub stars](https://img.shields.io/github/stars/RVC-Project/Retrieval-based-Voice-Conversion-WebUI?style=social) - Gold standard for real-time voice cloning.
 
 #### 3D & Creative Tools
@@ -337,7 +338,7 @@
 
 - **[lm-evaluation-harness (EleutherAI)](https://github.com/EleutherAI/lm-evaluation-harness)** ![GitHub stars](https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness?style=social) - De-facto standard for generative model evaluation.
 - **[HELM (Stanford)](https://github.com/stanford-crfm/helm)** ![GitHub stars](https://img.shields.io/github/stars/stanford-crfm/helm?style=social) - Holistic Evaluation of Language Models.
-- **[GAIA](https://github.com/gaia-benchmark/gaia)** ![GitHub stars](https://img.shields.io/github/stars/gaia-benchmark/gaia?style=social) - Real-world multi-step agentic benchmark.
+- **[GAIA](https://huggingface.co/datasets/gaia-benchmark/GAIA)** - Real-world multi-step agentic benchmark.
 - **[LiveCodeBench](https://github.com/livecodebench/livecodebench)** ![GitHub stars](https://img.shields.io/github/stars/livecodebench/livecodebench?style=social) - Contamination-free coding benchmark.
 - **[MMLU-Pro / GPQA](https://github.com/TIGER-AI-Lab/MMLU-Pro)** ![GitHub stars](https://img.shields.io/github/stars/TIGER-AI-Lab/MMLU-Pro?style=social) - Hardened expert-level benchmarks.
 
@@ -352,7 +353,7 @@
 - **[Hugging Face Datasets](https://github.com/huggingface/datasets)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/datasets?style=social) - Largest open repository of datasets.
 - **[FineWeb / FineWeb-2 (Hugging Face)](https://huggingface.co/datasets/HuggingFaceFW/fineweb)** - Curated 15T+ token web dataset for pre-training.
 - **[RedPajama](https://github.com/togethercomputer/RedPajama-Data)** ![GitHub stars](https://img.shields.io/github/stars/togethercomputer/RedPajama-Data?style=social) - Clean, reproducible Llama training data mix.
-- **[OSWorld](https://github.com/OSWorld/OSWorld)** ![GitHub stars](https://img.shields.io/github/stars/OSWorld/OSWorld?style=social) - Multimodal agent benchmark dataset.
+- **[OSWorld](https://github.com/xlang-ai/OSWorld)** ![GitHub stars](https://img.shields.io/github/stars/xlang-ai/OSWorld?style=social) - Multimodal agent benchmark dataset.
 
 ---
 
@@ -475,14 +476,13 @@
 
 - **[Hugging Face Discussions](https://discuss.huggingface.co)** - Largest open AI forum.
 - **[r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA)** - Go-to subreddit for local/open-source LLM topics.
-- **[Open Source AI Weekly](https://buttondown.com/opensourceai)** & **[Latent Space](https://www.latent.space)** - Top newsletters.
 
 #### Courses & Interactive Playgrounds
 
 - **[Hugging Face Course](https://huggingface.co/learn)** - Free hands-on courses using only open models.
 - **[Fast.ai](https://github.com/fastai/fastai)** ![GitHub stars](https://img.shields.io/github/stars/fastai/fastai?style=social) - Legendary practical deep learning course.
 - **[LangChain Academy](https://academy.langchain.com)** - Free courses on agents and RAG.
-- **[ComfyUI Examples & Workflows](https://github.com/Comfy-Org/ComfyUI_examples)** ![GitHub stars](https://img.shields.io/github/stars/Comfy-Org/ComfyUI_examples?style=social) - Massive collection of generative media workflows.
+- **[ComfyUI Examples & Workflows](https://github.com/Comfy-Org/example_workflows)** ![GitHub stars](https://img.shields.io/github/stars/Comfy-Org/example_workflows?style=social) - Massive collection of generative media workflows.
 
 ---
 

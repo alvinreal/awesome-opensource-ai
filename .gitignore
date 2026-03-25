@@ -2,3 +2,4 @@ data.txt
 .ruff_cache
 scripts
 local
+opencode.json
