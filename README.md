@@ -40,7 +40,7 @@
 
 ### 🧬 1. Core Frameworks & Libraries
 
-> Foundational building blocks for AI/ML development. Everything from low-level tensors to high-level training utilities. Strictly OSI-approved, actively maintained, high-quality only.
+> Core libraries and frameworks used to build, train, and run AI and machine learning systems.
 
 #### Deep Learning Frameworks
 
@@ -83,7 +83,7 @@
 
 ### 🧠 2. Open Foundation Models
 
-> Pre-trained base and instruction-tuned models with publicly released weights. The beating heart of the open-source AI revolution.
+> Pretrained language, multimodal, speech, and video models with publicly available weights.
 
 #### Large Language Models (Base + Chat)
 
@@ -127,7 +127,7 @@
 
 ### ⚡ 3. Inference Engines & Serving
 
-> High-performance runtimes and servers for running open models locally, on-device, or at scale.
+> Inference runtimes, serving systems, and optimization tools for running models locally or in production.
 
 #### Local / On-device Inference
 
@@ -159,7 +159,7 @@
 
 ### 🤖 4. Agentic AI & Multi-Agent Systems
 
-> Frameworks and tools for building autonomous, goal-oriented AI agents.
+> Frameworks and platforms for building agent-based systems and multi-agent workflows.
 
 #### Single-Agent Frameworks
 
@@ -193,7 +193,7 @@
 
 ### 🔍 5. Retrieval-Augmented Generation (RAG) & Knowledge
 
-> Tools that connect LLMs to your private data through vector search and advanced retrieval.
+> Retrieval systems, vector databases, embedding models, and related tooling for RAG pipelines.
 
 #### Vector Databases & Search Engines
 
@@ -223,12 +223,12 @@
 
 ### 🎨 6. Generative Media Tools
 
-> Open-source tools for creating, editing, and enhancing images, video, audio, and 3D content.
+> Open-source models and applications for image, video, audio, and 3D generation and editing.
 
 #### Image Generation & Editing
 
 - **[ComfyUI](https://github.com/Comfy-Org/ComfyUI)** ![GitHub stars](https://img.shields.io/github/stars/Comfy-Org/ComfyUI?style=social) - Node-based visual workflow editor for Stable Diffusion, FLUX, etc.
-- **[Stable Diffusion WebUI (A1111)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** ![GitHub stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social) - The original all-in-one UI with massive extension ecosystem.
+- **[Stable Diffusion WebUI Forge - Neo](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo)** ![GitHub stars](https://img.shields.io/github/stars/Haoming02/sd-webui-forge-classic?style=social) - Actively maintained Forge-based Stable Diffusion web UI with the familiar extension-driven workflow.
 - **[Fooocus](https://github.com/lllyasviel/Fooocus)** ![GitHub stars](https://img.shields.io/github/stars/lllyasviel/Fooocus?style=social) - Midjourney-style UI with beautiful out-of-the-box results.
 - **[FLUX.1 / FLUX.2 (Black Forest Labs)](https://github.com/black-forest-labs/flux)** ![GitHub stars](https://img.shields.io/github/stars/black-forest-labs/flux?style=social) - State-of-the-art open text-to-image model family.
 - **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** ![GitHub stars](https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=social) - Full-featured creative studio.
@@ -246,6 +246,7 @@
 #### Audio / Music / Voice Generation
 
 - **[AudioCraft / MusicGen (Meta)](https://github.com/facebookresearch/audiocraft)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social) - Controllable text-to-music and audio models.
+- **[ACE-Step 1.5](https://github.com/ace-step/ACE-Step-1.5)** ![GitHub stars](https://img.shields.io/github/stars/ace-step/ACE-Step-1.5?style=social) - Local-first music generation model with broad hardware support across Mac, AMD, Intel, and CUDA devices.
 - **[Fish Speech](https://github.com/fishaudio/fish-speech)** ![GitHub stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=social) - Zero-shot TTS and voice cloning.
 - **[CosyVoice 2](https://github.com/FunAudioLLM/CosyVoice)** ![GitHub stars](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=social) - Natural multilingual TTS with emotional control.
 - **[StyleTTS 2](https://github.com/yl4579/StyleTTS2)** ![GitHub stars](https://img.shields.io/github/stars/yl4579/StyleTTS2?style=social) - Expressive zero-shot TTS.
@@ -264,7 +265,7 @@
 
 ### 🛠️ 7. Training & Fine-tuning Ecosystem
 
-> Complete toolkit for training models from scratch, efficient fine-tuning, synthetic data, and distributed scaling.
+> Tools for model training, fine-tuning, synthetic data generation, and distributed training.
 
 #### Full Training Frameworks
 
@@ -297,7 +298,7 @@
 
 ### 📊 8. MLOps / LLMOps & Production
 
-> Tools for experiment tracking, deployment, monitoring, evaluation, and safety in production.
+> Tooling for tracking, deploying, monitoring, and operating AI systems in production.
 
 #### Experiment Tracking & Versioning
 
@@ -332,7 +333,7 @@
 
 ### 📈 9. Evaluation, Benchmarks & Datasets
 
-> Standardized ways to measure performance and access high-quality open datasets.
+> Benchmarks, evaluation frameworks, datasets, and supporting tools for model assessment.
 
 #### Benchmark Suites
 
@@ -359,7 +360,7 @@
 
 ### 🛡️ 10. AI Safety, Alignment & Interpretability
 
-> Tools for making AI systems safer, more aligned, interpretable, and robust.
+> Tools for alignment, interpretability, safety evaluation, and adversarial testing.
 
 #### Alignment & RLHF Tools
 
