@@ -101,7 +101,7 @@
 
 #### Large Language Models (Base + Chat)
 
-- **[Qwen3.5 (Alibaba)](https://github.com/QwenLM/Qwen)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen?style=social) - State-of-the-art open series spanning from small to frontier-scale models, consistently strong in coding, math, and instruction following.
+- **[Qwen3.5 (Alibaba)](https://github.com/QwenLM/Qwen)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen?style=social) - Native multimodal open series spanning from small to frontier-scale models (0.8B–122B). Released Feb 2026 with 397B total MoE params (17B active), strong in coding, math, vision, and instruction following.
 - **[DeepSeek-V3.2 / R1 (DeepSeek)](https://github.com/deepseek-ai/DeepSeek-V3)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social) - Mixture-of-Experts family with exceptional reasoning, math, and efficient large-scale inference.
 - **[Gemma 3 (Google)](https://github.com/google-deepmind/gemma)** ![GitHub stars](https://img.shields.io/github/stars/google-deepmind/gemma?style=social) - Lightweight yet powerful open models with excellent efficiency for on-device use. Strong multilingual support across 100+ languages.
 - **[Mistral Large / Nemo / Small](https://github.com/mistralai)** - High-performance model family with strong multilingual capability, tool use, and efficient deployment profiles.
@@ -153,6 +153,7 @@
 - **[MLC-LLM](https://github.com/mlc-ai/mlc-llm)** ![GitHub stars](https://img.shields.io/github/stars/mlc-ai/mlc-llm?style=social) - Deployment engine that compiles and runs LLMs across browsers, mobile devices, and local hardware.
 - **[llama-cpp-python](https://github.com/abetlen/llama-cpp-python)** ![GitHub stars](https://img.shields.io/github/stars/abetlen/llama-cpp-python?style=social) - Official Python bindings for llama.cpp.
 - **[KoboldCpp](https://github.com/LostRuins/koboldcpp)** ![GitHub stars](https://img.shields.io/github/stars/LostRuins/koboldcpp?style=social) - User-friendly llama.cpp fork focused on role-playing and creative writing.
+- **[Potato OS](https://github.com/slomin/potato-os)** ![GitHub stars](https://img.shields.io/github/stars/slomin/potato-os?style=social) - Linux distribution for fully local AI inference on Raspberry Pi 5 and 4. Optimized for running open models at the edge.
 
 #### High-performance Serving & API Servers
 
@@ -204,6 +205,8 @@
 - **[OpenCode](https://github.com/anomalyco/opencode)** ![GitHub stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social) - Terminal-native autonomous coding agent.
 - **[Aider](https://github.com/paul-gauthier/aider)** ![GitHub stars](https://img.shields.io/github/stars/paul-gauthier/aider?style=social) - Command-line pair-programming agent.
 - **[Pi (badlogic)](https://github.com/badlogic/pi-mono)** ![GitHub stars](https://img.shields.io/github/stars/badlogic/pi-mono?style=social) - Terminal coding agent with hash-anchored edits, LSP integration, subagents, MCP support, and package ecosystem.
+- **[Mistral-Vibe (Mistral)](https://github.com/mistralai/mistral-vibe)** ![GitHub stars](https://img.shields.io/github/stars/mistralai/mistral-vibe?style=social) - Minimal CLI coding agent by Mistral. Lightweight, fast, and designed for local development workflows.
+- **[Nanocoder (Nano-Collective)](https://github.com/Nano-Collective/nanocoder)** ![GitHub stars](https://img.shields.io/github/stars/Nano-Collective/nanocoder?style=social) - Beautiful local-first coding agent running in your terminal. Built for privacy and control with support for multiple AI providers via OpenRouter.
 
 #### Domain-Specific Agents
 
