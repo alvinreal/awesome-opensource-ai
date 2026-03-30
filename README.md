@@ -205,6 +205,7 @@
 
 #### Autonomous Coding Agents
 
+- **[Autohand Code CLI](https://github.com/autohandai/code-cli)** ![GitHub stars](https://img.shields.io/github/stars/autohandai/code-cli?style=social) - Autonomous LLM-powered coding agent that lives in your terminal. Uses the ReAct pattern to understand your codebase, plan changes, and execute them with your approval.
 - **[OpenHands (ex-OpenDevin)](https://github.com/All-Hands-AI/OpenHands)** ![GitHub stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social) - Full-featured open-source AI software engineer.
 - **[Goose](https://github.com/block/goose)** ![GitHub stars](https://img.shields.io/github/stars/block/goose?style=social) - Extensible on-machine AI agent for development tasks.
 - **[OpenCode](https://github.com/anomalyco/opencode)** ![GitHub stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social) - Terminal-native autonomous coding agent.
