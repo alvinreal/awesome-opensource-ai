@@ -512,7 +512,6 @@
 - **[HuggingChat (self-hosted)](https://github.com/huggingface/chat-ui)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/chat-ui?style=social) - Official open-source codebase for HuggingChat.
 - **[Khoj](https://github.com/khoj-ai/khoj)** ![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social) - Self-hostable personal AI assistant for search, chat, automation, and workflows over local and web data.
 - **[Newelle](https://github.com/qwersyk/Newelle)** ![GitHub stars](https://img.shields.io/github/stars/qwersyk/Newelle?style=social) - GNOME/Linux desktop virtual assistant with integrated file editor, global hotkeys, and profile manager.
-- **[Assistant UI](https://github.com/assistant-ui/assistant-ui)** ![GitHub stars](https://img.shields.io/github/stars/assistant-ui/assistant-ui?style=social) - open source TypeScript/React library to build production-grade AI chat experiences fast.
 
 #### Full Self-hosted AI Platforms
 
@@ -546,6 +545,10 @@
 - **[CodeCompanion.nvim](https://github.com/olimorris/codecompanion.nvim)** ![GitHub stars](https://img.shields.io/github/stars/olimorris/codecompanion.nvim?style=social) - AI-powered coding assistant for Neovim. Inline code generation, chat, actions, and tool use with support for multiple LLM providers.
 - **[Continue VS Code / JetBrains](https://github.com/continuedev/continue)** ![GitHub stars](https://img.shields.io/github/stars/continuedev/continue?style=social) - Most installed open-source AI extension.
 - **[Jupyter AI](https://github.com/jupyterlab/jupyter-ai)** ![GitHub stars](https://img.shields.io/github/stars/jupyterlab/jupyter-ai?style=social) - Chat and code generation inside notebooks.
+
+#### UI Components & Chat Libraries
+
+- **[Assistant UI](https://github.com/assistant-ui/assistant-ui)** ![GitHub stars](https://img.shields.io/github/stars/assistant-ui/assistant-ui?style=social) - React/TypeScript library for building production-grade AI chat interfaces. Drop-in components for streaming messages, tool calls, and multi-modal inputs.
 
 #### Testing & Debugging Tools
 
