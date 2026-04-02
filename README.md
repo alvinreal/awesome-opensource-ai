@@ -553,6 +553,7 @@
 - **[CodeCompanion.nvim](https://github.com/olimorris/codecompanion.nvim)** ![GitHub stars](https://img.shields.io/github/stars/olimorris/codecompanion.nvim?style=social) - AI-powered coding assistant for Neovim. Inline code generation, chat, actions, and tool use with support for multiple LLM providers.
 - **[Continue VS Code / JetBrains](https://github.com/continuedev/continue)** ![GitHub stars](https://img.shields.io/github/stars/continuedev/continue?style=social) - Most installed open-source AI extension.
 - **[Jupyter AI](https://github.com/jupyterlab/jupyter-ai)** ![GitHub stars](https://img.shields.io/github/stars/jupyterlab/jupyter-ai?style=social) - Chat and code generation inside notebooks.
+- [skill-taxonomy](https://github.com/SeeleAI/skill-taxonomy) - Structured taxonomy for AI agent skills: discovery, classification and routing across multi-agent workflows.
 
 #### UI Components & Chat Libraries
 
