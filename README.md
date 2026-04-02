@@ -241,6 +241,8 @@
 - **[OWL (camel-ai/owl)](https://github.com/camel-ai/owl)** ![GitHub stars](https://img.shields.io/github/stars/camel-ai/owl?style=social) - Advanced multi-agent collaboration system.
 - **[SuperAGI](https://github.com/TransformerOptimus/SuperAGI)** ![GitHub stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social) - Dev-first autonomous AI agent platform.
 - **[AI-Scientist-v2 (SakanaAI)](https://github.com/SakanaAI/AI-Scientist-v2)** ![GitHub stars](https://img.shields.io/github/stars/SakanaAI/AI-Scientist-v2?style=social) - Workshop-level automated scientific discovery via agentic tree search. Generates novel research ideas, runs experiments, and writes papers.
+- **[Dograh](https://github.com/dograh-hq/dograh)** ![GitHub stars](https://img.shields.io/github/stars/dograh-hq/dograh) - Voice AI platform for building conversational agents with telephony, outbound campaigns, and real-time           
+  STT/LLM/TTS orchestration.
 
 #### Agent Memory & State
 
