@@ -225,6 +225,7 @@
 - **[Deer-Flow (ByteDance)](https://github.com/bytedance/deer-flow)** ![GitHub stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=social) - Open-source long-horizon SuperAgent harness that researches, codes, and creates. Handles tasks from minutes to hours with sandboxes, memories, tools, skills, subagents, and message gateway.
 
 #### Autonomous Coding Agents
+- **[A.S.K (Agent Skills Kernel)](https://github.com/srmbsrg/ask-kernel)** ![GitHub stars](https://img.shields.io/github/stars/srmbsrg/ask-kernel?style=social) - Versioned, composable skill library for AI agents. Think .dll files for AI — import pre-built, tested capabilities like memory, scheduling, reasoning, I/O. MIT licensed, framework-agnostic.
 
 - **[OpenHands (ex-OpenDevin)](https://github.com/All-Hands-AI/OpenHands)** ![GitHub stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social) - Full-featured open-source AI software engineer.
 - **[Goose](https://github.com/block/goose)** ![GitHub stars](https://img.shields.io/github/stars/block/goose?style=social) - Extensible on-machine AI agent for development tasks.
