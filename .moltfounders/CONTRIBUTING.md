@@ -10,19 +10,18 @@ This is not a directory of every open-source AI project. We curate tools that ha
 
 ### Elite Tier Criteria (Must Meet ALL)
 
-Projects must satisfy **ALL of the following 5 criteria** to be considered elite-tier. No exceptions except under maintainer discretion for truly exceptional cases.
+Projects must satisfy **ALL of the following criteria** to be considered elite-tier. No exceptions except under maintainer discretion for truly exceptional cases.
 
 | Criterion | Threshold | Why It Matters |
 |-----------|-----------|----------------|
 | **⭐ GitHub Stars** | 1000+ | Indicates broad community adoption and trust |
-| **📅 Project Age** | 12+ months old | Survived hype cycles, proven staying power |
 | **🔄 Active Development** | Meaningful commits within last 30 days | Continuously evolving, not abandoned |
 | **🏭 Production Usage** | Evidence of real-world deployment | Case studies, integrations, production issues/PRs |
 | **📚 Quality Standards** | Proper docs, tests, releases | Not a thrown-together experiment |
 
 ### No Exceptions Except Maintainer Discretion
 
-Meeting 4/5 is **not acceptable**. Projects must meet all 5 criteria. The only path for projects falling short:
+Meeting 3/4 is **not acceptable**. Projects must meet all criteria. The only path for projects falling short:
 
 - **Maintainer Override** — Reserved for truly exceptional cases with extraordinary production traction or major organizational backing
 
@@ -55,7 +54,7 @@ Meeting 4/5 is **not acceptable**. Projects must meet all 5 criteria. The only p
 
 ### Before Submitting
 
-1. **Verify your project meets ALL 5 elite criteria** — if not, don't submit here
+1. **Verify your project meets ALL elite criteria** — if not, don't submit here (the Emerging & Innovations list is coming soon for newer projects!)
 2. **Check for duplicates** — search the README first
 3. **Ensure correct categorization** — place in the most specific section
 4. **Write a factual description** — one sentence, no fluff
@@ -79,11 +78,10 @@ Your PR must include:
 ```markdown
 ## Project: [Name]
 
-### Elite Criteria Checklist (4/5 Required)
+### Elite Criteria Checklist (ALL Required)
 
-- [ ] **Elite Criteria:** ALL 5 met
+- [ ] **Elite Criteria:** ALL criteria met
   - ⭐ Stars: [count] (threshold: 1000+)
-  - 📅 Age: [months] (threshold: 12+)
   - 🔄 Active: [last commit date] (within 30 days)
   - 🏭 Production: [evidence link] (case study/integration)
   - 📚 Quality: [docs link] (tests/releases)
@@ -92,7 +90,7 @@ Your PR must include:
 <!-- Links to case studies, integrations, or production usage -->
 
 ### Why This Belongs in Elite Tier
-<!-- Explain which 4+ criteria you meet and why the project is battle-tested -->
+<!-- Explain which criteria you meet and why the project is battle-tested -->
 
 ### Category
 <!-- Which section this belongs in -->
@@ -167,7 +165,7 @@ The maintainer reserves final judgment on all submissions, including:
 - **Removing** existing entries if quality degrades or project becomes abandoned
 - **Elevating** tools from emerging to elite tier as they mature
 
-**Remember:** Meeting ALL 5 criteria guarantees consideration, not acceptance. This list is about trust and proven value. Maintainer override is reserved for truly exceptional cases only.
+**Remember:** Meeting ALL criteria guarantees consideration, not acceptance. This list is about trust and proven value. Maintainer override is reserved for truly exceptional cases only.
 
 ---
 
@@ -175,13 +173,14 @@ The maintainer reserves final judgment on all submissions, including:
 
 Have a promising project that doesn't meet elite criteria yet?
 
-We maintain a separate **Emerging AI Tools** list for:
+We maintain a separate **Emerging & Innovations** list for:
 - Innovative concepts with <1000 stars
 - Early-stage projects with strong potential
 - Experimental research implementations
 - Niche tools solving specific problems
+- **Newer repos that haven't been around long but show promise**
 
-**Coming Soon:** Separate repository and submission process for emerging tools.
+**Coming Soon:** Separate repository and submission process for emerging tools — everyone will get their chance to showcase!
 
 ---
 
