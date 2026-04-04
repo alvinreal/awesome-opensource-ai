@@ -312,11 +312,16 @@
 - **[Docling](https://github.com/docling-project/docling)** ![GitHub stars](https://img.shields.io/github/stars/docling-project/docling?style=social) - Document processing toolkit for turning PDFs and other files into structured data for GenAI workflows.
 - **[Unstructured](https://github.com/Unstructured-IO/unstructured)** ![GitHub stars](https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social) - Best-in-class document preprocessing.
 - **[ColPali / ColQwen](https://github.com/illuin-tech/colpali)** ![GitHub stars](https://img.shields.io/github/stars/illuin-tech/colpali?style=social) - Vision-language models for document retrieval.
+- **[LightRAG](https://github.com/HKUDS/LightRAG)** ![GitHub stars](https://img.shields.io/github/stars/HKUDS/LightRAG?style=social) - Graph-based RAG with dual-level retrieval system. Simple and fast with comprehensive knowledge discovery (EMNLP 2025).
+- **[RAG-Anything](https://github.com/HKUDS/RAG-Anything)** ![GitHub stars](https://img.shields.io/github/stars/HKUDS/RAG-Anything?style=social) - All-in-One Multimodal RAG system for seamless processing of text, images, tables, and equations. Built on LightRAG.
+- **[txtai](https://github.com/neuml/txtai)** ![GitHub stars](https://img.shields.io/github/stars/neuml/txtai?style=social) - All-in-one AI framework for semantic search, LLM orchestration and language model workflows. Embeddings database with customizable pipelines.
+- **[Infinity](https://github.com/michaelfeil/infinity)** ![GitHub stars](https://img.shields.io/github/stars/michaelfeil/infinity?style=social) - High-throughput, low-latency serving engine for text-embeddings, reranking, CLIP, and ColPali. OpenAI-compatible API.
 
 #### Web Data Ingestion
 
 - **[Crawl4AI](https://github.com/unclecode/crawl4ai)** ![GitHub stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social) - LLM-friendly web crawler that turns websites into clean Markdown for RAG and agentic workflows.
 - **[Lightpanda](https://github.com/lightpanda-io/browser)** ![GitHub stars](https://img.shields.io/github/stars/lightpanda-io/browser?style=social) - Machine-first headless browser in Zig; rendering-free and ultra-lightweight for AI agent browsing.
+- **[Paperless-AI](https://github.com/clusterzx/paperless-ai)** ![GitHub stars](https://img.shields.io/github/stars/clusterzx/paperless-ai?style=social) - Automated document analyzer for Paperless-ngx with RAG-powered semantic search across your document archive.
 
 ---
 
