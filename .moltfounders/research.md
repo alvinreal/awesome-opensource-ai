@@ -2,25 +2,28 @@
 
 ## Purpose
 
-Aggressively fill the awesome-opensource-ai list by cycling through all 14 categories with deep research. Runs hourly to maximize discovery speed while the repo is new.
+Aggressively fill the **elite-tier** awesome-opensource-ai list by cycling through all 14 categories with deep research. Runs hourly to maximize discovery speed while the repo is new.
+
+**IMPORTANT:** This research loop targets ONLY the **Elite Tier (README.md)**. Projects that don't meet elite criteria (1000+ stars, production usage) are NOT included here — those belong in EMERGING.md which is populated separately through community submissions, not automated research.
 
 ## Frequency
 
-Run **hourly** at Europe/Amsterdam timezone. Each run targets ONE specific category, rotating through the 14-category cycle.
+Run **hourly at :15 past the hour** (cron: `15 * * * *`). Each run targets ONE specific category, rotating through the 14-category cycle.
 
 ## State Tracking
 
-**CRITICAL: Read and update `research-state.json` every run.**
+**CRITICAL: Read and update `~/.openclaw/workspace-max/cron/states/awesome-opensource-ai/research.json` every run.**
 
 The state file tracks:
 - `currentCycle` — array of 14 categories with research timestamps
-- `lastCategoryIndex` — which category was last researched
-- `lastRunTime` — when research last ran
+- `lastCategoryIndex` — which category was last researched (null = start at 0)
+- `lastRunTime` — when research last ran (null = first run)
 - `minHoursBetweenRuns` — minimum hours before same category (set to 1 for hourly)
+- `maxEntriesPerRun` — max 5 entries per category per run
 
 ### Rotation Logic (Follow Exactly)
 
-1. **Read `research-state.json`** at start of every run
+1. **Read state file** at start of every run
 2. **Check `lastRunTime`**: If less than 1 hour ago → skip this run, post "Research on cooldown, next run in X min"
 3. **Find next category**: 
    - If `lastCategoryIndex` is null → start at index 0
@@ -30,7 +33,7 @@ The state file tracks:
    - Set `lastCategoryIndex` to the category just researched
    - Set `lastRunTime` to current ISO timestamp
    - Set `currentCycle[index].lastResearched` to current ISO timestamp
-6. **Write updated `research-state.json`**
+6. **Write updated state file**
 
 ### Category Cycle (14 categories, hourly rotation)
 
@@ -170,34 +173,31 @@ For rapidly evolving projects (foundation models, frameworks with numbered relea
 
 **Remember:** This is "what you should know about now" — not a version archive.
 
-## Qualification Criteria
+## Qualification Criteria (ELITE TIER ONLY)
 
-### Elite Tier (README.md)
-All discovered projects must meet the **elite tier criteria** defined in [CONTRIBUTING.md](../CONTRIBUTING.md#elite-tier-criteria-must-meet-all):
+**DO NOT include projects below these thresholds.** This research loop targets ONLY the Elite Tier (README.md).
 
-- ⭐ **1000+ GitHub stars**
-- 🔄 **Active development** (meaningful commits within last 30 days)
-- 🏭 **Production usage evidence** (case studies, integrations, production issues/PRs)
-- 📚 **Quality standards** (proper docs, tests, releases)
-- ✅ **OSI-approved license**
-- ❌ **Not already in the list**
-- 📂 **Fits the target category**
+| Criterion | Threshold | Notes |
+|-----------|-----------|-------|
+| ⭐ **GitHub Stars** | **1000+** | Hard minimum, no exceptions |
+| 🔄 **Active Development** | Meaningful commits within last **30 days** | Continuously evolving |
+| 🏭 **Production Usage** | Evidence of real-world deployment | Case studies, integrations, production issues/PRs |
+| 📚 **Quality Standards** | Proper docs, tests, releases | Professional grade |
+| ✅ **License** | **OSI-approved** | No custom/unknown licenses |
+| ❌ **Not Already Listed** | Search README.md first | Avoid duplicates |
 
-### Emerging Tier (EMERGING.md)
-Projects that show promise but fall below elite thresholds:
+### What About Projects with 100-999 Stars?
 
-- ⭐ **100+ GitHub stars** (or 50+ with exceptional backing)
-- 🔄 **Active development** (commits within last 60 days)
-- 📝 **Clear innovation** (unique approach, not a "me too" project)
-- 📚 **Basic quality** (working code, basic docs)
-- ✅ **OSI-approved license**
-- ❌ **Not already in Elite or Emerging**
+**Skip them entirely.** These belong in EMERGING.md which is populated through:
+- Community submissions (not automated research)
+- Manual maintainer curation
+- Projects that naturally grow and get submitted
 
-**Dual-track approach:** During research, evaluate projects against both tiers. Projects that don't meet Elite criteria but show genuine innovation should be flagged for Emerging list.
+Your job: Find projects that are **already elite or clearly becoming elite** (1000+ stars, production traction).
 
 ## Output: Single Category-Focused PR
 
-**One PR per day** targeting today's category only.
+**One PR per run** targeting today's category only.
 
 Format:
 ```
@@ -208,7 +208,7 @@ PR body template:
 ```markdown
 ## Category: {Category}
 
-Adding {N} qualifying projects discovered through targeted research.
+Adding {N} elite-tier projects discovered through targeted research.
 
 | Project | Stars | License | Why It Fits |
 |---------|-------|---------|-------------|
@@ -221,16 +221,16 @@ Adding {N} qualifying projects discovered through targeted research.
 
 ### Verification
 All projects checked for:
+- [x] 1000+ stars
+- [x] Active development (30 days)
 - [x] OSI-approved license
-- [x] Active development
-- [x] >500 stars or notable backing
 - [x] Not already in README
 - [x] Fits {Category} section
 ```
 
 ## Limits
 
-- Max **5 entries per category per day**
+- Max **5 entries per category per run**
 - If <3 qualifying projects found, still open PR with what you found
 - If 0 qualifying projects found, skip opening PR (post checkin noting "no qualifying projects found for {Category} today")
 
@@ -239,8 +239,15 @@ All projects checked for:
 - **Project overlaps multiple categories:** Pick the best fit, note overlap in PR body
 - **Category already has 50+ entries:** Be more selective (focus on newest/highest quality)
 - **Duplicate found during research:** Note it in PR body, pick the better one
-- **Stars <500 but clearly significant:** Include with justification (e.g., "just launched, backed by Anthropic")
+- **Stars <1000 but clearly significant:** **SKIP** — these go in EMERGING.md via community submission
+- **Exceptional backing (OpenAI, Google, etc.) with <1000 stars:** **SKIP** — unless it's a major release that will hit 1000 stars within days
 
 ## Remember
 
-This is a **14-day cycle**. By April 17, every category should have been deeply researched once. Then we cycle again with fresh eyes and new projects that emerged.
+This is a **14-day cycle** for elite-tier discovery. By April 18, every category should have been deeply researched once. Then we cycle again with fresh eyes.
+
+**Key distinction:**
+- **README.md (Elite):** Automated research finds 1000+ star, production-proven tools
+- **EMERGING.md:** Community submissions bring 100-999 star promising projects
+
+Keep the tiers separate. Don't dilute elite quality with emerging projects.
