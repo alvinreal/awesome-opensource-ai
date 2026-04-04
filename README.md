@@ -155,6 +155,7 @@
 - **[LLaVA-OneVision](https://github.com/LLaVA-VL/LLaVA-NeXT)** ![GitHub stars](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT?style=social) - Successor to LLaVA 1.6 with expanded capabilities across vision-language tasks.
 - **[MiniCPM-V 2.6](https://github.com/OpenBMB/MiniCPM-V)** ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social) - Handles images up to 1.8M pixels with top-tier OCR performance. Excellent for on-device deployment.
 - **[Gemma 4 (Google)](https://github.com/google-deepmind/gemma)** ![GitHub stars](https://img.shields.io/github/stars/google-deepmind/gemma?style=social) - Multimodal model supporting vision-language input, optimized for efficiency, complex logic, and on-device use.
+- **[Kimi-VL (Moonshot AI)](https://github.com/MoonshotAI/Kimi-VL)** ![GitHub stars](https://img.shields.io/github/stars/MoonshotAI/Kimi-VL?style=social) - Efficient MoE vision-language model with only 2.8B activated parameters. Features 128K context window, strong OCR, and agent capabilities rivaling GPT-4o-mini.
 
 #### Speech & Audio Models (TTS, STT, Music)
 
@@ -163,6 +164,7 @@
 - **[Fish Speech / StyleTTS 2](https://github.com/fishaudio/fish-speech)** ![GitHub stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=social) - Zero-shot TTS with excellent voice cloning. Extremely popular in 2026.
 - **[MusicGen / AudioCraft (Meta)](https://github.com/facebookresearch/audiocraft)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social) - Open music and audio generation models.
 - **[VibeVoice (Microsoft)](https://github.com/microsoft/VibeVoice)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/VibeVoice?style=social) - Open-source frontier voice AI with expressive, longform conversational speech synthesis. 7B parameter TTS with streaming support.
+- **[Moshi (Kyutai Labs)](https://github.com/kyutai-labs/moshi)** ![GitHub stars](https://img.shields.io/github/stars/kyutai-labs/moshi?style=social) - Speech-text foundation model and full-duplex spoken dialogue framework with real-time streaming. Uses Mimi neural audio codec for state-of-the-art speech understanding and generation.
 
 #### Video & Animation Models
 
