@@ -150,6 +150,7 @@
 #### Multimodal Models (Vision + Language)
 
 - **[Qwen3-VL (Alibaba)](https://github.com/QwenLM/Qwen3-VL)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen3-VL?style=social) - Latest flagship VLM with native 256K context (expandable to 1M), visual agent capabilities, 3D grounding, and superior multimodal reasoning. Major leap over Qwen2.5-VL.
+- **[Qwen2.5-Omni (Alibaba)](https://github.com/QwenLM/Qwen2.5-Omni)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen2.5-Omni?style=social) - End-to-end multimodal model understanding text, images, audio, and video with real-time speech generation. Unified architecture for seamless cross-modal interaction.
 - **[InternVL3 (OpenGVLab)](https://github.com/OpenGVLab/InternVL)** ![GitHub stars](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social) - Native multimodal pretraining with mixed preference optimization (MPO). Superior perception and reasoning over InternVL 2.5, extends to GUI agents and 3D vision.
 - **[GLM-4.5V / GLM-4.1V-Thinking (Zhipu AI)](https://github.com/zai-org/GLM-V)** ![GitHub stars](https://img.shields.io/github/stars/zai-org/GLM-V?style=social) - Strong multimodal reasoning with scalable reinforcement learning. Compares favorably with Gemini-2.5-Flash on benchmarks.
 - **[LLaVA-OneVision](https://github.com/LLaVA-VL/LLaVA-NeXT)** ![GitHub stars](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT?style=social) - Successor to LLaVA 1.6 with expanded capabilities across vision-language tasks.
