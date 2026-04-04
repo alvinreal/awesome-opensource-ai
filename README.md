@@ -468,15 +468,20 @@
 
 - **[lm-evaluation-harness (EleutherAI)](https://github.com/EleutherAI/lm-evaluation-harness)** ![GitHub stars](https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness?style=social) - De-facto standard for generative model evaluation.
 - **[HELM (Stanford)](https://github.com/stanford-crfm/helm)** ![GitHub stars](https://img.shields.io/github/stars/stanford-crfm/helm?style=social) - Holistic Evaluation of Language Models.
+- **[BIG-bench](https://github.com/google/BIG-bench)** ![GitHub stars](https://img.shields.io/github/stars/google/BIG-bench?style=social) - Beyond the Imitation Game benchmark for measuring large language model capabilities across diverse tasks.
+- **[SWE-bench](https://github.com/SWE-bench/SWE-bench)** ![GitHub stars](https://img.shields.io/github/stars/SWE-bench/SWE-bench?style=social) - Evaluates LLMs on real-world GitHub issues from 15+ Python repositories.
 - **[GAIA](https://huggingface.co/datasets/gaia-benchmark/GAIA)** - Real-world multi-step agentic benchmark.
 - **[LiveCodeBench](https://github.com/livecodebench/livecodebench)** ![GitHub stars](https://img.shields.io/github/stars/livecodebench/livecodebench?style=social) - Contamination-free coding benchmark.
 - **[MMLU-Pro / GPQA](https://github.com/TIGER-AI-Lab/MMLU-Pro)** ![GitHub stars](https://img.shields.io/github/stars/TIGER-AI-Lab/MMLU-Pro?style=social) - Hardened expert-level benchmarks.
 - **[OpenCompass](https://github.com/open-compass/opencompass)** ![GitHub stars](https://img.shields.io/github/stars/open-compass/opencompass?style=social) - Evaluation platform for benchmarking language and multimodal models across large benchmark suites.
+- **[MLPerf Inference](https://github.com/mlcommons/inference)** ![GitHub stars](https://img.shields.io/github/stars/mlcommons/inference?style=social) - Industry-standard ML inference benchmarks with reference implementations for AI accelerators.
 - **[SWE-rebench (Nebius)](https://huggingface.co/datasets/nebius/SWE-rebench)** - Continuously updated benchmark with 21,000+ real-world SWE tasks for evaluating agentic LLMs. Decontaminated, mined from GitHub.
 
 #### Evaluation Frameworks
 
 - **[DeepEval](https://github.com/confident-ai/deepeval)** ![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social) - The "Pytest for LLMs".
+- **[Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai)** ![GitHub stars](https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai?style=social) - Framework for large language model evaluations from the UK AI Security Institute.
+- **[Simple Evals](https://github.com/openai/simple-evals)** ![GitHub stars](https://img.shields.io/github/stars/openai/simple-evals?style=social) - Lightweight framework for evaluating LLMs on standard benchmarks including MMLU and HumanEval.
 - **[RAGAs](https://github.com/explodinggradients/ragas)** ![GitHub stars](https://img.shields.io/github/stars/explodinggradients/ragas?style=social) - End-to-end RAG evaluation framework.
 - **[Lighteval](https://github.com/huggingface/lighteval)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/lighteval?style=social) - Evaluation toolkit for LLMs across multiple backends with reusable tasks, metrics, and result tracking.
 - **[Hugging Face Evaluate](https://github.com/huggingface/evaluate)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/evaluate?style=social) - Standardized evaluation metrics.
