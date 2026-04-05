@@ -2,7 +2,7 @@
 
 <img src="assets/osai.png" alt="Awesome Open Source AI" width="120" />
 
-# Awesome Open Source AI - *Elite Tier*
+# Awesome Open Source AI
 
 *A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list.*
 
