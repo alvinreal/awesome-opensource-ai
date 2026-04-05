@@ -86,6 +86,8 @@ This applies to existing entries as well as new submissions. The list is activel
 2. **Check for duplicates** - search the README and EMERGING lists first
 3. **Ensure correct categorization** - place in the most specific section
 4. **Write a factual description** - one sentence, no fluff
+5. **Run the validator locally before submitting** - `python3 tools/validate_awesome.py` (set `GITHUB_TOKEN` to check stars and last push dates)
+6. **Expect CI to enforce structure** - GitHub Actions runs `python3 tools/validate_awesome.py --skip-remote` on PRs, and full GitHub-backed validation on `main`
 
 ### PR Requirements
 
