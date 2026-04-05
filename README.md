@@ -674,6 +674,10 @@
 - **[Fast.ai](https://github.com/fastai/fastai)** ![GitHub stars](https://img.shields.io/github/stars/fastai/fastai?style=social) - Legendary practical deep learning course.
 - **[LangChain Academy](https://academy.langchain.com)** - Free courses on agents and RAG.
 - **[ComfyUI Examples & Workflows](https://github.com/Comfy-Org/example_workflows)** ![GitHub stars](https://img.shields.io/github/stars/Comfy-Org/example_workflows?style=social) - Massive collection of generative media workflows.
+- **[LLM Course (Maxime Labonne)](https://github.com/mlabonne/llm-course)** ![GitHub stars](https://img.shields.io/github/stars/mlabonne/llm-course?style=social) - Comprehensive course to get into Large Language Models with roadmaps and Colab notebooks. Apache-2.0 licensed.
+- **[Made With ML (Goku Mohandas)](https://github.com/GokuMohandas/Made-With-ML)** ![GitHub stars](https://img.shields.io/github/stars/GokuMohandas/Made-With-ML?style=social) - Learn how to develop, deploy and iterate on production-grade ML applications. End-to-end MLOps course.
+- **[LLM Engineering (Ed Donner)](https://github.com/ed-donner/llm_engineering)** ![GitHub stars](https://img.shields.io/github/stars/ed-donner/llm_engineering?style=social) - Mastering LLM engineering course with hands-on examples and practical implementations.
+- **[Large Language Model Notebooks Course (Pere Martra)](https://github.com/peremartra/Large-Language-Model-Notebooks-Course)** ![GitHub stars](https://img.shields.io/github/stars/peremartra/Large-Language-Model-Notebooks-Course?style=social) - Practical course about Large Language Models with notebooks and examples.
 
 #### Starter Projects & Examples
 
@@ -681,6 +685,10 @@
 - **[TensorFlow Tutorials](https://github.com/tensorflow/docs/tree/master/site/en/tutorials)** - Official guides for beginners to advanced users.
 - **[Hugging Face Transformers Notebooks](https://github.com/huggingface/notebooks)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/notebooks?style=social) - Run Transformers, Datasets, and more in Colab.
 - **[Deep Learning Examples (NVIDIA)](https://github.com/NVIDIA/DeepLearningExamples)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/DeepLearningExamples?style=social) - Production-quality reference implementations.
+
+#### Datasets & Training Resources
+
+- **[Awesome LLMs Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets)** ![GitHub stars](https://img.shields.io/github/stars/lmmlzn/Awesome-LLMs-Datasets?style=social) - Comprehensive summary of existing representative LLMs text datasets for training and fine-tuning. Apache-2.0 licensed.
 
 ---
 
