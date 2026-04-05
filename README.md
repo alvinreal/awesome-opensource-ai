@@ -161,7 +161,7 @@
 - **[VibeVoice (Microsoft)](https://github.com/microsoft/VibeVoice)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/VibeVoice?style=social) - Open-source frontier voice AI with expressive, longform conversational speech synthesis. 7B parameter TTS with streaming support.
 - **[Chatterbox (Resemble AI)](https://github.com/resemble-ai/chatterbox)** ![GitHub stars](https://img.shields.io/github/stars/resemble-ai/chatterbox?style=social) - State-of-the-art open TTS family with 350M parameter Turbo variant. Single-step generation with native paralinguistic tags for realistic dialogue.
 - **[Dia (Nari Labs)](https://github.com/nari-labs/dia)** ![GitHub stars](https://img.shields.io/github/stars/nari-labs/dia?style=social) - 1.6B parameter TTS generating ultra-realistic dialogue in one pass with nonverbal communications (laughter, coughing). Emotion and tone control via audio conditioning.
-- **[Step-Audio (StepFun)](https://github.com/stepfun-ai/Step-Audio)** - 130B-parameter production-ready audio LLM for intelligent speech interaction. Supports multilingual conversations (Chinese, English, Japanese), emotional tones, regional dialects (Cantonese, Sichuanese), adjustable speech rates, and prosodic styles including rap. Apache 2.0 licensed.
+- **[Step-Audio (StepFun)](https://github.com/stepfun-ai/Step-Audio)** ![GitHub stars](https://img.shields.io/github/stars/stepfun-ai/Step-Audio?style=social) - 130B-parameter production-ready audio LLM for intelligent speech interaction. Supports multilingual conversations (Chinese, English, Japanese), emotional tones, regional dialects (Cantonese, Sichuanese), adjustable speech rates, and prosodic styles including rap. Apache 2.0 licensed.
 - **[Voxtral TTS (Mistral)](https://github.com/mistralai/mistral-inference)** ![GitHub stars](https://img.shields.io/github/stars/mistralai/mistral-inference?style=social) - 4B parameter state-of-the-art TTS with zero-shot voice cloning, 9-language support, and ~90ms time-to-first-audio for voice agents.
 
 #### Video & Animation Models
@@ -189,7 +189,7 @@
 
 - **[llm-d](https://github.com/llm-d/llm-d)** ![GitHub stars](https://img.shields.io/github/stars/llm-d/llm-d?style=social) - Kubernetes-native distributed LLM inference framework. Donated to CNCF by RedHat, Google, and IBM. Intelligent scheduling, KV-cache optimization, and state-of-the-art performance across accelerators.
 - **[LMDeploy](https://github.com/InternLM/lmdeploy)** ![GitHub stars](https://img.shields.io/github/stars/InternLM/lmdeploy?style=social) - Toolkit for compressing, deploying, and serving LLMs from OpenMMLab. 4-bit inference with 2.4x higher performance than FP16, distributed multi-model serving across machines.
-- **[vLLM](https://github.com/vllm-project/vllm)**** ![GitHub stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social) - State-of-the-art serving engine with PagedAttention and continuous batching. Currently the fastest production-grade LLM server.
+- **[vLLM](https://github.com/vllm-project/vllm)** ![GitHub stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social) - State-of-the-art serving engine with PagedAttention and continuous batching. Currently the fastest production-grade LLM server.
 - **[SGLang](https://github.com/sgl-project/sglang)** ![GitHub stars](https://img.shields.io/github/stars/sgl-project/sglang?style=social) - Next-gen serving framework with RadixAttention. Powers xAI's production workloads at 100K+ GPUs scale.
 - **[TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=social) - NVIDIA's official high-performance inference backend.
 - **[Aphrodite Engine](https://github.com/PygmalionAI/aphrodite-engine)** ![GitHub stars](https://img.shields.io/github/stars/PygmalionAI/aphrodite-engine?style=social) - vLLM fork optimized for role-play and creative writing.
@@ -632,7 +632,7 @@
 
 #### Starter Projects & Examples
 
-- **[TensorFlow Tutorials](https://github.com/tensorflow/docs)** - Official guides for beginners to advanced users.
+- **[TensorFlow Tutorials](https://github.com/tensorflow/docs)** ![GitHub stars](https://img.shields.io/github/stars/tensorflow/docs?style=social) - Official guides for beginners to advanced users.
 - **[Hugging Face Transformers Notebooks](https://github.com/huggingface/notebooks)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/notebooks?style=social) - Run Transformers, Datasets, and more in Colab.
 
 ---

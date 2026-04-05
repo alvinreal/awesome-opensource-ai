@@ -1,0 +1,51 @@
+name: Validate awesome lists
+
+on:
+  pull_request:
+    paths:
+      - README.md
+      - EMERGING.md
+      - CONTRIBUTING.md
+      - tools/validate_awesome.py
+      - .github/workflows/validate-awesome.yml
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+      - EMERGING.md
+      - CONTRIBUTING.md
+      - tools/validate_awesome.py
+      - .github/workflows/validate-awesome.yml
+
+jobs:
+  validate-structure:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run structural validator
+        run: python3 tools/validate_awesome.py --skip-remote
+
+  validate-github-rules:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run GitHub-backed validation
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 tools/validate_awesome.py
