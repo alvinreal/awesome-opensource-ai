@@ -7,12 +7,12 @@
 *A showcase for **promising new projects** that haven't yet met our strict elite-tier criteria but deserve visibility and community support.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](../CONTRIBUTING.md)
-[![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-blue.svg?style=flat-square)](../LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
+[![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-blue.svg?style=flat-square)](./LICENSE)
 </div>
 <div align="center">
 
-**[ 🏆 Elite Tier ](../README.md)** • **[ Submission Guidelines ](../CONTRIBUTING.md)** • **[ License ](#license)**
+**[ 🏆 Elite Tier ](./README.md)** • **[ Submission Guidelines ](./CONTRIBUTING.md)** • **[ License ](#license)**
 
 </div>
 
@@ -41,7 +41,7 @@
 
 > New deep learning frameworks, data processing tools, and foundational libraries showing promise.
 
-*No entries yet — [submit one!](../CONTRIBUTING.md)*
+*No entries yet — [submit one!](./CONTRIBUTING.md)*
 
 ---
 
@@ -49,7 +49,7 @@
 
 > Recently released language, multimodal, speech, and video models with open weights.
 
-*No entries yet — [submit one!](../CONTRIBUTING.md)*
+*No entries yet — [submit one!](./CONTRIBUTING.md)*
 
 ---
 
@@ -57,7 +57,9 @@
 
 > Experimental inference runtimes, novel quantization methods, and edge deployment tools.
 
-*No entries yet — [submit one!](../CONTRIBUTING.md)*
+- **[Potato OS](https://github.com/slomin/potato-os)** ![GitHub stars](https://img.shields.io/github/stars/slomin/potato-os?style=social) - Linux distribution for fully local AI inference on Raspberry Pi 5 and 4. Optimized for running open models at the edge.
+- **[Open Model Engine (OME)](https://github.com/sgl-project/ome)** ![GitHub stars](https://img.shields.io/github/stars/sgl-project/ome?style=social) - Kubernetes operator for LLM serving. GPU scheduling, model lifecycle management. Works with vLLM, SGLang, TensorRT-LLM.
+- **[HQQ](https://github.com/mobiusml/hqq)** ![GitHub stars](https://img.shields.io/github/stars/mobiusml/hqq?style=social) - Half-Quadratic Quantization - ultra-fast method rising in 2026.
 
 ---
 
@@ -65,7 +67,7 @@
 
 > Fresh agent frameworks, memory systems, and autonomous workflow tools.
 
-*No entries yet — [submit one!](../CONTRIBUTING.md)*
+- **[Forgetful](https://github.com/ScottRBK/forgetful)** ![GitHub stars](https://img.shields.io/github/stars/ScottRBK/forgetful?style=social) - MCP server for persistent AI agent memory. Stores atomic single-concept notes and auto-links them into a knowledge graph via semantic similarity. SQLite or PostgreSQL.
 
 ---
 
@@ -73,7 +75,7 @@
 
 > New vector databases, embedding models, and document processing approaches.
 
-*No entries yet — [submit one!](../CONTRIBUTING.md)*
+- **[NornicDB](https://github.com/orneryd/NornicDB)** ![GitHub stars](https://img.shields.io/github/stars/orneryd/NornicDB?style=social) - Golang Low-latency graph + vector hybrid retrieval, Neo4j and qDrant driver compatible.
 
 ---
 
@@ -81,7 +83,7 @@
 
 > Emerging image, video, audio, and 3D generation models with novel techniques.
 
-*No entries yet — [submit one!](../CONTRIBUTING.md)*
+*No entries yet — [submit one!](./CONTRIBUTING.md)*
 
 ---
 
@@ -91,7 +93,7 @@
 
 > New training frameworks, synthetic data generators, and parameter-efficient methods.
 
-*No entries yet — [submit one!](../CONTRIBUTING.md)*
+*No entries yet — [submit one!](./CONTRIBUTING.md)*
 
 ---
 
@@ -99,7 +101,7 @@
 
 > Experimental observability tools, deployment patterns, and safety guardrails.
 
-*No entries yet — [submit one!](../CONTRIBUTING.md)*
+- **[Director-AI](https://github.com/anulum/director-ai)** ![GitHub stars](https://img.shields.io/github/stars/anulum/director-ai?style=social) - Real-time LLM hallucination guardrail with NLI + RAG fact-checking and token-level streaming halt.
 
 ---
 
@@ -107,7 +109,7 @@
 
 > New evaluation harnesses, specialized benchmarks, and high-quality datasets.
 
-*No entries yet — [submit one!](../CONTRIBUTING.md)*
+- **[MMLU-Pro / GPQA](https://github.com/TIGER-AI-Lab/MMLU-Pro)** ![GitHub stars](https://img.shields.io/github/stars/TIGER-AI-Lab/MMLU-Pro?style=social) - Hardened expert-level benchmarks.
 
 ---
 
@@ -117,7 +119,7 @@
 
 > Emerging tools for mechanistic interpretability, alignment training, and red-teaming.
 
-*No entries yet — [submit one!](../CONTRIBUTING.md)*
+- **[nnsight](https://github.com/ndif-team/nnsight)** ![GitHub stars](https://img.shields.io/github/stars/ndif-team/nnsight?style=social) - Scalable library for intervening on neural networks.
 
 ---
 
@@ -125,7 +127,7 @@
 
 > Domain-specific AI tools for computer vision, robotics, scientific computing, and more.
 
-*No entries yet — [submit one!](../CONTRIBUTING.md)*
+- **[JaxMARL](https://github.com/FLAIROx/JaxMARL)** ![GitHub stars](https://img.shields.io/github/stars/FLAIROx/JaxMARL?style=social) - Multi-Agent Reinforcement Learning with JAX. Accelerated environments and baselines.
 
 ---
 
@@ -135,7 +137,7 @@
 
 > New chat interfaces, desktop assistants, and self-hosted AI platforms.
 
-*No entries yet — [submit one!](../CONTRIBUTING.md)*
+*No entries yet — [submit one!](./CONTRIBUTING.md)*
 
 ---
 
@@ -143,7 +145,7 @@
 
 > Fresh IDE plugins, testing frameworks, and developer productivity tools.
 
-*No entries yet — [submit one!](../CONTRIBUTING.md)*
+*No entries yet — [submit one!](./CONTRIBUTING.md)*
 
 ---
 
@@ -151,7 +153,7 @@
 
 > New courses, communities, newsletters, and educational resources.
 
-*No entries yet — [submit one!](../CONTRIBUTING.md)*
+*No entries yet — [submit one!](./CONTRIBUTING.md)*
 
 ---
 
@@ -161,13 +163,13 @@ Projects can graduate from Emerging to Elite when they meet **all** elite-tier c
 
 | Criterion | Emerging Threshold | Elite Threshold |
 |-----------|-------------------|-----------------|
-| ⭐ Stars | 100+ | 1000+ |
-| 🔄 Active | Commits in 60 days | Commits in 30 days |
+| ⭐ Stars | <1000 | 1000+ |
+| 🔄 Active | Commits in 6 months | Commits in 6 months |
 | 🏭 Production | Early adopters, demos | Real deployments, case studies |
 | 📚 Quality | Basic docs, working code | Full docs, tests, releases |
 
 When a project graduates:
-1. It gets added to the [Elite Tier](../README.md) in the appropriate category
+1. It gets added to the [Elite Tier](./README.md) in the appropriate category
 2. It stays in Emerging for 30 days with a "🎓 Graduated" badge
 3. Then removed from Emerging to keep the list fresh
 
@@ -177,12 +179,12 @@ When a project graduates:
 
 This list has **intentionally lower barriers** than the Elite Tier, but we still curate for quality and potential.
 
-Please read the [CONTRIBUTING.md](../CONTRIBUTING.md#emerging--experimental-projects) for detailed guidelines.
+Please read the [CONTRIBUTING.md](./CONTRIBUTING.md#emerging--experimental-projects) for detailed guidelines.
 
 ### Quick Criteria Checklist
 
-- ⭐ 100+ GitHub stars (or 50+ with exceptional backing)
-- 🔄 Active development (commits in last 60 days)
+- ⭐ Fewer than 1000 GitHub stars
+- 🔄 Active development (latest push within 6 months)
 - 📝 Clear problem statement and unique approach
 - 📚 Basic documentation and working code
 - ✅ OSI-approved license

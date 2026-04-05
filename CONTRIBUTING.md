@@ -15,7 +15,7 @@ Projects must satisfy **ALL of the following criteria** to be considered elite-t
 | Criterion | Threshold | Why It Matters |
 |-----------|-----------|----------------|
 | **⭐ GitHub Stars** | 1000+ | Indicates broad community adoption and trust |
-| **🔄 Active Development** | Meaningful commits within last 30 days | Continuously evolving, not abandoned |
+| **🔄 Active Development** | Meaningful commits within last 6 months | Continuously evolving, not abandoned |
 | **🏭 Production Usage** | Evidence of real-world deployment | Case studies, integrations, production issues/PRs |
 | **📚 Quality Standards** | Proper docs, tests, releases | Not a thrown-together experiment |
 
@@ -44,6 +44,14 @@ When a newer version clearly supersedes an existing entry in the same category:
 **The test:** Would a practitioner looking at this list today care about *both* versions, or just the current one?
 
 For rapidly evolving families (foundation models, frameworks with numbered releases), always update the existing entry rather than appending. The list stays lean and relevant.
+
+### Maintenance Cleanup Rule
+
+- **Older than 6 months since latest push:** remove from the list completely
+- **Active within 6 months but below 1000 stars:** move to [EMERGING.md](EMERGING.md)
+- **Active within 6 months and 1000+ stars:** eligible to remain in the main README
+
+This applies to existing entries as well as new submissions. The list is actively pruned, not just appended to.
 
 ---
 
@@ -75,7 +83,7 @@ For rapidly evolving families (foundation models, frameworks with numbered relea
 ### Before Submitting
 
 1. **Verify your project meets ALL elite criteria** - if not, don't submit here (see the [Emerging & Innovations List →](EMERGING.md) for newer projects)
-2. **Check for duplicates** - search the README first
+2. **Check for duplicates** - search the README and EMERGING lists first
 3. **Ensure correct categorization** - place in the most specific section
 4. **Write a factual description** - one sentence, no fluff
 
@@ -102,7 +110,7 @@ Your PR must include:
 
 - [ ] **Elite Criteria:** ALL criteria met
   - ⭐ Stars: [count] (threshold: 1000+)
-  - 🔄 Active: [last commit date] (within 30 days)
+  - 🔄 Active: [last push date] (within 6 months)
   - 🏭 Production: [evidence link] (case study/integration)
   - 📚 Quality: [docs link] (tests/releases)
 
@@ -194,7 +202,7 @@ The maintainer reserves final judgment on all submissions, including:
 Have a promising project that doesn't meet elite criteria yet?
 
 We maintain the **[EMERGING.md](EMERGING.md)** list for:
-- Innovative concepts with **100+ stars** (or 50+ with exceptional backing)
+- Active projects with **fewer than 1000 stars**
 - Early-stage projects with strong potential
 - Experimental research implementations
 - Niche tools solving specific problems
@@ -204,8 +212,8 @@ We maintain the **[EMERGING.md](EMERGING.md)** list for:
 
 | Criterion | Threshold | Why It Matters |
 |-----------|-----------|----------------|
-| **⭐ GitHub Stars** | 100+ (50+ with backing) | Early traction signal |
-| **🔄 Active Development** | Commits in last 60 days | Alive and evolving |
+| **⭐ GitHub Stars** | Fewer than 1000 | Below elite threshold but showing traction |
+| **🔄 Active Development** | Latest push within 6 months | Alive and evolving |
 | **📝 Innovation** | Clear unique approach | Not a "me too" project |
 | **📚 Quality** | Basic docs, working code | Professional intent |
 | **🔮 Potential** | Maintainer discretion | Gut check on future elite |
@@ -216,8 +224,8 @@ Projects can graduate from Emerging to Elite when they meet **all** elite-tier c
 
 | Criterion | Emerging | Elite |
 |-----------|----------|-------|
-| Stars | 100+ | 1000+ |
-| Activity | 60 days | 30 days |
+| Stars | <1000 | 1000+ |
+| Activity | 6 months | 6 months |
 | Production | Early adopters | Real deployments |
 | Quality | Basic | Full (docs/tests/releases) |
 
@@ -236,15 +244,15 @@ Same process as Elite, but lower thresholds. In your PR, specify this is for Eme
 
 ### Emerging Criteria Checklist
 
-- [ ] **100+ stars** (or justification for 50+)
-- [ ] **Active** in last 60 days
+- [ ] **Below 1000 stars** (otherwise submit to Elite)
+- [ ] **Active** in last 6 months
 - [ ] **Innovation** - what's unique about this approach
 - [ ] **Quality** - basic docs and working code
 - [ ] **License** - OSI-approved
 
 ### Target List
-- [ ] Elite Tier (1000+ stars, production usage)
-- [x] Emerging List (100+ stars, promising)
+- [ ] Elite Tier (1000+ stars, active within 6 months, production usage)
+- [x] Emerging List (active within 6 months, under 1000 stars, promising)
 
 ### Why This Belongs in Emerging
 <!-- Explain the concept, innovation, and potential -->
@@ -265,5 +273,5 @@ Open an issue for discussion before submitting borderline cases. We're happy to 
 
 ---
 
-*Last updated: April 2025*  
+*Last updated: April 2026*  
 *Quality standard: Battle-tested & production-proven*
