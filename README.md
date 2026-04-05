@@ -676,6 +676,14 @@
 - **[Fast.ai](https://github.com/fastai/fastai)** ![GitHub stars](https://img.shields.io/github/stars/fastai/fastai?style=social) - Legendary practical deep learning course.
 - **[LangChain Academy](https://academy.langchain.com)** - Free courses on agents and RAG.
 - **[ComfyUI Examples & Workflows](https://github.com/Comfy-Org/example_workflows)** ![GitHub stars](https://img.shields.io/github/stars/Comfy-Org/example_workflows?style=social) - Massive collection of generative media workflows.
+- **[ML For Beginners (Microsoft)](https://github.com/microsoft/ML-For-Beginners)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/ML-For-Beginners?style=social) - 12-week, 26-lesson, 52-quiz curriculum for classic machine learning. Hands-on with Python, NumPy, Pandas, and scikit-learn.
+- **[Practical RL (Yandex Data School)](https://github.com/yandexdataschool/Practical_RL)** ![GitHub stars](https://img.shields.io/github/stars/yandexdataschool/Practical_RL?style=social) - Comprehensive reinforcement learning course in the wild. Lectures, seminars, and hands-on labs from HSE and Yandex.
+- **[Reinforcement Learning (Denny Britz)](https://github.com/dennybritz/reinforcement-learning)** ![GitHub stars](https://img.shields.io/github/stars/dennybritz/reinforcement-learning?style=social) - Clean implementations of RL algorithms in Python and TensorFlow. Exercises accompanying Sutton & Barto's textbook and David Silver's course.
+
+#### Curated Resource Lists
+
+- **[Awesome AI/ML Resources](https://github.com/armankhondker/awesome-ai-ml-resources)** ![GitHub stars](https://img.shields.io/github/stars/armankhondker/awesome-ai-ml-resources?style=social) - Curated roadmap and free resources for learning AI/ML from scratch. Beginner-friendly with structured progression.
+- **[Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)** ![GitHub stars](https://img.shields.io/github/stars/owainlewis/awesome-artificial-intelligence?style=social) - Comprehensive list of AI courses, books, video lectures, and papers. Study materials for all proficiency levels.
 
 #### Starter Projects & Examples
 
