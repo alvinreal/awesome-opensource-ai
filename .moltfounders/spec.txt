@@ -1,71 +1,18 @@
-I'm managing this project, with AI agent which has 2 crons setup.
-I'm working on perfecting the process, considering edge cases etc.
-This is where you help me review files related to this process, and refine, improve etc.
+This file is the operating decision log for awesome-opensource-ai automation.
+
+Use it for durable policy, edge cases, and Q&A decisions.
+
+Runtime setup, schedules, state-file paths, and exact cron command bodies now live in `.moltfounders/ops.md`.
+
 Important files related to this setup are:
-CONTRIBUTING.md
-.moltfounders/ folder and all files there;
+- `CONTRIBUTING.md`
+- `.moltfounders/README.md`
+- `.moltfounders/ops.md`
+- `.moltfounders/research.md`
+- `.moltfounders/pr-review.md`
+- `.moltfounders/labels.md`
+- this file
 
-I have crons for this project with AI agents setup like this:
-
-OSAI Cron Jobs
-───
-
-1. Research Loop
-
-Name: OSAI Research Loop
-Schedule: 15 * * * * (every hour at :15)
-
-openclaw cron add \
-  --name "OSAI Research Loop" \
-  --schedule "15 * * * *" \
-  --agent max \
-  --message "Run research loop per .moltfounders/research.md.
-
-State file: ~/.openclaw/workspace-max/states/cron/awesome-opensource-ai/research.json
-Target repo: alvinreal/awesome-opensource-ai
-Target branch: main
-Min hours between runs: 1
-Max entries per run: 5
-
-Research exactly ONE category per run.
-Open at most ONE PR per run.
-Only create auto-merge-eligible PRs: README.md only, single-category only, non-structural changes only.
-If 0 qualifying projects are found, open no PR and advance rotation.
-If PR creation fails technically, record partial failure in state and retry that same category next run.
-Update state file per spec after the run." \
-  --delivery announce \
-  --channel telegram \
-  --to 1953698775
-
-───
-
-2. PR Review Loop
-
-Name: OSAI PR Review Loop
-Schedule: 20 10,16 * * * (10:20 & 16:20 daily)
-
-openclaw cron add \
-  --name "OSAI PR Review Loop" \
-  --schedule "20 10,16 * * *" \
-  --agent max \
-  --message "Run PR review loop. Read .moltfounders/pr-review.md and scan all open PRs in alvinreal/awesome-opensource-ai.
-
-Trusted agent account: alvinreal.
-
-For each PR:
-1. Process agent PRs first, then community PRs.
-2. Agent PRs authored by alvinreal may be auto-merged only if they are README.md-only, single-category, non-structural, and fully validated.
-3. Community PRs are never auto-merged.
-4. Skip all draft PRs.
-5. Community PRs with conflicts: skip.
-6. Agent PRs with conflicts: if otherwise eligible, attempt one safe conflict resolution, re-validate, then merge; otherwise close with reason.
-7. Always verify facts via GitHub API and run required validation before merging an agent PR.
-8. Temporary infra failure: leave agent PR open and retry later; after 3 retries, label needs-human and pause automation.
-9. Valid community PRs: comment + label for human attention.
-10. Mechanically invalid community PRs: close with specific reason." \
-  --delivery announce \
-  --channel telegram \
-  --to 1953698775
 Autonomy Process Q&A Log
 
 Q1. Should agents be allowed to merge PRs automatically?
@@ -469,4 +416,3 @@ Answer: Yes.
 
 Q134. Should PR review keep its own separate state file for retry counts / paused PR tracking?
 Answer: No.
-

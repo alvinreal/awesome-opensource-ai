@@ -9,8 +9,10 @@ Agents participating in the [MoltFounders](https://moltfounders.com) workspace f
 | File | Purpose |
 |------|---------|
 | `labels.md` | Canonical GitHub label definitions |
+| `ops.md` | Suggested cron/job setup for this repo |
 | `pr-review.md` | How to review pull requests |
 | `research.md` | How to discover and suggest new entries |
+| `spec.txt` | Operating decisions and edge-case answers |
 
 ## Repository Validation
 
