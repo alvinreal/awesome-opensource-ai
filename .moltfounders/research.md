@@ -2,11 +2,9 @@
 
 ## Purpose
 
-Deep research loop for finding elite-tier open-source AI projects. Cycles through categories systematically, maintaining state to track progress.
+Deep research loop for finding elite-tier open-source AI projects. It cycles through categories systematically and keeps state across runs.
 
-This spec is **schedule-agnostic** — implementers (cron jobs, manual runs, other agents) handle timing and state persistence.
-
-## Core Logic
+This spec is **schedule-agnostic** — implementers (cron jobs, manual runs, other agents) handle timing and persistence.
 
 ## Clean Start Requirement
 
@@ -17,21 +15,17 @@ Before doing any research, edits, branch creation, or PR work, the runner/agent 
 3. If the local branch is dirty or diverged, reset to the latest `origin/main` before proceeding
 4. Only then create or switch to the working branch for the current PR
 
-This is mandatory for cron-driven runs so stale local branches, leftover files, or prior failed runs do not leak into new PRs.
-
-### Inputs (Provided by Runner)
+## Inputs (Provided by Runner)
 
 | Input | Description |
 |-------|-------------|
-| `stateFile` | Path to JSON state file (runner manages location) |
-| `minHoursBetweenRuns` | Cooldown between runs (runner sets this) |
-| `maxEntriesPerRun` | Max entries to add per category (runner sets this) |
-| `targetRepo` | GitHub repo to PR into (runner provides) |
-| `targetBranch` | Branch for PRs (runner provides) |
+| `stateFile` | Path to JSON state file |
+| `minHoursBetweenRuns` | Cooldown between runs |
+| `maxEntriesPerRun` | Max entries to change per category |
+| `targetRepo` | GitHub repo to PR into |
+| `targetBranch` | Branch for PRs |
 
-### State File Format
-
-Runner provides/maintains a state file with this structure:
+## State File Format
 
 ```json
 {
@@ -39,6 +33,9 @@ Runner provides/maintains a state file with this structure:
   "cycleStartDate": "2026-04-04",
   "lastRunTime": null,
   "lastCategoryIndex": null,
+  "lastCategoryName": null,
+  "lastOutcome": null,
+  "lastError": null,
   "currentCycle": [
     {"index": 0, "name": "Core Frameworks & Libraries", "section": "§1", "lastResearched": null},
     {"index": 1, "name": "Open Foundation Models", "section": "§2", "lastResearched": null},
@@ -46,33 +43,30 @@ Runner provides/maintains a state file with this structure:
     {"index": 3, "name": "Agentic AI & Multi-Agent Systems", "section": "§4", "lastResearched": null},
     {"index": 4, "name": "RAG & Knowledge", "section": "§5", "lastResearched": null},
     {"index": 5, "name": "Generative Media Tools", "section": "§6", "lastResearched": null},
-    {"index": 6, "name": "Training & Fine-tuning", "section": "§7", "lastResearched": null},
-    {"index": 7, "name": "MLOps / LLMOps", "section": "§8", "lastResearched": null},
-    {"index": 8, "name": "Evaluation & Benchmarks", "section": "§9", "lastResearched": null},
-    {"index": 9, "name": "AI Safety & Interpretability", "section": "§10", "lastResearched": null},
+    {"index": 6, "name": "Training & Fine-tuning Ecosystem", "section": "§7", "lastResearched": null},
+    {"index": 7, "name": "MLOps / LLMOps & Production", "section": "§8", "lastResearched": null},
+    {"index": 8, "name": "Evaluation, Benchmarks & Datasets", "section": "§9", "lastResearched": null},
+    {"index": 9, "name": "AI Safety, Alignment & Interpretability", "section": "§10", "lastResearched": null},
     {"index": 10, "name": "Specialized Domains", "section": "§11", "lastResearched": null},
-    {"index": 11, "name": "User Interfaces & Platforms", "section": "§12", "lastResearched": null},
-    {"index": 12, "name": "Developer Tools", "section": "§13", "lastResearched": null},
+    {"index": 11, "name": "User Interfaces & Self-hosted Platforms", "section": "§12", "lastResearched": null},
+    {"index": 12, "name": "Developer Tools & Integrations", "section": "§13", "lastResearched": null},
     {"index": 13, "name": "Resources & Learning", "section": "§14", "lastResearched": null}
   ]
 }
 ```
 
-### Rotation Algorithm (Follow Exactly)
+## Rotation Algorithm
 
-1. **Read state file** from path provided by runner
-2. **Check `lastRunTime`**: If not null and less than `minHoursBetweenRuns` ago → skip this run, post "Research on cooldown, next run in X min"
-3. **Find next category**: 
-   - If `lastCategoryIndex` is null → use index 0
-   - Else → increment by 1 (wrap 13→0)
-4. **Research that ONE category** following the protocol below
-5. **Update state file**:
-   - Set `lastCategoryIndex` to the category just researched
-   - Set `lastRunTime` to current ISO timestamp
-   - Set `currentCycle[index].lastResearched` to current ISO timestamp
-6. **Write updated state file** (runner manages persistence)
+1. Read state file
+2. If `lastRunTime` is less than `minHoursBetweenRuns` ago, skip the run
+3. Choose next category by stable numeric index, wrapping `13 → 0`
+4. Research that **one** category only
+5. Open **at most one PR** in the run
+6. Update state:
+   - On successful completion or intentional skip (`no qualifying projects`, `blocked by existing agent PR`) → set `lastCategoryIndex`, `lastCategoryName`, `lastRunTime`, `lastOutcome`, and `currentCycle[index].lastResearched`
+   - On technical PR-creation failure → record `lastOutcome` and `lastError`, but do **not** advance the category
 
-### Category Definitions
+## Category Definitions
 
 | Index | Category | Description |
 |-------|----------|-------------|
@@ -91,193 +85,45 @@ Runner provides/maintains a state file with this structure:
 | 12 | Developer Tools & Integrations | IDE plugins, testing frameworks, CLI tools, API clients |
 | 13 | Resources & Learning | Courses, communities, newsletters, benchmark leaderboards |
 
-## Category-Specific Research Sources
-
-**§1 Core Frameworks:**
-- PyTorch ecosystem (torchvision, torchaudio, torchtext, torchao)
-- JAX/Flax and XLA ecosystem
-- Hugging Face libraries beyond transformers
-- Data processing (pandas alternatives, polars, cuDF)
-- New ML frameworks (Julia, Rust, C++, Zig)
-
-**§2 Foundation Models:**
-- Hugging Face model hub trending
-- LLM leaderboard new entries (Open LLM Leaderboard, LMSYS)
-- Paper releases with open weights
-- Regional model labs (Europe, Asia, Middle East)
-- Small/edge models (<7B params) with high quality
-
-**§3 Inference & Serving:**
-- vLLM forks and competitors
-- New quantization methods (GGUF successors, HQQ variants)
-- Edge/mobile inference optimizations
-- Kubernetes operators for LLM serving
-- WebAssembly/WASM inference
-
-**§4 Agentic AI:**
-- GitHub trending: `agent`, `autonomous`, `multi-agent`
-- Agent framework releases (new competitors to LangGraph, AutoGen)
-- Agent memory systems (vector + episodic + semantic)
-- Tool-use libraries and function calling frameworks
-- Agent evaluation benchmarks (SWE-bench variants)
-
-**§5 RAG & Knowledge:**
-- Vector DBs beyond top 5 (new entrants in search space)
-- Embedding model releases (multimodal, long-context)
-- Document parsers (PDF, DOCX, Excel, structured extraction)
-- Graph RAG implementations (Neo4j, custom)
-- Hybrid search (BM25 + vector + reranking)
-
-**§6 Generative Media:**
-- Diffusion model families (SD variants, FLUX successors)
-- Video generation (consistency, length, quality improvements)
-- Audio generation (music, speech, SFX, voice cloning)
-- 3D generation (mesh, NeRF, Gaussian splatting)
-- Real-time/streaming generation systems
-
-**§7 Training & Fine-tuning:**
-- Training framework releases (competitors to LLaMA-Factory, Axolotl)
-- RLHF/RLAIF tools (new alignment methods)
-- Synthetic data generation (distilabel competitors)
-- Parameter-efficient methods (LoRA successors, DoRA variants)
-- Distributed training optimizations
-
-**§8 MLOps/LLMOps:**
-- Prompt management and versioning
-- LLM observability and tracing
-- Cost tracking and optimization
-- A/B testing frameworks for models
-- Feature stores adapted for LLMs
-
-**§9 Evaluation:**
-- New benchmark suites (domain-specific, multilingual)
-- Evaluation harnesses (competitors to lm-evaluation-harness)
-- Red-teaming and safety evaluation tools
-- Human evaluation platforms
-- Automated eval metrics
-
-**§10 Safety & Alignment:**
-- Mechanistic interpretability tools
-- Sparse autoencoders and feature extraction
-- Constitutional AI and value alignment
-- Adversarial robustness testing
-- Guardrails and content filtering
-
-**§11 Specialized Domains:**
-- Scientific AI (protein folding, drug discovery, materials)
-- Code-specific (type inference, refactoring, security analysis)
-- Legal/medical/finance domain models
-- Robotics simulators and environments
-- Game AI and NPC behavior
-
-**§12 User Interfaces:**
-- New ChatGPT alternatives (self-hosted, privacy-focused)
-- Mobile apps (iOS/Android native)
-- Voice-first interfaces
-- Desktop assistants (cross-platform)
-- Browser extensions and web integrations
-
-**§13 Developer Tools:**
-- IDE plugins beyond top 5 (new VS Code/JetBrains extensions)
-- Testing frameworks for AI applications
-- Documentation generators from code
-- API client tools for LLMs
-- CLI productivity tools
-
-**§14 Resources:**
-- New courses and bootcamps (hands-on, project-based)
-- Active communities (Discord, forums, local meetups)
-- Newsletters and podcasts (weekly digests)
-- New benchmark leaderboards
-- Model cards and documentation repositories
-
 ## Qualification Criteria (Hard Thresholds)
-
-**These are NON-NEGOTIABLE for Elite Tier inclusion:**
 
 | Criterion | Minimum | Why |
 |-----------|---------|-----|
 | ⭐ GitHub Stars | **1000+** | Community validation |
-| 🔄 Activity | Commits in last **30 days** | Alive and evolving |
-| 🏭 Production | Evidence of real-world use | Case studies, integrations, prod issues |
+| 🔄 Activity | Commits in last **6 months** | Alive and evolving |
+| 🏭 Production | Evidence of real-world use | Case studies, integrations, production issues |
 | 📚 Quality | Docs, tests, releases | Professional grade |
 | ✅ License | OSI-approved | Legal clarity |
 
-**Projects below thresholds:** SKIP entirely. They may be candidates for separate Emerging list via community submission.
+Projects below thresholds are skipped.
 
-## "Current Best" Principle
+## Output Rules
 
-For versioned families (PyTorch 2.x, Llama 3/4, Qwen 2.5/3.6):
+- At most **one PR per run**
+- PRs must be **single-category only**
+- PRs must touch **`README.md` only**
+- PRs must be **non-structural** (entry add/remove/update only)
+- If a candidate is ambiguous, skip it
+- If an open agent PR already exists for the category, do not open another PR; advance rotation
+- If an open community PR already proposes the same exact item, skip that item but continue evaluating the category
+- If 0 qualifying projects are found, open no PR and advance rotation
+- If 1-2 qualifying projects are found, a PR may still be opened
+- If PR creation fails technically, record partial failure and retry the same category next run
 
-1. **Check if family exists** in target README
-2. **If newer major version found:**
-   - Prepare PR to **REPLACE** existing entry
-   - Update description for new version
-   - Don't add alongside unless different use cases
-3. **If same/older version:** Skip
+## Current Best Principle
 
-This is "what you should know about now" — not a version archive.
-
-## Output Format
-
-One PR per run, category-focused:
-
-```
-[Research] Add N entries to {Category} - {Date}
-```
-
-PR body:
-```markdown
-## Category: {Category}
-
-Adding {N} elite-tier projects.
-
-| Project | Stars | License | Why It Fits |
-|---------|-------|---------|-------------|
-| {name} | {stars} | {license} | {brief} |
-
-### Sources
-- {source 1}
-- {source 2}
-
-### Verification
-- [x] 1000+ stars
-- [x] Active (30 days)
-- [x] OSI license
-- [x] Not already listed
-```
+For versioned families, replace superseded entries rather than accumulating outdated versions unless both versions are clearly still worth listing.
 
 ## Validation Before Opening a PR
 
-Before opening any PR generated from this research loop:
+Before opening any PR generated from this loop:
 
 1. Run `python3 tools/validate_awesome.py --skip-remote`
-2. If GitHub auth is available in the runner, also run `python3 tools/validate_awesome.py`
-3. If either validation run reports errors, do **not** open the PR until they are fixed
-4. If only warnings remain, mention them in the PR body only when they are relevant and intentional
-
-## Limits
-
-- Max entries per run: Use `maxEntriesPerRun` from runner (typically 5)
-- If <3 found: Open PR anyway with what you found
-- If 0 found: Skip PR, post "no qualifying projects for {Category}"
-
-## Edge Cases
-
-- **Multi-category fit:** Pick best fit, note overlap in PR
-- **50+ entries in category:** Be selective, prioritize newest/best
-- **Duplicate found:** Note in PR, pick better one
-- **<1000 stars with big backing:** Still skip — quality > hype
-
-## Cycle Completion
-
-With 14 categories and typical hourly runs: full cycle completes in ~14 hours.
-
-After completing index 13 (wrap to 0), the cycle repeats indefinitely.
+2. If GitHub auth is available, also run `python3 tools/validate_awesome.py`
+3. If any required validation reports errors, do not open the PR
 
 ## Notes for Implementers
 
-- This spec is **timing-agnostic** — run hourly, daily, or on-demand
-- State persistence is runner's responsibility
-- Elite criteria are **hard floors** — no exceptions without maintainer override
-- Emerging tier is out of scope — handled separately
+- State persistence is runner responsibility
+- Emerging tier is out of scope here
+- The research loop should create only PRs eligible for the automated merge path

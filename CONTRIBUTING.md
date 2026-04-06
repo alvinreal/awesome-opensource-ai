@@ -48,10 +48,10 @@ For rapidly evolving families (foundation models, frameworks with numbered relea
 ### Maintenance Cleanup Rule
 
 - **Older than 6 months since latest push:** remove from the list completely
-- **Active within 6 months but below 1000 stars:** move to [EMERGING.md](EMERGING.md)
 - **Active within 6 months and 1000+ stars:** eligible to remain in the main README
+- **Active within 6 months but below 1000 stars:** not eligible for unattended README auto-maintenance; handle separately as maintainer/community work if desired
 
-This applies to existing entries as well as new submissions. The list is actively pruned, not just appended to.
+This applies to existing entries as well as new submissions. The list is actively pruned, not just appended.
 
 ---
 
@@ -88,6 +88,11 @@ This applies to existing entries as well as new submissions. The list is activel
 4. **Write a factual description** - one sentence, no fluff
 5. **Run the validator locally before submitting** - `python3 tools/validate_awesome.py` (set `GITHUB_TOKEN` to check stars and last push dates)
 6. **Expect CI to enforce structure** - GitHub Actions runs `python3 tools/validate_awesome.py --skip-remote` on PRs, and full GitHub-backed validation on `main`
+
+### Automation Note
+
+- PRs authored by the trusted automation account `alvinreal` may be auto-merged **only** when they are README-only, single-category, non-structural maintenance PRs that pass all required validation.
+- Community PRs are never auto-merged.
 
 ### PR Requirements
 
@@ -148,27 +153,27 @@ Each category has established elite-tier benchmarks. Your submission should be c
 - **Benchmarks:** LangGraph (10K+ ⭐), AutoGen (35K+ ⭐), CrewAI (25K+ ⭐)
 - **Bar:** Real agent deployments, not just agent-themed projects
 
-### 5. Vector Databases & RAG
+### 5. RAG & Knowledge
 - **Benchmarks:** Chroma (20K+ ⭐), Qdrant (25K+ ⭐), Weaviate (15K+ ⭐)
 - **Bar:** Performance benchmarks, production deployments
 
-### 6. Generative Media
+### 6. Generative Media Tools
 - **Benchmarks:** ComfyUI (60K+ ⭐), Stable Diffusion (80K+ ⭐), AnimateDiff (15K+ ⭐)
 - **Bar:** Professional-grade output quality, artist community adoption
 
-### 7. Training & Fine-tuning
+### 7. Training & Fine-tuning Ecosystem
 - **Benchmarks:** LLaMA-Factory (40K+ ⭐), Unsloth (25K+ ⭐), Axolotl (15K+ ⭐)
 - **Bar:** Proven training efficiency gains, adoption by AI labs
 
-### 8. MLOps & Production
+### 8. MLOps / LLMOps & Production
 - **Benchmarks:** MLflow (20K+ ⭐), Kubeflow (15K+ ⭐), BentoML (10K+ ⭐)
 - **Bar:** Enterprise deployment patterns, observability features
 
-### 9. Evaluation & Benchmarks
+### 9. Evaluation, Benchmarks & Datasets
 - **Benchmarks:** lm-evaluation-harness (10K+ ⭐), DeepEval (5K+ ⭐)
 - **Bar:** Credible evaluation methodology, research community usage
 
-### 10. AI Safety & Interpretability
+### 10. AI Safety, Alignment & Interpretability
 - **Benchmarks:** TransformerLens (10K+ ⭐), Garak (5K+ ⭐)
 - **Bar:** Published research backing, security community adoption
 
@@ -176,13 +181,17 @@ Each category has established elite-tier benchmarks. Your submission should be c
 - **Benchmarks:** OpenCV (80K+ ⭐), YOLO (40K+ ⭐), Gymnasium (10K+ ⭐)
 - **Bar:** Domain expertise, professional practitioner adoption
 
-### 12. User Interfaces & Platforms
+### 12. User Interfaces & Self-hosted Platforms
 - **Benchmarks:** Open WebUI (50K+ ⭐), AnythingLLM (30K+ ⭐), LibreChat (20K+ ⭐)
 - **Bar:** Active user community, polished UX, stable releases
 
-### 13. Developer Tools
+### 13. Developer Tools & Integrations
 - **Benchmarks:** Continue (20K+ ⭐), Aider (25K+ ⭐), Tabby (25K+ ⭐)
 - **Bar:** Daily developer workflow integration, IDE ecosystem presence
+
+### 14. Resources & Learning
+- **Benchmarks:** High-signal courses, communities, newsletters, and benchmark resources practitioners actively rely on
+- **Bar:** Strong current relevance, clear utility, and sustained practitioner value
 
 ---
 

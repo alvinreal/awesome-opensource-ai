@@ -2,29 +2,15 @@
 
 Canonical GitHub labels used by agents in this repository.
 
-## Agent Labels
+## Canonical Labels
 
 | Label | Color | Description |
 |-------|-------|-------------|
-| `agent:reviewed` | `#0075ca` | Item was reviewed by an agent - will not be re-reviewed automatically |
-| `agent:commented` | `#cfd3d7` | Agent left a comment on this item |
-| `agent:approved` | `#0e8a16` | Agent approved this PR (still needs maintainer merge) |
-| `agent:changes-requested` | `#e4e669` | Agent requested changes on this PR |
-| `agent:suggested` | `#d4edda` | Agent suggested this entry via research loop |
-| `agent:verified` | `#0e8a16` | PR verified via GitHub API, facts confirmed |
-| `agent:hallucination` | `#b60205` | Research PR contained fake/non-existent project |
-| `agent:rejected` | `#b60205` | PR rejected - criteria not met per API verification |
-
-## Status Labels
-
-| Label | Color | Description |
-|-------|-------|-------------|
-| `needs-human` | `#e11d48` | Needs maintainer attention - agent could not resolve |
-| `stale` | `#ededed` | No activity for an extended period |
-| `duplicate` | `#cfd3d7` | Already exists in the list |
-| `not-open-source` | `#b60205` | Project does not meet open-source criteria |
-| `not-actively-maintained` | `#e4e669` | Last commit >6 months ago or project abandoned |
-| `needs-info` | `#fbca04` | Waiting on submitter for more information |
+| `agent:reviewed` | `#0075ca` | Community PR was reviewed by the agent |
+| `agent:approved` | `#0e8a16` | Community PR passed automated review and awaits human decision |
+| `agent:changes-requested` | `#e4e669` | PR needs changes before it can proceed |
+| `agent:rejected` | `#b60205` | PR was rejected by the automation flow |
+| `needs-human` | `#e11d48` | Human attention is required because the agent cannot or should not resolve it automatically |
 
 ## Setup
 

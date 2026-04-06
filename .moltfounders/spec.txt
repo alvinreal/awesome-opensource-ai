@@ -1,0 +1,472 @@
+I'm managing this project, with AI agent which has 2 crons setup.
+I'm working on perfecting the process, considering edge cases etc.
+This is where you help me review files related to this process, and refine, improve etc.
+Important files related to this setup are:
+CONTRIBUTING.md
+.moltfounders/ folder and all files there;
+
+I have crons for this project with AI agents setup like this:
+
+OSAI Cron Jobs
+───
+
+1. Research Loop
+
+Name: OSAI Research Loop
+Schedule: 15 * * * * (every hour at :15)
+
+openclaw cron add \
+  --name "OSAI Research Loop" \
+  --schedule "15 * * * *" \
+  --agent max \
+  --message "Run research loop per .moltfounders/research.md.
+
+State file: ~/.openclaw/workspace-max/states/cron/awesome-opensource-ai/research.json
+Target repo: alvinreal/awesome-opensource-ai
+Target branch: main
+Min hours between runs: 1
+Max entries per run: 5
+
+Research exactly ONE category per run.
+Open at most ONE PR per run.
+Only create auto-merge-eligible PRs: README.md only, single-category only, non-structural changes only.
+If 0 qualifying projects are found, open no PR and advance rotation.
+If PR creation fails technically, record partial failure in state and retry that same category next run.
+Update state file per spec after the run." \
+  --delivery announce \
+  --channel telegram \
+  --to 1953698775
+
+───
+
+2. PR Review Loop
+
+Name: OSAI PR Review Loop
+Schedule: 20 10,16 * * * (10:20 & 16:20 daily)
+
+openclaw cron add \
+  --name "OSAI PR Review Loop" \
+  --schedule "20 10,16 * * *" \
+  --agent max \
+  --message "Run PR review loop. Read .moltfounders/pr-review.md and scan all open PRs in alvinreal/awesome-opensource-ai.
+
+Trusted agent account: alvinreal.
+
+For each PR:
+1. Process agent PRs first, then community PRs.
+2. Agent PRs authored by alvinreal may be auto-merged only if they are README.md-only, single-category, non-structural, and fully validated.
+3. Community PRs are never auto-merged.
+4. Skip all draft PRs.
+5. Community PRs with conflicts: skip.
+6. Agent PRs with conflicts: if otherwise eligible, attempt one safe conflict resolution, re-validate, then merge; otherwise close with reason.
+7. Always verify facts via GitHub API and run required validation before merging an agent PR.
+8. Temporary infra failure: leave agent PR open and retry later; after 3 retries, label needs-human and pause automation.
+9. Valid community PRs: comment + label for human attention.
+10. Mechanically invalid community PRs: close with specific reason." \
+  --delivery announce \
+  --channel telegram \
+  --to 1953698775
+Autonomy Process Q&A Log
+
+Q1. Should agents be allowed to merge PRs automatically?
+Answer: Yes. This repo is intended for single-agent autonomous operation.
+
+Q2. What PRs may the agent auto-merge?
+Answer: Only agent-authored PRs.
+
+Q3. What should the agent do with non-agent PRs that look valid?
+Answer: Review + label/comment, never merge.
+
+Q4. For non-agent PRs, should the agent be allowed to close them automatically if they clearly fail criteria?
+Answer: Yes.
+
+Q5-Q6. How should an agent-authored PR be identified?
+Answer: If PR author == the dedicated agent GitHub account, it is an agent PR. No extra markers required.
+
+Q6 revised. For agent-authored PRs, should the agent be allowed to merge only its own research-loop PRs, or any PR opened by that same agent account?
+Answer: Research-loop PRs + agent maintenance PRs, but not everything.
+
+Q7. What counts as an “agent maintenance PR”?
+Answer: Any beneficial repo change the agent decides, subject to later safety boundaries.
+
+Q8. Should the agent be allowed to modify governance files automatically?
+Answer: No. Governance files cannot be auto-merged by the agent.
+
+Q9. Should README/list content changes be auto-mergeable if made by the agent and fully validated?
+Answer: Yes, but only additions/removals/updates within existing structure, not structural rewrites.
+
+Q10. Should the agent be allowed to edit files other than README/list content and still auto-merge them?
+Answer: No. Auto-merge only README/list content changes.
+
+Q11. What activity threshold should be canonical for elite-tier acceptance?
+Answer: Within 6 months.
+
+Q12. Should the research loop use the exact same elite criteria as contributor PR review, or be stricter?
+Answer: Same criteria everywhere.
+
+Q13. Should category taxonomy be unified to one canonical list everywhere?
+Answer: Yes.
+
+Q14. Which category set should be canonical?
+Answer: Keep research.md’s current 14-category set.
+
+Q15. Should `Resources & Learning` remain part of the main curated system, or be separated from elite project categories?
+Answer: Keep it in the main 14-category system.
+
+Q16. Should the research loop be allowed to update existing entries when a newer version supersedes an older one?
+Answer: Yes.
+
+Q17. If the agent finds an existing README entry that no longer qualifies, should it be allowed to open an auto-mergeable cleanup PR?
+Answer: Yes, but only if removal is mechanically verifiable.
+
+Q18. What should happen when evidence is mixed or ambiguous?
+Answer: Research loop skips. Community submissions escalate / `needs-human`.
+
+Q19. Should the agent be allowed to auto-close community PRs immediately when failure is mechanically verified?
+Answer: Yes.
+
+Q20. Should the agent also auto-close community issues immediately when failure is mechanically verified?
+Answer: No. Issues would get comment + label first, then stale flow. (Later superseded by issue-loop removal.)
+
+Q21. If a cron run starts while a previous run of the same loop is still active, what should happen?
+Answer: Runner guarantees it won’t start. No spec fallback.
+
+Q22. If the research loop finds 0 qualifying projects for a category, what should happen?
+Answer: No PR; record the run and move on.
+
+Q23. If the research loop finds only 1–2 qualifying projects, should it still open a PR?
+Answer: Yes.
+
+Q24. After a research PR is opened, should the same run also review and merge it, or should merge happen only in the separate PR review loop?
+Answer: Merge only in the separate PR review loop.
+
+Q25. Should the PR review loop be allowed to merge multiple eligible agent PRs in one run, or only one per run?
+Answer: Merge all eligible agent PRs.
+
+Q26. If an agent-authored PR fails validation because of a small fixable issue, should the PR review loop fix it and then merge?
+Answer: Yes, but only one fix attempt per PR per run.
+
+Q27. If that one fix attempt fails, what should happen?
+Answer: Close the PR.
+
+Q28. When closing a failed agent PR, should the system also mark the underlying category/item so it isn’t retried immediately?
+Answer: No. Let future runs rediscover naturally.
+
+Q29. Should the PR review loop process community PRs before agent PRs, or agent PRs first?
+Answer: Agent PRs first.
+
+Q30. If there are both agent PRs and community PRs open, should the loop always finish all agent PR decisions before touching community PRs?
+Answer: Yes.
+
+Q31. Do we need issue management at all?
+Answer: Remove issue management for now. Remove issue-management file and cron. Issues are out of automation scope.
+
+Q32. Should the PR review loop skip all draft PRs entirely, including agent-authored drafts?
+Answer: Yes, skip all drafts.
+
+Q33. Should the PR review loop skip PRs with merge conflicts, or auto-close them?
+Answer: Community PR with conflicts: skip. Agent PR with conflicts: if otherwise eligible, agent may resolve conflicts, re-validate, and merge.
+
+Q34. Should conflict resolution for agent PRs be limited to one attempt, like other fixable issues?
+Answer: Yes, one attempt.
+
+Q35. Before merging an agent PR, should the PR review loop always run local validation again, even if research already validated before opening?
+Answer: Yes, always re-validate.
+
+Q36. For agent PR merge validation, which checks are mandatory every time?
+Answer: Local validator + GitHub API fact verification.
+
+Q37. Should full remote validation (`python3 tools/validate_awesome.py`) also be required when credentials are available, or is API verification enough?
+Answer: Yes, require full validator too when available.
+
+Q38. If full remote validation is available and fails, but local validation + direct API checks pass, should the PR still merge?
+Answer: No. Any failed required validation blocks merge.
+
+Q39. If a required validation fails on an agent PR, should the PR review loop try one fix attempt first, or close immediately?
+Answer: One fix attempt for fixable failures; otherwise close.
+
+Q40. What counts as “fixable” for that one attempt?
+Answer: Formatting, placement/category adjustment, wording cleanup, badge/entry format fixes, validator-fix issues, and simple merge conflict resolution.
+
+Q41. If an agent PR includes both safe list-content changes and forbidden changes, what should happen?
+Answer: Close the PR.
+
+Q42. Should the research loop be allowed to open a PR that changes multiple categories in one PR, or must each PR stay single-category?
+Answer: Single-category only.
+
+Q43. Should a single research PR be allowed to contain both additions and removals within that category?
+Answer: Yes.
+
+Q44. Should a research PR also be allowed to update an existing entry’s description/version text within that category?
+Answer: Yes.
+
+Q45. Should the PR review loop require that an agent research PR touches only files explicitly allowed for auto-merge?
+Answer: Yes, enforce explicit allowlist.
+
+Q46. Should `EMERGING.md` be in the auto-merge allowlist too, or only `README.md`?
+Answer: `README.md` only.
+
+Q47. Should the PR review loop reject any agent PR that changes README structure?
+Answer: Yes, but leave it open for human review.
+
+Q48. How should the PR review loop detect a “README structural change”?
+Answer: Headings/order/section layout changes are structural; normal entry text edits are not.
+
+Q49. If an agent PR is non-auto-mergeable but not wrong, what should happen?
+Answer: Leave it open with `needs-human`.
+
+Q50. Should the PR review loop add a dedicated label for auto-merge eligibility, or just decide from rules each run?
+Answer: Decide from rules each run.
+
+Q51. Should the PR review loop skip already-reviewed community PRs forever unless they change, or re-check them every run?
+Answer: Skip until new commits/activity.
+
+Q52. Should already-reviewed agent PRs also be skipped unless something changed, or always re-evaluated every PR-review run?
+Answer: Always re-evaluate agent PRs.
+
+Q53. Should the PR review loop process closed/reopened PRs specially, or just treat reopened PRs as fresh?
+Answer: Treat reopened PRs as fresh.
+
+Q54. Should the PR review loop leave GitHub review approvals/requests-changes, or only comments + labels + merge/close actions?
+Answer: Comments + labels only.
+
+Q55. For community PRs that pass review, what should happen?
+Answer: Label/comment as approved-for-human, never merge.
+
+Q56. Should community PRs that pass review also get `needs-human`, or is `agent:approved` enough?
+Answer: Add `needs-human` too.
+
+Q57. For community PRs that fail mechanically verified checks, should the agent still apply `agent:reviewed` before closing?
+Answer: No.
+
+Q58. Should agent PRs that are successfully merged receive a final label set, or is merge alone enough?
+Answer: Merge only.
+
+Q59. After merging an agent PR, should the agent leave a final comment like “verified and merged”, or keep it silent?
+Answer: Silent.
+
+Q60. Should the PR review loop leave a comment when it closes an agent PR, or just close it silently?
+Answer: Leave a short reason.
+
+Q61. Should the research loop be allowed to open a new PR for a category if there is already an open agent PR for that same category?
+Answer: No, skip creating another.
+
+Q62. Should the research loop also skip a category if there is an open `needs-human` agent PR for that category?
+Answer: Yes, still skip.
+
+Q63. If there is an open community PR for a category, should that also block the research loop from opening an agent PR for the same category?
+Answer: No.
+
+Q64. If both an agent PR and a community PR touch the same project/category, which should be preferred operationally?
+Answer: Agent PR takes priority.
+
+Q65. When handling an overlapping community PR because the agent PR takes priority, should the agent close it immediately?
+Answer: No. Leave it open with `needs-human` and explain overlap briefly.
+
+Q66. If the agent PR merges first and the community PR is now clearly redundant, should the next PR review run then close the community PR?
+Answer: Yes.
+
+Q67. Should the close reason explicitly say it’s being closed because the change is already merged via another PR?
+Answer: Yes.
+
+Q68. Should the PR review loop require the agent PR branch to be up to date with `main` before merge, or is conflict-free + validated enough?
+Answer: Conflict-free + validated is enough.
+
+Q69. Should the PR review loop verify that the PR still modifies only the allowed file set at merge time, not just at creation time?
+Answer: Yes.
+
+Q70. Should the PR review loop also verify category scope at merge time, meaning the PR still affects only one category and stays non-structural?
+Answer: Yes.
+
+Q71. Should the research loop itself be allowed to open structural README improvement PRs, even though they won’t auto-merge?
+Answer: No. Research loop should only open auto-merge-eligible PRs.
+
+Q72. Should the PR review loop be allowed to open its own follow-up PR?
+Answer: Yes, but only auto-merge-eligible README cleanup PRs.
+
+Q73. If PR review opens a follow-up cleanup PR, should it be allowed to merge that PR in the same run, or only on a later PR-review cycle?
+Answer: Later cycle only.
+
+Q74. Should the PR review loop be allowed to open more than one follow-up cleanup PR per run?
+Answer: No, max 1.
+
+Q75. Should the research loop also be limited to at most 1 PR per run total?
+Answer: Yes.
+
+Q76. Should the research loop advance category rotation even if it skips PR creation because an open agent PR already exists for that category?
+Answer: Yes, still advance.
+
+Q77. Should the research loop also advance rotation if it skips because it finds 0 qualifying projects?
+Answer: Yes.
+
+Q78. Should the research loop advance rotation even if PR creation fails technically?
+Answer: No. Retry that same category next run.
+
+Q79. Should the state file update only after full success, or also record partial outcomes?
+Answer: Record partial outcomes too.
+
+Q80. If GitHub API verification is unavailable during PR review, what should happen to an otherwise eligible agent PR?
+Answer: Leave it open for retry next run.
+
+Q81. If the local validator is unavailable or crashes during PR review for an agent PR, what should happen?
+Answer: Leave PR open for retry next run.
+
+Q82. If a required check fails because of a temporary infrastructure problem, should the PR review loop leave a comment every run, or stay quiet until it can act?
+Answer: Comment once, then stay quiet on retries.
+
+Q83. Should that temporary failure comment be used for agent PRs only, or also for community PRs?
+Answer: Agent PRs only.
+
+Q84. What should count as the trusted agent GitHub identity?
+Answer: One exact GitHub username.
+
+Q85. Do you want that exact trusted agent username written explicitly into the governance docs?
+Answer: Yes.
+
+Q86. If the research loop discovers a candidate already being proposed by an open community PR, should it still open its own agent PR for the same item?
+Answer: No.
+
+Q87. If an open community PR covers only part of what the agent wants to change in that category, should research still skip that item or skip the whole PR?
+Answer: Skip only the overlapping item; agent PR may still cover other items.
+
+Q88. Should the research loop check for overlapping open PRs before creating a PR, or let PR review sort it out later?
+Answer: Let PR review sort it out later.
+
+Q89. If a community PR and an agent PR both propose the same project, but the community PR is better, should the agent still prefer its own PR?
+Answer: Yes, always prefer agent PR.
+
+Q90. Should the agent be allowed to close its own open PR and replace it with a cleaner one for the same category?
+Answer: Only if the old one is clearly broken.
+
+Q91. Should a replaced/broken agent PR be closed with an explicit note that a new replacement PR will supersede it?
+Answer: Yes.
+
+Q92. Should the PR review loop ever merge an agent PR if there is another open agent PR for the same category?
+Answer: No.
+
+Q93. If two open agent PRs exist for the same category by mistake, what should PR review do?
+Answer: Keep oldest, close newer.
+
+Q94. Should the category state in research be keyed by category name or by stable numeric index?
+Answer: Stable numeric index.
+
+Q95. Should the state file also store the canonical category name alongside the numeric index for readability/debugging?
+Answer: Yes.
+
+Q96. Should PR review be allowed to label agent PRs with `needs-human` when they are valid but outside auto-merge scope?
+Answer: Yes.
+
+Q97. Should the state file store a last error reason for failed research PR creation/review attempts?
+Answer: Yes.
+
+Q98. Should temporary infra-failure retries continue indefinitely, or stop after some count?
+Answer: Stop after N retries and leave `needs-human`.
+
+Q99. What should N be for temporary infra retries?
+Answer: 3.
+
+Q100. After hitting the retry limit for an agent PR due to temporary infra failures, should the PR stay open or close?
+Answer: Stay open with `needs-human`.
+
+Q101. Should that 3-retry infra limit apply only to agent PRs, or also to community PR handling?
+Answer: Agent PRs only.
+
+Q102. When an agent PR hits the infra retry limit, should PR review also add a short comment explaining automation is paused pending human attention?
+Answer: Yes.
+
+Q103. Should that “automation paused” comment be posted once only?
+Answer: Yes.
+
+Q104. Should the PR review loop remove `needs-human` automatically if the issue clears later?
+Answer: Yes.
+
+Q105. Should the PR review loop also remove stale/failure labels automatically when a PR becomes valid again?
+Answer: Yes.
+
+Q106. For community PRs, if new commits arrive after prior review, should the old agent labels be cleared before re-review?
+Answer: Yes.
+
+Q107. Should the system keep using the current labels file, but remove issue-only concepts from automation behavior?
+Answer: No. Simplify labels now too.
+
+Q108. What should happen next after the remaining questions?
+Answer: First write this Q&A log to `local/q_a.txt`.
+
+Q109. Should we keep only labels that are still used by the 2-loop system?
+Answer: Yes.
+
+Q110. For merged agent PRs, since merge is enough, should we remove `agent:verified` from the system entirely?
+Answer: Yes.
+
+Q111. Should we remove `agent:suggested` too, since research PRs are just normal agent PRs now?
+Answer: Yes.
+
+Q112. Should we remove issue-only labels from canonical labels now (`stale`, `needs-info`) since issue automation is gone?
+Answer: Yes.
+
+Q113. Should `agent:reviewed` still be kept for community PRs?
+Answer: Yes.
+
+Q114. Should `agent:changes-requested` be kept, even though formal GitHub review states are not used?
+Answer: Yes.
+
+Q115. Should `agent:approved` be kept for community PRs that pass and wait for human merge?
+Answer: Yes.
+
+Q116. Should `agent:hallucination` and `agent:rejected` both remain, or simplify to one rejection label?
+Answer: One rejection label only.
+
+Q117. Should the single rejection label be `agent:rejected`?
+Answer: Yes.
+
+Q118. Should `not-open-source`, `duplicate`, and `not-actively-maintained` remain as separate labels?
+Answer: No.
+
+Q119. Should those failure reasons move to comment text only, with no separate reason labels?
+Answer: Yes.
+
+Q120. Should `needs-human` remain the only general escalation label?
+Answer: Yes.
+
+Q121. Should `agent:commented` be removed too, since comments are visible anyway?
+Answer: Yes.
+
+Q122. Should the final label set be just these 5: `agent:reviewed`, `agent:approved`, `agent:changes-requested`, `agent:rejected`, `needs-human`?
+Answer: Yes.
+
+Q123. For `CONTRIBUTING.md`, should categories be patched and contribution language also reflect the auto-merge policy where relevant?
+Answer: Yes.
+
+Q124. How should agent PR trust be checked?
+Answer: Keep author = `alvinreal` only.
+
+Q125. How should the `EMERGING.md` mismatch be resolved for unattended automation?
+Answer: Remove the EMERGING move requirement from unattended automation.
+
+Q126. If a category has an open agent PR marked `needs-human`, should that category remain blocked forever?
+Answer: Yes, still blocked.
+
+Q127. If the research state file is missing, invalid JSON, or corrupted, what should happen?
+Answer: Reinitialize clean state automatically.
+
+Q128. Should the research loop require atomic state writes?
+Answer: No.
+
+Q129. For the “3 temporary infra failures” rule, where should retry count live?
+Answer: In external state/file.
+
+Q130. After an agent PR hits the retry limit and gets `needs-human`, should PR review stop touching it completely?
+Answer: Yes.
+
+Q131. If a PR is paused with `needs-human`, and a human later edits/comments/rebases it, should automation treat it as fresh again?
+Answer: Yes.
+
+Q132. If research reinitializes a missing/corrupt state file, should it restart from category index 0?
+Answer: Yes.
+
+Q133. If state is reinitialized, should the loop also clear `lastOutcome` / `lastError` completely?
+Answer: Yes.
+
+Q134. Should PR review keep its own separate state file for retry counts / paused PR tracking?
+Answer: No.
+
