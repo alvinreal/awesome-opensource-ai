@@ -524,6 +524,7 @@
 
 - **[Boltz](https://github.com/jwohlwend/boltz)** ![GitHub stars](https://img.shields.io/github/stars/jwohlwend/boltz?style=social) - Open-source biomolecular interaction prediction models. Boltz-1 was the first fully open source model to approach AlphaFold3 accuracy; Boltz-2 adds binding affinity prediction for drug discovery. MIT licensed.
 - **[OpenFold](https://github.com/aqlaboratory/openfold)** ![GitHub stars](https://img.shields.io/github/stars/aqlaboratory/openfold?style=social) - Trainable PyTorch reproduction of AlphaFold2. Complete open-source pipeline for protein structure prediction with competitive accuracy to the original. Apache 2.0 licensed.
+- **[DeepChem](https://github.com/deepchem/deepchem)** ![GitHub stars](https://img.shields.io/github/stars/deepchem/deepchem?style=social) - Democratizing deep learning for drug discovery, quantum chemistry, materials science, and biology. Production-ready scientific ML toolkit with 40+ datasets and 20+ GNN models. MIT licensed.
 
 #### Medical Imaging & Healthcare AI
 
@@ -544,6 +545,7 @@
 
 - **[OpenCV](https://github.com/opencv/opencv)** ![GitHub stars](https://img.shields.io/github/stars/opencv/opencv?style=social) - World's most widely used computer vision library.
 - **[Ultralytics YOLO](https://github.com/ultralytics/ultralytics)** ![GitHub stars](https://img.shields.io/github/stars/ultralytics/ultralytics?style=social) - State-of-the-art real-time object detection.
+- **[YOLO-World](https://github.com/AILab-CVC/YOLO-World)** ![GitHub stars](https://img.shields.io/github/stars/AILab-CVC/YOLO-World?style=social) - Real-time open-vocabulary object detection (CVPR 2024). Detects any object class from natural language descriptions without retraining. GPL-3.0 licensed.
 - **[Detectron2](https://github.com/facebookresearch/detectron2)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/detectron2?style=social) - High-performance object detection library.
 - **[SAM 2](https://github.com/facebookresearch/sam2)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/sam2?style=social) - Promptable image and video segmentation model with released checkpoints and training code.
 - **[Kornia](https://github.com/kornia/kornia)** ![GitHub stars](https://img.shields.io/github/stars/kornia/kornia?style=social) - Differentiable computer vision library.
@@ -553,6 +555,7 @@
 
 - **[Stable-Baselines3](https://github.com/DLR-RM/stable-baselines3)** ![GitHub stars](https://img.shields.io/github/stars/DLR-RM/stable-baselines3?style=social) - Production-ready RL algorithms.
 - **[Isaac Lab](https://github.com/isaac-sim/IsaacLab)** ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/IsaacLab?style=social) - GPU-accelerated robot learning framework.
+- **[Genesis](https://github.com/Genesis-Embodied-AI/Genesis)** ![GitHub stars](https://img.shields.io/github/stars/Genesis-Embodied-AI/Genesis?style=social) - Generative world for general-purpose robotics and embodied AI learning. Universal physics engine integrating diverse solvers (rigid, MPM, SPH, FEM) with photo-realistic rendering. 43M+ FPS simulation speed. Apache 2.0 licensed.
 - **[MuJoCo](https://github.com/google-deepmind/mujoco)** ![GitHub stars](https://img.shields.io/github/stars/google-deepmind/mujoco?style=social) - General-purpose physics simulator for robotics, biomechanics, and ML research. High-fidelity contact dynamics with native Python and C++ bindings. Apache 2.0 licensed.
 - **[Gymnasium (ex-OpenAI Gym)](https://github.com/Farama-Foundation/Gymnasium)** ![GitHub stars](https://img.shields.io/github/stars/Farama-Foundation/Gymnasium?style=social) - Standard RL environment API.
 
