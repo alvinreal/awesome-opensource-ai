@@ -200,6 +200,8 @@
 - **[Xinference](https://github.com/xorbitsai/inference)** ![GitHub stars](https://img.shields.io/github/stars/xorbitsai/inference?style=social) - Unified, production-ready inference API for LLMs, speech, and multimodal models. Drop-in GPT replacement with single-line code changes. Supports thousands of models with auto-batching and distributed inference.
 - **[LightLLM](https://github.com/ModelTC/LightLLM)** ![GitHub stars](https://img.shields.io/github/stars/ModelTC/LightLLM?style=social) - Pure Python-based LLM inference and serving framework with lightweight design, easy extensibility, and high-speed performance. Integrates optimizations from FasterTransformer, TGI, vLLM, and SGLang.
 - **[TabbyAPI](https://github.com/theroyallab/tabbyAPI)** ![GitHub stars](https://img.shields.io/github/stars/theroyallab/tabbyAPI?style=social) - FastAPI-based API server for ExLlamaV2/V3 backends. OpenAI-compatible API with support for model loading/unloading, embeddings, speculative decoding, multi-LoRA, and streaming.
+- **[GPUStack](https://github.com/gpustack/gpustack)** ![GitHub stars](https://img.shields.io/github/stars/gpustack/gpustack?style=social) - GPU cluster manager that orchestrates inference engines like vLLM and SGLang. Automated engine selection, parameter optimization, and distributed multi-GPU deployment for high-performance AI workloads.
+- **[LLMRouter](https://github.com/ulab-uiuc/LLMRouter)** ![GitHub stars](https://img.shields.io/github/stars/ulab-uiuc/LLMRouter?style=social) - Intelligent routing system that optimizes LLM inference by dynamically selecting the most suitable model for each query. Smart multi-model orchestration with load balancing and cost optimization.
 
 #### Quantization, Distillation & Optimization
 
