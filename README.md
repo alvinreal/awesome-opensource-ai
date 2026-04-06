@@ -286,6 +286,9 @@
 - **[LanceDB](https://github.com/lancedb/lancedb)** ![GitHub stars](https://img.shields.io/github/stars/lancedb/lancedb?style=social) - Serverless vector DB optimized for multimodal data.
 - **[Vespa](https://github.com/vespa-engine/vespa)** ![GitHub stars](https://img.shields.io/github/stars/vespa-engine/vespa?style=social) - AI + Data platform with hybrid search (vector + keyword) and real-time indexing at scale. Battle-tested serving billions of queries daily.
 - **[pgvector](https://github.com/pgvector/pgvector)** ![GitHub stars](https://img.shields.io/github/stars/pgvector/pgvector?style=social) - PostgreSQL extension for vector similarity search.
+- **[Quickwit](https://github.com/quickwit-oss/quickwit)** ![GitHub stars](https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social) - Cloud-native search engine for observability. Open-source alternative to Datadog, Elasticsearch, Loki, and Tempo with native vector search support.
+- **[Tantivy](https://github.com/quickwit-oss/tantivy)** ![GitHub stars](https://img.shields.io/github/stars/quickwit-oss/tantivy?style=social) - Full-text search engine library inspired by Apache Lucene and written in Rust. Powers Quickwit and other production search systems.
+- **[Manticore Search](https://github.com/manticoresoftware/manticoresearch)** ![GitHub stars](https://img.shields.io/github/stars/manticoresoftware/manticoresearch?style=social) - Easy to use open source fast database for search. Good alternative to Elasticsearch with SQL-like interface and vector search capabilities.
 
 #### Embedding Models
 
