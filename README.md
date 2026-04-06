@@ -392,6 +392,7 @@
 - **[Data-Juicer](https://github.com/alibaba/data-juicer)** ![GitHub stars](https://img.shields.io/github/stars/alibaba/data-juicer?style=social) - High-performance data processing for LLM training.
 - **[Argilla](https://github.com/argilla-io/argilla)** ![GitHub stars](https://img.shields.io/github/stars/argilla-io/argilla?style=social) - Open-source data labeling + synthetic data platform.
 - **[SDV (Synthetic Data Vault)](https://github.com/sdv-dev/SDV)** ![GitHub stars](https://img.shields.io/github/stars/sdv-dev/SDV?style=social) - High-fidelity tabular and relational synthetic data.
+- **[DataTrove (Hugging Face)](https://github.com/huggingface/datatrove)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/datatrove?style=social) - Platform-agnostic data processing pipelines for LLM training at scale. Handles filtering, deduplication, and tokenization on local machines or SLURM clusters.
 
 #### Distributed Training
 
@@ -400,6 +401,9 @@
 - **[Megatron-LM](https://github.com/NVIDIA/Megatron-LM)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/Megatron-LM?style=social) - Distributed training framework and reference codebase for large transformer models at scale.
 - **[Composer](https://github.com/mosaicml/composer)** ![GitHub stars](https://img.shields.io/github/stars/mosaicml/composer?style=social) - MosaicML's PyTorch library for scalable, efficient neural network training with algorithmic speedups.
 - **[Ray Train](https://github.com/ray-project/ray)** ![GitHub stars](https://img.shields.io/github/stars/ray-project/ray?style=social) - Scalable distributed training.
+- **[Nanotron (Hugging Face)](https://github.com/huggingface/nanotron)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/nanotron?style=social) - Minimalistic 3D-parallelism LLM pretraining with tensor, pipeline, and data parallelism. Designed for simplicity and speed.
+- **[veScale (ByteDance)](https://github.com/volcengine/veScale)** ![GitHub stars](https://img.shields.io/github/stars/volcengine/veScale?style=social) - Hyperscale PyTorch distributed training with flexible FSDP implementation for LLMs and RL training at scale.
+- **[GPT-NeoX (EleutherAI)](https://github.com/EleutherAI/gpt-neox)** ![GitHub stars](https://img.shields.io/github/stars/EleutherAI/gpt-neox?style=social) - Production-grade distributed training framework for large autoregressive transformers, powering models like GPT-J and GPT-NeoX-20B.
 
 ---
 
