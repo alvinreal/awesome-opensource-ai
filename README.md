@@ -493,6 +493,10 @@
 - **[Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai)** ![GitHub stars](https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai?style=social) - Framework for large language model evaluations from the UK AI Safety Institute. Systematic capability and safety assessments with built-in scaffolding for multi-turn dialog, tool use, and adversarial testing. MIT licensed.
 - **[DeepEval](https://github.com/confident-ai/deepeval)** ![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social) - LLM evaluation framework with built-in safety metrics including hallucination detection, bias detection, toxicity evaluation, and prompt alignment checking. Apache 2.0 licensed.
 
+#### Toxicity Detection & Content Moderation
+
+- **[Detoxify](https://github.com/unitaryai/detoxify)** ![GitHub stars](https://img.shields.io/github/stars/unitaryai/detoxify?style=social) - Trained models and code to predict toxic comments, trained on all 3 Jigsaw Toxic Comment Challenges. Built with PyTorch Lightning and Transformers for toxicity, severe toxicity, obscene, threat, insult, and identity attack detection. Apache 2.0 licensed.
+
 #### Alignment & RLHF Tools
 
 - **[Safe-RLHF](https://github.com/PKU-Alignment/safe-rlhf)** ![GitHub stars](https://img.shields.io/github/stars/PKU-Alignment/safe-rlhf?style=social) - Safe reinforcement learning from human feedback.
