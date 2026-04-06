@@ -628,7 +628,10 @@
 - **[Cline](https://github.com/cline/cline)** ![GitHub stars](https://img.shields.io/github/stars/cline/cline?style=social) - Open-source IDE coding agent that can edit files, run commands, and use tools with user approval.
 - **[Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)** ![GitHub stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=social) - Lets LLMs run code locally.
 - **[Roo Code](https://github.com/RooCodeInc/Roo-Code)** ![GitHub stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=social) - Open-source editor-based coding agent with multiple modes and tool integrations.
-- **[Aider](https://github.com/paul-gauthier/aider)** ![GitHub stars](https://img.shields.io/github/stars/paul-gauthier/aider?style=social) - Terminal-based AI pair programmer.
+- **[Aider](https://github.com/Aider-AI/aider)** ![GitHub stars](https://img.shields.io/github/stars/Aider-AI/aider?style=social) - Terminal-based AI pair programmer. One of the top scores on SWE Bench. Apache 2.0 licensed.
+- **[Goose](https://github.com/block/goose)** ![GitHub stars](https://img.shields.io/github/stars/block/goose?style=social) - Open-source extensible AI agent from Block (Square/Cash App) that goes beyond code suggestions - install, execute, edit, and test with any LLM. Apache 2.0 licensed.
+- **[Codex CLI](https://github.com/openai/codex)** ![GitHub stars](https://img.shields.io/github/stars/openai/codex?style=social) - OpenAI's lightweight coding agent that runs in your terminal. Built for developers who live in the CLI. Apache 2.0 licensed.
+- **[OpenCode](https://github.com/opencode-ai/opencode)** ![GitHub stars](https://img.shields.io/github/stars/opencode-ai/opencode?style=social) - Powerful AI coding agent built for the terminal with TUI interface. MIT licensed.
 
 #### IDE Plugins & Extensions
 
