@@ -139,6 +139,7 @@
 - **[GLM-5 (Zhipu AI)](https://github.com/zai-org/GLM-5)** ![GitHub stars](https://img.shields.io/github/stars/zai-org/GLM-5?style=social) - Strong open model line with solid coding, reasoning, and agentic-task performance.
 - **[OLMo 2 (Allen AI)](https://github.com/allenai/OLMo)** ![GitHub stars](https://img.shields.io/github/stars/allenai/OLMo?style=social) - Fully open-source LLMs (1B–32B) with complete transparency: models, data, training code, and logs. Designed by scientists, for scientists.
 - **[Llama 4 (Meta)](https://github.com/meta-llama/llama-models)** ![GitHub stars](https://img.shields.io/github/stars/meta-llama/llama-models?style=social) - First native multimodal MoE open-source models (Scout: 10M context, Maverick: 400B+ params). Released April 2025 with enterprise-grade capabilities.
+- **[GPT-OSS (OpenAI)](https://github.com/openai/gpt-oss)** ![GitHub stars](https://img.shields.io/github/stars/openai/gpt-oss?style=social) - OpenAI's first open-weight models since GPT-2 (120B and 20B MoE). Apache 2.0 licensed with state-of-the-art performance for their size class. Released August 2025.
 
 #### Coding & Reasoning Models
 
