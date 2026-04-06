@@ -274,12 +274,17 @@
 - **[Milvus](https://github.com/milvus-io/milvus)** ![GitHub stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social) - Scalable cloud-native vector database.
 - **[Faiss](https://github.com/facebookresearch/faiss)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/faiss?style=social) - Similarity search and clustering library for dense vectors with CPU and GPU implementations.
 - **[LanceDB](https://github.com/lancedb/lancedb)** ![GitHub stars](https://img.shields.io/github/stars/lancedb/lancedb?style=social) - Serverless vector DB optimized for multimodal data.
+- **[Vespa](https://github.com/vespa-engine/vespa)** ![GitHub stars](https://img.shields.io/github/stars/vespa-engine/vespa?style=social) - AI + Data platform with hybrid search (vector + keyword) and real-time indexing at scale. Battle-tested serving billions of queries daily.
 - **[pgvector](https://github.com/pgvector/pgvector)** ![GitHub stars](https://img.shields.io/github/stars/pgvector/pgvector?style=social) - PostgreSQL extension for vector similarity search.
 
 #### Embedding Models
 
 - **[BGE (FlagEmbedding)](https://github.com/FlagOpen/FlagEmbedding)** ![GitHub stars](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding?style=social) - BAAI's best-in-class embedding family.
 - **[E5 (Microsoft)](https://github.com/microsoft/unilm)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/unilm?style=social) - High-performance text embeddings for retrieval.
+
+#### Embedding Benchmarks
+
+- **[MTEB](https://github.com/embeddings-benchmark/mteb)** ![GitHub stars](https://img.shields.io/github/stars/embeddings-benchmark/mteb?style=social) - Massive Text Embedding Benchmark covering 1000+ languages and diverse tasks. The industry standard for evaluating and comparing embedding models.
 
 #### RAG Frameworks & Advanced Retrieval Tools
 
@@ -289,6 +294,7 @@
 - **[GraphRAG (Microsoft)](https://github.com/microsoft/graphrag)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/graphrag?style=social) - Knowledge-graph-based RAG.
 - **[Docling](https://github.com/docling-project/docling)** ![GitHub stars](https://img.shields.io/github/stars/docling-project/docling?style=social) - Document processing toolkit for turning PDFs and other files into structured data for GenAI workflows.
 - **[Unstructured](https://github.com/Unstructured-IO/unstructured)** ![GitHub stars](https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social) - Best-in-class document preprocessing.
+- **[MinerU](https://github.com/opendatalab/MinerU)** ![GitHub stars](https://img.shields.io/github/stars/opendatalab/MinerU?style=social) - High-accuracy document parsing for LLM and RAG workflows. Converts PDFs, Word, PPTs, and images into structured Markdown/JSON with VLM+OCR dual engine.
 - **[ColPali / ColQwen](https://github.com/illuin-tech/colpali)** ![GitHub stars](https://img.shields.io/github/stars/illuin-tech/colpali?style=social) - Vision-language models for document retrieval.
 - **[LightRAG](https://github.com/HKUDS/LightRAG)** ![GitHub stars](https://img.shields.io/github/stars/HKUDS/LightRAG?style=social) - Graph-based RAG with dual-level retrieval system. Simple and fast with comprehensive knowledge discovery (EMNLP 2025).
 - **[RAG-Anything](https://github.com/HKUDS/RAG-Anything)** ![GitHub stars](https://img.shields.io/github/stars/HKUDS/RAG-Anything?style=social) - All-in-One Multimodal RAG system for seamless processing of text, images, tables, and equations. Built on LightRAG.
@@ -300,6 +306,7 @@
 - **[Crawl4AI](https://github.com/unclecode/crawl4ai)** ![GitHub stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social) - LLM-friendly web crawler that turns websites into clean Markdown for RAG and agentic workflows.
 - **[Lightpanda](https://github.com/lightpanda-io/browser)** ![GitHub stars](https://img.shields.io/github/stars/lightpanda-io/browser?style=social) - Machine-first headless browser in Zig; rendering-free and ultra-lightweight for AI agent browsing.
 - **[Paperless-AI](https://github.com/clusterzx/paperless-ai)** ![GitHub stars](https://img.shields.io/github/stars/clusterzx/paperless-ai?style=social) - Automated document analyzer for Paperless-ngx with RAG-powered semantic search across your document archive.
+- **[Firecrawl](https://github.com/firecrawl/firecrawl)** ![GitHub stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=social) - Web Data API for AI - search, scrape, and interact with the web at scale. Clean markdown/JSON output with proxy rotation and JS-blocking handled automatically.
 
 ---
 
