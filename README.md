@@ -283,6 +283,7 @@
 - **[LanceDB](https://github.com/lancedb/lancedb)** ![GitHub stars](https://img.shields.io/github/stars/lancedb/lancedb?style=social) - Serverless vector DB optimized for multimodal data.
 - **[Vespa](https://github.com/vespa-engine/vespa)** ![GitHub stars](https://img.shields.io/github/stars/vespa-engine/vespa?style=social) - AI + Data platform with hybrid search (vector + keyword) and real-time indexing at scale. Battle-tested serving billions of queries daily.
 - **[pgvector](https://github.com/pgvector/pgvector)** ![GitHub stars](https://img.shields.io/github/stars/pgvector/pgvector?style=social) - PostgreSQL extension for vector similarity search.
+- **[Rivestack](https://rivestack.io)** - Managed PostgreSQL with pgvector for AI workloads. Built-in SQL editor lets you query your database with natural language (automatically converted to vector embeddings). Free tier includes 2GB storage.
 
 #### Embedding Models
 
