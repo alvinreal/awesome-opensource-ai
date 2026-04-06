@@ -230,6 +230,8 @@
 - **[Agno](https://github.com/agno-agi/agno)** ![GitHub stars](https://img.shields.io/github/stars/agno-agi/agno?style=social) - Build, run, and manage agentic software at scale. High-performance framework for multi-agent systems with memory, knowledge, and tools.
 - **[Upsonic](https://github.com/Upsonic/Upsonic)** ![GitHub stars](https://img.shields.io/github/stars/Upsonic/Upsonic?style=social) - Agent framework for fintech and banking with built-in MCP support, guardrails, and tool server architecture.
 - **[VoltAgent](https://github.com/VoltAgent/voltagent)** ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/voltagent?style=social) - TypeScript-first AI agent engineering platform with memory, RAG, workflows, MCP integration, and voice support.
+- **[Eliza (elizaOS)](https://github.com/elizaOS/eliza)** ![GitHub stars](https://img.shields.io/github/stars/elizaOS/eliza?style=social) - Autonomous agents for everyone. Popular framework for creating AI agents with persistent memory, enabling natural and engaging interactions.
+- **[SuperAGI](https://github.com/TransformerOptimus/SuperAGI)** ![GitHub stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social) - Dev-first open-source autonomous AI agent framework for building, managing and running useful autonomous agents quickly and reliably.
 
 #### Multi-Agent Orchestration
 
@@ -263,6 +265,7 @@
 - **[AI-Scientist-v2 (SakanaAI)](https://github.com/SakanaAI/AI-Scientist-v2)** ![GitHub stars](https://img.shields.io/github/stars/SakanaAI/AI-Scientist-v2?style=social) - Workshop-level automated scientific discovery via agentic tree search. Generates novel research ideas, runs experiments, and writes papers.
 - **[PraisonAI](https://github.com/MervinPraison/PraisonAI)** ![GitHub stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=social) - 24/7 AI employee team for automating complex challenges. Low-code multi-agent framework with handoffs, guardrails, memory, RAG, and 100+ LLM providers.
 - **[Agent-S (Simular AI)](https://github.com/simular-ai/Agent-S)** ![GitHub stars](https://img.shields.io/github/stars/simular-ai/Agent-S?style=social) - Open agentic framework that uses computers like a human. SOTA on OSWorld benchmark (72.6%) for GUI automation and computer control.
+- **[Midscene](https://github.com/web-infra-dev/midscene)** ![GitHub stars](https://img.shields.io/github/stars/web-infra-dev/midscene?style=social) - AI-powered, vision-driven UI automation for every platform. Natural language interaction with web pages for testing and task automation.
 
 #### Agent Memory & State
 
