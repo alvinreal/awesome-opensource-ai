@@ -594,6 +594,7 @@
 - **[NextChat](https://github.com/ChatGPTNextWeb/NextChat)** ![GitHub stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=social) - Light and fast AI assistant supporting Web, iOS, macOS, Android, Linux, and Windows. One-click deploy with multi-model support. MIT licensed.
 - **[big-AGI](https://github.com/enricoros/big-AGI)** ![GitHub stars](https://img.shields.io/github/stars/enricoros/big-AGI?style=social) - AI suite for power users with multi-model "Beam" chats, AI personas, voice, text-to-image, code execution, and PDF import. MIT licensed.
 - **[Leon](https://github.com/leon-ai/leon)** ![GitHub stars](https://img.shields.io/github/stars/leon-ai/leon?style=social) - Your open-source personal assistant. Built around tools, context, memory, and agentic execution. Self-hosted, privacy-focused, and extensible. MIT licensed.
+- **[CoPaw](https://github.com/agentscope-ai/CoPaw)** ![GitHub stars](https://img.shields.io/github/stars/agentscope-ai/CoPaw?style=social) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities. Apache-2.0 licensed.
 
 #### Full Self-hosted AI Platforms
 
@@ -607,6 +608,8 @@
 #### Desktop & Mobile AI Apps
 
 - **[Jan](https://github.com/janhq/jan)** ![GitHub stars](https://img.shields.io/github/stars/janhq/jan?style=social) - Local-first AI app framework.
+- **[Cherry Studio](https://github.com/CherryHQ/cherry-studio)** ![GitHub stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=social) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs. AGPL-3.0 licensed.
+- **[DeepChat](https://github.com/ThinkInAIXYZ/deepchat)** ![GitHub stars](https://img.shields.io/github/stars/ThinkInAIXYZ/deepchat?style=social) - A smart assistant that connects powerful AI to your personal world. Built-in MCP and ACP support, multiple search engines, privacy-focused with local data storage. Apache-2.0 licensed.
 - **[SillyTavern](https://github.com/SillyTavern/SillyTavern)** ![GitHub stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=social) - Highly customizable role-playing frontend.
 
 #### Agent & Voice Infrastructure
@@ -637,6 +640,7 @@
 #### UI Components & Chat Libraries
 
 - **[Assistant UI](https://github.com/assistant-ui/assistant-ui)** ![GitHub stars](https://img.shields.io/github/stars/assistant-ui/assistant-ui?style=social) - React/TypeScript library for building production-grade AI chat interfaces. Drop-in components for streaming messages, tool calls, and multi-modal inputs.
+- **[Deep Chat](https://github.com/OvidijusParsiunas/deep-chat)** ![GitHub stars](https://img.shields.io/github/stars/OvidijusParsiunas/deep-chat?style=social) - Fully customizable AI chatbot component for your website. Supports OpenAI, direct API services, and custom endpoints. MIT licensed.
 
 #### Testing & Debugging Tools
 
