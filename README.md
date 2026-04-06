@@ -33,6 +33,7 @@
 
 </div>
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - Open-source 49 AI agent system prompts for Claude Code multi-agent orchestration. MIT licensed.
 ## 📋 Contents
 
 - [🧬 1. Core Frameworks & Libraries](#-1-core-frameworks--libraries)
