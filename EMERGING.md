@@ -101,7 +101,7 @@
 
 > Experimental observability tools, deployment patterns, and safety guardrails.
 
-- **[Director-AI](https://github.com/anulum/director-ai)** ![GitHub stars](https://img.shields.io/github/stars/anulum/director-ai?style=social) - Real-time LLM hallucination guardrail with NLI + RAG fact-checking and token-level streaming halt.
+*No entries yet — [submit one!](./CONTRIBUTING.md)*
 
 ---
 
@@ -202,4 +202,3 @@ This list is licensed under [CC0 1.0 Universal](https://creativecommons.org/publ
 **Made with 🌱 for the next generation of open-source AI.**
 
 Star the repo to help promising projects get discovered!
-
