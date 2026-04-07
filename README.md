@@ -498,6 +498,8 @@
 - **[Lighteval](https://github.com/huggingface/lighteval)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/lighteval?style=social) - Evaluation toolkit for LLMs across multiple backends with reusable tasks, metrics, and result tracking.
 - **[Hugging Face Evaluate](https://github.com/huggingface/evaluate)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/evaluate?style=social) - Standardized evaluation metrics.
 - **[OpenAI Evals](https://github.com/openai/evals)** ![GitHub stars](https://img.shields.io/github/stars/openai/evals?style=social) - Framework for evaluating LLMs and LLM systems with an open-source registry of 100+ community-contributed benchmarks. MIT licensed.
+- **[BigCode Evaluation Harness](https://github.com/bigcode-project/bigcode-evaluation-harness)** ![GitHub stars](https://img.shields.io/github/stars/bigcode-project/bigcode-evaluation-harness?style=social) - Framework for evaluating autoregressive code generation models on HumanEval, MBPP, and custom benchmarks. Apache 2.0 licensed.
+- **[EvalPlus](https://github.com/evalplus/evalplus)** ![GitHub stars](https://img.shields.io/github/stars/evalplus/evalplus?style=social) - Rigorous evaluation framework for LLM-synthesized code with HumanEval+ and MBPP+ benchmarks. Used by Meta Llama, Qwen, DeepSeek-Coder. NeurIPS 2023. Apache 2.0 licensed.
 
 #### High-quality Open Datasets & Data Tools
 
