@@ -270,6 +270,7 @@
 
 #### Domain-Specific Agents
 
+- **[Composio](https://github.com/ComposioHQ/composio)** ![GitHub stars](https://img.shields.io/github/stars/ComposioHQ/composio?style=social) - Tool integration layer for AI agents with 1000+ toolkits, authentication management, and sandboxed workbench. Powers tool use across major frameworks.
 - **[Langflow](https://github.com/langflow-ai/langflow)** ![GitHub stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social) - Visual low-code platform for agentic workflows.
 - **[Dify](https://github.com/langgenius/dify)** ![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=social) - Production-ready agentic workflow platform.
 - **[OWL (camel-ai/owl)](https://github.com/camel-ai/owl)** ![GitHub stars](https://img.shields.io/github/stars/camel-ai/owl?style=social) - Advanced multi-agent collaboration system.
