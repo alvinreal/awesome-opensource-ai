@@ -175,6 +175,7 @@
 - **[Dia (Nari Labs)](https://github.com/nari-labs/dia)** ![GitHub stars](https://img.shields.io/github/stars/nari-labs/dia?style=social) - 1.6B parameter TTS generating ultra-realistic dialogue in one pass with nonverbal communications (laughter, coughing). Emotion and tone control via audio conditioning.
 - **[Step-Audio (StepFun)](https://github.com/stepfun-ai/Step-Audio)** ![GitHub stars](https://img.shields.io/github/stars/stepfun-ai/Step-Audio?style=social) - 130B-parameter production-ready audio LLM for intelligent speech interaction. Supports multilingual conversations (Chinese, English, Japanese), emotional tones, regional dialects (Cantonese, Sichuanese), adjustable speech rates, and prosodic styles including rap. Apache 2.0 licensed.
 - **[Voxtral TTS (Mistral)](https://github.com/mistralai/mistral-inference)** ![GitHub stars](https://img.shields.io/github/stars/mistralai/mistral-inference?style=social) - 4B parameter state-of-the-art TTS with zero-shot voice cloning, 9-language support, and ~90ms time-to-first-audio for voice agents.
+- **[WhisperSpeech](https://github.com/WhisperSpeech/WhisperSpeech)** ![GitHub stars](https://img.shields.io/github/stars/WhisperSpeech/WhisperSpeech?style=social) - Open source text-to-speech system built by inverting Whisper. High-quality voice cloning with zero-shot capabilities. MIT licensed.
 
 #### Video & Animation Models
 
