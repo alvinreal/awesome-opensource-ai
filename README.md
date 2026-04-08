@@ -198,6 +198,7 @@
 - **[WebLLM](https://github.com/mlc-ai/web-llm)** ![GitHub stars](https://img.shields.io/github/stars/mlc-ai/web-llm?style=social) - High-performance in-browser LLM inference engine. Runs models directly in the browser with WebGPU acceleration.
 - **[llama-cpp-python](https://github.com/abetlen/llama-cpp-python)** ![GitHub stars](https://img.shields.io/github/stars/abetlen/llama-cpp-python?style=social) - Official Python bindings for llama.cpp.
 - **[KoboldCpp](https://github.com/LostRuins/koboldcpp)** ![GitHub stars](https://img.shields.io/github/stars/LostRuins/koboldcpp?style=social) - User-friendly llama.cpp fork focused on role-playing and creative writing.
+- **[RamaLama](https://github.com/containers/ramalama)** ![GitHub stars](https://img.shields.io/github/stars/containers/ramalama?style=social) - Container-centric tool for simplifying local AI model serving. Automatically detects GPUs, pulls optimized container images, and runs models securely in rootless containers with enterprise-grade isolation.
 
 #### High-performance Serving & API Servers
 
