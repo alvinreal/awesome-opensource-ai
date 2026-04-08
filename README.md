@@ -594,7 +594,6 @@
 - **[SAM 2](https://github.com/facebookresearch/sam2)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/sam2?style=social) - Promptable image and video segmentation model with released checkpoints and training code.
 - **[Kornia](https://github.com/kornia/kornia)** ![GitHub stars](https://img.shields.io/github/stars/kornia/kornia?style=social) - Differentiable computer vision library.
 - **[MediaPipe](https://github.com/google-ai-edge/mediapipe)** ![GitHub stars](https://img.shields.io/github/stars/google-ai-edge/mediapipe?style=social) - Cross-platform multimodal pipelines.
-- **[nerfstudio](https://github.com/nerfstudio-project/nerfstudio)** ![GitHub stars](https://img.shields.io/github/stars/nerfstudio-project/nerfstudio?style=social) - A collaboration friendly studio for NeRFs.
 
 #### Reinforcement Learning & Robotics
 
