@@ -598,6 +598,7 @@
 
 #### Reinforcement Learning & Robotics
 
+- **[LeRobot (Hugging Face)](https://github.com/huggingface/lerobot)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/lerobot?style=social) - State-of-the-art machine learning framework for real-world robotics. End-to-end learning with models, datasets, and training tools for robotic manipulation tasks.
 - **[Stable-Baselines3](https://github.com/DLR-RM/stable-baselines3)** ![GitHub stars](https://img.shields.io/github/stars/DLR-RM/stable-baselines3?style=social) - Production-ready RL algorithms.
 - **[Isaac Lab](https://github.com/isaac-sim/IsaacLab)** ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/IsaacLab?style=social) - GPU-accelerated robot learning framework.
 - **[MuJoCo](https://github.com/google-deepmind/mujoco)** ![GitHub stars](https://img.shields.io/github/stars/google-deepmind/mujoco?style=social) - General-purpose physics simulator for robotics, biomechanics, and ML research. High-fidelity contact dynamics with native Python and C++ bindings. Apache 2.0 licensed.
