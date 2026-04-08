@@ -119,6 +119,12 @@
 - **[FLAML](https://github.com/microsoft/FLAML)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/FLAML?style=social) - Microsoft's fast & lightweight AutoML focused on efficiency and low compute.
 - **[AutoKeras](https://github.com/keras-team/autokeras)** ![GitHub stars](https://img.shields.io/github/stars/keras-team/autokeras?style=social) - Neural architecture search on top of Keras.
 
+#### Interactive ML Apps & Notebooks
+
+- **[Streamlit](https://github.com/streamlit/streamlit)** ![GitHub stars](https://img.shields.io/github/stars/streamlit/streamlit?style=social) - The fastest way to build and share data apps. Transform Python scripts into beautiful web applications with minimal code. Widely used for ML model demos, data visualization, and internal tools.
+- **[Gradio](https://github.com/gradio-app/gradio)** ![GitHub stars](https://img.shields.io/github/stars/gradio-app/gradio?style=social) - Build and share delightful machine learning apps, all in Python. The de facto standard for creating interactive ML demos with automatic UI generation from function signatures. Powers thousands of Hugging Face Spaces.
+- **[Marimo](https://github.com/marimo-team/marimo)** ![GitHub stars](https://img.shields.io/github/stars/marimo-team/marimo?style=social) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
+
 #### Model Training & Optimization Utilities
 
 - **[Hugging Face Accelerate](https://github.com/huggingface/accelerate)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/accelerate?style=social) - Simple API to make training scripts run on any hardware (multi-GPU, TPU, mixed precision) with minimal code changes.
