@@ -532,6 +532,7 @@
 
 #### Interpretability & Explainability
 
+- **[interpret (Microsoft)](https://github.com/interpretml/interpret)** ![GitHub stars](https://img.shields.io/github/stars/interpretml/interpret?style=social) - Fit interpretable models and explain blackbox machine learning with state-of-the-art explainability techniques including Explainable Boosting Machines and SHAP-based explanations.
 - **[TransformerLens](https://github.com/TransformerLensOrg/TransformerLens)** ![GitHub stars](https://img.shields.io/github/stars/TransformerLensOrg/TransformerLens?style=social) - Gold-standard for mechanistic interpretability.
 - **[SAELens](https://github.com/jbloomAus/SAELens)** ![GitHub stars](https://img.shields.io/github/stars/jbloomAus/SAELens?style=social) - Sparse autoencoders for interpretable features.
 - **[Captum](https://github.com/pytorch/captum)** ![GitHub stars](https://img.shields.io/github/stars/pytorch/captum?style=social) - PyTorch's official interpretability library.
