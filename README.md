@@ -409,6 +409,9 @@
 - **[TRL (Transformers Reinforcement Learning)](https://github.com/huggingface/trl)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/trl?style=social) - Official library for RLHF, SFT, DPO, ORPO.
 - **[verl](https://github.com/volcengine/verl)** ![GitHub stars](https://img.shields.io/github/stars/volcengine/verl?style=social) - Volcano Engine Reinforcement Learning for LLMs with PPO, GRPO, REINFORCE++, DAPO (EuroSys 2025).
 - **[NeMo-RL](https://github.com/NVIDIA-NeMo/RL)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA-NeMo/RL?style=social) - Scalable toolkit for efficient model reinforcement with DTensor and Megatron backends.
+- **[OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)** ![GitHub stars](https://img.shields.io/github/stars/OpenRLHF/OpenRLHF?style=social) - Easy-to-use, scalable RLHF framework based on Ray. Supports PPO, GRPO, REINFORCE++, DAPO with vLLM integration and async training. Apache 2.0 licensed.
+- **[LMFlow](https://github.com/OptimalScale/LMFlow)** ![GitHub stars](https://img.shields.io/github/stars/OptimalScale/LMFlow?style=social) - Extensible toolkit for finetuning and inference of large foundation models. Features RAFT alignment algorithm and comprehensive model support. Apache 2.0 licensed.
+- **[H2O LLM Studio](https://github.com/h2oai/h2o-llmstudio)** ![GitHub stars](https://img.shields.io/github/stars/h2oai/h2o-llmstudio?style=social) - No-code GUI framework for fine-tuning LLMs. Streamlined interface for SFT, reward modeling, and model deployment. Apache 2.0 licensed.
 
 #### LoRA / PEFT Tools
 
