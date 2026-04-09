@@ -310,6 +310,7 @@
 - **[Tantivy](https://github.com/quickwit-oss/tantivy)** ![GitHub stars](https://img.shields.io/github/stars/quickwit-oss/tantivy?style=social) - Full-text search engine library inspired by Apache Lucene and written in Rust. Powers Quickwit and other production search systems.
 - **[Manticore Search](https://github.com/manticoresoftware/manticoresearch)** ![GitHub stars](https://img.shields.io/github/stars/manticoresoftware/manticoresearch?style=social) - Easy to use open source fast database for search. Good alternative to Elasticsearch with SQL-like interface and vector search capabilities.
 - **[OpenSearch](https://github.com/opensearch-project/OpenSearch)** ![GitHub stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social) - Open-source distributed and RESTful search and analytics suite with native vector search. Enterprise-grade fork of Elasticsearch with k-NN plugin for semantic search at scale.
+- **[zvec (Alibaba)](https://github.com/alibaba/zvec)** ![GitHub stars](https://img.shields.io/github/stars/alibaba/zvec?style=social) - Lightweight, lightning-fast, in-process vector database for embedded AI applications. Apache 2.0 licensed.
 
 #### Embedding Models
 
@@ -326,6 +327,8 @@
 - **[Haystack](https://github.com/deepset-ai/haystack)** ![GitHub stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social) - End-to-end NLP and RAG framework.
 - **[RAGFlow](https://github.com/infiniflow/ragflow)** ![GitHub stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social) - Deep-document-understanding RAG engine.
 - **[GraphRAG (Microsoft)](https://github.com/microsoft/graphrag)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/graphrag?style=social) - Knowledge-graph-based RAG.
+- **[Graphiti (Zep)](https://github.com/getzep/graphiti)** ![GitHub stars](https://img.shields.io/github/stars/getzep/graphiti?style=social) - Build real-time knowledge graphs for AI agents. Temporal graph construction with entity extraction and relationship tracking. Apache 2.0 licensed.
+- **[Autoflow (PingCAP)](https://github.com/pingcap/autoflow)** ![GitHub stars](https://img.shields.io/github/stars/pingcap/autoflow?style=social) - Graph RAG based conversational knowledge base tool built with TiDB Serverless Vector Storage. MIT licensed.
 - **[Docling](https://github.com/docling-project/docling)** ![GitHub stars](https://img.shields.io/github/stars/docling-project/docling?style=social) - Document processing toolkit for turning PDFs and other files into structured data for GenAI workflows.
 - **[Unstructured](https://github.com/Unstructured-IO/unstructured)** ![GitHub stars](https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social) - Best-in-class document preprocessing.
 - **[MinerU](https://github.com/opendatalab/MinerU)** ![GitHub stars](https://img.shields.io/github/stars/opendatalab/MinerU?style=social) - High-accuracy document parsing for LLM and RAG workflows. Converts PDFs, Word, PPTs, and images into structured Markdown/JSON with VLM+OCR dual engine.
@@ -335,6 +338,7 @@
 - **[RAG-Anything](https://github.com/HKUDS/RAG-Anything)** ![GitHub stars](https://img.shields.io/github/stars/HKUDS/RAG-Anything?style=social) - All-in-One Multimodal RAG system for seamless processing of text, images, tables, and equations. Built on LightRAG.
 - **[txtai](https://github.com/neuml/txtai)** ![GitHub stars](https://img.shields.io/github/stars/neuml/txtai?style=social) - All-in-one AI framework for semantic search, LLM orchestration and language model workflows. Embeddings database with customizable pipelines.
 - **[Infinity](https://github.com/michaelfeil/infinity)** ![GitHub stars](https://img.shields.io/github/stars/michaelfeil/infinity?style=social) - High-throughput, low-latency serving engine for text-embeddings, reranking, CLIP, and ColPali. OpenAI-compatible API.
+- **[Text Embeddings Inference (Hugging Face)](https://github.com/huggingface/text-embeddings-inference)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/text-embeddings-inference?style=social) - Blazing fast inference solution for text embeddings models. Production-grade embedding serving with GPU and CPU backends. Apache 2.0 licensed.
 
 #### Web Data Ingestion
 
