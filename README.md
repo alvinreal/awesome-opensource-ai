@@ -619,6 +619,7 @@
 - **[Chronos (Amazon)](https://github.com/amazon-science/chronos-forecasting)** ![GitHub stars](https://img.shields.io/github/stars/amazon-science/chronos-forecasting?style=social) - Pretrained foundation models for time-series forecasting.
 - **[Darts](https://github.com/unit8co/darts)** ![GitHub stars](https://img.shields.io/github/stars/unit8co/darts?style=social) - Easy-to-use time-series forecasting library.
 - **[AutoTS](https://github.com/winedarksea/AutoTS)** ![GitHub stars](https://img.shields.io/github/stars/winedarksea/AutoTS?style=social) - Automated time series forecasting with broad model selection, ensembling, anomaly detection, and holiday effects. Designed for production deployment with minimal setup.
+- **[tsfresh](https://github.com/blue-yonder/tsfresh)** ![GitHub stars](https://img.shields.io/github/stars/blue-yonder/tsfresh?style=social) - Automatic time-series feature extraction with 63M+ downloads. Extracts 800+ features for classification, regression, and anomaly detection. Powers production forecasting pipelines at Blue Yonder and SAP. MIT licensed.
 
 #### Edge / On-device AI
 
