@@ -185,6 +185,7 @@
 
 - **[CogVideoX (Zhipu AI / community)](https://github.com/THUDM/CogVideo)** ![GitHub stars](https://img.shields.io/github/stars/THUDM/CogVideo?style=social) - High-quality open text-to-video model (5B-12B).
 - **[Mochi 1 (Genmo)](https://github.com/genmoai/mochi)** ![GitHub stars](https://img.shields.io/github/stars/genmoai/mochi?style=social) - 10B open video model with impressive motion and consistency.
+- **[LTX-2 (Lightricks)](https://github.com/Lightricks/LTX-2)** ![GitHub stars](https://img.shields.io/github/stars/Lightricks/LTX-2?style=social) - First DiT-based audio-video foundation model with synchronized sound generation. 22B parameters, native 4K at 50 FPS, fully open weights with production-ready outputs and API access.
 
 ---
 
