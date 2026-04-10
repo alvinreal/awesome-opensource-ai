@@ -593,6 +593,7 @@
 
 #### Adversarial & Red-teaming Tools
 
+- **[PyRIT (Microsoft)](https://github.com/microsoft/PyRIT)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/PyRIT?style=social) - Python Risk Identification Tool for generative AI. Open-source framework for security professionals to proactively identify risks in generative AI systems through automated red teaming.
 - **[Garak](https://github.com/NVIDIA/garak)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/garak?style=social) - Automated LLM vulnerability scanner.
 - **[Promptfoo](https://github.com/promptfoo/promptfoo)** ![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social) - Systematic prompt testing and red-teaming.
 - **[LLM Guard](https://github.com/protectai/llm-guard)** ![GitHub stars](https://img.shields.io/github/stars/protectai/llm-guard?style=social) - Input/output scanner for LLMs.
