@@ -262,6 +262,7 @@
 - **[Agency Swarm](https://github.com/VRSEN/agency-swarm)** ![GitHub stars](https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social) - Reliable multi-agent orchestration framework built on top of the OpenAI Assistants API with organizational structure modeling.
 - **[elizaOS](https://github.com/elizaOS/eliza)** ![GitHub stars](https://img.shields.io/github/stars/elizaOS/eliza?style=social) - Autonomous multi-agent framework for building and deploying AI-powered applications. Features Discord/Telegram/Farcaster connectors, RAG support, and a modern web dashboard.
 - **[Agent Squad (AWS Labs)](https://github.com/awslabs/agent-squad)** ![GitHub stars](https://img.shields.io/github/stars/awslabs/agent-squad?style=social) - Flexible multi-agent orchestration framework with intelligent intent classification and context management. Supports Python and TypeScript with pre-built agents for Bedrock, Lex, and custom integrations. Apache 2.0 licensed.
+- **[BeeAI Framework (IBM)](https://github.com/i-am-bee/bee-agent-framework)** ![GitHub stars](https://img.shields.io/github/stars/i-am-bee/bee-agent-framework?style=social) - Production-ready multi-agent framework in Python and TypeScript. Features workflow orchestration, ACP/MCP protocol support, and deep watsonx integration. Part of Linux Foundation AI & Data program.
 
 #### Autonomous Coding Agents
 
