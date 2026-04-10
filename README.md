@@ -323,6 +323,7 @@
 - **[BGE (FlagEmbedding)](https://github.com/FlagOpen/FlagEmbedding)** ![GitHub stars](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding?style=social) - BAAI's best-in-class embedding family.
 - **[E5 (Microsoft)](https://github.com/microsoft/unilm)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/unilm?style=social) - High-performance text embeddings for retrieval.
 - **[FastEmbed (Qdrant)](https://github.com/qdrant/fastembed)** ![GitHub stars](https://img.shields.io/github/stars/qdrant/fastembed?style=social) - Lightweight, fast Python library for embedding generation with ONNX Runtime. Supports text, sparse (SPLADE), and late-interaction (ColBERT) embeddings without GPU dependencies. Apache 2.0 licensed.
+- **[EmbedAnything](https://github.com/StarlightSearch/EmbedAnything)** ![GitHub stars](https://img.shields.io/github/stars/StarlightSearch/EmbedAnything?style=social) - Minimalist, highly performant multimodal embedding pipeline built in Rust. Memory-safe, modular, and production-ready for text, image, and audio embeddings with seamless vector DB integration. Apache 2.0 licensed.
 
 #### Embedding Benchmarks
 
@@ -344,6 +345,8 @@
 - **[txtai](https://github.com/neuml/txtai)** ![GitHub stars](https://img.shields.io/github/stars/neuml/txtai?style=social) - All-in-one AI framework for semantic search, LLM orchestration and language model workflows. Embeddings database with customizable pipelines.
 - **[Infinity](https://github.com/michaelfeil/infinity)** ![GitHub stars](https://img.shields.io/github/stars/michaelfeil/infinity?style=social) - High-throughput, low-latency serving engine for text-embeddings, reranking, CLIP, and ColPali. OpenAI-compatible API.
 - **[FlashRAG](https://github.com/RUC-NLPIR/FlashRAG)** ![GitHub stars](https://img.shields.io/github/stars/RUC-NLPIR/FlashRAG?style=social) - Efficient toolkit for RAG research with 40+ retrieval and reranking models, 20+ benchmark datasets, and optimized evaluation pipelines (WWW 2025 Resource). MIT licensed.
+- **[DocsGPT](https://github.com/arc53/DocsGPT)** ![GitHub stars](https://img.shields.io/github/stars/arc53/DocsGPT?style=social) - Private AI platform for building intelligent agents and assistants with enterprise search. Features Agent Builder, deep research tools, multi-format document analysis, and multi-model support. MIT licensed.
+- **[fastRAG](https://github.com/IntelLabs/fastRAG)** ![GitHub stars](https://img.shields.io/github/stars/IntelLabs/fastRAG?style=social) - Efficient retrieval augmentation and generation framework by Intel Labs. Optimized for resource-efficient RAG pipelines with quantization and distillation support. Apache 2.0 licensed.
 
 #### Web Data Ingestion
 
