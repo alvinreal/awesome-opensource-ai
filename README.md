@@ -787,6 +787,10 @@
 - **[TensorFlow Tutorials](https://github.com/tensorflow/docs)** ![GitHub stars](https://img.shields.io/github/stars/tensorflow/docs?style=social) - Official guides for beginners to advanced users.
 - **[Hugging Face Transformers Notebooks](https://github.com/huggingface/notebooks)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/notebooks?style=social) - Run Transformers, Datasets, and more in Colab.
 
+#### Curated Resource Lists
+
+- **[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)** ![GitHub stars](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social) - The definitive curated list of machine learning frameworks, libraries and software organized by language. Covers Python, C++, Java, JavaScript, and more with comprehensive coverage of the ML ecosystem. CC0-1.0 licensed.
+
 ---
 
 ## Contributing
