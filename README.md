@@ -141,6 +141,7 @@
 - **[torchmetrics](https://github.com/Lightning-AI/torchmetrics)** ![GitHub stars](https://img.shields.io/github/stars/Lightning-AI/torchmetrics?style=social) - Machine learning metrics for distributed, scalable PyTorch applications. 80+ metrics with built-in distributed synchronization.
 - **[torchao](https://github.com/pytorch/ao)** ![GitHub stars](https://img.shields.io/github/stars/pytorch/ao?style=social) - PyTorch native quantization and sparsity for training and inference. Drop-in optimizations for production deployment.
 - **[SHAP](https://github.com/shap/shap)** ![GitHub stars](https://img.shields.io/github/stars/shap/shap?style=social) - Game theoretic approach to explain the output of any machine learning model. Industry standard for model interpretability.
+- **[skorch](https://github.com/skorch-dev/skorch)** ![GitHub stars](https://img.shields.io/github/stars/skorch-dev/skorch?style=social) - Scikit-learn compatible neural network library that wraps PyTorch. Seamlessly integrate PyTorch models with scikit-learn pipelines, grid search, and cross-validation.
 
 ---
 
