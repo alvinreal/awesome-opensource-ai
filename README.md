@@ -64,6 +64,7 @@
 - **[NumPyro](https://github.com/pyro-ppl/numpyro)** ![GitHub stars](https://img.shields.io/github/stars/pyro-ppl/numpyro?style=social) - Probabilistic programming with NumPy powered by JAX for autograd and JIT compilation. Bayesian modeling and inference at scale.
 - **[Keras](https://github.com/keras-team/keras)** ![GitHub stars](https://img.shields.io/github/stars/keras-team/keras?style=social) - High-level, beginner-friendly API that now runs on multiple backends (TensorFlow, JAX, PyTorch). Perfect for rapid experimentation.
 - **[tinygrad](https://github.com/tinygrad/tinygrad)** ![GitHub stars](https://img.shields.io/github/stars/tinygrad/tinygrad?style=social) - Minimalist deep learning framework with tiny code footprint. The "you like pytorch? you like micrograd? you love tinygrad!" philosophy - simple yet powerful.
+- **[PaddlePaddle](https://github.com/PaddlePaddle/Paddle)** ![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/Paddle?style=social) - Industrial deep learning platform from Baidu serving 23+ million developers and 760,000+ companies. China's first independent R&D framework with advanced distributed training and deployment capabilities.
 - **[PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric)** ![GitHub stars](https://img.shields.io/github/stars/pyg-team/pytorch_geometric?style=social) - Library for deep learning on irregular input data such as graphs, point clouds, and manifolds. Part of the PyTorch ecosystem.
 
 #### Rust ML Frameworks
