@@ -464,6 +464,7 @@
 - **[Nanotron (Hugging Face)](https://github.com/huggingface/nanotron)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/nanotron?style=social) - Minimalistic 3D-parallelism LLM pretraining with tensor, pipeline, and data parallelism. Designed for simplicity and speed.
 - **[veScale (ByteDance)](https://github.com/volcengine/veScale)** ![GitHub stars](https://img.shields.io/github/stars/volcengine/veScale?style=social) - Hyperscale PyTorch distributed training with flexible FSDP implementation for LLMs and RL training at scale.
 - **[GPT-NeoX (EleutherAI)](https://github.com/EleutherAI/gpt-neox)** ![GitHub stars](https://img.shields.io/github/stars/EleutherAI/gpt-neox?style=social) - Production-grade distributed training framework for large autoregressive transformers, powering models like GPT-J and GPT-NeoX-20B.
+- **[RLinf](https://github.com/RLinf/RLinf)** ![GitHub stars](https://img.shields.io/github/stars/RLinf/RLinf?style=social) - Scalable open-source RL infrastructure for post-training foundation models via reinforcement learning. Features M2Flow paradigm for embodied AI and agentic workflows with real-world robotics integrations. Apache 2.0 licensed.
 
 #### Model Quantization & Optimization
 
