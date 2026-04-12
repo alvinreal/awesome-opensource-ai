@@ -364,6 +364,14 @@
 - **[Infinity](https://github.com/michaelfeil/infinity)** ![GitHub stars](https://img.shields.io/github/stars/michaelfeil/infinity?style=social) - High-throughput, low-latency serving engine for text-embeddings, reranking, CLIP, and ColPali. OpenAI-compatible API.
 - **[FlashRAG](https://github.com/RUC-NLPIR/FlashRAG)** ![GitHub stars](https://img.shields.io/github/stars/RUC-NLPIR/FlashRAG?style=social) - Efficient toolkit for RAG research with 40+ retrieval and reranking models, 20+ benchmark datasets, and optimized evaluation pipelines (WWW 2025 Resource). MIT licensed.
 - **[DocsGPT](https://github.com/arc53/DocsGPT)** ![GitHub stars](https://img.shields.io/github/stars/arc53/DocsGPT?style=social) - Private AI platform for building intelligent agents and assistants with enterprise search. Features Agent Builder, deep research tools, multi-format document analysis, and multi-model support. MIT licensed.
+- **[llmware](https://github.com/llmware-ai/llmware)** ![GitHub stars](https://img.shields.io/github/stars/llmware-ai/llmware?style=social) - Unified framework for building enterprise RAG pipelines with small, specialized models. Optimized for AI PC and local deployment with 300+ models in catalog. Apache 2.0 licensed.
+- **[Cognita](https://github.com/truefoundry/cognita)** ![GitHub stars](https://img.shields.io/github/stars/truefoundry/cognita?style=social) - Modular RAG framework for building production-ready applications. Organizes codebase with API-driven components, no-code UI support, and incremental indexing. Apache 2.0 licensed.
+- **[AutoFlow](https://github.com/pingcap/autoflow)** ![GitHub stars](https://img.shields.io/github/stars/pingcap/autoflow?style=social) - Graph RAG-based conversational knowledge base tool built on TiDB Vector and LlamaIndex. Features Perplexity-style search with built-in website crawler. Apache 2.0 licensed.
+
+#### Knowledge Graphs for RAG
+
+- **[Graphiti](https://github.com/getzep/graphiti)** ![GitHub stars](https://img.shields.io/github/stars/getzep/graphiti?style=social) - Build real-time temporal knowledge graphs for AI agents. Tracks how facts change over time with provenance to source data. Supports prescribed and learned ontology for evolving real-world data. Apache 2.0 licensed.
+
 #### Web Data Ingestion
 
 - **[Crawl4AI](https://github.com/unclecode/crawl4ai)** ![GitHub stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social) - LLM-friendly web crawler that turns websites into clean Markdown for RAG and agentic workflows.
