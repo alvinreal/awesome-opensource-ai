@@ -177,6 +177,7 @@
 
 #### Speech & Audio Models (TTS, STT, Music)
 
+- **[FunASR](https://github.com/modelscope/FunASR)** ![GitHub stars](https://img.shields.io/github/stars/modelscope/FunASR?style=social) - Fundamental end-to-end speech recognition toolkit with SOTA pretrained models. Supports ASR, VAD, speaker verification, diarization, and multi-talker ASR. Industrial-grade with 31-language support and real-time transcription services. MIT licensed.
 - **[Whisper (OpenAI → community forks)](https://github.com/openai/whisper)** ![GitHub stars](https://img.shields.io/github/stars/openai/whisper?style=social) - The gold-standard open speech-to-text model. Massive community fine-tunes available.
 - **[faster-whisper (SYSTRAN)](https://github.com/SYSTRAN/faster-whisper)** ![GitHub stars](https://img.shields.io/github/stars/SYSTRAN/faster-whisper?style=social) - Reimplementation of Whisper using CTranslate2 for up to 4x faster inference with same accuracy. Supports batched processing and 8-bit quantization.
 - **[OuteTTS / CosyVoice 2](https://github.com/edwko/OuteTTS)** ![GitHub stars](https://img.shields.io/github/stars/edwko/OuteTTS?style=social) - High-quality open TTS with natural prosody and multilingual support.
