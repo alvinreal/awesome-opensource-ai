@@ -501,8 +501,6 @@
 - **[Dagster](https://github.com/dagster-io/dagster)** ![GitHub stars](https://img.shields.io/github/stars/dagster-io/dagster?style=social) - Cloud-native orchestration platform for developing and maintaining data assets including ML models. Declarative programming model with integrated lineage and observability. Apache 2.0 licensed.
 - **[Kubeflow Pipelines](https://github.com/kubeflow/pipelines)** ![GitHub stars](https://img.shields.io/github/stars/kubeflow/pipelines?style=social) - Machine Learning Pipelines for Kubeflow. Platform for building and deploying portable, scalable ML workflows using Kubernetes and Argo. Apache 2.0 licensed.
 - **[MLRun](https://github.com/mlrun/mlrun)** ![GitHub stars](https://img.shields.io/github/stars/mlrun/mlrun?style=social) - Open-source AI orchestration platform for quickly building and managing continuous ML and generative AI applications across their lifecycle. Automates data preparation, model tuning, and deployment. Apache 2.0 licensed.
-- **[Ploomber](https://github.com/ploomber/ploomber)** ![GitHub stars](https://img.shields.io/github/stars/ploomber/ploomber?style=social) - The fastest way to build data pipelines. Develop iteratively in Jupyter/VSCode/PyCharm and deploy anywhere without code changes. Supports Kubernetes, Airflow, AWS Batch, and SLURM. Apache 2.0 licensed.
-- **[whylogs](https://github.com/whylabs/whylogs)** ![GitHub stars](https://img.shields.io/github/stars/whylabs/whylogs?style=social) - Open-source data logging library for ML models and data pipelines. Provides visibility into data quality and model performance over time with privacy-preserving data collection. Apache 2.0 licensed.
 
 #### Monitoring, Evaluation & Observability
 
