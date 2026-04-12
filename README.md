@@ -641,9 +641,17 @@
 - **[Kornia](https://github.com/kornia/kornia)** ![GitHub stars](https://img.shields.io/github/stars/kornia/kornia?style=social) - Differentiable computer vision library.
 - **[MediaPipe](https://github.com/google-ai-edge/mediapipe)** ![GitHub stars](https://img.shields.io/github/stars/google-ai-edge/mediapipe?style=social) - Cross-platform multimodal pipelines.
 
+#### OpenMMLab Computer Vision Suite
+
+- **[MMDetection](https://github.com/open-mmlab/mmdetection)** ![GitHub stars](https://img.shields.io/github/stars/open-mmlab/mmdetection?style=social) - Open source object detection toolbox with support for instance segmentation, panoptic segmentation, and semi-supervised detection. Modular design with 300+ pre-trained models. Apache 2.0 licensed.
+- **[MMSegmentation](https://github.com/open-mmlab/mmsegmentation)** ![GitHub stars](https://img.shields.io/github/stars/open-mmlab/mmsegmentation?style=social) - Semantic segmentation toolbox with open-vocabulary segmentation and monocular depth estimation. Part of the OpenMMLab ecosystem with 200+ pre-trained models. Apache 2.0 licensed.
+- **[MMPose](https://github.com/open-mmlab/mmpose)** ![GitHub stars](https://img.shields.io/github/stars/open-mmlab/mmpose?style=social) - Comprehensive pose estimation toolbox supporting 2D/3D human pose, hand pose, face landmarks, whole-body pose, and animal pose estimation with state-of-the-art RTMO and RTMW models. Apache 2.0 licensed.
+
 #### Reinforcement Learning & Robotics
 
 - **[LeRobot (Hugging Face)](https://github.com/huggingface/lerobot)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/lerobot?style=social) - State-of-the-art machine learning framework for real-world robotics. End-to-end learning with models, datasets, and training tools for robotic manipulation tasks.
+- **[OpenPI (Physical Intelligence)](https://github.com/Physical-Intelligence/openpi)** ![GitHub stars](https://img.shields.io/github/stars/Physical-Intelligence/openpi?style=social) - Open-source models and packages for robotics from the Physical Intelligence team. Includes pi0 VLA models for generalist robotic manipulation with fine-tuning support. Apache 2.0 licensed.
+- **[OpenVLA](https://github.com/openvla/openvla)** ![GitHub stars](https://img.shields.io/github/stars/openvla/openvla?style=social) - Open-source Vision-Language-Action model for robotic manipulation. Simple and scalable codebase for training and fine-tuning VLA models with Llama 2 backbone. MIT licensed.
 - **[Stable-Baselines3](https://github.com/DLR-RM/stable-baselines3)** ![GitHub stars](https://img.shields.io/github/stars/DLR-RM/stable-baselines3?style=social) - Production-ready RL algorithms.
 - **[Isaac Lab](https://github.com/isaac-sim/IsaacLab)** ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/IsaacLab?style=social) - GPU-accelerated robot learning framework.
 - **[MuJoCo](https://github.com/google-deepmind/mujoco)** ![GitHub stars](https://img.shields.io/github/stars/google-deepmind/mujoco?style=social) - General-purpose physics simulator for robotics, biomechanics, and ML research. High-fidelity contact dynamics with native Python and C++ bindings. Apache 2.0 licensed.
