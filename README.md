@@ -161,11 +161,15 @@
 - **[OLMo 2 (Allen AI)](https://github.com/allenai/OLMo)** ![GitHub stars](https://img.shields.io/github/stars/allenai/OLMo?style=social) - Fully open-source LLMs (1B–32B) with complete transparency: models, data, training code, and logs. Designed by scientists, for scientists.
 - **[Llama 4 (Meta)](https://github.com/meta-llama/llama-models)** ![GitHub stars](https://img.shields.io/github/stars/meta-llama/llama-models?style=social) - First native multimodal MoE open-source models (Scout: 10M context, Maverick: 400B+ params). Released April 2025 with enterprise-grade capabilities.
 - **[GPT-OSS (OpenAI)](https://github.com/openai/gpt-oss)** ![GitHub stars](https://img.shields.io/github/stars/openai/gpt-oss?style=social) - OpenAI's first open-weight models since GPT-2 (120B and 20B MoE). Apache 2.0 licensed with state-of-the-art performance for their size class. Released August 2025.
+- **[InternLM (Shanghai AI Lab)](https://github.com/InternLM/InternLM)** ![GitHub stars](https://img.shields.io/github/stars/InternLM/InternLM?style=social) - Open-source large language model series (InternLM, InternLM2, InternLM2.5, InternLM3) with strong long-context capabilities and agentic performance. Apache 2.0 licensed.
+- **[OLMoE (Allen AI)](https://github.com/allenai/OLMoE)** ![GitHub stars](https://img.shields.io/github/stars/allenai/OLMoE?style=social) - Open Mixture-of-Experts language models with 7B active parameters and 1B total. Fully open training data, code, and logs. Apache 2.0 licensed.
+- **[Pythia (EleutherAI)](https://github.com/EleutherAI/pythia)** ![GitHub stars](https://img.shields.io/github/stars/EleutherAI/pythia?style=social) - Suite of interpretable autoregressive language models trained on the Pile (70M–12B parameters). Designed for research on learning dynamics and interpretability. Apache 2.0 licensed.
 
 #### Coding & Reasoning Models
 
 - **[DeepSeek-Coder-V2 / R1-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-Coder?style=social) - Best-in-class open coding model (236B MoE). Outperforms closed models on many code benchmarks.
 - **[Qwen3-Coder-Next (Alibaba)](https://github.com/QwenLM/Qwen3-Coder)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen3-Coder?style=social) - Leading open coding model. Strong Pareto frontier for cost-effective agent deployment.
+- **[Granite Code Models (IBM)](https://github.com/ibm-granite/granite-code-models)** ![GitHub stars](https://img.shields.io/github/stars/ibm-granite/granite-code-models?style=social) - Family of open foundation models for code intelligence (3B–34B). Trained on 3.5T tokens of code in 116 languages. Strong performance on code generation, explanation, and repair. Apache 2.0 licensed.
 
 #### Multimodal Models (Vision + Language)
 
