@@ -541,6 +541,8 @@
 - **[GAIA](https://huggingface.co/datasets/gaia-benchmark/GAIA)** - Real-world multi-step agentic benchmark.
 - **[OpenCompass](https://github.com/open-compass/opencompass)** ![GitHub stars](https://img.shields.io/github/stars/open-compass/opencompass?style=social) - Evaluation platform for benchmarking language and multimodal models across large benchmark suites.
 - **[MLPerf Inference](https://github.com/mlcommons/inference)** ![GitHub stars](https://img.shields.io/github/stars/mlcommons/inference?style=social) - Industry-standard ML inference benchmarks with reference implementations for AI accelerators.
+- **[MLPerf Training](https://github.com/mlcommons/training)** ![GitHub stars](https://img.shields.io/github/stars/mlcommons/training?style=social) - Industry-standard ML training benchmarks with reference implementations for measuring AI accelerator performance. Apache 2.0 licensed.
+- **[Open Graph Benchmark (OGB)](https://github.com/snap-stanford/ogb)** ![GitHub stars](https://img.shields.io/github/stars/snap-stanford/ogb?style=social) - Benchmark datasets, data loaders, and evaluators for graph machine learning. Large-scale challenging datasets for node classification, link prediction, and graph property prediction. MIT licensed.
 - **[SWE-rebench (Nebius)](https://huggingface.co/datasets/nebius/SWE-rebench)** - Continuously updated benchmark with 21,000+ real-world SWE tasks for evaluating agentic LLMs. Decontaminated, mined from GitHub.
 - **[AgentBench (THUDM)](https://github.com/THUDM/AgentBench)** ![GitHub stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=social) - Comprehensive benchmark to evaluate LLMs as agents across 8 diverse environments including household, web shopping, OS interaction, and database tasks. ICLR 2024. Apache 2.0 licensed.
 
@@ -552,6 +554,7 @@
 - **[Lighteval](https://github.com/huggingface/lighteval)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/lighteval?style=social) - Evaluation toolkit for LLMs across multiple backends with reusable tasks, metrics, and result tracking.
 - **[Hugging Face Evaluate](https://github.com/huggingface/evaluate)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/evaluate?style=social) - Standardized evaluation metrics.
 - **[OpenAI Evals](https://github.com/openai/evals)** ![GitHub stars](https://img.shields.io/github/stars/openai/evals?style=social) - Framework for evaluating LLMs and LLM systems with an open-source registry of 100+ community-contributed benchmarks. MIT licensed.
+- **[OpenAI Simple-Evals](https://github.com/openai/simple-evals)** ![GitHub stars](https://img.shields.io/github/stars/openai/simple-evals?style=social) - Minimal library for evaluating language models on standard benchmarks (MMLU, HumanEval, GSM8K, etc.). Simple, hackable evaluation code with no dependencies beyond API access. MIT licensed.
 - **[LMMs-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)** ![GitHub stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/lmms-eval?style=social) - Unified multimodal evaluation toolkit for text, image, video, and audio tasks with 100+ supported benchmarks.
 
 #### High-quality Open Datasets & Data Tools
@@ -561,6 +564,8 @@
 - **[FineWeb / FineWeb-2 (Hugging Face)](https://huggingface.co/datasets/HuggingFaceFW/fineweb)** - Curated 15T+ token web dataset for pre-training.
 - **[OSWorld](https://github.com/xlang-ai/OSWorld)** ![GitHub stars](https://img.shields.io/github/stars/xlang-ai/OSWorld?style=social) - Multimodal agent benchmark dataset.
 - **[Great Expectations](https://github.com/great-expectations/great_expectations)** ![GitHub stars](https://img.shields.io/github/stars/great-expectations/great_expectations?style=social) - Always know what to expect from your data. Data validation, profiling, and documentation for data pipelines. Apache 2.0 licensed.
+- **[Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)** ![GitHub stars](https://img.shields.io/github/stars/zalandoresearch/fashion-mnist?style=social) - A MNIST-like fashion product database for benchmarking ML algorithms. 60,000 training and 10,000 test examples of 28x28 grayscale images across 10 clothing categories. The modern replacement for MNIST. MIT licensed.
+- **[LLM Datasets](https://github.com/mlabonne/llm-datasets)** ![GitHub stars](https://img.shields.io/github/stars/mlabonne/llm-datasets?style=social) - Curated list of high-quality datasets and tools for LLM post-training. Comprehensive collection of instruction, preference, code, math, and multilingual datasets for fine-tuning and alignment.
 
 ---
 
