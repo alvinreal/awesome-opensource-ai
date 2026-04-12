@@ -399,6 +399,7 @@
 - **[Open-Sora-Plan (PKU-YuanGroup)](https://github.com/PKU-YuanGroup/Open-Sora-Plan)** ![GitHub stars](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan?style=social) - Reproduction of Sora with full open-source pipeline for text-to-video generation. MIT licensed.
 - **[Open-Sora (HPC-AI Tech)](https://github.com/hpcaitech/Open-Sora)** ![GitHub stars](https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social) - Fully open-source video generation with 11B model achieving on-par performance with HunyuanVideo. Complete training pipeline for $200K. Apache 2.0 licensed.
 - **[Helios (PKU-YuanGroup)](https://github.com/PKU-YuanGroup/Helios)** ![GitHub stars](https://img.shields.io/github/stars/PKU-YuanGroup/Helios?style=social) - Efficient long-video generation framework with 24GB VRAM support for up to 10,000 frames (5+ minutes) and 1280×768 resolution. Apache 2.0 licensed.
+- **[Allegro (Rhymes AI)](https://github.com/rhymes-ai/Allegro)** ![GitHub stars](https://img.shields.io/github/stars/rhymes-ai/Allegro?style=social) - Powerful text-to-video model generating high-quality videos up to 6 seconds at 15 FPS and 720p resolution. Supports text-to-video and image-to-video with first/last frame conditioning. Apache 2.0 licensed.
 #### Audio / Music / Voice Generation
 
 - **[AudioCraft / MusicGen (Meta)](https://github.com/facebookresearch/audiocraft)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social) - Controllable text-to-music and audio models.
@@ -407,6 +408,8 @@
 - **[CosyVoice 2](https://github.com/FunAudioLLM/CosyVoice)** ![GitHub stars](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=social) - Natural multilingual TTS with emotional control.
 - **[OuteTTS](https://github.com/edwko/OuteTTS)** ![GitHub stars](https://img.shields.io/github/stars/edwko/OuteTTS?style=social) - High-quality open TTS.
 - **[Amphion](https://github.com/open-mmlab/Amphion)** ![GitHub stars](https://img.shields.io/github/stars/open-mmlab/Amphion?style=social) - Comprehensive toolkit for Audio, Music, and Speech Generation (9.7K stars).
+- **[OpenVoice (MIT / MyShell)](https://github.com/myshell-ai/OpenVoice)** ![GitHub stars](https://img.shields.io/github/stars/myshell-ai/OpenVoice?style=social) - Instant voice cloning with accurate tone color cloning, flexible voice style control, and zero-shot cross-lingual voice cloning. Natively supports English, Spanish, French, Chinese, Japanese, and Korean. MIT licensed.
+- **[Coqui TTS](https://github.com/coqui-ai/TTS)** ![GitHub stars](https://img.shields.io/github/stars/coqui-ai/TTS?style=social) - Deep learning toolkit for Text-to-Speech, battle-tested in research and production. Features 1100+ Fairseq models, multi-speaker TTS, voice conversion, and vocoder models. MPL-2.0 licensed.
 
 #### 3D & Creative Tools
 
