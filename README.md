@@ -66,6 +66,13 @@
 - **[tinygrad](https://github.com/tinygrad/tinygrad)** ![GitHub stars](https://img.shields.io/github/stars/tinygrad/tinygrad?style=social) - Minimalist deep learning framework with tiny code footprint. The "you like pytorch? you like micrograd? you love tinygrad!" philosophy - simple yet powerful.
 - **[PaddlePaddle](https://github.com/PaddlePaddle/Paddle)** ![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/Paddle?style=social) - Industrial deep learning platform from Baidu serving 23+ million developers and 760,000+ companies. China's first independent R&D framework with advanced distributed training and deployment capabilities.
 - **[PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric)** ![GitHub stars](https://img.shields.io/github/stars/pyg-team/pytorch_geometric?style=social) - Library for deep learning on irregular input data such as graphs, point clouds, and manifolds. Part of the PyTorch ecosystem.
+- **[Triton](https://github.com/triton-lang/triton)** ![GitHub stars](https://img.shields.io/github/stars/triton-lang/triton?style=social) - Language and compiler for writing highly efficient custom deep-learning primitives. Powers kernel optimizations in PyTorch, JAX, and other frameworks. MIT licensed.
+- **[GGML](https://github.com/ggml-org/ggml)** ![GitHub stars](https://img.shields.io/github/stars/ggml-org/ggml?style=social) - Tensor library for machine learning. The foundational C/C++ library powering llama.cpp and many on-device inference engines. MIT licensed.
+
+#### High-Performance Compute Libraries
+
+- **[oneDNN](https://github.com/uxlfoundation/oneDNN)** ![GitHub stars](https://img.shields.io/github/stars/uxlfoundation/oneDNN?style=social) - oneAPI Deep Neural Network Library. Cross-platform performance library of basic building blocks for deep learning, optimized for Intel CPUs, GPUs, and Arm architectures. Apache 2.0 licensed.
+- **[IREE](https://github.com/iree-org/iree)** ![GitHub stars](https://img.shields.io/github/stars/iree-org/iree?style=social) - Retargetable MLIR-based machine learning compiler and runtime toolkit. Lowers ML models to unified IR that scales from datacenter to mobile and edge deployments. Apache 2.0 licensed.
 
 #### Rust ML Frameworks
 
@@ -676,7 +683,7 @@
 - **[ONNX Runtime](https://github.com/microsoft/onnxruntime)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/onnxruntime?style=social) - Cross-platform high-performance inference.
 - **[ExecuTorch](https://github.com/pytorch/executorch)** ![GitHub stars](https://img.shields.io/github/stars/pytorch/executorch?style=social) - PyTorch runtime and toolchain for deploying AI models on mobile, embedded, and edge devices.
 - **[OpenVINO](https://github.com/openvinotoolkit/openvino)** ![GitHub stars](https://img.shields.io/github/stars/openvinotoolkit/openvino?style=social) - Intel's toolkit for edge deployment.
-- **[MicroTVM (Apache TVM)](https://github.com/apache/tvm)** ![GitHub stars](https://img.shields.io/github/stars/apache/tvm?style=social) - Compiler stack for microcontrollers.
+- **[Apache TVM](https://github.com/apache/tvm)** ![GitHub stars](https://img.shields.io/github/stars/apache/tvm?style=social) - Open Machine Learning Compiler Framework. Universal deployment to bring models into minimum deployable modules that can be embedded and run everywhere from datacenter to edge devices. Apache 2.0 licensed.
 
 #### Legal AI & Contract Analysis
 
