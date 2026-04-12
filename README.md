@@ -439,6 +439,7 @@
 - **[NeMo-RL](https://github.com/NVIDIA-NeMo/RL)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA-NeMo/RL?style=social) - Scalable toolkit for efficient model reinforcement with DTensor and Megatron backends.
 - **[OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)** ![GitHub stars](https://img.shields.io/github/stars/OpenRLHF/OpenRLHF?style=social) - Easy-to-use, scalable RLHF framework based on Ray. Supports PPO, GRPO, REINFORCE++, DAPO with vLLM integration and async training. Apache 2.0 licensed.
 - **[LMFlow](https://github.com/OptimalScale/LMFlow)** ![GitHub stars](https://img.shields.io/github/stars/OptimalScale/LMFlow?style=social) - Extensible toolkit for finetuning and inference of large foundation models. Features RAFT alignment algorithm and comprehensive model support. Apache 2.0 licensed.
+- **[XTuner](https://github.com/InternLM/xtuner)** ![GitHub stars](https://img.shields.io/github/stars/InternLM/xtuner?style=social) - A next-generation training engine built for ultra-large MoE models with efficient QLoRA and full-parameter fine-tuning. Apache 2.0 licensed.
 - **[H2O LLM Studio](https://github.com/h2oai/h2o-llmstudio)** ![GitHub stars](https://img.shields.io/github/stars/h2oai/h2o-llmstudio?style=social) - No-code GUI framework for fine-tuning LLMs. Streamlined interface for SFT, reward modeling, and model deployment. Apache 2.0 licensed.
 
 #### LoRA / PEFT Tools
@@ -454,6 +455,8 @@
 - **[Argilla](https://github.com/argilla-io/argilla)** ![GitHub stars](https://img.shields.io/github/stars/argilla-io/argilla?style=social) - Open-source data labeling + synthetic data platform.
 - **[SDV (Synthetic Data Vault)](https://github.com/sdv-dev/SDV)** ![GitHub stars](https://img.shields.io/github/stars/sdv-dev/SDV?style=social) - High-fidelity tabular and relational synthetic data.
 - **[DataTrove (Hugging Face)](https://github.com/huggingface/datatrove)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/datatrove?style=social) - Platform-agnostic data processing pipelines for LLM training at scale. Handles filtering, deduplication, and tokenization on local machines or SLURM clusters.
+- **[Bespoke Curator](https://github.com/bespokelabsai/curator)** ![GitHub stars](https://img.shields.io/github/stars/bespokelabsai/curator?style=social) - Synthetic data curation for post-training and structured data extraction. Makes it easy to build pipelines around LLMs with batching and progress tracking. Apache 2.0 licensed.
+- **[SDG (Harbin Institute)](https://github.com/hitsz-ids/synthetic-data-generator)** ![GitHub stars](https://img.shields.io/github/stars/hitsz-ids/synthetic-data-generator?style=social) - Specialized framework for generating high-quality structured tabular synthetic data with CTGAN models supporting billion-level data processing. Apache 2.0 licensed.
 
 #### Distributed Training
 
@@ -466,6 +469,7 @@
 - **[veScale (ByteDance)](https://github.com/volcengine/veScale)** ![GitHub stars](https://img.shields.io/github/stars/volcengine/veScale?style=social) - Hyperscale PyTorch distributed training with flexible FSDP implementation for LLMs and RL training at scale.
 - **[GPT-NeoX (EleutherAI)](https://github.com/EleutherAI/gpt-neox)** ![GitHub stars](https://img.shields.io/github/stars/EleutherAI/gpt-neox?style=social) - Production-grade distributed training framework for large autoregressive transformers, powering models like GPT-J and GPT-NeoX-20B.
 - **[RLinf](https://github.com/RLinf/RLinf)** ![GitHub stars](https://img.shields.io/github/stars/RLinf/RLinf?style=social) - Scalable open-source RL infrastructure for post-training foundation models via reinforcement learning. Features M2Flow paradigm for embodied AI and agentic workflows with real-world robotics integrations. Apache 2.0 licensed.
+- **[Streaming (MosaicML)](https://github.com/mosaicml/streaming)** ![GitHub stars](https://img.shields.io/github/stars/mosaicml/streaming?style=social) - High-performance data streaming library for efficient neural network training. Streams training data from cloud storage (S3, GCS, Azure) with local caching and deterministic shuffling. Apache 2.0 licensed.
 
 #### Model Quantization & Optimization
 
