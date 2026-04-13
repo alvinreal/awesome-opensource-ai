@@ -168,6 +168,7 @@
 - **[OLMo 2 (Allen AI)](https://github.com/allenai/OLMo)** ![GitHub stars](https://img.shields.io/github/stars/allenai/OLMo?style=social) - Fully open-source LLMs (1B–32B) with complete transparency: models, data, training code, and logs. Designed by scientists, for scientists.
 - **[Llama 4 (Meta)](https://github.com/meta-llama/llama-models)** ![GitHub stars](https://img.shields.io/github/stars/meta-llama/llama-models?style=social) - First native multimodal MoE open-source models (Scout: 10M context, Maverick: 400B+ params). Released April 2025 with enterprise-grade capabilities.
 - **[GPT-OSS (OpenAI)](https://github.com/openai/gpt-oss)** ![GitHub stars](https://img.shields.io/github/stars/openai/gpt-oss?style=social) - OpenAI's first open-weight models since GPT-2 (120B and 20B MoE). Apache 2.0 licensed with state-of-the-art performance for their size class. Released August 2025.
+- **[InternLM3 (Shanghai AI Lab)](https://github.com/InternLM/InternLM)** ![GitHub stars](https://img.shields.io/github/stars/InternLM/InternLM?style=social) - 8B parameter instruction model with state-of-the-art performance on reasoning and knowledge-intensive tasks. Trained on only 4 trillion tokens (75% cost savings). Supports deep thinking mode via long chain-of-thought. Apache 2.0 licensed.
 
 #### Coding & Reasoning Models
 
