@@ -626,10 +626,13 @@
 - **[XAI](https://github.com/EthicalML/xai)** ![GitHub stars](https://img.shields.io/github/stars/EthicalML/xai?style=social) - eXplainability toolbox for machine learning with bias evaluation and production monitoring tools.
 - **[EasyEdit](https://github.com/zjunlp/EasyEdit)** ![GitHub stars](https://img.shields.io/github/stars/zjunlp/EasyEdit?style=social) - Easy-to-use knowledge editing framework for LLMs. Enables precise modification of model knowledge and behavior to correct hallucinations or outdated information. ACL 2024. MIT licensed.
 - **[AIX360](https://github.com/Trusted-AI/AIX360)** ![GitHub stars](https://img.shields.io/github/stars/Trusted-AI/AIX360?style=social) - Comprehensive AI explainability toolkit with interpretability algorithms for data and machine learning models. Includes TED, BRCG, and ProtoNN methods for diverse explanation needs. Apache 2.0 licensed.
+- **[ELI5](https://github.com/TeamHG-Memex/eli5)** ![GitHub stars](https://img.shields.io/github/stars/TeamHG-Memex/eli5?style=social) - Library for debugging/inspecting machine learning classifiers and explaining their predictions. Supports scikit-learn, XGBoost, LightGBM, and more with feature importance and explanation visualizations. MIT licensed.
+- **[Shapash](https://github.com/MAIF/shapash)** ![GitHub stars](https://img.shields.io/github/stars/MAIF/shapash?style=social) - User-friendly explainability library for transparent ML models. Beautiful visualizations with explicit labels that everyone can understand. Generates web reports and integrates with SHAP/LIME. Apache 2.0 licensed.
 
 #### Fairness & Bias Mitigation
 
 - **[AI Fairness 360](https://github.com/Trusted-AI/AIF360)** ![GitHub stars](https://img.shields.io/github/stars/Trusted-AI/AIF360?style=social) - Comprehensive toolkit for detecting, understanding, and mitigating unwanted algorithmic bias in datasets and ML models.
+- **[Fairlearn](https://github.com/fairlearn/fairlearn)** ![GitHub stars](https://img.shields.io/github/stars/fairlearn/fairlearn?style=social) - Python package to assess and improve fairness of machine learning models. Provides metrics for disparity assessment and algorithms for unfairness mitigation with scikit-learn integration. MIT licensed.
 
 #### Adversarial & Red-teaming Tools
 
@@ -640,6 +643,10 @@
 - **[Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox)** ![GitHub stars](https://img.shields.io/github/stars/Trusted-AI/adversarial-robustness-toolbox?style=social) - Python library for machine learning security (evasion, poisoning, extraction, inference attacks).
 - **[DeepTeam](https://github.com/confident-ai/deepteam)** ![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepteam?style=social) - Framework to red team LLMs and LLM systems.
 - **[Agentic Security](https://github.com/msoedov/agentic_security)** ![GitHub stars](https://img.shields.io/github/stars/msoedov/agentic_security?style=social) - Agentic LLM vulnerability scanner and AI red teaming kit with multi-step attack simulation and automated security probing. Apache 2.0 licensed.
+
+#### Responsible AI Development
+
+- **[Responsible AI Toolbox](https://github.com/microsoft/responsible-ai-toolbox)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/responsible-ai-toolbox?style=social) - Suite of tools providing model and data exploration, assessment interfaces and libraries for understanding AI systems. Enables developers to develop and monitor AI more responsibly with better data-driven actions. MIT licensed.
 
 ---
 
