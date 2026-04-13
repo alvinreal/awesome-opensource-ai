@@ -575,6 +575,7 @@
 - **[GAIA](https://huggingface.co/datasets/gaia-benchmark/GAIA)** - Real-world multi-step agentic benchmark.
 - **[OpenCompass](https://github.com/open-compass/opencompass)** ![GitHub stars](https://img.shields.io/github/stars/open-compass/opencompass?style=social) - Evaluation platform for benchmarking language and multimodal models across large benchmark suites.
 - **[MLPerf Inference](https://github.com/mlcommons/inference)** ![GitHub stars](https://img.shields.io/github/stars/mlcommons/inference?style=social) - Industry-standard ML inference benchmarks with reference implementations for AI accelerators.
+- **[MLPerf Training](https://github.com/mlcommons/training)** ![GitHub stars](https://img.shields.io/github/stars/mlcommons/training?style=social) - Industry-standard ML training benchmarks with reference implementations for measuring system performance across diverse workloads. Apache 2.0 licensed.
 - **[SWE-rebench (Nebius)](https://huggingface.co/datasets/nebius/SWE-rebench)** - Continuously updated benchmark with 21,000+ real-world SWE tasks for evaluating agentic LLMs. Decontaminated, mined from GitHub.
 - **[AgentBench (THUDM)](https://github.com/THUDM/AgentBench)** ![GitHub stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=social) - Comprehensive benchmark to evaluate LLMs as agents across 8 diverse environments including household, web shopping, OS interaction, and database tasks. ICLR 2024. Apache 2.0 licensed.
 
@@ -586,6 +587,7 @@
 - **[Lighteval](https://github.com/huggingface/lighteval)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/lighteval?style=social) - Evaluation toolkit for LLMs across multiple backends with reusable tasks, metrics, and result tracking.
 - **[Hugging Face Evaluate](https://github.com/huggingface/evaluate)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/evaluate?style=social) - Standardized evaluation metrics.
 - **[OpenAI Evals](https://github.com/openai/evals)** ![GitHub stars](https://img.shields.io/github/stars/openai/evals?style=social) - Framework for evaluating LLMs and LLM systems with an open-source registry of 100+ community-contributed benchmarks. MIT licensed.
+- **[BigCode Evaluation Harness](https://github.com/bigcode-project/bigcode-evaluation-harness)** ![GitHub stars](https://img.shields.io/github/stars/bigcode-project/bigcode-evaluation-harness?style=social) - Framework for evaluating autoregressive code generation models on HumanEval, MBPP, DS-1000, and other code benchmarks. Apache 2.0 licensed.
 - **[LMMs-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)** ![GitHub stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/lmms-eval?style=social) - Unified multimodal evaluation toolkit for text, image, video, and audio tasks with 100+ supported benchmarks.
 
 #### High-quality Open Datasets & Data Tools
