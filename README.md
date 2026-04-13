@@ -175,6 +175,7 @@
 
 #### Coding & Reasoning Models
 
+- **[DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=social) - State-of-the-art open reasoning model (671B MoE, 37B activated). First open model to match OpenAI o1 performance on math, code, and reasoning benchmarks. MIT licensed with full commercial use rights.
 - **[DeepSeek-Coder-V2 / R1-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-Coder?style=social) - Best-in-class open coding model (236B MoE). Outperforms closed models on many code benchmarks.
 - **[Qwen3-Coder-Next (Alibaba)](https://github.com/QwenLM/Qwen3-Coder)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen3-Coder?style=social) - Leading open coding model. Strong Pareto frontier for cost-effective agent deployment.
 
