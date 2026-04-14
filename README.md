@@ -221,7 +221,7 @@
 
 #### Local / On-device Inference
 
-- **[llama.cpp](https://github.com/ggerganov/llama.cpp)** ![GitHub stars](https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social) - Pure C/C++ inference engine with GGUF format support. The gold standard for CPU/GPU/Apple Silicon on-device running. Includes llama-server for OpenAI-compatible API.
+- **[llama.cpp](https://github.com/ggml-org/llama.cpp)** ![GitHub stars](https://img.shields.io/github/stars/ggml-org/llama.cpp?style=social) - Pure C/C++ inference engine with GGUF format support. The gold standard for CPU/GPU/Apple Silicon on-device running. Includes llama-server for OpenAI-compatible API. Now at 100K+ stars.
 - **[Ollama](https://github.com/ollama/ollama)** ![GitHub stars](https://img.shields.io/github/stars/ollama/ollama?style=social) - Dead-simple local LLM runner with a one-line install, model registry, and OpenAI-compatible API.
 - **[MLX](https://github.com/ml-explore/mlx)** ![GitHub stars](https://img.shields.io/github/stars/ml-explore/mlx?style=social) (Apple) - High-performance array framework + LLM inference optimized for Apple Silicon.
 - **[MLC-LLM](https://github.com/mlc-ai/mlc-llm)** ![GitHub stars](https://img.shields.io/github/stars/mlc-ai/mlc-llm?style=social) - Deployment engine that compiles and runs LLMs across browsers, mobile devices, and local hardware.
@@ -260,7 +260,7 @@
 
 #### Quantization, Distillation & Optimization
 
-- **[GGUF](https://github.com/ggerganov/llama.cpp)** ![GitHub stars](https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social) (part of llama.cpp) - Modern quantized format that powers most local inference.
+- **[GGUF](https://github.com/ggml-org/llama.cpp)** ![GitHub stars](https://img.shields.io/github/stars/ggml-org/llama.cpp?style=social) (part of llama.cpp) - Modern quantized format that powers most local inference.
 - **[bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes)** ![GitHub stars](https://img.shields.io/github/stars/bitsandbytes-foundation/bitsandbytes?style=social) - 8-bit and 4-bit optimizers + quantization.
 - **[ExLlamaV2](https://github.com/turboderp/exllamav2)** ![GitHub stars](https://img.shields.io/github/stars/turboderp/exllamav2?style=social) - Highly optimized CUDA kernels for 4-bit/8-bit inference.
 - **[Optimum](https://github.com/huggingface/optimum)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/optimum?style=social) - Hardware-specific acceleration and quantization.
