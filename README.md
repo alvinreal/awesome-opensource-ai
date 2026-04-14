@@ -180,11 +180,15 @@
 
 #### Coding & Reasoning Models
 
+- **[DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=social) - First-generation reasoning model trained via large-scale reinforcement learning without supervised fine-tuning. Achieves performance comparable to OpenAI-o1 across math, code, and reasoning tasks. Includes distilled variants (1.5B to 70B). MIT licensed.
+- **[DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social) - 671B parameter MoE language model (37B activated) with 128K context. State-of-the-art performance among open-source models, trained on 14.8T tokens with innovative load balancing. MIT licensed.
 - **[DeepSeek-Coder-V2 / R1-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-Coder?style=social) - Best-in-class open coding model (236B MoE). Outperforms closed models on many code benchmarks.
 - **[Qwen3-Coder-Next (Alibaba)](https://github.com/QwenLM/Qwen3-Coder)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen3-Coder?style=social) - Leading open coding model. Strong Pareto frontier for cost-effective agent deployment.
 
 #### Multimodal Models (Vision + Language)
 
+- **[FLUX.1 (Black Forest Labs)](https://github.com/black-forest-labs/flux)** ![GitHub stars](https://img.shields.io/github/stars/black-forest-labs/flux?style=social) - State-of-the-art open-weight text-to-image model family (12B parameters). Superior prompt following, visual quality, and complex scene composition. Apache 2.0 licensed.
+- **[Seed1.5-VL (ByteDance)](https://github.com/ByteDance-Seed/Seed1.5-VL)** ![GitHub stars](https://img.shields.io/github/stars/ByteDance-Seed/Seed1.5-VL?style=social) - Vision-language foundation model with 532M vision encoder and 20B active parameter MoE LLM. State-of-the-art on 38 of 60 VLM benchmarks with advanced agent-centric abilities for GUI control and gameplay. Apache 2.0 licensed.
 - **[MMaDA (Gen-Verse)](https://github.com/Gen-Verse/MMaDA)** ![GitHub stars](https://img.shields.io/github/stars/Gen-Verse/MMaDA?style=social) - Open-sourced multimodal large diffusion language model with unified architecture for text, image generation and multimodal reasoning. MIT licensed, NeurIPS 2025.
 - **[Qwen3-VL (Alibaba)](https://github.com/QwenLM/Qwen3-VL)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen3-VL?style=social) - Latest flagship VLM with native 256K context (expandable to 1M), visual agent capabilities, 3D grounding, and superior multimodal reasoning. Major leap over Qwen2.5-VL.
 - **[GLM-4.5V / GLM-4.1V-Thinking (Zhipu AI)](https://github.com/zai-org/GLM-V)** ![GitHub stars](https://img.shields.io/github/stars/zai-org/GLM-V?style=social) - Strong multimodal reasoning with scalable reinforcement learning. Compares favorably with Gemini-2.5-Flash on benchmarks.
@@ -415,6 +419,7 @@
 
 #### Image Generation & Editing
 
+- **[Stable Diffusion 3.5 (Stability AI)](https://github.com/Stability-AI/sd3.5)** ![GitHub stars](https://img.shields.io/github/stars/Stability-AI/sd3.5?style=social) - 8.1B parameter MMDiT text-to-image model with improved quality, typography, and prompt understanding. Available in Large, Large-Turbo, and Medium variants. MIT licensed.
 - **[ComfyUI](https://github.com/Comfy-Org/ComfyUI)** ![GitHub stars](https://img.shields.io/github/stars/Comfy-Org/ComfyUI?style=social) - Node-based visual workflow editor for Stable Diffusion, FLUX, etc.
 - **[Stable Diffusion WebUI Forge - Neo](https://github.com/Haoming02/sd-webui-forge-classic)** ![GitHub stars](https://img.shields.io/github/stars/Haoming02/sd-webui-forge-classic?style=social) - Actively maintained Forge-based Stable Diffusion web UI with the familiar extension-driven workflow.
 - **[Fooocus](https://github.com/lllyasviel/Fooocus)** ![GitHub stars](https://img.shields.io/github/stars/lllyasviel/Fooocus?style=social) - Midjourney-style UI with beautiful out-of-the-box results.
