@@ -517,6 +517,7 @@
 - **[Weights & Biases Weave](https://github.com/wandb/weave)** ![GitHub stars](https://img.shields.io/github/stars/wandb/weave?style=social) - Open-source tracing and experiment tracking.
 - **[Aim](https://github.com/aimhubio/aim)** ![GitHub stars](https://img.shields.io/github/stars/aimhubio/aim?style=social) - Self-hosted ML experiment tracker designed to handle 10,000s of training runs with performant UI and SDK for programmatic access. Apache 2.0 licensed.
 - **[Feast](https://github.com/feast-dev/feast)** ![GitHub stars](https://img.shields.io/github/stars/feast-dev/feast?style=social) - Open source feature store for ML. Manages offline/online feature storage with point-in-time correctness to prevent data leakage. Apache 2.0 licensed.
+- **[Hopsworks](https://github.com/logicalclocks/hopsworks)** ![GitHub stars](https://img.shields.io/github/stars/logicalclocks/hopsworks?style=social) - Real-Time AI Lakehouse with Python-centric Feature Store and MLOps capabilities. Modular platform for managing, governing, and serving ML assets with sub-millisecond latency via RonDB. AGPL-3.0 licensed.
 
 #### Deployment & Orchestration
 
@@ -532,6 +533,7 @@
 - **[Dagster](https://github.com/dagster-io/dagster)** ![GitHub stars](https://img.shields.io/github/stars/dagster-io/dagster?style=social) - Cloud-native orchestration platform for developing and maintaining data assets including ML models. Declarative programming model with integrated lineage and observability. Apache 2.0 licensed.
 - **[Kubeflow Pipelines](https://github.com/kubeflow/pipelines)** ![GitHub stars](https://img.shields.io/github/stars/kubeflow/pipelines?style=social) - Machine Learning Pipelines for Kubeflow. Platform for building and deploying portable, scalable ML workflows using Kubernetes and Argo. Apache 2.0 licensed.
 - **[MLRun](https://github.com/mlrun/mlrun)** ![GitHub stars](https://img.shields.io/github/stars/mlrun/mlrun?style=social) - Open-source AI orchestration platform for quickly building and managing continuous ML and generative AI applications across their lifecycle. Automates data preparation, model tuning, and deployment. Apache 2.0 licensed.
+- **[Maestro (Netflix)](https://github.com/Netflix/maestro)** ![GitHub stars](https://img.shields.io/github/stars/Netflix/maestro?style=social) - Netflix's next-generation workflow orchestrator for data and ML pipelines. Highly scalable and flexible scheduler capable of handling millions of workflows across diverse execution environments. Apache 2.0 licensed.
 
 #### Monitoring, Evaluation & Observability
 
