@@ -829,6 +829,8 @@
 - **[aicommits](https://github.com/Nutlope/aicommits)** ![GitHub stars](https://img.shields.io/github/stars/Nutlope/aicommits?style=social) - CLI that writes your git commit messages for you with AI. Never write a commit message again. Supports multiple providers including OpenAI, Groq, xAI, Ollama, and LM Studio. MIT licensed.
 - **[Codex CLI](https://github.com/openai/codex)** ![GitHub stars](https://img.shields.io/github/stars/openai/codex?style=social) - OpenAI's lightweight coding agent that runs in your terminal. Code generation, file editing, and command execution with approval. Apache 2.0 licensed.
 - **[Repomix](https://github.com/yamadashy/repomix)** ![GitHub stars](https://img.shields.io/github/stars/yamadashy/repomix?style=social) - Powerful tool that packs your entire repository into a single AI-friendly file. Perfect for feeding codebases to LLMs with smart filtering and token counting. MIT licensed.
+- **[Instructor](https://github.com/jxnl/instructor)** ![GitHub stars](https://img.shields.io/github/stars/jxnl/instructor?style=social) - Python library for extracting structured, validated data from LLMs using Pydantic models. Handles validation, retries, and error handling with 15+ provider support. MIT licensed.
+- **[Mirascope](https://github.com/Mirascope/mirascope)** ![GitHub stars](https://img.shields.io/github/stars/Mirascope/mirascope?style=social) - Python toolkit for building LLM applications with automatic versioning, tracing, and cost tracking. The "LLM Anti-Framework" for developers who want control. MIT licensed.
 
 #### Testing & Debugging Tools
 
