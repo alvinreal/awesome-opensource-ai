@@ -439,11 +439,18 @@
 #### Audio / Music / Voice Generation
 
 - **[AudioCraft / MusicGen (Meta)](https://github.com/facebookresearch/audiocraft)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social) - Controllable text-to-music and audio models.
+- **[YuE](https://github.com/multimodal-art-projection/YuE)** ![GitHub stars](https://img.shields.io/github/stars/multimodal-art-projection/YuE?style=social) - Open full-song music generation foundation model. Generates complete songs with both vocal and accompaniment tracks lasting several minutes. Supports diverse genres, languages, and vocal techniques. Similar capabilities to Suno.ai but fully open-source with 7B parameter models. Apache-2.0 licensed.
 - **[ACE-Step 1.5](https://github.com/ace-step/ACE-Step-1.5)** ![GitHub stars](https://img.shields.io/github/stars/ace-step/ACE-Step-1.5?style=social) - Local-first music generation model with broad hardware support across Mac, AMD, Intel, and CUDA devices.
+- **[Stable Audio Tools](https://github.com/Stability-AI/stable-audio-tools)** ![GitHub stars](https://img.shields.io/github/stars/Stability-AI/stable-audio-tools?style=social) - Open-source code for audio and music generative models from Stability AI. Latent diffusion model for generating audio conditioned on metadata and timing, providing faster inference times and creative control for sound effects and music production. MIT licensed.
 - **[Fish Speech](https://github.com/fishaudio/fish-speech)** ![GitHub stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=social) - Zero-shot TTS and voice cloning.
 - **[CosyVoice 2](https://github.com/FunAudioLLM/CosyVoice)** ![GitHub stars](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=social) - Natural multilingual TTS with emotional control.
 - **[OuteTTS](https://github.com/edwko/OuteTTS)** ![GitHub stars](https://img.shields.io/github/stars/edwko/OuteTTS?style=social) - High-quality open TTS.
 - **[Amphion](https://github.com/open-mmlab/Amphion)** ![GitHub stars](https://img.shields.io/github/stars/open-mmlab/Amphion?style=social) - Comprehensive toolkit for Audio, Music, and Speech Generation (9.7K stars).
+
+#### Image Enhancement & Upscaling
+
+- **[Upscayl](https://github.com/upscayl/upscayl)** ![GitHub stars](https://img.shields.io/github/stars/upscayl/upscayl?style=social) - Free and open-source AI image upscaler for Linux, macOS, and Windows. Uses Real-ESRGAN and Vulkan architecture to enhance images by reconstructing high-resolution details. Cross-platform desktop app with batch processing and multiple model support. AGPL-3.0 licensed.
+- **[IOPaint](https://github.com/Sanster/IOPaint)** ![GitHub stars](https://img.shields.io/github/stars/Sanster/IOPaint?style=social) - Free and open-source image inpainting and outpainting tool powered by SOTA AI models. Remove unwanted objects, defects, watermarks, or people from images; replace objects; extend images beyond their original boundaries. Supports various models including LaMa, PowerPaint, BrushNet, and AnyText. Self-hosted with CPU, GPU, and Apple Silicon support. Apache-2.0 licensed.
 
 #### 3D & Creative Tools
 
