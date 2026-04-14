@@ -252,6 +252,7 @@
 #### Additional Inference Engines
 
 - **[CTranslate2](https://github.com/OpenNMT/CTranslate2)** ![GitHub stars](https://img.shields.io/github/stars/OpenNMT/CTranslate2?style=social) - Fast inference engine for Transformer models supporting OpenNMT and Hugging Face models. Optimized for CPU and GPU with batching, quantization (INT8/FP16), and dynamic memory management. Powers faster-whisper and other production deployments. MIT licensed.
+- **[DeepSpeed-MII](https://github.com/deepspeedai/DeepSpeed-MII)** ![GitHub stars](https://img.shields.io/github/stars/deepspeedai/DeepSpeed-MII?style=social) - Microsoft's low-latency, high-throughput inference serving engine powered by DeepSpeed. Features load balancing across multi-GPU and multi-node systems, tensor parallelism, and RESTful API support. Optimized for production deployments requiring scalable, efficient LLM serving. Apache 2.0 licensed.
 
 #### Quantization, Distillation & Optimization
 
