@@ -114,6 +114,8 @@
 - **[NVIDIA DALI](https://github.com/NVIDIA/DALI)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/DALI?style=social) - GPU-accelerated data loading and augmentation library with highly optimized building blocks for deep learning applications. Apache 2.0 licensed.
 - **[Narwhals](https://github.com/narwhals-dev/narwhals)** ![GitHub stars](https://img.shields.io/github/stars/narwhals-dev/narwhals?style=social) - Lightweight compatibility layer between DataFrame libraries. Write Polars-like code that works seamlessly across pandas, Polars, cuDF, Modin, and more. MIT licensed.
 - **[Ibis](https://github.com/ibis-project/ibis)** ![GitHub stars](https://img.shields.io/github/stars/ibis-project/ibis?style=social) - Portable Python dataframe library with 20+ backends. Write pandas-like code that runs locally with DuckDB or scales to production databases (BigQuery, Snowflake, PostgreSQL) by changing one line. Apache 2.0 licensed.
+- **[Pandera](https://github.com/unionai-oss/pandera)** ![GitHub stars](https://img.shields.io/github/stars/unionai-oss/pandera?style=social) - Statistical data testing and validation for dataframes. Pydantic-like API for pandas, Polars, and other dataframe libraries with type hints and lazy validation. MIT licensed.
+- **[Whylogs](https://github.com/whylabs/whylogs)** ![GitHub stars](https://img.shields.io/github/stars/whylabs/whylogs?style=social) - Open-source data logging library for ML models and data pipelines. Privacy-preserving statistical profiling with lightweight, mergeable outputs for data quality monitoring and drift detection. Apache 2.0 licensed.
 
 #### Classical ML & Gradient Boosting
 
@@ -157,6 +159,8 @@
 - **[torchao](https://github.com/pytorch/ao)** ![GitHub stars](https://img.shields.io/github/stars/pytorch/ao?style=social) - PyTorch native quantization and sparsity for training and inference. Drop-in optimizations for production deployment.
 - **[SHAP](https://github.com/shap/shap)** ![GitHub stars](https://img.shields.io/github/stars/shap/shap?style=social) - Game theoretic approach to explain the output of any machine learning model. Industry standard for model interpretability.
 - **[skorch](https://github.com/skorch-dev/skorch)** ![GitHub stars](https://img.shields.io/github/stars/skorch-dev/skorch?style=social) - Scikit-learn compatible neural network library that wraps PyTorch. Seamlessly integrate PyTorch models with scikit-learn pipelines, grid search, and cross-validation.
+- **[PyCaret](https://github.com/pycaret/pycaret)** ![GitHub stars](https://img.shields.io/github/stars/pycaret/pycaret?style=social) - Low-code machine learning library that automates ML workflows. End-to-end model management tool that replaces hundreds of lines of code with just a few, enabling rapid experimentation across classification, regression, clustering, NLP, and time series. MIT licensed.
+- **[Snorkel](https://github.com/snorkel-team/snorkel)** ![GitHub stars](https://img.shields.io/github/stars/snorkel-team/snorkel?style=social) - System for quickly generating training data with weak supervision. Programmatically label, build, and manage training data using labeling functions and probabilistic consensus models. Powers Snorkel Flow and used by Google, Apple, and Intel. Apache 2.0 licensed.
 
 ---
 
