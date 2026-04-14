@@ -413,6 +413,7 @@
 - **[PowerPaint (OpenMMLab)](https://github.com/open-mmlab/PowerPaint)** ![GitHub stars](https://img.shields.io/github/stars/open-mmlab/PowerPaint?style=social) - Versatile image inpainting model supporting text-guided inpainting, object removal, and outpainting (ECCV 2024).
 - **[SD.Next](https://github.com/vladmandic/sdnext)** ![GitHub stars](https://img.shields.io/github/stars/vladmandic/sdnext?style=social) - All-in-one WebUI for AI generative image and video creation with multi-platform support, SDNQ quantization, and balanced CPU/GPU memory offload.
 - **[Qwen-Image (Alibaba)](https://github.com/QwenLM/Qwen-Image)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen-Image?style=social) - 20B MMDiT image foundation model with state-of-the-art complex text rendering and precise image editing. Strong performance in Chinese text generation. Apache 2.0 licensed.
+- **[OmniGen (VectorSpaceLab)](https://github.com/VectorSpaceLab/OmniGen)** ![GitHub stars](https://img.shields.io/github/stars/VectorSpaceLab/OmniGen?style=social) - Unified image generation model for text-to-image, image editing, and subject-driven generation. First open-source general-purpose image generation model with native support for complex multi-modal tasks. MIT licensed.
 
 #### Video Generation
 
@@ -426,6 +427,8 @@
 - **[Open-Sora-Plan (PKU-YuanGroup)](https://github.com/PKU-YuanGroup/Open-Sora-Plan)** ![GitHub stars](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan?style=social) - Reproduction of Sora with full open-source pipeline for text-to-video generation. MIT licensed.
 - **[Open-Sora (HPC-AI Tech)](https://github.com/hpcaitech/Open-Sora)** ![GitHub stars](https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social) - Fully open-source video generation with 11B model achieving on-par performance with HunyuanVideo. Complete training pipeline for $200K. Apache 2.0 licensed.
 - **[Helios (PKU-YuanGroup)](https://github.com/PKU-YuanGroup/Helios)** ![GitHub stars](https://img.shields.io/github/stars/PKU-YuanGroup/Helios?style=social) - Efficient long-video generation framework with 24GB VRAM support for up to 10,000 frames (5+ minutes) and 1280×768 resolution. Apache 2.0 licensed.
+- **[LongCat-Video (Meituan)](https://github.com/meituan-longcat/LongCat-Video)** ![GitHub stars](https://img.shields.io/github/stars/meituan-longcat/LongCat-Video?style=social) - Foundational video generation model producing 30fps videos with coarse-to-fine generation strategy. Features Block Sparse Attention for efficient high-resolution generation and multi-reward RLHF training. MIT licensed.
+- **[Allegro (Rhymes AI)](https://github.com/rhymes-ai/Allegro)** ![GitHub stars](https://img.shields.io/github/stars/rhymes-ai/Allegro?style=social) - High-quality text-to-video model generating up to 6 seconds at 15 FPS and 720p resolution. Supports image-to-video generation with training code available for fine-tuning. Apache 2.0 licensed.
 #### Audio / Music / Voice Generation
 
 - **[AudioCraft / MusicGen (Meta)](https://github.com/facebookresearch/audiocraft)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social) - Controllable text-to-music and audio models.
