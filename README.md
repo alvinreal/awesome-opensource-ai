@@ -628,6 +628,7 @@
 
 - **[Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai)** ![GitHub stars](https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai?style=social) - Framework for large language model evaluations from the UK AI Safety Institute. Systematic capability and safety assessments with built-in scaffolding for multi-turn dialog, tool use, and adversarial testing. MIT licensed.
 - **[DeepEval](https://github.com/confident-ai/deepeval)** ![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social) - LLM evaluation framework with built-in safety metrics including hallucination detection, bias detection, toxicity evaluation, and prompt alignment checking. Apache 2.0 licensed.
+- **[Bloom](https://github.com/safety-research/bloom)** ![GitHub stars](https://img.shields.io/github/stars/safety-research/bloom?style=social) - Open-source agentic framework for automated behavioral evaluations of frontier AI models. Generates targeted evaluation suites to probe LLMs for specific behaviors (sycophancy, self-preservation, political bias, etc.) with quantitative elicitation rates. From Anthropic's safety research team. MIT licensed.
 
 #### Alignment & RLHF Tools
 
