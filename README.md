@@ -566,6 +566,8 @@
 - **[MLRun](https://github.com/mlrun/mlrun)** ![GitHub stars](https://img.shields.io/github/stars/mlrun/mlrun?style=social) - Open-source AI orchestration platform for quickly building and managing continuous ML and generative AI applications across their lifecycle. Automates data preparation, model tuning, and deployment. Apache 2.0 licensed.
 - **[Kestra](https://github.com/kestra-io/kestra)** ![GitHub stars](https://img.shields.io/github/stars/kestra-io/kestra?style=social) - Event-driven orchestration and scheduling platform for mission-critical workflows. Infrastructure-as-Code approach with declarative YAML, Git version control integration, and hundreds of plugins for data pipelines and ML workflows. Apache 2.0 licensed.
 - **[KitOps](https://github.com/jozu-ai/kitops)** ![GitHub stars](https://img.shields.io/github/stars/jozu-ai/kitops?style=social) - CNCF open source DevOps tool for packaging, versioning, and securely sharing AI/ML models, datasets, code, and configuration. Packages everything into OCI artifacts stored in existing container registries. Apache 2.0 licensed.
+- **[Sacred](https://github.com/IDSIA/sacred)** ![GitHub stars](https://img.shields.io/github/stars/IDSIA/sacred?style=social) - Tool to configure, organize, log and reproduce computational experiments. Developed at IDSIA with strong support for Python ML workflows. MIT licensed.
+- **[Pachyderm](https://github.com/pachyderm/pachyderm)** ![GitHub stars](https://img.shields.io/github/stars/pachyderm/pachyderm?style=social) - Data-centric pipelines and data versioning for MLOps. Cost-effective at scale with parallelized processing of multi-stage pipelines and sophisticated data transformations. Apache 2.0 licensed.
 
 #### Feature Engineering & Data Preparation
 
@@ -586,6 +588,7 @@
 - **[Giskard](https://github.com/Giskard-AI/giskard-oss)** ![GitHub stars](https://img.shields.io/github/stars/Giskard-AI/giskard-oss?style=social) - Open-source evaluation and testing library for LLM agents. Red teaming, vulnerability scanning, RAG evaluation, and safety testing with modular architecture. Apache 2.0 licensed.
 - **[Portkey Gateway](https://github.com/Portkey-AI/gateway)** ![GitHub stars](https://img.shields.io/github/stars/Portkey-AI/gateway?style=social) - Blazing fast AI Gateway to route 200+ LLMs with unified API. Integrated guardrails, load balancing, fallbacks, and cost tracking. MIT licensed.
 - **[TensorZero](https://github.com/tensorzero/tensorzero)** ![GitHub stars](https://img.shields.io/github/stars/tensorzero/tensorzero?style=social) - Open-source LLMOps platform unifying LLM gateway, observability, evaluation, and experimentation. Production-grade with sub-1ms latency, used by Fortune 10 companies.
+- **[NannyML](https://github.com/NannyML/nannyml)** ![GitHub stars](https://img.shields.io/github/stars/NannyML/nannyml?style=social) - Post-deployment data science library for estimating model performance without access to targets, detecting data drift, and linking drift alerts to performance changes. Apache 2.0 licensed.
 
 #### Guardrails & Safety Tools
 
