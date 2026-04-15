@@ -138,7 +138,6 @@
 - **[FLAML](https://github.com/microsoft/FLAML)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/FLAML?style=social) - Microsoft's fast & lightweight AutoML focused on efficiency and low compute.
 - **[Katib (Kubeflow)](https://github.com/kubeflow/katib)** ![GitHub stars](https://img.shields.io/github/stars/kubeflow/katib?style=social) - Kubernetes-native AutoML for hyperparameter tuning, early stopping, and neural architecture search. Framework-agnostic with support for TensorFlow, PyTorch, XGBoost, and custom training operators. Apache 2.0 licensed.
 - **[AutoKeras](https://github.com/keras-team/autokeras)** ![GitHub stars](https://img.shields.io/github/stars/keras-team/autokeras?style=social) - Neural architecture search on top of Keras.
-- **[PyCaret](https://github.com/pycaret/pycaret)** ![GitHub stars](https://img.shields.io/github/stars/pycaret/pycaret?style=social) - Low-code machine learning library that automates ML workflows. End-to-end model management tool that replaces hundreds of lines of code with just a few, enabling rapid experimentation across classification, regression, clustering, NLP, and time series. MIT licensed.
 
 #### Interactive ML Apps & Notebooks
 
@@ -186,8 +185,6 @@
 
 #### Coding & Reasoning Models
 
-- **[DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=social) - First-generation open reasoning model comparable to OpenAI-o1. Trained with pure reinforcement learning on base models without SFT data, demonstrating emergent reasoning capabilities. Includes distilled variants from 1.5B to 70B parameters. MIT licensed.
-- **[DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social) - 671B parameter MoE (37B activated) with 128K context. State-of-the-art performance among open-source models with efficient FP8 training and multi-token prediction. MIT licensed.
 - **[DeepSeek-Coder-V2 / R1-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-Coder?style=social) - Best-in-class open coding model (236B MoE). Outperforms closed models on many code benchmarks.
 - **[Qwen3-Coder-Next (Alibaba)](https://github.com/QwenLM/Qwen3-Coder)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen3-Coder?style=social) - Leading open coding model. Strong Pareto frontier for cost-effective agent deployment.
 
@@ -199,7 +196,6 @@
 - **[MiniCPM-V 2.6](https://github.com/OpenBMB/MiniCPM-V)** ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social) - Handles images up to 1.8M pixels with top-tier OCR performance. Excellent for on-device deployment.
 - **[Gemma 4 (Google)](https://github.com/google-deepmind/gemma)** ![GitHub stars](https://img.shields.io/github/stars/google-deepmind/gemma?style=social) - Multimodal model supporting vision-language input, optimized for efficiency, complex logic, and on-device use.
 - **[Magma (Microsoft)](https://github.com/microsoft/Magma)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/Magma?style=social) - Foundation model for multimodal AI agents that perceives the world and takes goal-driven actions across digital and physical environments. CVPR 2025.
-- **[Seed1.5-VL (ByteDance)](https://github.com/ByteDance-Seed/Seed1.5-VL)** ![GitHub stars](https://img.shields.io/github/stars/ByteDance-Seed/Seed1.5-VL?style=social) - ByteDance vision-language model with SOTA performance on 38/60 benchmarks. Advanced agent abilities for GUI control and visual reasoning. Apache 2.0 licensed.
 
 #### Speech & Audio Models (TTS, STT, Music)
 
@@ -378,7 +374,6 @@
 - **[E5 (Microsoft)](https://github.com/microsoft/unilm)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/unilm?style=social) - High-performance text embeddings for retrieval.
 - **[FastEmbed (Qdrant)](https://github.com/qdrant/fastembed)** ![GitHub stars](https://img.shields.io/github/stars/qdrant/fastembed?style=social) - Lightweight, fast Python library for embedding generation with ONNX Runtime. Supports text, sparse (SPLADE), and late-interaction (ColBERT) embeddings without GPU dependencies. Apache 2.0 licensed.
 - **[EmbedAnything](https://github.com/StarlightSearch/EmbedAnything)** ![GitHub stars](https://img.shields.io/github/stars/StarlightSearch/EmbedAnything?style=social) - Minimalist, highly performant multimodal embedding pipeline built in Rust. Memory-safe, modular, and production-ready for text, image, and audio embeddings with seamless vector DB integration. Apache 2.0 licensed.
-- **[Jina](https://github.com/jina-ai/jina)** ![GitHub stars](https://img.shields.io/github/stars/jina-ai/jina?style=social) - Cloud-native neural search framework for building multimodal AI applications. High-performance microservice architecture with gRPC, HTTP, and WebSocket support, scaling seamlessly from local development to production. Apache 2.0 licensed.
 
 #### Embedding Benchmarks
 
