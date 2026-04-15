@@ -694,6 +694,7 @@
 - **[Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox)** ![GitHub stars](https://img.shields.io/github/stars/Trusted-AI/adversarial-robustness-toolbox?style=social) - Python library for machine learning security (evasion, poisoning, extraction, inference attacks).
 - **[DeepTeam](https://github.com/confident-ai/deepteam)** ![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepteam?style=social) - Framework to red team LLMs and LLM systems.
 - **[Agentic Security](https://github.com/msoedov/agentic_security)** ![GitHub stars](https://img.shields.io/github/stars/msoedov/agentic_security?style=social) - Agentic LLM vulnerability scanner and AI red teaming kit with multi-step attack simulation and automated security probing. Apache 2.0 licensed.
+- **[Detoxify](https://github.com/unitaryai/detoxify)** ![GitHub stars](https://img.shields.io/github/stars/unitaryai/detoxify?style=social) - Trained models and code to predict toxic comments on all 3 Jigsaw Toxic Comment Challenges. Built using PyTorch Lightning and Transformers for toxicity, severe toxicity, obscene, threat, insult, identity attack, and sexual explicit content detection. Apache 2.0 licensed.
 
 #### Responsible AI Development
 
