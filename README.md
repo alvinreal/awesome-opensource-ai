@@ -116,6 +116,8 @@
 - **[Ibis](https://github.com/ibis-project/ibis)** ![GitHub stars](https://img.shields.io/github/stars/ibis-project/ibis?style=social) - Portable Python dataframe library with 20+ backends. Write pandas-like code that runs locally with DuckDB or scales to production databases (BigQuery, Snowflake, PostgreSQL) by changing one line. Apache 2.0 licensed.
 - **[skrub](https://github.com/skrub-data/skrub)** ![GitHub stars](https://img.shields.io/github/stars/skrub-data/skrub?style=social) - Machine learning with dataframes for dirty categorical data. Preprocessing and feature engineering for heterogeneous data with seamless pandas/Polars integration. BSD-3-Clause licensed.
 - **[Oxen](https://github.com/Oxen-AI/Oxen)** ![GitHub stars](https://img.shields.io/github/stars/Oxen-AI/Oxen?style=social) - Lightning fast data version control for machine learning. Optimized for large datasets with efficient diffing, branching, and collaboration. Apache 2.0 licensed.
+- **[Pandera](https://github.com/unionai-oss/pandera)** ![GitHub stars](https://img.shields.io/github/stars/unionai-oss/pandera?style=social) - Statistical data testing and validation for dataframes. Pydantic-like API for pandas, Polars, and other dataframe libraries with type hints and lazy validation. MIT licensed.
+- **[Snorkel](https://github.com/snorkel-team/snorkel)** ![GitHub stars](https://img.shields.io/github/stars/snorkel-team/snorkel?style=social) - System for quickly generating training data with weak supervision. Programmatically label, build, and manage training data using labeling functions and probabilistic consensus models. Powers Snorkel Flow and used by Google, Apple, and Intel. Apache 2.0 licensed.
 
 #### Classical ML & Gradient Boosting
 
@@ -136,6 +138,7 @@
 - **[FLAML](https://github.com/microsoft/FLAML)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/FLAML?style=social) - Microsoft's fast & lightweight AutoML focused on efficiency and low compute.
 - **[Katib (Kubeflow)](https://github.com/kubeflow/katib)** ![GitHub stars](https://img.shields.io/github/stars/kubeflow/katib?style=social) - Kubernetes-native AutoML for hyperparameter tuning, early stopping, and neural architecture search. Framework-agnostic with support for TensorFlow, PyTorch, XGBoost, and custom training operators. Apache 2.0 licensed.
 - **[AutoKeras](https://github.com/keras-team/autokeras)** ![GitHub stars](https://img.shields.io/github/stars/keras-team/autokeras?style=social) - Neural architecture search on top of Keras.
+- **[PyCaret](https://github.com/pycaret/pycaret)** ![GitHub stars](https://img.shields.io/github/stars/pycaret/pycaret?style=social) - Low-code machine learning library that automates ML workflows. End-to-end model management tool that replaces hundreds of lines of code with just a few, enabling rapid experimentation across classification, regression, clustering, NLP, and time series. MIT licensed.
 
 #### Interactive ML Apps & Notebooks
 
@@ -183,6 +186,8 @@
 
 #### Coding & Reasoning Models
 
+- **[DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=social) - First-generation open reasoning model comparable to OpenAI-o1. Trained with pure reinforcement learning on base models without SFT data, demonstrating emergent reasoning capabilities. Includes distilled variants from 1.5B to 70B parameters. MIT licensed.
+- **[DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social) - 671B parameter MoE (37B activated) with 128K context. State-of-the-art performance among open-source models with efficient FP8 training and multi-token prediction. MIT licensed.
 - **[DeepSeek-Coder-V2 / R1-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-Coder?style=social) - Best-in-class open coding model (236B MoE). Outperforms closed models on many code benchmarks.
 - **[Qwen3-Coder-Next (Alibaba)](https://github.com/QwenLM/Qwen3-Coder)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen3-Coder?style=social) - Leading open coding model. Strong Pareto frontier for cost-effective agent deployment.
 
@@ -194,6 +199,7 @@
 - **[MiniCPM-V 2.6](https://github.com/OpenBMB/MiniCPM-V)** ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social) - Handles images up to 1.8M pixels with top-tier OCR performance. Excellent for on-device deployment.
 - **[Gemma 4 (Google)](https://github.com/google-deepmind/gemma)** ![GitHub stars](https://img.shields.io/github/stars/google-deepmind/gemma?style=social) - Multimodal model supporting vision-language input, optimized for efficiency, complex logic, and on-device use.
 - **[Magma (Microsoft)](https://github.com/microsoft/Magma)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/Magma?style=social) - Foundation model for multimodal AI agents that perceives the world and takes goal-driven actions across digital and physical environments. CVPR 2025.
+- **[Seed1.5-VL (ByteDance)](https://github.com/ByteDance-Seed/Seed1.5-VL)** ![GitHub stars](https://img.shields.io/github/stars/ByteDance-Seed/Seed1.5-VL?style=social) - ByteDance vision-language model with SOTA performance on 38/60 benchmarks. Advanced agent abilities for GUI control and visual reasoning. Apache 2.0 licensed.
 
 #### Speech & Audio Models (TTS, STT, Music)
 
@@ -321,6 +327,7 @@
 - **[Mistral-Vibe (Mistral)](https://github.com/mistralai/mistral-vibe)** ![GitHub stars](https://img.shields.io/github/stars/mistralai/mistral-vibe?style=social) - Minimal CLI coding agent by Mistral. Lightweight, fast, and designed for local development workflows.
 - **[Nanocoder (Nano-Collective)](https://github.com/Nano-Collective/nanocoder)** ![GitHub stars](https://img.shields.io/github/stars/Nano-Collective/nanocoder?style=social) - Beautiful local-first coding agent running in your terminal. Built for privacy and control with support for multiple AI providers via OpenRouter.
 - **[Gemini CLI (Google)](https://github.com/google-gemini/gemini-cli)** ![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social) - Open-source AI agent that brings Gemini's power directly into your terminal. Supports code generation, shell execution, and file editing with full Apache 2.0 licensing.
+- **[Archon](https://github.com/coleam00/Archon)** ![GitHub stars](https://img.shields.io/github/stars/coleam00/Archon?style=social) - Workflow engine for deterministic AI coding agents. Define development processes as YAML workflows (planning → implementation → validation → review → PR) with isolated git worktrees for parallel execution. MIT licensed.
 
 #### Domain-Specific Agents
 
@@ -371,6 +378,7 @@
 - **[E5 (Microsoft)](https://github.com/microsoft/unilm)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/unilm?style=social) - High-performance text embeddings for retrieval.
 - **[FastEmbed (Qdrant)](https://github.com/qdrant/fastembed)** ![GitHub stars](https://img.shields.io/github/stars/qdrant/fastembed?style=social) - Lightweight, fast Python library for embedding generation with ONNX Runtime. Supports text, sparse (SPLADE), and late-interaction (ColBERT) embeddings without GPU dependencies. Apache 2.0 licensed.
 - **[EmbedAnything](https://github.com/StarlightSearch/EmbedAnything)** ![GitHub stars](https://img.shields.io/github/stars/StarlightSearch/EmbedAnything?style=social) - Minimalist, highly performant multimodal embedding pipeline built in Rust. Memory-safe, modular, and production-ready for text, image, and audio embeddings with seamless vector DB integration. Apache 2.0 licensed.
+- **[Jina](https://github.com/jina-ai/jina)** ![GitHub stars](https://img.shields.io/github/stars/jina-ai/jina?style=social) - Cloud-native neural search framework for building multimodal AI applications. High-performance microservice architecture with gRPC, HTTP, and WebSocket support, scaling seamlessly from local development to production. Apache 2.0 licensed.
 
 #### Embedding Benchmarks
 
@@ -397,6 +405,7 @@
 - **[DocsGPT](https://github.com/arc53/DocsGPT)** ![GitHub stars](https://img.shields.io/github/stars/arc53/DocsGPT?style=social) - Private AI platform for building intelligent agents and assistants with enterprise search. Features Agent Builder, deep research tools, multi-format document analysis, and multi-model support. MIT licensed.
 - **[llmware](https://github.com/llmware-ai/llmware)** ![GitHub stars](https://img.shields.io/github/stars/llmware-ai/llmware?style=social) - Unified framework for building enterprise RAG pipelines with small, specialized models. Optimized for AI PC and local deployment with 300+ models in catalog. Apache 2.0 licensed.
 - **[AutoFlow](https://github.com/pingcap/autoflow)** ![GitHub stars](https://img.shields.io/github/stars/pingcap/autoflow?style=social) - Graph RAG-based conversational knowledge base tool built on TiDB Vector and LlamaIndex. Features Perplexity-style search with built-in website crawler. Apache 2.0 licensed.
+- **[rerankers (Answer.AI)](https://github.com/AnswerDotAI/rerankers)** ![GitHub stars](https://img.shields.io/github/stars/AnswerDotAI/rerankers?style=social) - Lightweight unified API for all common reranking and cross-encoder models. Supports RankGPT, ColBERT, FlashRank, and API-based rerankers with a dependency-free core. Apache 2.0 licensed.
 - **[KAG (OpenSPG)](https://github.com/OpenSPG/KAG)** ![GitHub stars](https://img.shields.io/github/stars/OpenSPG/KAG?style=social) - Knowledge Augmented Generation framework for logical reasoning and factual Q&A in professional domains. Builds on OpenSPG knowledge graph engine to overcome traditional RAG vector similarity limitations. Supports multi-hop reasoning with schema-constrained knowledge construction. Apache 2.0 licensed.
 - **[Chonkie](https://github.com/chonkie-inc/chonkie)** ![GitHub stars](https://img.shields.io/github/stars/chonkie-inc/chonkie?style=social) - Lightweight document chunking library for fast, efficient RAG pipelines. Memory-safe with multiple chunking strategies (semantic, token, recursive) and direct vector DB integration. MIT licensed.
 - **[PageIndex (VectifyAI)](https://github.com/VectifyAI/PageIndex)** ![GitHub stars](https://img.shields.io/github/stars/VectifyAI/PageIndex?style=social) - Vectorless, reasoning-based RAG framework using document index structure. Achieves high accuracy without vector databases through intelligent context engineering and reasoning-based retrieval. MIT licensed.
@@ -428,6 +437,10 @@
 - **[PowerPaint (OpenMMLab)](https://github.com/open-mmlab/PowerPaint)** ![GitHub stars](https://img.shields.io/github/stars/open-mmlab/PowerPaint?style=social) - Versatile image inpainting model supporting text-guided inpainting, object removal, and outpainting (ECCV 2024).
 - **[SD.Next](https://github.com/vladmandic/sdnext)** ![GitHub stars](https://img.shields.io/github/stars/vladmandic/sdnext?style=social) - All-in-one WebUI for AI generative image and video creation with multi-platform support, SDNQ quantization, and balanced CPU/GPU memory offload.
 - **[Qwen-Image (Alibaba)](https://github.com/QwenLM/Qwen-Image)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen-Image?style=social) - 20B MMDiT image foundation model with state-of-the-art complex text rendering and precise image editing. Strong performance in Chinese text generation. Apache 2.0 licensed.
+- **[Upscayl](https://github.com/upscayl/upscayl)** ![GitHub stars](https://img.shields.io/github/stars/upscayl/upscayl?style=social) - Free and open-source AI image upscaler for Linux, macOS, and Windows. Uses Real-ESRGAN and Vulkan architecture to enhance images by reconstructing high-resolution details. Cross-platform desktop app with batch processing. AGPL-3.0 licensed.
+- **[IOPaint](https://github.com/Sanster/IOPaint)** ![GitHub stars](https://img.shields.io/github/stars/Sanster/IOPaint?style=social) - Free and open-source image inpainting and outpainting tool powered by SOTA AI models. Remove unwanted objects, defects, watermarks; replace objects; extend images beyond original boundaries. Supports LaMa, PowerPaint, BrushNet, and AnyText models. Apache 2.0 licensed.
+- **[FLUX.1 (Black Forest Labs)](https://github.com/black-forest-labs/flux)** ![GitHub stars](https://img.shields.io/github/stars/black-forest-labs/flux?style=social) - State-of-the-art text-to-image diffusion model with superior prompt following and visual quality. 12B parameters with flow matching architecture. Apache 2.0 licensed.
+- **[Stable Diffusion 3.5 (Stability AI)](https://github.com/Stability-AI/sd3.5)** ![GitHub stars](https://img.shields.io/github/stars/Stability-AI/sd3.5?style=social) - 8.1B parameter MMDiT architecture with improved typography and prompt understanding. EnhancedMMDiT architecture for high-quality image generation. MIT licensed.
 
 #### Video Generation
 
@@ -449,6 +462,8 @@
 - **[CosyVoice 2](https://github.com/FunAudioLLM/CosyVoice)** ![GitHub stars](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=social) - Natural multilingual TTS with emotional control.
 - **[OuteTTS](https://github.com/edwko/OuteTTS)** ![GitHub stars](https://img.shields.io/github/stars/edwko/OuteTTS?style=social) - High-quality open TTS.
 - **[Amphion](https://github.com/open-mmlab/Amphion)** ![GitHub stars](https://img.shields.io/github/stars/open-mmlab/Amphion?style=social) - Comprehensive toolkit for Audio, Music, and Speech Generation (9.7K stars).
+- **[YuE](https://github.com/multimodal-art-projection/YuE)** ![GitHub stars](https://img.shields.io/github/stars/multimodal-art-projection/YuE?style=social) - Open full-song music generation foundation model. Generates complete songs with both vocal and accompaniment tracks lasting several minutes. Supports diverse genres, languages, and vocal techniques. Apache 2.0 licensed.
+- **[Stable Audio Tools](https://github.com/Stability-AI/stable-audio-tools)** ![GitHub stars](https://img.shields.io/github/stars/Stability-AI/stable-audio-tools?style=social) - Stability AI's open-source audio and music generative models. Latent diffusion model for generating audio conditioned on metadata and timing, providing faster inference times and creative control for sound effects and music production. MIT licensed.
 
 #### 3D & Creative Tools
 
@@ -487,6 +502,9 @@
 - **[TorchTitan (PyTorch)](https://github.com/pytorch/torchtitan)** ![GitHub stars](https://img.shields.io/github/stars/pytorch/torchtitan?style=social) - PyTorch native platform for training generative AI models at scale. Showcases 4D parallelism (FSDP, tensor, pipeline, context) for LLM pretraining with 65%+ speedups over optimized baselines. BSD-3-Clause licensed.
 - **[VeOmni (ByteDance)](https://github.com/ByteDance-Seed/VeOmni)** ![GitHub stars](https://img.shields.io/github/stars/ByteDance-Seed/VeOmni?style=social) - Versatile framework for both single- and multi-modal pre-training and post-training. Model-centric distributed recipe zoo supporting text, vision, audio, and video models with unified training interface. Apache 2.0 licensed.
 - **[H2O LLM Studio](https://github.com/h2oai/h2o-llmstudio)** ![GitHub stars](https://img.shields.io/github/stars/h2oai/h2o-llmstudio?style=social) - No-code GUI framework for fine-tuning LLMs. Streamlined interface for SFT, reward modeling, and model deployment. Apache 2.0 licensed.
+- **[TinyZero](https://github.com/Jiayi-Pan/TinyZero)** ![GitHub stars](https://img.shields.io/github/stars/Jiayi-Pan/TinyZero?style=social) - Minimal reproduction of DeepSeek R1-Zero for countdown and multiplication tasks. Clean, accessible implementation for understanding RL-based reasoning training. Apache 2.0 licensed.
+- **[SkyThought](https://github.com/NovaSky-AI/SkyThought)** ![GitHub stars](https://img.shields.io/github/stars/NovaSky-AI/SkyThought?style=social) - Train your own O1 preview model within $450. Complete training pipeline with RL code for Sky-T1-7B and Sky-T1-mini reasoning models from UC Berkeley's NovaSky AI team. Apache 2.0 licensed.
+- **[PRIME-RL](https://github.com/PrimeIntellect-ai/prime-rl)** ![GitHub stars](https://img.shields.io/github/stars/PrimeIntellect-ai/prime-rl?style=social) - Agentic RL Training at Scale from Prime Intellect. Framework for large-scale reinforcement learning capable of scaling to 1000+ GPUs with fully asynchronous RL, FSDP2 training, and vLLM inference. Apache 2.0 licensed.
 
 #### LoRA / PEFT Tools
 
@@ -552,6 +570,7 @@
 - **[Kubeflow Pipelines](https://github.com/kubeflow/pipelines)** ![GitHub stars](https://img.shields.io/github/stars/kubeflow/pipelines?style=social) - Machine Learning Pipelines for Kubeflow. Platform for building and deploying portable, scalable ML workflows using Kubernetes and Argo. Apache 2.0 licensed.
 - **[MLRun](https://github.com/mlrun/mlrun)** ![GitHub stars](https://img.shields.io/github/stars/mlrun/mlrun?style=social) - Open-source AI orchestration platform for quickly building and managing continuous ML and generative AI applications across their lifecycle. Automates data preparation, model tuning, and deployment. Apache 2.0 licensed.
 - **[Kestra](https://github.com/kestra-io/kestra)** ![GitHub stars](https://img.shields.io/github/stars/kestra-io/kestra?style=social) - Event-driven orchestration and scheduling platform for mission-critical workflows. Infrastructure-as-Code approach with declarative YAML, Git version control integration, and hundreds of plugins for data pipelines and ML workflows. Apache 2.0 licensed.
+- **[KitOps](https://github.com/jozu-ai/kitops)** ![GitHub stars](https://img.shields.io/github/stars/jozu-ai/kitops?style=social) - CNCF open source DevOps tool for packaging, versioning, and securely sharing AI/ML models, datasets, code, and configuration. Packages everything into OCI artifacts stored in existing container registries. Apache 2.0 licensed.
 
 #### Feature Engineering & Data Preparation
 
@@ -601,6 +620,10 @@
 - **[VLMEvalKit](https://github.com/open-compass/VLMEvalKit)** ![GitHub stars](https://img.shields.io/github/stars/open-compass/VLMEvalKit?style=social) - Open-source evaluation toolkit for large multi-modality models (LMMs). Supports 220+ LMMs and 80+ benchmarks including MMMU, MathVista, and ChartQA. Powers the OpenVLM Leaderboard. Apache 2.0 licensed.
 - **[SWE-rebench (Nebius)](https://huggingface.co/datasets/nebius/SWE-rebench)** - Continuously updated benchmark with 21,000+ real-world SWE tasks for evaluating agentic LLMs. Decontaminated, mined from GitHub.
 - **[AgentBench (THUDM)](https://github.com/THUDM/AgentBench)** ![GitHub stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=social) - Comprehensive benchmark to evaluate LLMs as agents across 8 diverse environments including household, web shopping, OS interaction, and database tasks. ICLR 2024. Apache 2.0 licensed.
+- **[Arena-Hard-Auto](https://github.com/lmarena/arena-hard-auto)** ![GitHub stars](https://img.shields.io/github/stars/lmarena/arena-hard-auto?style=social) - Automatic LLM benchmark with the highest correlation to Chatbot Arena human preferences. Built from live user prompts and automatically curated for quality. Apache 2.0 licensed.
+- **[AlpacaEval](https://github.com/tatsu-lab/alpaca_eval)** ![GitHub stars](https://img.shields.io/github/stars/tatsu-lab/alpaca_eval?style=social) - Automatic evaluator for instruction-following language models. Human-validated, high-quality, cheap (<$10), and fast (<5min) with 0.98 correlation to Chatbot Arena. Apache 2.0 licensed.
+- **[C-Eval](https://github.com/hkust-nlp/ceval)** ![GitHub stars](https://img.shields.io/github/stars/hkust-nlp/ceval?style=social) - Comprehensive Chinese evaluation suite for foundation models. 13,948 multi-choice questions spanning 52 diverse disciplines and 4 difficulty levels. NeurIPS 2023. MIT licensed.
+- **[OpenAI Simple-Evals](https://github.com/openai/simple-evals)** ![GitHub stars](https://img.shields.io/github/stars/openai/simple-evals?style=social) - Minimal, open-source evaluation framework from OpenAI for measuring LLM performance on standard benchmarks including MMLU, GPQA, MATH, and HumanEval. MIT licensed.
 
 #### Evaluation Frameworks
 
@@ -633,6 +656,7 @@
 
 - **[Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai)** ![GitHub stars](https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai?style=social) - Framework for large language model evaluations from the UK AI Safety Institute. Systematic capability and safety assessments with built-in scaffolding for multi-turn dialog, tool use, and adversarial testing. MIT licensed.
 - **[DeepEval](https://github.com/confident-ai/deepeval)** ![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social) - LLM evaluation framework with built-in safety metrics including hallucination detection, bias detection, toxicity evaluation, and prompt alignment checking. Apache 2.0 licensed.
+- **[Bloom](https://github.com/safety-research/bloom)** ![GitHub stars](https://img.shields.io/github/stars/safety-research/bloom?style=social) - Open-source agentic framework for automated behavioral evaluations of frontier AI models. Generates targeted evaluation suites to probe LLMs for specific behaviors (sycophancy, self-preservation, political bias, etc.) with quantitative elicitation rates. From Anthropic's safety research team. MIT licensed.
 
 #### Alignment & RLHF Tools
 
@@ -780,6 +804,8 @@
 - **[Flowise](https://github.com/FlowiseAI/Flowise)** ![GitHub stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social) - Drag-and-drop LLM app builder.
 - **[LocalAI](https://github.com/mudler/LocalAI)** ![GitHub stars](https://img.shields.io/github/stars/mudler/LocalAI?style=social) - Open-source AI engine running LLMs, vision, voice, image, and video models on any hardware. Self-hosted OpenAI-compatible API. MIT licensed.
 - **[Onyx](https://github.com/onyx-dot-app/onyx)** ![GitHub stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social) - Full-featured AI platform with Chat, RAG, Agents, and Actions. 40+ document connectors and every LLM support. MIT licensed (Community Edition).
+- **[biniou](https://github.com/Woolverine94/biniou)** ![GitHub stars](https://img.shields.io/github/stars/Woolverine94/biniou?style=social) - Self-hosted webUI for 30+ generative AI models. Generate multimedia content with AI on your own computer, even without dedicated GPU (8GB RAM minimum). Works offline once deployed. GPL-3.0 licensed.
+- **[Self-hosted AI Starter Kit (n8n)](https://github.com/n8n-io/self-hosted-ai-starter-kit)** ![GitHub stars](https://img.shields.io/github/stars/n8n-io/self-hosted-ai-starter-kit?style=social) - Open-source Docker Compose template to quickly set up a local AI environment. Curated by n8n, combines self-hosted n8n with Ollama, Qdrant, and PostgreSQL for secure, self-hosted AI workflows. Apache 2.0 licensed.
 
 #### Desktop & Mobile AI Apps
 
@@ -839,6 +865,8 @@
 - **[aicommits](https://github.com/Nutlope/aicommits)** ![GitHub stars](https://img.shields.io/github/stars/Nutlope/aicommits?style=social) - CLI that writes your git commit messages for you with AI. Never write a commit message again. Supports multiple providers including OpenAI, Groq, xAI, Ollama, and LM Studio. MIT licensed.
 - **[Codex CLI](https://github.com/openai/codex)** ![GitHub stars](https://img.shields.io/github/stars/openai/codex?style=social) - OpenAI's lightweight coding agent that runs in your terminal. Code generation, file editing, and command execution with approval. Apache 2.0 licensed.
 - **[Repomix](https://github.com/yamadashy/repomix)** ![GitHub stars](https://img.shields.io/github/stars/yamadashy/repomix?style=social) - Powerful tool that packs your entire repository into a single AI-friendly file. Perfect for feeding codebases to LLMs with smart filtering and token counting. MIT licensed.
+- **[Instructor](https://github.com/jxnl/instructor)** ![GitHub stars](https://img.shields.io/github/stars/jxnl/instructor?style=social) - Python library for extracting structured, validated data from LLMs using Pydantic models. Handles validation, retries, and error handling with 15+ provider support. MIT licensed.
+- **[Mirascope](https://github.com/Mirascope/mirascope)** ![GitHub stars](https://img.shields.io/github/stars/Mirascope/mirascope?style=social) - Python toolkit for building LLM applications with automatic versioning, tracing, and cost tracking. The "LLM Anti-Framework" for developers who want control. MIT licensed.
 
 #### Testing & Debugging Tools
 
@@ -860,6 +888,12 @@
 #### Communities, Forums & Newsletters
 
 - **[Hugging Face Discussions](https://discuss.huggingface.co)** - Largest open AI forum.
+
+#### Educational Resources & Courses
+
+- **[Prompt Engineering Guide (DAIR-AI)](https://github.com/dair-ai/Prompt-Engineering-Guide)** ![GitHub stars](https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide?style=social) - Comprehensive guides, papers, lessons, and notebooks for prompt engineering, context engineering, RAG, and AI Agents. The definitive open-source resource for learning prompt engineering with 3M+ learners. MIT licensed.
+- **[Homemade Machine Learning (trekhleb)](https://github.com/trekhleb/homemade-machine-learning)** ![GitHub stars](https://img.shields.io/github/stars/trekhleb/homemade-machine-learning?style=social) - Python examples of popular machine learning algorithms with interactive Jupyter demos and mathematical explanations. Educational resource for understanding ML from scratch with visualizations. MIT licensed.
+- **[Start Machine Learning (louisfb01)](https://github.com/louisfb01/start-machine-learning)** ![GitHub stars](https://img.shields.io/github/stars/louisfb01/start-machine-learning?style=social) - A complete guide to start and improve in machine learning and AI in 2026 without any background. Curated learning path with the latest news, state-of-the-art techniques, and comprehensive resources for beginners. MIT licensed.
 - **[r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA)** - Go-to subreddit for local/open-source LLM topics.
 
 #### Courses & Interactive Playgrounds
