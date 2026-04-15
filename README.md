@@ -190,6 +190,7 @@
 - **[DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social) - 671B parameter MoE (37B activated) with 128K context. State-of-the-art performance among open-source models with efficient FP8 training and multi-token prediction. MIT licensed.
 - **[DeepSeek-Coder-V2 / R1-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-Coder?style=social) - Best-in-class open coding model (236B MoE). Outperforms closed models on many code benchmarks.
 - **[Qwen3-Coder-Next (Alibaba)](https://github.com/QwenLM/Qwen3-Coder)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen3-Coder?style=social) - Leading open coding model. Strong Pareto frontier for cost-effective agent deployment.
+- **[Granite Code Models (IBM)](https://github.com/ibm-granite/granite-code-models)** ![GitHub stars](https://img.shields.io/github/stars/ibm-granite/granite-code-models?style=social) - Family of open foundation models for code intelligence. Enterprise-grade models trained on code-related tasks including code repair, explanation, and synthesis. Apache 2.0 licensed.
 
 #### Multimodal Models (Vision + Language)
 
@@ -216,6 +217,8 @@
 - **[Step-Audio (StepFun)](https://github.com/stepfun-ai/Step-Audio)** ![GitHub stars](https://img.shields.io/github/stars/stepfun-ai/Step-Audio?style=social) - 130B-parameter production-ready audio LLM for intelligent speech interaction. Supports multilingual conversations (Chinese, English, Japanese), emotional tones, regional dialects (Cantonese, Sichuanese), adjustable speech rates, and prosodic styles including rap. Apache 2.0 licensed.
 - **[Voxtral TTS (Mistral)](https://github.com/mistralai/mistral-inference)** ![GitHub stars](https://img.shields.io/github/stars/mistralai/mistral-inference?style=social) - 4B parameter state-of-the-art TTS with zero-shot voice cloning, 9-language support, and ~90ms time-to-first-audio for voice agents.
 - **[WhisperSpeech](https://github.com/WhisperSpeech/WhisperSpeech)** ![GitHub stars](https://img.shields.io/github/stars/WhisperSpeech/WhisperSpeech?style=social) - Open source text-to-speech system built by inverting Whisper. High-quality voice cloning with zero-shot capabilities. MIT licensed.
+- **[Orpheus-TTS (Canopy AI)](https://github.com/canopyai/Orpheus-TTS)** ![GitHub stars](https://img.shields.io/github/stars/canopyai/Orpheus-TTS?style=social) - SOTA open-source text-to-speech system built on Llama-3b backbone. Demonstrates emergent capabilities of using LLMs for speech synthesis with human-sounding speech. Apache 2.0 licensed.
+- **[VoxCPM (OpenBMB)](https://github.com/OpenBMB/VoxCPM)** ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/VoxCPM?style=social) - Tokenizer-free TTS for multilingual speech generation, creative voice design, and true-to-life cloning. Novel architecture achieving state-of-the-art voice quality and controllability. Apache 2.0 licensed.
 
 #### Video & Animation Models
 
