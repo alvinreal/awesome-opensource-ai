@@ -441,6 +441,15 @@
 - **[IOPaint](https://github.com/Sanster/IOPaint)** ![GitHub stars](https://img.shields.io/github/stars/Sanster/IOPaint?style=social) - Free and open-source image inpainting and outpainting tool powered by SOTA AI models. Remove unwanted objects, defects, watermarks; replace objects; extend images beyond original boundaries. Supports LaMa, PowerPaint, BrushNet, and AnyText models. Apache 2.0 licensed.
 - **[FLUX.1 (Black Forest Labs)](https://github.com/black-forest-labs/flux)** ![GitHub stars](https://img.shields.io/github/stars/black-forest-labs/flux?style=social) - State-of-the-art text-to-image diffusion model with superior prompt following and visual quality. 12B parameters with flow matching architecture. Apache 2.0 licensed.
 - **[Stable Diffusion 3.5 (Stability AI)](https://github.com/Stability-AI/sd3.5)** ![GitHub stars](https://img.shields.io/github/stars/Stability-AI/sd3.5?style=social) - 8.1B parameter MMDiT architecture with improved typography and prompt understanding. EnhancedMMDiT architecture for high-quality image generation. MIT licensed.
+- **[Z-Image (Tongyi)](https://github.com/Tongyi-MAI/Z-Image)** ![GitHub stars](https://img.shields.io/github/stars/Tongyi-MAI/Z-Image?style=social) - Powerful and efficient image generation model family with 6B parameters. Includes Z-Image-Turbo for sub-second inference and Z-Image-Omni-Base for both generation and editing. Strong bilingual text rendering and instruction adherence. Apache 2.0 licensed.
+
+#### Face Swap & Deepfake
+
+- **[Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** ![GitHub stars](https://img.shields.io/github/stars/hacksider/Deep-Live-Cam?style=social) - Real-time face swap and one-click video deepfake with only a single image. High-quality face swapping for live video streaming and content creation. AGPL-3.0 licensed.
+
+#### Portrait Animation
+
+- **[EchoMimic (Ant Group)](https://github.com/antgroup/echomimic)** ![GitHub stars](https://img.shields.io/github/stars/antgroup/echomimic?style=social) - Lifelike audio-driven portrait animations through editable landmark conditioning. High-quality talking head generation with precise lip synchronization and natural head movements. AAAI 2025. Apache 2.0 licensed.
 
 #### Video Generation
 
