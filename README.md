@@ -532,7 +532,6 @@
 - **[DataTrove (Hugging Face)](https://github.com/huggingface/datatrove)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/datatrove?style=social) - Platform-agnostic data processing pipelines for LLM training at scale. Handles filtering, deduplication, and tokenization on local machines or SLURM clusters.
 - **[Bespoke Curator](https://github.com/bespokelabsai/curator)** ![GitHub stars](https://img.shields.io/github/stars/bespokelabsai/curator?style=social) - Synthetic data curation for post-training and structured data extraction. Makes it easy to build pipelines around LLMs with batching and progress tracking. Apache 2.0 licensed.
 - **[SDG (Harbin Institute)](https://github.com/hitsz-ids/synthetic-data-generator)** ![GitHub stars](https://img.shields.io/github/stars/hitsz-ids/synthetic-data-generator?style=social) - Specialized framework for generating high-quality structured tabular synthetic data with CTGAN models supporting billion-level data processing. Apache 2.0 licensed.
-- **[DataDreamer](https://github.com/datadreamer-dev/DataDreamer)** ![GitHub stars](https://img.shields.io/github/stars/datadreamer-dev/DataDreamer?style=social) - Powerful open-source Python library for prompting, synthetic data generation, and training workflows. Research-grade with aggressive caching, reproducibility features, and seamless dataset/model publishing. MIT licensed.
 
 #### Distributed Training
 
