@@ -730,6 +730,8 @@
 
 #### Computer Vision
 
+- **[Nerfstudio](https://github.com/nerfstudio-project/nerfstudio)** ![GitHub stars](https://img.shields.io/github/stars/nerfstudio-project/nerfstudio?style=social) - Collaboration-friendly studio for Neural Radiance Fields (NeRFs). Complete pipeline from video capture to 3D rendering with modular framework for NeRF development. Supports Gaussian Splatting and multiple reconstruction methods. Apache 2.0 licensed.
+- **[MMDetection3D (OpenMMLab)](https://github.com/open-mmlab/mmdetection3d)** ![GitHub stars](https://img.shields.io/github/stars/open-mmlab/mmdetection3d?style=social) - Next-generation platform for general 3D object detection. Supports multi-modal fusion (BEVFusion, TransFusion), LiDAR-based detection, and 40+ methods. Winner of nuScenes challenge awards. Apache 2.0 licensed.
 - **[OpenCV](https://github.com/opencv/opencv)** ![GitHub stars](https://img.shields.io/github/stars/opencv/opencv?style=social) - World's most widely used computer vision library.
 - **[Ultralytics YOLO](https://github.com/ultralytics/ultralytics)** ![GitHub stars](https://img.shields.io/github/stars/ultralytics/ultralytics?style=social) - State-of-the-art real-time object detection.
 - **[Detectron2](https://github.com/facebookresearch/detectron2)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/detectron2?style=social) - High-performance object detection library.
@@ -748,6 +750,7 @@
 
 #### Time Series & Scientific AI
 
+- **[TimesFM (Google Research)](https://github.com/google-research/timesfm)** ![GitHub stars](https://img.shields.io/github/stars/google-research/timesfm?style=social) - Pretrained time-series foundation model for forecasting. Supports up to 16k context length with 200M parameters, continuous quantile forecasts, and fine-tuning via LoRA. Powers BigQuery ML, Google Sheets, and Vertex Model Garden. Apache 2.0 licensed.
 - **[Time Series Library (TSLib)](https://github.com/thuml/Time-Series-Library)** ![GitHub stars](https://img.shields.io/github/stars/thuml/Time-Series-Library?style=social) - Comprehensive benchmark for time-series models.
 - **[Chronos (Amazon)](https://github.com/amazon-science/chronos-forecasting)** ![GitHub stars](https://img.shields.io/github/stars/amazon-science/chronos-forecasting?style=social) - Pretrained foundation models for time-series forecasting.
 - **[GluonTS (AWS Labs)](https://github.com/awslabs/gluonts)** ![GitHub stars](https://img.shields.io/github/stars/awslabs/gluonts?style=social) - Probabilistic time series modeling with deep learning. Powers Amazon SageMaker forecasting with PyTorch and MXNet backends. Apache 2.0 licensed.
