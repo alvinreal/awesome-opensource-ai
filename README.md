@@ -882,6 +882,7 @@
 
 #### Papers with Open Implementations
 
+- **[Deep-Learning-Papers-Reading-Roadmap (floodsung)](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)** ![GitHub stars](https://img.shields.io/github/stars/floodsung/Deep-Learning-Papers-Reading-Roadmap?style=social) - Comprehensive reading roadmap for deep learning research papers, organized from foundational to advanced topics. Curated path through 100+ seminal papers in deep learning history with star ratings for importance.
 - **[Papers with Code](https://paperswithcode.com)** - Definitive database linking papers to open code and datasets.
 - **[Hugging Face Papers](https://huggingface.co/papers)** - Daily-updated feed of the latest arXiv papers with open weights.
 - **[Open LLM Leaderboard (Hugging Face)](https://huggingface.co/spaces/open-llm-leaderboard)** - Real-time ranking of open models.
@@ -892,6 +893,9 @@
 
 #### Educational Resources & Courses
 
+- **[100-Days-Of-ML-Code (Avik-Jain)](https://github.com/Avik-Jain/100-Days-Of-ML-Code)** ![GitHub stars](https://img.shields.io/github/stars/Avik-Jain/100-Days-Of-ML-Code?style=social) - Comprehensive 100-day machine learning coding curriculum with daily lessons and code implementations. Covers data preprocessing, regression, classification, clustering, deep learning, and model deployment with practical examples. MIT licensed.
+- **[DeepLearning-500-questions (scutan90)](https://github.com/scutan90/DeepLearning-500-questions)** ![GitHub stars](https://img.shields.io/github/stars/scutan90/DeepLearning-500-questions?style=social) - 500-question knowledge base covering probability, linear algebra, machine learning, deep learning, and computer vision in Q&A format. 500,000+ word comprehensive reference with 18 chapters. GPL-3.0 licensed.
+- **[Machine Learning for Software Engineers (ZuzooVn)](https://github.com/ZuzooVn/machine-learning-for-software-engineers)** ![GitHub stars](https://img.shields.io/github/stars/ZuzooVn/machine-learning-for-software-engineers?style=social) - Complete daily study plan for software engineers transitioning to machine learning engineering. Structured curriculum with topics, resources, and hands-on projects covering the full ML stack. CC-BY-SA-4.0 licensed.
 - **[Prompt Engineering Guide (DAIR-AI)](https://github.com/dair-ai/Prompt-Engineering-Guide)** ![GitHub stars](https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide?style=social) - Comprehensive guides, papers, lessons, and notebooks for prompt engineering, context engineering, RAG, and AI Agents. The definitive open-source resource for learning prompt engineering with 3M+ learners. MIT licensed.
 - **[Homemade Machine Learning (trekhleb)](https://github.com/trekhleb/homemade-machine-learning)** ![GitHub stars](https://img.shields.io/github/stars/trekhleb/homemade-machine-learning?style=social) - Python examples of popular machine learning algorithms with interactive Jupyter demos and mathematical explanations. Educational resource for understanding ML from scratch with visualizations. MIT licensed.
 - **[Start Machine Learning (louisfb01)](https://github.com/louisfb01/start-machine-learning)** ![GitHub stars](https://img.shields.io/github/stars/louisfb01/start-machine-learning?style=social) - A complete guide to start and improve in machine learning and AI in 2026 without any background. Curated learning path with the latest news, state-of-the-art techniques, and comprehensive resources for beginners. MIT licensed.
