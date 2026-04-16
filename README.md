@@ -441,6 +441,7 @@
 - **[Qwen-Image (Alibaba)](https://github.com/QwenLM/Qwen-Image)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen-Image?style=social) - 20B MMDiT image foundation model with state-of-the-art complex text rendering and precise image editing. Strong performance in Chinese text generation. Apache 2.0 licensed.
 - **[Upscayl](https://github.com/upscayl/upscayl)** ![GitHub stars](https://img.shields.io/github/stars/upscayl/upscayl?style=social) - Free and open-source AI image upscaler for Linux, macOS, and Windows. Uses Real-ESRGAN and Vulkan architecture to enhance images by reconstructing high-resolution details. Cross-platform desktop app with batch processing. AGPL-3.0 licensed.
 - **[Z-Image (Tongyi)](https://github.com/Tongyi-MAI/Z-Image)** ![GitHub stars](https://img.shields.io/github/stars/Tongyi-MAI/Z-Image?style=social) - Powerful and efficient image generation model family with 6B parameters. Includes Z-Image-Turbo for sub-second inference and Z-Image-Omni-Base for both generation and editing. Strong bilingual text rendering and instruction adherence. Apache 2.0 licensed.
+- **[FLUX (Black Forest Labs)](https://github.com/black-forest-labs/flux)** ![GitHub stars](https://img.shields.io/github/stars/black-forest-labs/flux?style=social) - Official inference repository for FLUX.1 state-of-the-art image generation models. Apache 2.0 licensed.
 
 #### Face Swap & Deepfake
 
@@ -479,6 +480,7 @@
 - **[gsplat (3D Gaussian Splatting tools)](https://github.com/nerfstudio-project/gsplat)** ![GitHub stars](https://img.shields.io/github/stars/nerfstudio-project/gsplat?style=social) - High-performance 3D Gaussian Splatting library.
 - **[LichtFeld-Studio](https://github.com/MrNeRF/LichtFeld-Studio)** ![GitHub stars](https://img.shields.io/github/stars/MrNeRF/LichtFeld-Studio?style=social) - Native application for training, editing, and exporting 3D Gaussian Splatting scenes with MCMC optimization and timelapse generation. GPL-3.0 licensed.
 - **[OpenSplat](https://github.com/pierotofy/OpenSplat)** ![GitHub stars](https://img.shields.io/github/stars/pierotofy/OpenSplat?style=social) - Production-grade, portable implementation of 3D Gaussian Splatting with CPU/GPU support for Windows, Mac, and Linux. Creates 3D scenes from camera poses and sparse points. AGPL-3.0 licensed.
+- **[SuperSplat (PlayCanvas)](https://github.com/playcanvas/supersplat)** ![GitHub stars](https://img.shields.io/github/stars/playcanvas/supersplat?style=social) - Free online editor for 3D Gaussian Splats. Browser-based tool for viewing, editing, and optimizing Gaussian Splatting scenes with compression and export features. MIT licensed.
 
 ---
 
