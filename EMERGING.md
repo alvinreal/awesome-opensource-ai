@@ -146,7 +146,7 @@
 
 > Fresh IDE plugins, testing frameworks, and developer productivity tools.
 
-*No entries yet — [submit one!](./CONTRIBUTING.md)*
+- **[Not Human Search](https://github.com/unitedideas/nothumansearch)** ![GitHub stars](https://img.shields.io/github/stars/unitedideas/nothumansearch?style=social) - Search engine for AI agent tools. Indexes 1,100+ tools ranked by agentic readiness score (0-100) based on llms.txt, OpenAPI, and MCP support. REST API, OpenAPI spec, and MCP server published in the official registry.
 
 ---
 
