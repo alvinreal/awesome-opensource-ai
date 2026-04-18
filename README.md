@@ -750,10 +750,16 @@
 
 ### 🧩 11. Specialized Domains
 
+#### Weather & Climate AI
+
+- **[GraphCast](https://github.com/google-deepmind/graphcast)** ![GitHub stars](https://img.shields.io/github/stars/google-deepmind/graphcast?style=social) - Deep learning weather forecasting model from Google DeepMind. State-of-the-art AI weather prediction with 10-day global forecasts matching or exceeding traditional numerical methods. Apache 2.0 licensed.
+- **[Pangu-Weather](https://github.com/198808xc/Pangu-Weather)** ![GitHub stars](https://img.shields.io/github/stars/198808xc/Pangu-Weather?style=social) - 3D neural network for accurate medium-range global weather forecasting from Huawei Cloud. First AI model to outperform ECMWF IFS on deterministic forecasting, published in Nature. Apache 2.0 licensed.
+
 #### Scientific AI & Physics ML
 
 - **[NVIDIA Modulus](https://github.com/NVIDIA/modulus)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/modulus?style=social) - Open-source deep learning framework for physics-informed machine learning (Physics-ML). Build, train, and fine-tune models for AI4science and engineering applications using state-of-the-art SciML methods. Apache 2.0 licensed.
 - **[TorchGeo](https://github.com/microsoft/torchgeo)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/torchgeo?style=social) - PyTorch domain library for geospatial data. Datasets, samplers, transforms, and pre-trained models for multispectral satellite imagery and remote sensing. First library with pre-trained models for Sentinel-2 bands. MIT licensed.
+- **[Astropy](https://github.com/astropy/astropy)** ![GitHub stars](https://img.shields.io/github/stars/astropy/astropy?style=social) - Core library for astronomy and astrophysics in Python. Comprehensive tools for celestial coordinates, FITS I/O, cosmological calculations, and data analysis for professional astronomy. BSD-3-Clause licensed.
 
 #### Scientific AI & Drug Discovery
 
@@ -761,6 +767,13 @@
 - **[Protenix](https://github.com/bytedance/Protenix)** ![GitHub stars](https://img.shields.io/github/stars/bytedance/Protenix?style=social) - High-accuracy open-source biomolecular structure prediction model from ByteDance. First fully open-source model to outperform AlphaFold3 across diverse benchmarks with Apache 2.0 licensing for both academic and commercial use.
 - **[OpenFold](https://github.com/aqlaboratory/openfold)** ![GitHub stars](https://img.shields.io/github/stars/aqlaboratory/openfold?style=social) - Trainable PyTorch reproduction of AlphaFold2. Complete open-source pipeline for protein structure prediction with competitive accuracy to the original. Apache 2.0 licensed.
 - **[DeepChem](https://github.com/deepchem/deepchem)** ![GitHub stars](https://img.shields.io/github/stars/deepchem/deepchem?style=social) - Democratizing deep learning for drug discovery, quantum chemistry, materials science, and biology. High-quality open-source toolchain with 50+ models and extensive tutorials. MIT licensed.
+
+#### Probabilistic Programming & Bayesian ML
+
+- **[PyMC](https://github.com/pymc-devs/pymc)** ![GitHub stars](https://img.shields.io/github/stars/pymc-devs/pymc?style=social) - Modern, comprehensive probabilistic programming framework in Python. Bayesian modeling with advanced MCMC sampling, variational inference, and seamless integration with ArviZ for visualization. Apache 2.0 licensed.
+- **[Pyro](https://github.com/pyro-ppl/pyro)** ![GitHub stars](https://img.shields.io/github/stars/pyro-ppl/pyro?style=social) - Deep universal probabilistic programming built on PyTorch. Flexible, scalable PPL supporting variational inference, MCMC, and deep generative models for scientific applications. Apache 2.0 licensed.
+- **[ArviZ](https://github.com/arviz-devs/arviz)** ![GitHub stars](https://img.shields.io/github/stars/arviz-devs/arviz?style=social) - Exploratory analysis of Bayesian models with Python. Comprehensive visualization and diagnostics for probabilistic models, supporting PyMC, Pyro, Stan, and other PPLs. Apache 2.0 licensed.
+- **[Stanza](https://github.com/stanfordnlp/stanza)** ![GitHub stars](https://img.shields.io/github/stars/stanfordnlp/stanza?style=social) - Stanford NLP Python library for 100+ human languages. State-of-the-art neural pipelines for tokenization, NER, parsing, and sentiment analysis with pre-trained models. Apache 2.0 licensed.
 
 #### Medical Imaging & Healthcare AI
 
