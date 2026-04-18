@@ -869,7 +869,6 @@
 
 #### AI Coding Assistants (open-source)
 
-- **[Zed](https://github.com/zed-industries/zed)** ![GitHub stars](https://img.shields.io/github/stars/zed-industries/zed?style=social) - High-performance, multiplayer code editor from the creators of Atom and Tree-sitter. Built-in AI assistant with support for multiple LLM providers. AGPL-3.0 licensed.
 - **[Continue](https://github.com/continuedev/continue)** ![GitHub stars](https://img.shields.io/github/stars/continuedev/continue?style=social) - Open-source AI coding autopilot for VS Code & JetBrains.
 - **[Tabby](https://github.com/TabbyML/tabby)** ![GitHub stars](https://img.shields.io/github/stars/TabbyML/tabby?style=social) - Self-hosted AI coding assistant.
 - **[Cline](https://github.com/cline/cline)** ![GitHub stars](https://img.shields.io/github/stars/cline/cline?style=social) - Open-source IDE coding agent that can edit files, run commands, and use tools with user approval.
@@ -887,8 +886,6 @@
 - **[avante.nvim](https://github.com/yetone/avante.nvim)** ![GitHub stars](https://img.shields.io/github/stars/yetone/avante.nvim?style=social) - Neovim plugin that brings Cursor-like AI IDE features to Vim. Edit code with natural language, generate code from context, and chat with AI about your codebase. Apache 2.0 licensed.
 - **[vim-ai](https://github.com/madox2/vim-ai)** ![GitHub stars](https://img.shields.io/github/stars/madox2/vim-ai?style=social) - AI-powered code assistant for Vim and Neovim. Generate code, edit text, and have interactive conversations with GPT models. Supports custom roles, vision capabilities, and any OpenAI-compatible API. MIT licensed.
 - **[windsurf.vim](https://github.com/Exafunction/windsurf.vim)** ![GitHub stars](https://img.shields.io/github/stars/Exafunction/windsurf.vim?style=social) - Free, ultrafast Copilot alternative for Vim and Neovim. AI-powered code completion with low latency and large context window. MIT licensed.
-- **[GitLens](https://github.com/gitkraken/vscode-gitlens)** ![GitHub stars](https://img.shields.io/github/stars/gitkraken/vscode-gitlens?style=social) - AI-enhanced Git extension for VS Code. Supercharges Git with AI-powered commit message generation, PR descriptions, and code explanations. MIT licensed.
-- **[Twinny](https://github.com/rjmacarthy/twinny)** ![GitHub stars](https://img.shields.io/github/stars/rjmacarthy/twinny?style=social) - The most no-nonsense locally hosted AI code completion plugin for VS Code. Like GitHub Copilot but 100% free and private. Supports Ollama and other local LLMs. MIT licensed.
 - **[Jupyter AI](https://github.com/jupyterlab/jupyter-ai)** ![GitHub stars](https://img.shields.io/github/stars/jupyterlab/jupyter-ai?style=social) - Chat and code generation inside notebooks.
 
 #### UI Components & Chat Libraries
