@@ -862,6 +862,7 @@
 - **[Self-hosted AI Starter Kit (n8n)](https://github.com/n8n-io/self-hosted-ai-starter-kit)** ![GitHub stars](https://img.shields.io/github/stars/n8n-io/self-hosted-ai-starter-kit?style=social) - Open-source Docker Compose template to quickly set up a local AI environment. Curated by n8n, combines self-hosted n8n with Ollama, Qdrant, and PostgreSQL for secure, self-hosted AI workflows. Apache 2.0 licensed.
 - **[CoAI](https://github.com/coaidev/coai)** ![GitHub stars](https://img.shields.io/github/stars/coaidev/coai?style=social) - Next-generation multi-tenant AI one-stop solution with built-in admin and billing system. Enterprise-grade unified LLM gateway supporting 200+ models and 35+ providers. Apache-2.0 licensed.
 - **[Plane](https://github.com/makeplane/plane)** ![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social) - Open-source Jira, Linear, Monday, and ClickUp alternative. AI-powered project management platform with intelligent task triage, sprint planning, and automated workflows. AGPL-3.0 licensed.
+- **[RAG Web UI](https://github.com/rag-web-ui/rag-web-ui)** ![GitHub stars](https://img.shields.io/github/stars/rag-web-ui/rag-web-ui?style=social) - Intelligent dialogue system based on RAG technology. Build intelligent Q&A systems on your own knowledge base with modern web interface. Apache-2.0 licensed.
 
 #### Desktop & Mobile AI Apps
 
