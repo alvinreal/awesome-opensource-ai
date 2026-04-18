@@ -488,6 +488,9 @@
 - **[OuteTTS](https://github.com/edwko/OuteTTS)** ![GitHub stars](https://img.shields.io/github/stars/edwko/OuteTTS?style=social) - High-quality open TTS.
 - **[Amphion](https://github.com/open-mmlab/Amphion)** ![GitHub stars](https://img.shields.io/github/stars/open-mmlab/Amphion?style=social) - Comprehensive toolkit for Audio, Music, and Speech Generation (9.7K stars).
 - **[Stable Audio Tools](https://github.com/Stability-AI/stable-audio-tools)** ![GitHub stars](https://img.shields.io/github/stars/Stability-AI/stable-audio-tools?style=social) - Stability AI's open-source audio and music generative models. Latent diffusion model for generating audio conditioned on metadata and timing, providing faster inference times and creative control for sound effects and music production. MIT licensed.
+- **[GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)** ![GitHub stars](https://img.shields.io/github/stars/RVC-Boss/GPT-SoVITS?style=social) - Few-shot voice cloning with just 1 minute of voice data. Combines GPT and SoVITS architectures for high-quality TTS with cross-lingual support and emotional expression. MIT licensed.
+- **[Chatterbox](https://github.com/resemble-ai/chatterbox)** ![GitHub stars](https://img.shields.io/github/stars/resemble-ai/chatterbox?style=social) - State-of-the-art open-source TTS with natural prosody and emotional control. Zero-shot voice cloning with high speaker similarity. MIT licensed.
+- **[F5-TTS](https://github.com/SWivid/F5-TTS)** ![GitHub stars](https://img.shields.io/github/stars/SWivid/F5-TTS?style=social) - Fully non-autoregressive text-to-speech using flow matching with diffusion transformer (DiT). Fast, high-quality synthesis with zero-shot voice cloning capabilities. MIT licensed.
 
 #### 3D & Creative Tools
 
