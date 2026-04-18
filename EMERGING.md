@@ -4,7 +4,7 @@
 
 # Awesome Open Source AI - *Emerging & Innovations*
 
-*A showcase for **promising new projects** that haven't yet met our strict elite-tier criteria but deserve visibility and community support.*
+*A showcase for **promising new projects** that hhaven't yet met our strict elite-tier criteria but deserve visibility and community support.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
@@ -139,7 +139,7 @@
 > New chat interfaces, desktop assistants, and self-hosted AI platforms.
 
 - **[AVA AI Voice Agent](https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk)** ![GitHub stars](https://img.shields.io/github/stars/hkjarral/AVA-AI-Voice-Agent-for-Asterisk?style=social) - Open-source AI voice agent for Asterisk/FreePBX telephony systems. Modular pipeline architecture supporting multiple STT, LLM, and TTS providers with Audiosocket/RTP integration. MIT licensed.
-
+- **[DishRoll](https://github.com/samirasadov28-code/DishRoll)** ![GitHub stars](https://img.shields.io/github/stars/samirasadov28-code/DishRoll?style=social) - AI-powered weekly meal planner generating personalized 7-day menus with cuisine preferences, dietary filters, budget tracking, and smart shopping list export to Alexa. Built with React and Claude Sonnet. MIT licensed.
 ---
 
 ### 🧪 13. Developer Tools & Integrations
