@@ -66,6 +66,7 @@
 - **[dm-haiku](https://github.com/google-deepmind/dm-haiku)** ![GitHub stars](https://img.shields.io/github/stars/google-deepmind/dm-haiku?style=social) - JAX-based neural network library from Google DeepMind. Elegant functional API with state management, widely used in DeepMind's research. Apache 2.0 licensed.
 - **[Equinox](https://github.com/patrick-kidger/equinox)** ![GitHub stars](https://img.shields.io/github/stars/patrick-kidger/equinox?style=social) - Elegant easy-to-use neural networks and scientific computing in JAX. Callable PyTrees with filtered transformations, seamless interoperability with the JAX ecosystem. Apache 2.0 licensed.
 - **[Diffrax](https://github.com/patrick-kidger/diffrax)** ![GitHub stars](https://img.shields.io/github/stars/patrick-kidger/diffrax?style=social) - Numerical differential equation solvers in JAX. Autodifferentiable and GPU-capable ODE/SDE/CDE solvers for scientific machine learning and neural differential equations. Apache 2.0 licensed.
+- **[vit-pytorch](https://github.com/lucidrains/vit-pytorch)** ![GitHub stars](https://img.shields.io/github/stars/lucidrains/vit-pytorch?style=social) - Comprehensive Vision Transformer (ViT) implementations in PyTorch. Reference implementations of all major vision transformer variants including ViT, DeiT, Swin, and more. MIT licensed.
 - **[NumPyro](https://github.com/pyro-ppl/numpyro)** ![GitHub stars](https://img.shields.io/github/stars/pyro-ppl/numpyro?style=social) - Probabilistic programming with NumPy powered by JAX for autograd and JIT compilation. Bayesian modeling and inference at scale.
 - **[Keras](https://github.com/keras-team/keras)** ![GitHub stars](https://img.shields.io/github/stars/keras-team/keras?style=social) - High-level, beginner-friendly API that now runs on multiple backends (TensorFlow, JAX, PyTorch). Perfect for rapid experimentation.
 - **[tinygrad](https://github.com/tinygrad/tinygrad)** ![GitHub stars](https://img.shields.io/github/stars/tinygrad/tinygrad?style=social) - Minimalist deep learning framework with tiny code footprint. The "you like pytorch? you like micrograd? you love tinygrad!" philosophy - simple yet powerful.
@@ -123,6 +124,7 @@
 - **[Oxen](https://github.com/Oxen-AI/Oxen)** ![GitHub stars](https://img.shields.io/github/stars/Oxen-AI/Oxen?style=social) - Lightning fast data version control for machine learning. Optimized for large datasets with efficient diffing, branching, and collaboration. Apache 2.0 licensed.
 - **[Pandera](https://github.com/unionai-oss/pandera)** ![GitHub stars](https://img.shields.io/github/stars/unionai-oss/pandera?style=social) - Statistical data testing and validation for dataframes. Pydantic-like API for pandas, Polars, and other dataframe libraries with type hints and lazy validation. MIT licensed.
 - **[Snorkel](https://github.com/snorkel-team/snorkel)** ![GitHub stars](https://img.shields.io/github/stars/snorkel-team/snorkel?style=social) - System for quickly generating training data with weak supervision. Programmatically label, build, and manage training data using labeling functions and probabilistic consensus models. Powers Snorkel Flow and used by Google, Apple, and Intel. Apache 2.0 licensed.
+- **[torchdata](https://github.com/pytorch/data)** ![GitHub stars](https://img.shields.io/github/stars/pytorch/data?style=social) - Modular data loading primitives for PyTorch. Composable data pipelines with streaming iterators for efficient preprocessing and loading of large-scale datasets. BSD-3-Clause licensed.
 
 #### Classical ML & Gradient Boosting
 
@@ -170,6 +172,7 @@
 - **[SHAP](https://github.com/shap/shap)** ![GitHub stars](https://img.shields.io/github/stars/shap/shap?style=social) - Game theoretic approach to explain the output of any machine learning model. Industry standard for model interpretability.
 - **[skorch](https://github.com/skorch-dev/skorch)** ![GitHub stars](https://img.shields.io/github/stars/skorch-dev/skorch?style=social) - Scikit-learn compatible neural network library that wraps PyTorch. Seamlessly integrate PyTorch models with scikit-learn pipelines, grid search, and cross-validation.
 - **[Composer](https://github.com/mosaicml/composer)** ![GitHub stars](https://img.shields.io/github/stars/mosaicml/composer?style=social) - Supercharge your model training. MosaicML's PyTorch training library with built-in algorithms for efficient training (FSDP, gradient compression, progressive resizing) and seamless distributed training on large-scale clusters. Apache 2.0 licensed.
+- **[NVIDIA Apex](https://github.com/NVIDIA/apex)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/apex?style=social) - PyTorch extension for mixed precision training and distributed training optimizations. Powers many production deep learning workloads with tools for automatic mixed precision (AMP), distributed data parallel, and fused optimizers. BSD-3-Clause licensed.
 
 ---
 
@@ -760,6 +763,8 @@
 - **[CVAT](https://github.com/cvat-ai/cvat)** ![GitHub stars](https://img.shields.io/github/stars/cvat-ai/cvat?style=social) - Industry-leading data annotation platform for computer vision. Interactive video and image annotation tool used by tens of thousands of teams for machine learning at any scale.
 - **[SAM 2](https://github.com/facebookresearch/sam2)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/sam2?style=social) - Promptable image and video segmentation model with released checkpoints and training code.
 - **[Kornia](https://github.com/kornia/kornia)** ![GitHub stars](https://img.shields.io/github/stars/kornia/kornia?style=social) - Differentiable computer vision library.
+- **[torchaudio](https://github.com/pytorch/audio)** ![GitHub stars](https://img.shields.io/github/stars/pytorch/audio?style=social) - PyTorch audio processing library. Comprehensive toolkit for audio I/O, transformations, and deep learning with support for speech recognition, TTS, and audio classification. BSD-2-Clause licensed.
+- **[MMCV](https://github.com/open-mmlab/mmcv)** ![GitHub stars](https://img.shields.io/github/stars/open-mmlab/mmcv?style=social) - OpenMMLab foundational computer vision library. Core utilities for training and deploying computer vision models including image/video processing, model zoo, and CUDA ops. Apache 2.0 licensed.
 - **[MediaPipe](https://github.com/google-ai-edge/mediapipe)** ![GitHub stars](https://img.shields.io/github/stars/google-ai-edge/mediapipe?style=social) - Cross-platform multimodal pipelines.
 
 #### 3D Vision & Point Cloud Processing
