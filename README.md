@@ -294,8 +294,6 @@
 #### Additional Inference Engines
 
 - **[CTranslate2](https://github.com/OpenNMT/CTranslate2)** ![GitHub stars](https://img.shields.io/github/stars/OpenNMT/CTranslate2?style=social) - Fast inference engine for Transformer models supporting OpenNMT and Hugging Face models. Optimized for CPU and GPU with batching, quantization (INT8/FP16), and dynamic memory management. Powers faster-whisper and other production deployments. MIT licensed.
-- **[Text Generation Inference (TGI)](https://github.com/huggingface/text-generation-inference)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/text-generation-inference?style=social) - HuggingFace's production-grade LLM serving framework. First widely-adopted serving engine powering HuggingChat and Inference Endpoints. Now in maintenance mode with recommendations to migrate to vLLM or SGLang. Apache 2.0 licensed.
-- **[DeepSpeed-MII](https://github.com/deepspeedai/DeepSpeed-MII)** ![GitHub stars](https://img.shields.io/github/stars/deepspeedai/DeepSpeed-MII?style=social) - Microsoft's low-latency, high-throughput inference engine powered by DeepSpeed. Integrates DeepSpeed-Inference optimizations for production deployments. Apache 2.0 licensed.
 - **[PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)** ![GitHub stars](https://img.shields.io/github/stars/SJTU-IPADS/PowerInfer?style=social) - High-speed LLM inference for local deployment on consumer GPUs. Achieves up to 11x speedup over llama.cpp on RTX 4090 by exploiting power-law neuron activation patterns. MIT licensed.
 
 #### Quantization, Distillation & Optimization
