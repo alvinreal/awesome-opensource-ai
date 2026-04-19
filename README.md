@@ -544,6 +544,7 @@
 
 #### Full Training Frameworks
 
+- **[Oumi](https://github.com/oumi-ai/oumi)** ![GitHub stars](https://img.shields.io/github/stars/oumi-ai/oumi?style=social) - Fully open-source platform for the complete foundation model lifecycle - from data preparation and training to evaluation and deployment. Supports 100+ models with 200+ recipes for fine-tuning gpt-oss, Qwen3, DeepSeek-R1, and more. Apache 2.0 licensed.
 - **[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)** ![GitHub stars](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=social) - One-stop unified framework for SFT, DPO, ORPO, KTO with web UI.
 - **[Axolotl](https://github.com/axolotl-ai-cloud/axolotl)** ![GitHub stars](https://img.shields.io/github/stars/axolotl-ai-cloud/axolotl?style=social) - YAML-driven full pipeline for SFT, DPO, GRPO.
 - **[ms-swift](https://github.com/modelscope/ms-swift)** ![GitHub stars](https://img.shields.io/github/stars/modelscope/ms-swift?style=social) - Unified training framework for 600+ LLMs and 300+ MLLMs with CPT/SFT/DPO/GRPO (AAAI 2025).
