@@ -642,6 +642,7 @@
 - **[HAMi](https://github.com/Project-HAMi/HAMi)** ![GitHub stars](https://img.shields.io/github/stars/Project-HAMi/HAMi?style=social) - Heterogeneous GPU Sharing on Kubernetes. CNCF sandbox project providing GPU virtualization, slicing, and scheduling for efficient AI workload management across heterogeneous accelerators (GPUs, NPUs, MLUs). Apache 2.0 licensed.
 - **[NVIDIA KAI Scheduler](https://github.com/NVIDIA/KAI-Scheduler)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/KAI-Scheduler?style=social) - Kubernetes-native GPU scheduler for AI workloads at large scale. Originally developed by Run:ai, now open-sourced by NVIDIA. Optimizes GPU resource allocation with dynamic allocation and efficient queue management. Apache 2.0 licensed.
 - **[NVIDIA DeepOps](https://github.com/NVIDIA/deepops)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/deepops?style=social) - Infrastructure automation tools for building GPU clusters with Kubernetes and Slurm. Deploys multi-node GPU clusters with monitoring, logging, and storage for AI/HPC workloads. BSD-3-Clause licensed.
+- **[SkyPilot](https://github.com/skypilot-org/skypilot)** ![GitHub stars](https://img.shields.io/github/stars/skypilot-org/skypilot?style=social) - Run, manage, and scale AI workloads on any AI infrastructure. Unified interface to access and manage compute across Kubernetes, Slurm, and 20+ cloud providers. Used by Shopify and research institutions for training and inference. Apache 2.0 licensed.
 
 #### Feature Engineering & Data Preparation
 
