@@ -6,7 +6,7 @@
 
 # Awesome Open Source AI
 
-*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated April 19, 2026.*
+*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated April 20, 2026.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
@@ -416,6 +416,8 @@
 - **[Annoy](https://github.com/spotify/annoy)** ![GitHub stars](https://img.shields.io/github/stars/spotify/annoy?style=social) - Approximate nearest neighbors library optimized for memory usage and fast loading. Powers Spotify's music recommendation with C++/Python bindings. Apache 2.0 licensed.
 - **[sqlite-vec](https://github.com/asg017/sqlite-vec)** ![GitHub stars](https://img.shields.io/github/stars/asg017/sqlite-vec?style=social) - A vector search SQLite extension that runs anywhere. Extremely small, "fast enough" vector search written in pure C with no dependencies. Perfect for embedded and edge deployments. MIT/Apache-2.0 dual licensed.
 - **[zvec](https://github.com/alibaba/zvec)** ![GitHub stars](https://img.shields.io/github/stars/alibaba/zvec?style=social) - Lightweight, lightning-fast, in-process vector database from Alibaba. Built on Proxima (Alibaba's battle-tested vector search engine) for production-grade, low-latency similarity search. Apache 2.0 licensed.
+- **[Infinity (InfiniFlow)](https://github.com/infiniflow/infinity)** ![GitHub stars](https://img.shields.io/github/stars/infiniflow/infinity?style=social) - The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text. Apache 2.0 licensed.
+- **[RediSearch](https://github.com/RediSearch/RediSearch)** ![GitHub stars](https://img.shields.io/github/stars/RediSearch/RediSearch?style=social) - A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations. Powers Redis as a vector database.
 
 #### Embedding Models
 
