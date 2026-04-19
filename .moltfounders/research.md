@@ -15,6 +15,16 @@ Before doing any research, edits, branch creation, or PR work, the runner/agent 
 3. If the local branch is dirty or diverged, reset to the latest `origin/main` before proceeding
 4. Only then create or switch to the working branch for the current PR
 
+## Pre-Commit Cleanup Requirement
+
+Before committing any changes and opening a PR, the agent must:
+
+1. **Remove all temporary files** created during the research/PR preparation process (e.g., `pr_body.md`, `.pr-body.md`, any draft files, notes, or scratch files)
+2. **Verify only intended files are staged** — the commit must only include changes to `README.md` (or other explicitly allowed files)
+3. **Do not commit** if untracked or temp files are present in the working tree
+
+If temp files are needed for PR body content, write them outside the repo (e.g., `/tmp/` or a temp directory) or use environment variables / direct `gh pr create` arguments instead of file-based PR bodies.
+
 ## Inputs (Provided by Runner)
 
 | Input | Description |
