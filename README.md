@@ -6,7 +6,7 @@
 
 # Awesome Open Source AI
 
-*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated April 19, 2026.*
+*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated April 20, 2026.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
@@ -299,6 +299,7 @@
 - **[One-API](https://github.com/songquanpeng/one-api)** ![GitHub stars](https://img.shields.io/github/stars/songquanpeng/one-api?style=social) - LLM API management and key redistribution system. Unifies multiple providers (OpenAI, Anthropic, Azure, etc.) under a single OpenAI-compatible API with built-in rate limiting, quota management, and cost tracking. MIT licensed.
 - **[OpenLLM (BentoML)](https://github.com/bentoml/OpenLLM)** ![GitHub stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social) - Production-grade platform for running any open-source LLMs as OpenAI-compatible API endpoints. Supports 50+ models with built-in streaming, batching, and auto-acceleration. Apache 2.0 licensed.
 - **[Higress (Alibaba)](https://github.com/alibaba/higress)** ![GitHub stars](https://img.shields.io/github/stars/alibaba/higress?style=social) - AI-native API gateway born from Alibaba's internal infrastructure with 2+ years of production validation. Provides unified LLM API and MCP (Model Context Protocol) management with enterprise-grade 99.99% availability. Apache 2.0 licensed.
+- **[xLLM (JD.com)](https://github.com/jd-opensource/xllm)** ![GitHub stars](https://img.shields.io/github/stars/jd-opensource/xllm?style=social) - High-performance inference engine optimized for diverse AI accelerators. Service-engine decoupled architecture with elastic scheduling, PD disaggregation, and global KV cache management. Powers JD.com's core retail businesses including intelligent customer service, risk control, and ad recommendation. Apache 2.0 licensed.
 
 #### Additional Inference Engines
 
