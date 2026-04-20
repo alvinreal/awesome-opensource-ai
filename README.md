@@ -103,6 +103,11 @@
 - **[tokenizers (Hugging Face)](https://github.com/huggingface/tokenizers)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/tokenizers?style=social) - Fast state-of-the-art tokenizers for training and inference.
 - **[fairseq2](https://github.com/facebookresearch/fairseq2)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/fairseq2?style=social) - FAIR Sequence Modeling Toolkit 2. Complete rewrite of fairseq with modern PyTorch APIs, native support for LLM training (70B+ models), vLLM integration, and first-party recipes for instruction finetuning and preference optimization. MIT licensed.
 
+#### Model Hubs & Registries
+
+- **[Hugging Face Hub (huggingface_hub)](https://github.com/huggingface/huggingface_hub)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/huggingface_hub?style=social) - Official Python client for the Hugging Face Hub. The standard interface for accessing 1M+ models, datasets, and spaces. Enables model download, upload, inference API access, and seamless integration with the HF ecosystem. Apache 2.0 licensed.
+- **[ModelScope](https://github.com/modelscope/modelscope)** ![GitHub stars](https://img.shields.io/github/stars/modelscope/modelscope?style=social) - Alibaba's Model-as-a-Service platform bringing the notion of Model-as-a-Service to life. Comprehensive library for discovering, downloading, and using 10,000+ open-source AI models. China's leading open model hub with native support for Chinese and multilingual models. Apache 2.0 licensed.
+
 #### Data Processing & Manipulation
 
 - **[Pandas](https://github.com/pandas-dev/pandas)** ![GitHub stars](https://img.shields.io/github/stars/pandas-dev/pandas?style=social) - The gold standard for data analysis and manipulation in Python.
