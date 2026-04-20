@@ -6,7 +6,7 @@
 
 # Awesome Open Source AI
 
-*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated April 19, 2026.*
+*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated April 20, 2026.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
@@ -311,6 +311,7 @@
 
 #### Additional Inference Engines
 
+- **[FlashInfer](https://github.com/flashinfer-ai/flashinfer)** ![GitHub stars](https://img.shields.io/github/stars/flashinfer-ai/flashinfer?style=social) - Kernel library for LLM serving with state-of-the-art performance across diverse GPU architectures. Powers inference in vLLM, SGLang, TensorRT-LLM, TGI, MLC-LLM, and more. Apache 2.0 licensed.
 - **[CTranslate2](https://github.com/OpenNMT/CTranslate2)** ![GitHub stars](https://img.shields.io/github/stars/OpenNMT/CTranslate2?style=social) - Fast inference engine for Transformer models supporting OpenNMT and Hugging Face models. Optimized for CPU and GPU with batching, quantization (INT8/FP16), and dynamic memory management. Powers faster-whisper and other production deployments. MIT licensed.
 - **[PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)** ![GitHub stars](https://img.shields.io/github/stars/SJTU-IPADS/PowerInfer?style=social) - High-speed LLM inference for local deployment on consumer GPUs. Achieves up to 11x speedup over llama.cpp on RTX 4090 by exploiting power-law neuron activation patterns. MIT licensed.
 
