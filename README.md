@@ -620,6 +620,12 @@
 - **[Aim](https://github.com/aimhubio/aim)** ![GitHub stars](https://img.shields.io/github/stars/aimhubio/aim?style=social) - Self-hosted ML experiment tracker designed to handle 10,000s of training runs with performant UI and SDK for programmatic access. Apache 2.0 licensed.
 - **[Feast](https://github.com/feast-dev/feast)** ![GitHub stars](https://img.shields.io/github/stars/feast-dev/feast?style=social) - Open source feature store for ML. Manages offline/online feature storage with point-in-time correctness to prevent data leakage. Apache 2.0 licensed.
 
+#### Model Hubs & Registries
+
+- **[Civitai](https://github.com/civitai/civitai)** ![GitHub stars](https://img.shields.io/github/stars/civitai/civitai?style=social) - Open-source AI model hub and community platform for sharing and discovering generative AI models, with focus on image generation models. Features model versioning, reviews, and integrated inference. Apache 2.0 licensed.
+- **[Hugging Face Hub](https://github.com/huggingface/huggingface_hub)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/huggingface_hub?style=social) - Official Python client for the Hugging Face Hub. Download, upload, and manage 1M+ open-source ML models and datasets programmatically. The de facto standard for model sharing and distribution. Apache 2.0 licensed.
+- **[OpenVINO Open Model Zoo](https://github.com/openvinotoolkit/open_model_zoo)** ![GitHub stars](https://img.shields.io/github/stars/openvinotoolkit/open_model_zoo?style=social) - Pre-trained deep learning models and demos optimized for Intel hardware. 200+ public pre-trained models for vision, speech, and NLP with benchmarking tools and accuracy metrics. Apache 2.0 licensed.
+
 #### Deployment & Orchestration
 
 - **[BentoML](https://github.com/bentoml/BentoML)** ![GitHub stars](https://img.shields.io/github/stars/bentoml/BentoML?style=social) - Unified framework to build, ship, and scale AI apps.
