@@ -309,6 +309,15 @@
 
 > Frameworks and platforms for building agent-based systems and multi-agent workflows.
 
+#### LLM Application Frameworks
+
+> General-purpose frameworks for building LLM-powered applications.
+
+- **[Outlines](https://github.com/dottxt-ai/outlines)** ![GitHub stars](https://img.shields.io/github/stars/dottxt-ai/outlines?style=social) - Structured outputs for LLMs. Guarantees valid JSON, regex-compliant text, and Pydantic model outputs during generation. Works with any model (OpenAI, Ollama, vLLM, etc.) with constrained token sampling. Apache 2.0 licensed.
+- **[PromptFlow](https://github.com/microsoft/promptflow)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/promptflow?style=social) - Build high-quality LLM apps from prototyping to production. Visual flow designer, integrated testing, evaluation, and deployment tools for prompt engineering workflows. MIT licensed.
+- **[ell](https://github.com/MadcowD/ell)** ![GitHub stars](https://img.shields.io/github/stars/MadcowD/ell?style=social) - Lightweight, functional prompt engineering framework treating prompts as versioned functions. Automatic prompt versioning, serialization, and visualization via Ell Studio. MIT licensed.
+- **[Langroid](https://github.com/langroid/langroid)** ![GitHub stars](https://img.shields.io/github/stars/langroid/langroid?style=social) - Intuitive, extensible Python framework for building LLM-powered applications with multi-agent support. From CMU and UW-Madison researchers. MIT licensed.
+
 #### Single-Agent Frameworks
 
 - **[LangGraph](https://github.com/langchain-ai/langgraph)** ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social) - Stateful, controllable agent orchestration.
