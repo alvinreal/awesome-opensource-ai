@@ -416,6 +416,7 @@
 - **[Annoy](https://github.com/spotify/annoy)** ![GitHub stars](https://img.shields.io/github/stars/spotify/annoy?style=social) - Approximate nearest neighbors library optimized for memory usage and fast loading. Powers Spotify's music recommendation with C++/Python bindings. Apache 2.0 licensed.
 - **[sqlite-vec](https://github.com/asg017/sqlite-vec)** ![GitHub stars](https://img.shields.io/github/stars/asg017/sqlite-vec?style=social) - A vector search SQLite extension that runs anywhere. Extremely small, "fast enough" vector search written in pure C with no dependencies. Perfect for embedded and edge deployments. MIT/Apache-2.0 dual licensed.
 - **[zvec](https://github.com/alibaba/zvec)** ![GitHub stars](https://img.shields.io/github/stars/alibaba/zvec?style=social) - Lightweight, lightning-fast, in-process vector database from Alibaba. Built on Proxima (Alibaba's battle-tested vector search engine) for production-grade, low-latency similarity search. Apache 2.0 licensed.
+- **[USearch](https://github.com/unum-cloud/usearch)** ![GitHub stars](https://img.shields.io/github/stars/unum-cloud/usearch?style=social) - Fast open-source search and clustering engine for vectors and arbitrary objects. 10x faster HNSW than FAISS, trusted by Google, ClickHouse, and DuckDB. Supports 10+ languages with SIMD-optimized user-defined metrics. Apache 2.0 licensed.
 
 #### Embedding Models
 
