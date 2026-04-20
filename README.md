@@ -570,6 +570,8 @@
 - **[rLLM](https://github.com/rllm-org/rllm)** ![GitHub stars](https://img.shields.io/github/stars/rllm-org/rllm?style=social) - Democratizing Reinforcement Learning for LLMs. Framework for training AI agents with RL featuring near-zero code changes, CLI-first workflow, and 50+ built-in benchmarks. Supports GRPO, REINFORCE, RLOO with verl and tinker backends. Apache 2.0 licensed.
 - **[EasyR1](https://github.com/hiyouga/EasyR1)** ![GitHub stars](https://img.shields.io/github/stars/hiyouga/EasyR1?style=social) - Efficient, scalable, multi-modality RL training framework based on veRL. Extends veRL to support vision-language models with GRPO algorithm for efficient RL training. Apache 2.0 licensed.
 - **[simpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason)** ![GitHub stars](https://img.shields.io/github/stars/hkust-nlp/simpleRL-reason?style=social) - Simple reinforcement learning recipe to improve models' reasoning abilities. Rule-based reward with GSM8K/Math datasets, extending from OpenRLHF. MIT licensed.
+- **[Align-Anything](https://github.com/PKU-Alignment/align-anything)** ![GitHub stars](https://img.shields.io/github/stars/PKU-Alignment/align-anything?style=social) - Comprehensive alignment framework for training all-modality models (any-to-any) with human feedback. Supports SFT, DPO, PPO, O1-like training, and rule-based RL for vision, audio, and video models. Apache 2.0 licensed.
+- **[OpenVLA](https://github.com/openvla/openvla)** ![GitHub stars](https://img.shields.io/github/stars/openvla/openvla?style=social) - Open-source vision-language-action model for robotic manipulation. Simple and scalable codebase for training and fine-tuning VLAs with LoRA and full fine-tuning support. MIT licensed.
 
 #### LoRA / PEFT Tools
 
