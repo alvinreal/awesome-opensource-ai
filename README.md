@@ -992,6 +992,10 @@
 - **[Vercel AI SDK](https://github.com/vercel/ai)** ![GitHub stars](https://img.shields.io/github/stars/vercel/ai?style=social) - Provider-agnostic TypeScript toolkit for building AI-powered applications and agents. Unified API for OpenAI, Anthropic, Google, and 20+ providers with first-class streaming, tool-calling, and structured output support. Apache 2.0 licensed.
 - **[Fern](https://github.com/fern-api/fern)** ![GitHub stars](https://img.shields.io/github/stars/fern-api/fern?style=social) - Open-source SDK generator for REST APIs. Generate type-safe API clients in TypeScript, Python, Go, Java, and more from OpenAPI specs. Powers SDKs for companies like OpenAI, Anthropic, and Cloudflare. Apache 2.0 licensed.
 
+#### LLM Application Development
+
+- **[Promptflow (Microsoft)](https://github.com/microsoft/promptflow)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/promptflow?style=social) - Comprehensive development suite for building high-quality LLM applications. Streamlines the entire development lifecycle from prototyping, testing, evaluation to production deployment and monitoring. Visual flow designer with built-in prompt engineering tools and CI/CD integration. MIT licensed.
+
 #### Testing & Debugging Tools
 
 - **[Promptfoo](https://github.com/promptfoo/promptfoo)** ![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social) - Systematic LLM testing framework.
