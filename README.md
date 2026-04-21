@@ -424,6 +424,8 @@
 - **[Annoy](https://github.com/spotify/annoy)** ![GitHub stars](https://img.shields.io/github/stars/spotify/annoy?style=social) - Approximate nearest neighbors library optimized for memory usage and fast loading. Powers Spotify's music recommendation with C++/Python bindings. Apache 2.0 licensed.
 - **[sqlite-vec](https://github.com/asg017/sqlite-vec)** ![GitHub stars](https://img.shields.io/github/stars/asg017/sqlite-vec?style=social) - A vector search SQLite extension that runs anywhere. Extremely small, "fast enough" vector search written in pure C with no dependencies. Perfect for embedded and edge deployments. MIT/Apache-2.0 dual licensed.
 - **[zvec](https://github.com/alibaba/zvec)** ![GitHub stars](https://img.shields.io/github/stars/alibaba/zvec?style=social) - Lightweight, lightning-fast, in-process vector database from Alibaba. Built on Proxima (Alibaba's battle-tested vector search engine) for production-grade, low-latency similarity search. Apache 2.0 licensed.
+- **[Meilisearch](https://github.com/meilisearch/meilisearch)** ![GitHub stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=social) - Lightning-fast search engine API with AI-powered hybrid search. Features typo-tolerant full-text search combined with HNSW-based vector search for semantic retrieval. MIT licensed.
+- **[Typesense](https://github.com/typesense/typesense)** ![GitHub stars](https://img.shields.io/github/stars/typesense/typesense?style=social) - Open source alternative to Algolia + Pinecone. Fast, typo-tolerant, in-memory fuzzy search engine with native vector search capabilities. GPL-3.0 licensed.
 
 #### Embedding Models
 
