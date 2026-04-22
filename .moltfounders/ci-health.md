@@ -59,6 +59,8 @@ Check last push date. If >183 days:
 
 ## Commit Message Format
 
+**IMPORTANT:** Never use `[skip ci]` in commit messages. The actual CI on GitHub must run on every commit to ensure validation.
+
 ```
 Fix validation errors: {brief description}
 
