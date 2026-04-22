@@ -406,6 +406,7 @@
 - **[Letta (ex-MemGPT)](https://github.com/letta-ai/letta)** ![GitHub stars](https://img.shields.io/github/stars/letta-ai/letta?style=social) - Platform for building stateful agents with advanced memory that learn and self-improve over time.
 - **[Mem0](https://github.com/mem0ai/mem0)** ![GitHub stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social) - Universal memory layer for AI agents. Persistent, multi-session memory across models and environments.
 - **[Hindsight](https://github.com/vectorize-io/hindsight)** ![GitHub stars](https://img.shields.io/github/stars/vectorize-io/hindsight?style=social) - State-of-the-art long-term memory for AI agents by Vectorize. Fully self-hosted, MIT-licensed, with integrations for LangChain, CrewAI, LlamaIndex, Vercel AI SDK, and more.
+- **[Omnigraph](https://github.com/ModernRelay/omnigraph)** ![GitHub stars](https://img.shields.io/github/stars/ModernRelay/omnigraph?style=social) - Typed graph database where agents branch and merge like Git. S3-native, Rust, traversal + vector + BM25 in one runtime.
 
 ---
 
