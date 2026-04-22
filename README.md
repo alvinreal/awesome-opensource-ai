@@ -474,6 +474,7 @@
 - **[PageIndex (VectifyAI)](https://github.com/VectifyAI/PageIndex)** ![GitHub stars](https://img.shields.io/github/stars/VectifyAI/PageIndex?style=social) - Vectorless, reasoning-based RAG framework using document index structure. Achieves high accuracy without vector databases through intelligent context engineering and reasoning-based retrieval. MIT licensed.
 - **[Kotaemon (Cinnamon)](https://github.com/Cinnamon/kotaemon)** ![GitHub stars](https://img.shields.io/github/stars/Cinnamon/kotaemon?style=social) - Open-source RAG-based tool for chatting with your documents. Hybrid RAG pipeline with full-text and vector retriever, re-ranking, and multi-modal capabilities. Clean Gradio-based UI with support for local and API-based LLMs. Apache 2.0 licensed.
 - **[Reader (Jina AI)](https://github.com/jina-ai/reader)** ![GitHub stars](https://img.shields.io/github/stars/jina-ai/reader?style=social) - Convert any URL to LLM-friendly input with a simple prefix (r.jina.ai). Free service that extracts article content, removes clutter, and returns clean Markdown for RAG and agentic workflows. Apache 2.0 licensed.
+- **[UltraRAG (OpenBMB)](https://github.com/OpenBMB/UltraRAG)** ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/UltraRAG?style=social) - First lightweight RAG framework based on Model Context Protocol (MCP) architecture. Low-code RAG pipeline builder with comprehensive evaluation system and DeepResearch capabilities. From Tsinghua THUNLP, NEUIR, OpenBMB, and AI9stars. Apache 2.0 licensed.
 
 #### Knowledge Graphs for RAG
 
