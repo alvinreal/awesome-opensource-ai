@@ -495,8 +495,10 @@
 #### Image Generation & Editing
 
 - **[ComfyUI](https://github.com/Comfy-Org/ComfyUI)** ![GitHub stars](https://img.shields.io/github/stars/Comfy-Org/ComfyUI?style=social) - Node-based visual workflow editor for Stable Diffusion, FLUX, etc.
+- **[Stable Diffusion WebUI (AUTOMATIC1111)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** ![GitHub stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social) - The original and most widely used web interface for Stable Diffusion. Feature-rich with extensive extension ecosystem, inpainting, outpainting, LoRA support, and more. AGPL-3.0 licensed.
 - **[Stable Diffusion WebUI Forge - Neo](https://github.com/Haoming02/sd-webui-forge-classic)** ![GitHub stars](https://img.shields.io/github/stars/Haoming02/sd-webui-forge-classic?style=social) - Actively maintained Forge-based Stable Diffusion web UI with the familiar extension-driven workflow.
 - **[Fooocus](https://github.com/lllyasviel/Fooocus)** ![GitHub stars](https://img.shields.io/github/stars/lllyasviel/Fooocus?style=social) - Midjourney-style UI with beautiful out-of-the-box results.
+- **[PixArt-Σ](https://github.com/PixArt-alpha/PixArt-sigma)** ![GitHub stars](https://img.shields.io/github/stars/PixArt-alpha/PixArt-sigma?style=social) - Weak-to-Strong training of Diffusion Transformer for 4K text-to-image generation. High-quality image synthesis with superior text rendering and resolution up to 4K. Apache 2.0 licensed.
 - **[Diffusers](https://github.com/huggingface/diffusers)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/diffusers?style=social) - PyTorch library for diffusion pipelines spanning image, video, and audio generation.
 - **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** ![GitHub stars](https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=social) - Full-featured creative studio.
 - **[PowerPaint (OpenMMLab)](https://github.com/open-mmlab/PowerPaint)** ![GitHub stars](https://img.shields.io/github/stars/open-mmlab/PowerPaint?style=social) - Versatile image inpainting model supporting text-guided inpainting, object removal, and outpainting (ECCV 2024).
@@ -525,6 +527,7 @@
 - **[Open-Sora-Plan (PKU-YuanGroup)](https://github.com/PKU-YuanGroup/Open-Sora-Plan)** ![GitHub stars](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan?style=social) - Reproduction of Sora with full open-source pipeline for text-to-video generation. MIT licensed.
 - **[Open-Sora (HPC-AI Tech)](https://github.com/hpcaitech/Open-Sora)** ![GitHub stars](https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social) - Fully open-source video generation with 11B model achieving on-par performance with HunyuanVideo. Complete training pipeline for $200K. Apache 2.0 licensed.
 - **[Helios (PKU-YuanGroup)](https://github.com/PKU-YuanGroup/Helios)** ![GitHub stars](https://img.shields.io/github/stars/PKU-YuanGroup/Helios?style=social) - Efficient long-video generation framework with 24GB VRAM support for up to 10,000 frames (5+ minutes) and 1280×768 resolution. Apache 2.0 licensed.
+- **[ComfyUI-CogVideoXWrapper](https://github.com/kijai/ComfyUI-CogVideoXWrapper)** ![GitHub stars](https://img.shields.io/github/stars/kijai/ComfyUI-CogVideoXWrapper?style=social) - ComfyUI nodes for CogVideoX video generation. Integrates CogVideoX text-to-video and image-to-video models into ComfyUI workflows with FP8 inference support. Apache 2.0 licensed.
 #### Audio / Music / Voice Generation
 
 - **[AudioCraft / MusicGen (Meta)](https://github.com/facebookresearch/audiocraft)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social) - Controllable text-to-music and audio models.
