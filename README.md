@@ -739,6 +739,8 @@
 - **[BrowserGym](https://github.com/ServiceNow/BrowserGym)** ![GitHub stars](https://img.shields.io/github/stars/ServiceNow/BrowserGym?style=social) - Gym environment for web task automation and agent evaluation. Includes MiniWoB, WebArena, WorkArena, and more. Apache 2.0 licensed.
 - **[TruLens](https://github.com/truera/trulens)** ![GitHub stars](https://img.shields.io/github/stars/truera/trulens?style=social) - Evaluation and tracking for LLM experiments and AI agents. Provides feedback functions for measuring quality, relevance, and groundedness with LangChain and LlamaIndex integrations. MIT licensed.
 - **[OpenEvals](https://github.com/langchain-ai/openevals)** ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/openevals?style=social) - Open-source evaluation library for LLM and agent applications. Built by LangChain with pre-built evaluators for common use cases including RAG, agents, and structured output validation. MIT licensed.
+- **[UpTrain](https://github.com/uptrain-ai/uptrain)** ![GitHub stars](https://img.shields.io/github/stars/uptrain-ai/uptrain?style=social) - Open-source unified platform to evaluate and improve Generative AI applications. 20+ preconfigured checks for language, code, and embedding use-cases with root cause analysis. Apache 2.0 licensed.
+- **[Prometheus-eval](https://github.com/prometheus-eval/prometheus-eval)** ![GitHub stars](https://img.shields.io/github/stars/prometheus-eval/prometheus-eval?style=social) - Open-source language models specialized in evaluating other language models. Supports absolute (1-5) and relative (A/B) grading with customizable rubrics. Apache 2.0 licensed.
 
 #### High-quality Open Datasets & Data Tools
 
