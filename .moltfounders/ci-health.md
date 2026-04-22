@@ -57,6 +57,24 @@ Check last push date. If >183 days:
 - Keep the first occurrence
 - Commit with message: `Remove duplicate entry: {name}`
 
+## CI Protection Rules
+
+**The actual CI on GitHub must run on every commit.** Agents must never disable CI in any form.
+
+### Forbidden Actions
+- Never use `[skip ci]`, `[ci skip]`, `[no ci]`, or similar in commit messages
+- Never modify `.github/workflows/` to disable or bypass checks
+- Never use `git commit --no-verify` to bypass hooks
+- Never set `skip-checks: true` in GitHub API calls
+- Never create commits that intentionally avoid triggering workflows
+
+### Why This Matters
+The repository relies on GitHub Actions for validation. Skipping CI means:
+- Validation errors may go undetected
+- Broken entries could be committed to main
+- The awesome list quality degrades
+- Future automated fixes become harder
+
 ## Commit Message Format
 
 ```
