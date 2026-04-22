@@ -262,6 +262,10 @@
 #### Additional Vision-Language Models
 
 - **[MiniCPM-V (OpenBMB)](https://github.com/OpenBMB/MiniCPM-V)** ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social) - GPT-4V level multimodal LLM for single image, multi-image and high-FPS video understanding on edge devices. 8B parameters with superior OCR and reasoning capabilities. Apache 2.0 licensed.
+- **[Janus (DeepSeek)](https://github.com/deepseek-ai/Janus)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/Janus?style=social) - Unified multimodal understanding and generation models. Janus-Pro achieves state-of-the-art results in both multimodal understanding and text-to-image generation with decoupled visual encoding. MIT licensed.
+- **[InternVL (OpenGVLab)](https://github.com/OpenGVLab/InternVL)** ![GitHub stars](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social) - Pioneering open-source alternative to GPT-4o for multimodal dialogue. CVPR 2024 Oral. Supports InternVL3.5 series with up to 241B parameters and InternViT-6B vision encoder. Apache 2.0 licensed.
+- **[LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT)** ![GitHub stars](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT?style=social) - Next-generation large language and vision assistant with support for video understanding. Features LLaVA-Video-178K dataset and LLaVA-Critic for systematic reasoning. Apache 2.0 licensed.
+- **[OpenVLA](https://github.com/openvla/openvla)** ![GitHub stars](https://img.shields.io/github/stars/openvla/openvla?style=social) - Open-source vision-language-action model for robotic manipulation. Generalist VLA model for controlling robots with natural language instructions. Apache 2.0 licensed.
 
 ---
 
