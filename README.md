@@ -256,6 +256,7 @@
 - **[CosyVoice](https://github.com/FunAudioLLM/CosyVoice)** ![GitHub stars](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=social) - Multi-lingual large voice generation model with full-stack inference, training and deployment capabilities. Supports cross-lingual voice cloning and emotional expression control. Apache 2.0 licensed.
 - **[ChatTTS](https://github.com/2noise/ChatTTS)** ![GitHub stars](https://img.shields.io/github/stars/2noise/ChatTTS?style=social) - Generative speech model optimized for daily dialogue. Natural, expressive conversational speech synthesis with fine-grained prosody control. AGPL-3.0 licensed.
 - **[SpeechBrain](https://github.com/speechbrain/speechbrain)** ![GitHub stars](https://img.shields.io/github/stars/speechbrain/speechbrain?style=social) - PyTorch-based speech toolkit for ASR, TTS, speaker recognition, and speech enhancement. Modular, extensible framework with state-of-the-art recipes. Apache 2.0 licensed.
+- **[OmniVoice](https://github.com/k2-fsa/OmniVoice)** ![GitHub stars](https://img.shields.io/github/stars/k2-fsa/OmniVoice?style=social) - Massively multilingual zero-shot TTS model supporting 600+ languages. Built on novel diffusion language model architecture with 40× real-time inference speed and high-quality voice cloning. Apache 2.0 licensed.
 
 #### Video & Animation Models
 
@@ -838,6 +839,11 @@
 
 - **[Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents)** ![GitHub stars](https://img.shields.io/github/stars/Unity-Technologies/ml-agents?style=social) - Toolkit for training intelligent agents in games and simulations using deep reinforcement learning. Enables NPC behavior control, automated testing, and game design evaluation. Apache 2.0 licensed.
 - **[OpenSpiel](https://github.com/google-deepmind/open_spiel)** ![GitHub stars](https://img.shields.io/github/stars/google-deepmind/open_spiel?style=social) - Collection of environments and algorithms for research in general reinforcement learning and search/planning in games from Google DeepMind. Apache 2.0 licensed.
+
+#### Music & Audio Generation
+
+- **[YuE](https://github.com/multimodal-art-projection/YuE)** ![GitHub stars](https://img.shields.io/github/stars/multimodal-art-projection/YuE?style=social) - Open full-song music generation foundation model. Transforms lyrics into complete songs with vocals and instrumentation, similar to Suno.ai but fully open-source. Supports multiple languages and musical styles. Apache 2.0 licensed.
+- **[ACE-Step](https://github.com/ace-step/ACE-Step)** ![GitHub stars](https://img.shields.io/github/stars/ace-step/ACE-Step?style=social) - Open-source music generation foundation model with 15× faster inference than LLM-based baselines. Generates up to 4 minutes of music in 20 seconds on A100 GPU with superior musical coherence and lyric alignment. Apache 2.0 licensed.
 
 #### Finance & Quantitative AI
 
