@@ -450,6 +450,8 @@
 #### RAG Frameworks & Advanced Retrieval Tools
 
 - **[LlamaIndex](https://github.com/run-llama/llama_index)** ![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social) - Full-featured RAG pipeline with advanced indexing.
+- **[STORM (Stanford)](https://github.com/stanford-oval/storm)** ![GitHub stars](https://img.shields.io/github/stars/stanford-oval/storm?style=social) - LLM-powered knowledge curation system that researches topics and generates full-length reports with citations. MIT licensed.
+- **[R2R (SciPhi)](https://github.com/SciPhi-AI/R2R)** ![GitHub stars](https://img.shields.io/github/stars/SciPhi-AI/R2R?style=social) - Production-ready agentic RAG engine with RESTful API. Features hybrid search, knowledge graphs, multimodal RAG, and deep research capabilities. MIT licensed.
 - **[Haystack](https://github.com/deepset-ai/haystack)** ![GitHub stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social) - End-to-end NLP and RAG framework.
 - **[RAGFlow](https://github.com/infiniflow/ragflow)** ![GitHub stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social) - Deep-document-understanding RAG engine.
 - **[GraphRAG (Microsoft)](https://github.com/microsoft/graphrag)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/graphrag?style=social) - Knowledge-graph-based RAG.
