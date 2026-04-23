@@ -703,6 +703,14 @@
 - **[Promptfoo](https://github.com/promptfoo/promptfoo)** ![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social) - Open-source LLM evaluation and red teaming framework. Test prompts, agents, and RAGs with automated security vulnerability scanning, side-by-side model comparison, and CI/CD integration. Now part of OpenAI. MIT licensed.
 - **[DeepTeam (Confident AI)](https://github.com/confident-ai/deepteam)** ![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepteam?style=social) - Red teaming framework for LLM systems with 50+ vulnerabilities, 20+ adversarial attacks, and production-ready guardrails. Includes OWASP, NIST, and MITRE ATLAS framework mappings. Apache 2.0 licensed.
 
+#### Prompt Engineering & Management
+
+- **[Promptflow (Microsoft)](https://github.com/microsoft/promptflow)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/promptflow?style=social) - Comprehensive suite of development tools for streamlining the end-to-end development cycle of LLM-based AI applications. From ideation, prototyping, testing, evaluation to production deployment and monitoring. MIT licensed.
+- **[Prompty (Microsoft)](https://github.com/microsoft/prompty)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/prompty?style=social) - Markdown-based prompt asset class and format for LLM prompts. Write prompts once, run them from VS Code, Python, or TypeScript with enhanced observability, understandability, and portability. MIT licensed.
+- **[Pezzo](https://github.com/pezzolabs/pezzo)** ![GitHub stars](https://img.shields.io/github/stars/pezzolabs/pezzo?style=social) - Open-source, developer-first LLMOps platform for prompt design, version management, instant delivery, collaboration, troubleshooting, and observability. Cloud-native with up to 90% cost and latency savings. Apache 2.0 licensed.
+- **[AutoPrompt](https://github.com/Eladlev/AutoPrompt)** ![GitHub stars](https://img.shields.io/github/stars/Eladlev/AutoPrompt?style=social) - Prompt optimization framework using intent-based prompt calibration. Automatically generates high-quality, detailed prompts tailored to user intentions with iterative refinement and edge case handling. Apache 2.0 licensed.
+- **[Promptify](https://github.com/promptslab/Promptify)** ![GitHub stars](https://img.shields.io/github/stars/promptslab/Promptify?style=social) - Task-based NLP engine with Pydantic structured outputs, built-in evaluation, and LiteLLM as the universal LLM backend. Think "scikit-learn for LLM-powered NLP" with prompt versioning and management. Apache 2.0 licensed.
+
 ---
 
 ### 📈 9. Evaluation, Benchmarks & Datasets
