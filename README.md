@@ -6,7 +6,7 @@
 
 # Awesome Open Source AI
 
-*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated April 19, 2026.*
+*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated April 23, 2026.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
@@ -400,6 +400,14 @@
 - **[Steel Browser](https://github.com/steel-dev/steel-browser)** ![GitHub stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social) - Open-source browser API for AI agents and apps. Batteries-included browser sandbox for web automation without infrastructure worries. Apache 2.0 licensed.
 - **[TradingAgents](https://github.com/TauricResearch/TradingAgents)** ![GitHub stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents?style=social) - Multi-agent framework for financial trading. Simulates professional trading firm operations with 6+ specialized agent roles, backtesting, risk management, and portfolio optimization. Built with LangGraph, supports multiple LLM providers.
 - **[Parlant](https://github.com/emcie-co/parlant)** ![GitHub stars](https://img.shields.io/github/stars/emcie-co/parlant?style=social) - Conversational control layer for customer-facing AI agents. Enterprise-grade context engineering framework optimized for consistent, compliant, and on-brand B2C and sensitive B2B interactions. Apache 2.0 licensed.
+
+#### Structured Output & Constrained Decoding
+
+- **[Outlines](https://github.com/dottxt-ai/outlines)** ![GitHub stars](https://img.shields.io/github/stars/dottxt-ai/outlines?style=social) - Structured text generation and constrained decoding library. Guarantees valid JSON, regex-compliant outputs, and grammar-based generation directly from any LLM. No post-processing or retries needed. Apache 2.0 licensed.
+- **[BAML](https://github.com/BoundaryML/baml)** ![GitHub stars](https://img.shields.io/github/stars/BoundaryML/baml?style=social) - The AI framework that adds the engineering to prompt engineering. Type-safe structured outputs with 20+ LLM providers, native Python/TypeScript/Ruby/Java/C#/Rust/Go support, and built-in testing framework. Apache 2.0 licensed.
+- **[TanStack AI](https://github.com/tanstack/ai)** ![GitHub stars](https://img.shields.io/github/stars/tanstack/ai?style=social) - SDK that enhances applications with AI capabilities. TypeScript-first framework with streaming support, tool calling, and seamless integration with TanStack Query, Router, and Start. MIT licensed.
+- **[lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer)** ![GitHub stars](https://img.shields.io/github/stars/noamgat/lm-format-enforcer?style=social) - Enforce structured output format (JSON, regex, etc.) on any LLM. Token-level logits processing for guaranteed valid outputs with vLLM, Hugging Face, and LlamaCpp integration. MIT licensed.
+- **[XGrammar](https://github.com/mlc-ai/xgrammar)** ![GitHub stars](https://img.shields.io/github/stars/mlc-ai/xgrammar?style=social) - Fast, flexible and portable structured generation engine for LLMs. Zero-overhead context-free grammar-based decoding with 10x faster compilation than alternatives. Apache 2.0 licensed.
 
 #### Agent Memory & State
 
