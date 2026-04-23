@@ -502,7 +502,9 @@
 #### Image Generation & Editing
 
 - **[ComfyUI](https://github.com/Comfy-Org/ComfyUI)** ![GitHub stars](https://img.shields.io/github/stars/Comfy-Org/ComfyUI?style=social) - Node-based visual workflow editor for Stable Diffusion, FLUX, etc.
-- **[Stable Diffusion WebUI Forge - Neo](https://github.com/Haoming02/sd-webui-forge-classic)** ![GitHub stars](https://img.shields.io/github/stars/Haoming02/sd-webui-forge-classic?style=social) - Actively maintained Forge-based Stable Diffusion web UI with the familiar extension-driven workflow.
+- **[Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** ![GitHub stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social) - The original and most widely used web interface for Stable Diffusion. Feature-rich with extensive extension ecosystem, supporting txt2img, img2img, inpainting, outpainting, and more. AGPL-3.0 licensed.
+- **[ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager)** ![GitHub stars](https://img.shields.io/github/stars/ltdrdata/ComfyUI-Manager?style=social) - Extension manager for ComfyUI providing one-click installation, removal, and management of 1000+ custom nodes. Essential tool for ComfyUI workflow enhancement with automatic dependency resolution. GPL-3.0 licensed.
+- **[Stable Diffusion WebUI Forge - Neo](https://github.com/Haoming02/sd-webui-forge-classic) ![GitHub stars](https://img.shields.io/github/stars/Haoming02/sd-webui-forge-classic?style=social) - Actively maintained Forge-based Stable Diffusion web UI with the familiar extension-driven workflow.
 - **[Fooocus](https://github.com/lllyasviel/Fooocus)** ![GitHub stars](https://img.shields.io/github/stars/lllyasviel/Fooocus?style=social) - Midjourney-style UI with beautiful out-of-the-box results.
 - **[Diffusers](https://github.com/huggingface/diffusers)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/diffusers?style=social) - PyTorch library for diffusion pipelines spanning image, video, and audio generation.
 - **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** ![GitHub stars](https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=social) - Full-featured creative studio.
@@ -515,6 +517,7 @@
 #### Face Swap & Deepfake
 
 - **[Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** ![GitHub stars](https://img.shields.io/github/stars/hacksider/Deep-Live-Cam?style=social) - Real-time face swap and one-click video deepfake with only a single image. High-quality face swapping for live video streaming and content creation. AGPL-3.0 licensed.
+- **[Roop](https://github.com/s0md3v/roop)** ![GitHub stars](https://img.shields.io/github/stars/s0md3v/roop?style=social) - One-click face swap for images and videos. No dataset, no training required - just one source face image. Supports multiple face detection and processing with CPU/GPU acceleration. GPL-3.0 licensed.
 
 #### Portrait Animation
 
