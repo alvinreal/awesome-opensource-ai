@@ -6,7 +6,7 @@
 
 # Awesome Open Source AI
 
-*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated April 19, 2026.*
+*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated April 23, 2026.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
@@ -739,6 +739,11 @@
 - **[BrowserGym](https://github.com/ServiceNow/BrowserGym)** ![GitHub stars](https://img.shields.io/github/stars/ServiceNow/BrowserGym?style=social) - Gym environment for web task automation and agent evaluation. Includes MiniWoB, WebArena, WorkArena, and more. Apache 2.0 licensed.
 - **[TruLens](https://github.com/truera/trulens)** ![GitHub stars](https://img.shields.io/github/stars/truera/trulens?style=social) - Evaluation and tracking for LLM experiments and AI agents. Provides feedback functions for measuring quality, relevance, and groundedness with LangChain and LlamaIndex integrations. MIT licensed.
 - **[OpenEvals](https://github.com/langchain-ai/openevals)** ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/openevals?style=social) - Open-source evaluation library for LLM and agent applications. Built by LangChain with pre-built evaluators for common use cases including RAG, agents, and structured output validation. MIT licensed.
+- **[Opik](https://github.com/comet-ml/opik)** ![GitHub stars](https://img.shields.io/github/stars/comet-ml/opik?style=social) - Debug, evaluate, and monitor LLM applications, RAG systems, and agentic workflows. Comprehensive tracing, automated evaluations with LLM-as-a-judge, and production-ready dashboards from the team at Comet. Apache 2.0 licensed.
+- **[Langfuse](https://github.com/langfuse/langfuse)** ![GitHub stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social) - Open-source LLM engineering platform with comprehensive observability, metrics, evaluations, prompt management, and datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. MIT licensed.
+- **[Evidently](https://github.com/evidentlyai/evidently)** ![GitHub stars](https://img.shields.io/github/stars/evidentlyai/evidently?style=social) - Open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline with 100+ metrics from tabular data to Gen AI. Apache 2.0 licensed.
+- **[MLflow](https://github.com/mlflow/mlflow)** ![GitHub stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social) - Open-source AI engineering platform for agents, LLMs, and ML models. Comprehensive evaluation, monitoring, and optimization tools for production-quality AI applications. Apache 2.0 licensed.
+- **[Weave](https://github.com/wandb/weave)** ![GitHub stars](https://img.shields.io/github/stars/wandb/weave?style=social) - Toolkit for developing and evaluating AI-powered applications from Weights & Biases. Organize LLM workflow information from experimentation to evaluations to production. Apache 2.0 licensed.
 
 #### High-quality Open Datasets & Data Tools
 
