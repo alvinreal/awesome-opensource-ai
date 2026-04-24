@@ -758,6 +758,7 @@
 - **[BrowserGym](https://github.com/ServiceNow/BrowserGym)** ![GitHub stars](https://img.shields.io/github/stars/ServiceNow/BrowserGym?style=social) - Gym environment for web task automation and agent evaluation. Includes MiniWoB, WebArena, WorkArena, and more. Apache 2.0 licensed.
 - **[TruLens](https://github.com/truera/trulens)** ![GitHub stars](https://img.shields.io/github/stars/truera/trulens?style=social) - Evaluation and tracking for LLM experiments and AI agents. Provides feedback functions for measuring quality, relevance, and groundedness with LangChain and LlamaIndex integrations. MIT licensed.
 - **[OpenEvals](https://github.com/langchain-ai/openevals)** ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/openevals?style=social) - Open-source evaluation library for LLM and agent applications. Built by LangChain with pre-built evaluators for common use cases including RAG, agents, and structured output validation. MIT licensed.
+- **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** ![GitHub stars](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG?style=social) - RAG AutoML tool for automatically finding optimal RAG pipelines. Evaluates and optimizes retrieval-augmented generation with AutoML-style automation for your own data and use-case. Apache 2.0 licensed.
 
 #### High-quality Open Datasets & Data Tools
 
