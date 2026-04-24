@@ -315,6 +315,7 @@
 - **[OpenLLM (BentoML)](https://github.com/bentoml/OpenLLM)** ![GitHub stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social) - Production-grade platform for running any open-source LLMs as OpenAI-compatible API endpoints. Supports 50+ models with built-in streaming, batching, and auto-acceleration. Apache 2.0 licensed.
 - **[Higress (Alibaba)](https://github.com/alibaba/higress)** ![GitHub stars](https://img.shields.io/github/stars/alibaba/higress?style=social) - AI-native API gateway born from Alibaba's internal infrastructure with 2+ years of production validation. Provides unified LLM API and MCP (Model Context Protocol) management with enterprise-grade 99.99% availability. Apache 2.0 licensed.
 - **[NVIDIA Dynamo](https://github.com/ai-dynamo/dynamo)** ![GitHub stars](https://img.shields.io/github/stars/ai-dynamo/dynamo?style=social) - Datacenter-scale distributed inference serving framework from NVIDIA. Orchestration layer above vLLM/SGLang/TensorRT-LLM with disaggregated serving, KV-aware routing, and automatic scaling. Built in Rust with Python extensibility. Apache 2.0 licensed.
+- **[LoRAX (Predibase)](https://github.com/predibase/lorax)** ![GitHub stars](https://img.shields.io/github/stars/predibase/lorax?style=social) - Multi-LoRA inference server that scales to thousands of fine-tuned LLMs on a single GPU. Serves multiple LoRA adapters concurrently with dynamic adapter loading and efficient memory management. Apache 2.0 licensed.
 
 #### Additional Inference Engines
 
