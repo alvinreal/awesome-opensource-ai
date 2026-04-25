@@ -839,6 +839,11 @@
 
 ### 🧩 11. Specialized Domains
 
+#### Agriculture & Sustainability AI
+
+- **[FarmVibes.AI](https://github.com/microsoft/farmvibes-ai)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/farmvibes-ai?style=social) - Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability from Microsoft. Fuse satellite imagery (RGB, SAR, multispectral), drone imagery, and weather data to estimate carbon footprint, understand growth rates, and detect farming practices. MIT licensed.
+- **[Raster Vision](https://github.com/azavea/raster-vision)** ![GitHub stars](https://img.shields.io/github/stars/azavea/raster-vision?style=social) - Open source Python framework for deep learning on satellite, aerial, and large imagery sets. Built-in support for chip classification, object detection, and semantic segmentation with PyTorch backends. Bridges GIS and computer vision. Apache 2.0 licensed.
+
 #### Weather & Climate AI
 
 - **[GraphCast](https://github.com/google-deepmind/graphcast)** ![GitHub stars](https://img.shields.io/github/stars/google-deepmind/graphcast?style=social) - Deep learning weather forecasting model from Google DeepMind. State-of-the-art AI weather prediction with 10-day global forecasts matching or exceeding traditional numerical methods. Apache 2.0 licensed.
