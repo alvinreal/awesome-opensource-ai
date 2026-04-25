@@ -51,6 +51,7 @@
 - [🖥️ 12. User Interfaces & Self-hosted Platforms](#section-12)
 - [🧪 13. Developer Tools & Integrations](#-13-developer-tools--integrations)
 - [📚 14. Resources & Learning](#-14-resources--learning)
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with MLOps/LLMOps capabilities: GPU workload monitoring, AI pipeline observability, and CNCF project integrations. CNCF Sandbox project.
 
 ---
 
