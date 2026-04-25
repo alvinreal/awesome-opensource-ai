@@ -754,6 +754,7 @@
 - **[Vectara Hallucination Leaderboard](https://github.com/vectara/hallucination-leaderboard)** ![GitHub stars](https://img.shields.io/github/stars/vectara/hallucination-leaderboard?style=social) - Leaderboard comparing LLM performance at producing hallucinations when summarizing short documents. Systematic evaluation of factual consistency across major models. Apache 2.0 licensed.
 - **[SWE-rebench (Nebius)](https://huggingface.co/datasets/nebius/SWE-rebench)** - Continuously updated benchmark with 21,000+ real-world SWE tasks for evaluating agentic LLMs. Decontaminated, mined from GitHub.
 - **[AgentBench (THUDM)](https://github.com/THUDM/AgentBench)** ![GitHub stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=social) - Comprehensive benchmark to evaluate LLMs as agents across 8 diverse environments including household, web shopping, OS interaction, and database tasks. ICLR 2024. Apache 2.0 licensed.
+- **[bigcode-evaluation-harness](https://github.com/bigcode-project/bigcode-evaluation-harness)** ![GitHub stars](https://img.shields.io/github/stars/bigcode-project/bigcode-evaluation-harness?style=social) - Framework for evaluating autoregressive code generation language models. Supports HumanEval, MBPP, DS-1000, and custom tasks with distributed evaluation capabilities. Apache 2.0 licensed.
 
 
 #### Evaluation Frameworks
@@ -770,6 +771,7 @@
 - **[TruLens](https://github.com/truera/trulens)** ![GitHub stars](https://img.shields.io/github/stars/truera/trulens?style=social) - Evaluation and tracking for LLM experiments and AI agents. Provides feedback functions for measuring quality, relevance, and groundedness with LangChain and LlamaIndex integrations. MIT licensed.
 - **[OpenEvals](https://github.com/langchain-ai/openevals)** ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/openevals?style=social) - Open-source evaluation library for LLM and agent applications. Built by LangChain with pre-built evaluators for common use cases including RAG, agents, and structured output validation. MIT licensed.
 - **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** ![GitHub stars](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG?style=social) - RAG AutoML tool for automatically finding optimal RAG pipelines. Evaluates and optimizes retrieval-augmented generation with AutoML-style automation for your own data and use-case. Apache 2.0 licensed.
+- **[Phoenix (Arize AI)](https://github.com/arize-ai/phoenix)** ![GitHub stars](https://img.shields.io/github/stars/arize-ai/phoenix?style=social) - Open-source AI observability platform for experimentation, evaluation, and troubleshooting. Features LLM tracing, evaluation, datasets, experiments, and prompt management with OpenTelemetry support.
 
 #### High-quality Open Datasets & Data Tools
 
