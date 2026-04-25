@@ -101,7 +101,7 @@
 
 > Experimental observability tools, deployment patterns, and safety guardrails.
 
-*No entries yet — [submit one!](./CONTRIBUTING.md)*
+- **[KubeStellar Console](https://github.com/kubestellar/console)** ![GitHub stars](https://img.shields.io/github/stars/kubestellar/console?style=social) - AI-powered multi-cluster Kubernetes dashboard with GPU workload monitoring, AI pipeline observability, and 30+ CNCF integrations. CNCF Sandbox project. Apache-2.0 licensed.
 
 ---
 
