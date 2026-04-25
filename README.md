@@ -669,6 +669,7 @@
 
 - **[Civitai](https://github.com/civitai/civitai)** ![GitHub stars](https://img.shields.io/github/stars/civitai/civitai?style=social) - Open-source AI model hub and community platform for sharing and discovering generative AI models, with focus on image generation models. Features model versioning, reviews, and integrated inference. Apache 2.0 licensed.
 - **[Hugging Face Hub](https://github.com/huggingface/huggingface_hub)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/huggingface_hub?style=social) - Official Python client for the Hugging Face Hub. Download, upload, and manage 1M+ open-source ML models and datasets programmatically. The de facto standard for model sharing and distribution. Apache 2.0 licensed.
+- **[ModelScope](https://github.com/modelscope/modelscope)** ![GitHub stars](https://img.shields.io/github/stars/modelscope/modelscope?style=social) - Model-as-a-Service platform bringing together 700+ state-of-the-art ML models from the AI community. Covers NLP, CV, Audio, Multi-modality, and AI for Science with streamlined model inference, fine-tuning and evaluation. Apache 2.0 licensed.
 - **[OpenVINO Open Model Zoo](https://github.com/openvinotoolkit/open_model_zoo)** ![GitHub stars](https://img.shields.io/github/stars/openvinotoolkit/open_model_zoo?style=social) - Pre-trained deep learning models and demos optimized for Intel hardware. 200+ public pre-trained models for vision, speech, and NLP with benchmarking tools and accuracy metrics. Apache 2.0 licensed.
 
 #### Deployment & Orchestration
