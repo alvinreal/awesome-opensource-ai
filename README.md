@@ -469,6 +469,7 @@
 
 #### RAG Frameworks & Advanced Retrieval Tools
 
+- **[EmbedChain](https://github.com/embedchain/embedchain)** ![GitHub stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social) - Universal memory layer for AI agents. Simple API to create RAG applications over any dataset with support for multiple vector stores, embedding models, and LLM providers. Apache 2.0 licensed.
 - **[LlamaIndex](https://github.com/run-llama/llama_index)** ![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social) - Full-featured RAG pipeline with advanced indexing.
 - **[R2R (SciPhi)](https://github.com/SciPhi-AI/R2R)** ![GitHub stars](https://img.shields.io/github/stars/SciPhi-AI/R2R?style=social) - Production-ready agentic RAG engine with RESTful API. Features hybrid search, knowledge graphs, multimodal RAG, and deep research capabilities. MIT licensed.
 - **[Haystack](https://github.com/deepset-ai/haystack)** ![GitHub stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social) - End-to-end NLP and RAG framework.
