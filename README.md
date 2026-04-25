@@ -914,6 +914,8 @@
 - **[ExecuTorch](https://github.com/pytorch/executorch)** ![GitHub stars](https://img.shields.io/github/stars/pytorch/executorch?style=social) - PyTorch runtime and toolchain for deploying AI models on mobile, embedded, and edge devices.
 - **[OpenVINO](https://github.com/openvinotoolkit/openvino)** ![GitHub stars](https://img.shields.io/github/stars/openvinotoolkit/openvino?style=social) - Intel's toolkit for edge deployment.
 - **[Apache TVM](https://github.com/apache/tvm)** ![GitHub stars](https://img.shields.io/github/stars/apache/tvm?style=social) - Open Machine Learning Compiler Framework. Universal deployment to bring models into minimum deployable modules that can be embedded and run everywhere from datacenter to edge devices. Apache 2.0 licensed.
+- **[NCNN](https://github.com/Tencent/ncnn)** ![GitHub stars](https://img.shields.io/github/stars/Tencent/ncnn?style=social) - High-performance neural network inference framework optimized for mobile platforms. No third-party dependencies, cross-platform, and runs faster than all known open-source frameworks on mobile CPU. Powers Tencent apps including QQ, WeChat, and Pitu. BSD-3-Clause licensed.
+- **[MNN](https://github.com/alibaba/MNN)** ![GitHub stars](https://img.shields.io/github/stars/alibaba/MNN?style=social) - Blazing-fast, lightweight inference engine battle-tested by Alibaba. Supports inference and training with industry-leading on-device performance. Powers high-performance LLMs and Edge AI with MNN-LLM runtime. Apache 2.0 licensed.
 
 #### Legal AI & Contract Analysis
 
