@@ -3,10 +3,9 @@
 <img src="assets/osai.png" alt="Awesome Open Source AI" width="120" />
 
 
-
 # Awesome Open Source AI
 
-*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated April 19, 2026.*
+*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated April 25, 2026.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
@@ -128,10 +127,18 @@
 - **[FiftyOne](https://github.com/voxel51/fiftyone)** ![GitHub stars](https://img.shields.io/github/stars/voxel51/fiftyone?style=social) - Visual AI development toolkit for visualizing, labeling, and evaluating visual datasets and models. Supercharges computer vision workflows with dataset exploration and model analysis. Apache 2.0 licensed.
 - **[Label Studio](https://github.com/HumanSignal/label-studio)** ![GitHub stars](https://img.shields.io/github/stars/HumanSignal/label-studio?style=social) - Multi-type data labeling and annotation tool with standardized output format. Configurable interface for images, text, audio, video, and time series with ML-assisted labeling. Apache 2.0 licensed.
 - **[Delta Lake](https://github.com/delta-io/delta)** ![GitHub stars](https://img.shields.io/github/stars/delta-io/delta?style=social) - Open-source storage framework enabling Lakehouse architecture with ACID transactions, scalable metadata handling, and unified batch/streaming processing. Apache 2.0 licensed.
+- **[Apache Iceberg](https://github.com/apache/iceberg)** ![GitHub stars](https://img.shields.io/github/stars/apache/iceberg?style=social) - High-performance open table format for huge analytic tables. Brings SQL table reliability to big data with time travel, hidden partitioning, and schema evolution. Works with Spark, Trino, Flink, Presto, Hive and Impala. Apache 2.0 licensed.
+- **[Apache Hudi](https://github.com/apache/hudi)** ![GitHub stars](https://img.shields.io/github/stars/apache/hudi?style=social) - Open data lakehouse platform for ingesting, indexing, storing, serving, transforming and managing data across cloud environments. Supports upserts, deletes and incremental processing on big data with built-in ingestion tools for Spark and Flink. Apache 2.0 licensed.
+- **[lakeFS](https://github.com/treeverse/lakeFS)** ![GitHub stars](https://img.shields.io/github/stars/treeverse/lakeFS?style=social) - Data version control for your data lake that transforms object storage into Git-like repositories. Enables atomic, versioned data lake operations with branching, committing, and merging for data pipelines. Apache 2.0 licensed.
 - **[Apache Airflow](https://github.com/apache/airflow)** ![GitHub stars](https://img.shields.io/github/stars/apache/airflow?style=social) - Platform to programmatically author, schedule, and monitor workflows. Industry-standard orchestration for data pipelines and ML workflows with 500+ integrations. Apache 2.0 licensed.
 - **[Apache Spark](https://github.com/apache/spark)** ![GitHub stars](https://img.shields.io/github/stars/apache/spark?style=social) - Unified analytics engine for large-scale data processing. In-memory cluster computing with high-level APIs in Python, Scala, Java, and R. Powers MLlib for distributed machine learning and Structured Streaming for real-time data. Apache 2.0 licensed.
 - **[Apache Flink](https://github.com/apache/flink)** ![GitHub stars](https://img.shields.io/github/stars/apache/flink?style=social) - Stream processing framework with powerful batch and streaming capabilities. High-throughput, low-latency runtime with exactly-once processing guarantees. Ideal for real-time AI inference pipelines and event-driven ML applications. Apache 2.0 licensed.
 - **[Apache Beam](https://github.com/apache/beam)** ![GitHub stars](https://img.shields.io/github/stars/apache/beam?style=social) - Unified programming model for batch and streaming data processing. Write pipelines once, run anywhere on Flink, Spark, or Google Cloud Dataflow. Portable, extensible, and enterprise-ready for AI data pipelines. Apache 2.0 licensed.
+- **[Scrapy](https://github.com/scrapy/scrapy)** ![GitHub stars](https://img.shields.io/github/stars/scrapy/scrapy?style=social) - Fast, high-level web crawling and scraping framework for Python. Extract structured data from websites at scale with built-in support for handling common challenges like pagination, cookies, and concurrent requests. BSD-3-Clause licensed.
+- **[PandasAI](https://github.com/sinaptik-ai/pandas-ai)** ![GitHub stars](https://img.shields.io/github/stars/sinaptik-ai/pandas-ai?style=social) - Conversational data analysis for pandas DataFrames using LLMs and RAG. Chat with your database, CSV, or parquet files using natural language queries. MIT licensed.
+- **[Temporal](https://github.com/temporalio/temporal)** ![GitHub stars](https://img.shields.io/github/stars/temporalio/temporal?style=social) - Durable execution platform for reliable workflow orchestration. Build resilient data pipelines and ML workflows that survive failures and continue execution exactly where they left off. MIT licensed.
+- **[Luigi](https://github.com/spotify/luigi)** ![GitHub stars](https://img.shields.io/github/stars/spotify/luigi?style=social) - Python module for building complex pipelines of batch jobs. Handles dependency resolution, workflow management, visualization, and Hadoop integration. Built at Spotify and battle-tested in production. Apache 2.0 licensed.
+- **[Mage.ai](https://github.com/mage-ai/mage-ai)** ![GitHub stars](https://img.shields.io/github/stars/mage-ai/mage-ai?style=social) - Modern open-source data pipeline tool for integrating and transforming data. AI-native ETL/ELT platform with 100+ integrations, real-time monitoring, and collaborative features. Apache 2.0 licensed.
 
 #### Classical ML & Gradient Boosting
 
@@ -146,6 +153,17 @@
 - **[SynapseML](https://github.com/microsoft/SynapseML)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/SynapseML?style=social) - Distributed machine learning on Apache Spark. Scalable, composable APIs for text analytics, vision, anomaly detection with seamless Python/Scala/R/.NET integration. MIT licensed.
 - **[Darts](https://github.com/unit8co/darts)** ![GitHub stars](https://img.shields.io/github/stars/unit8co/darts?style=social) - User-friendly forecasting and anomaly detection for time series. Unifies classical statistical models (ARIMA, ETS) with modern neural networks (N-BEATS, TFT, DeepAR) in a single scikit-learn compatible API. Apache 2.0 licensed.
 - **[PyTorch Forecasting](https://github.com/sktime/pytorch-forecasting)** ![GitHub stars](https://img.shields.io/github/stars/sktime/pytorch-forecasting?style=social) - Time series forecasting with PyTorch. Multiple neural architectures (N-BEATS, TFT, DeepAR) with in-built interpretation capabilities, built on PyTorch Lightning for distributed training. MIT licensed.
+
+#### Data Engineering & Feature Stores
+
+- **[DataHub](https://github.com/datahub-project/datahub)** ![GitHub stars](https://img.shields.io/github/stars/datahub-project/datahub?style=social) - The #1 open-source metadata platform for data and AI. Data discovery, governance, and observability with 80+ connectors, column-level lineage, and AI assistant integration. Originally built at LinkedIn. Apache 2.0 licensed.
+- **[OpenMetadata](https://github.com/open-metadata/OpenMetadata)** ![GitHub stars](https://img.shields.io/github/stars/open-metadata/OpenMetadata?style=social) - Unified metadata platform for data discovery, observability, and governance. Column-level lineage, semantic search, and team collaboration with 70+ data service connectors. Apache 2.0 licensed.
+- **[Amundsen](https://github.com/amundsen-io/amundsen)** ![GitHub stars](https://img.shields.io/github/stars/amundsen-io/amundsen?style=social) - Data discovery and metadata engine from Lyft. PageRank-style search for data resources with usage-based ranking. LF AI & Data Foundation project. Apache 2.0 licensed.
+
+#### Data Quality & Validation
+
+- **[Deequ](https://github.com/awslabs/deequ)** ![GitHub stars](https://img.shields.io/github/stars/awslabs/deequ?style=social) - Library built on top of Apache Spark for defining "unit tests for data". Measures data quality in large datasets with constraint verification, anomaly detection, and incremental validation. Used at Amazon for production data quality. Apache 2.0 licensed.
+- **[TFX (TensorFlow Extended)](https://github.com/tensorflow/tfx)** ![GitHub stars](https://img.shields.io/github/stars/tensorflow/tfx?style=social) - End-to-end platform for deploying production ML pipelines. Data validation, transformation, model training, and serving with TensorFlow. Powers Google's production ML infrastructure. Apache 2.0 licensed.
 
 #### Data Labeling & Annotation
 
@@ -227,6 +245,10 @@
 - **[Gemma 4 (Google)](https://github.com/google-deepmind/gemma)** ![GitHub stars](https://img.shields.io/github/stars/google-deepmind/gemma?style=social) - Multimodal model supporting vision-language input, optimized for efficiency, complex logic, and on-device use.
 - **[Magma (Microsoft)](https://github.com/microsoft/Magma)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/Magma?style=social) - Foundation model for multimodal AI agents that perceives the world and takes goal-driven actions across digital and physical environments. CVPR 2025.
 - **[OpenCLIP](https://github.com/mlfoundations/open_clip)** ![GitHub stars](https://img.shields.io/github/stars/mlfoundations/open_clip?style=social) - Open source implementation of CLIP with trained models and training code. Includes state-of-the-art trained ViT-G/14 models and comprehensive zero-shot evaluation suite.
+- **[Show-o](https://github.com/showlab/Show-o)** ![GitHub stars](https://img.shields.io/github/stars/showlab/Show-o?style=social) - Unified multimodal model for both multimodal understanding and text-to-image generation with transformative autoregressive modeling. Apache 2.0 licensed.
+- **[Moondream (m87-labs)](https://github.com/m87-labs/moondream)** ![GitHub stars](https://img.shields.io/github/stars/m87-labs/moondream?style=social) - Tiny vision language model (0.5B and 2B parameters) that runs anywhere. Powerful image understanding with remarkably small footprint for edge devices and real-time applications. Apache 2.0 licensed.
+- **[VILA (NVIDIA)](https://github.com/NVlabs/VILA)** ![GitHub stars](https://img.shields.io/github/stars/NVlabs/VILA?style=social) - Family of state-of-the-art vision language models for diverse multimodal AI tasks across edge, data center, and cloud. Features NVILA 8B/15B with efficient training and deployment. Apache 2.0 licensed.
+- **[OmniGen (VectorSpaceLab)](https://github.com/VectorSpaceLab/OmniGen)** ![GitHub stars](https://img.shields.io/github/stars/VectorSpaceLab/OmniGen?style=social) - Unified image generation model that handles text-to-image, subject-driven generation, identity-preserving generation, and image editing from multi-modal prompts without additional plugins. MIT licensed.
 
 #### Speech & Audio Models (TTS, STT, Music)
 
@@ -280,7 +302,6 @@
 - **[KoboldCpp](https://github.com/LostRuins/koboldcpp)** ![GitHub stars](https://img.shields.io/github/stars/LostRuins/koboldcpp?style=social) - User-friendly llama.cpp fork focused on role-playing and creative writing.
 - **[RamaLama](https://github.com/containers/ramalama)** ![GitHub stars](https://img.shields.io/github/stars/containers/ramalama?style=social) - Container-centric tool for simplifying local AI model serving. Automatically detects GPUs, pulls optimized container images, and runs models securely in rootless containers with enterprise-grade isolation.
 - **[LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)** ![GitHub stars](https://img.shields.io/github/stars/google-ai-edge/LiteRT-LM?style=social) - Google's production-ready inference framework for deploying LLMs on edge devices. Cross-platform support for Android, iOS, Web, Desktop, and IoT with GPU/NPU acceleration. Powers on-device GenAI in Chrome and Chromebook Plus. Apache 2.0 licensed.
-- **[BitNet (Microsoft)](https://github.com/microsoft/BitNet)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/BitNet?style=social) - Official inference framework for 1-bit LLMs (BitNet b1.58). Achieves 1.37x-6.17x speedups on CPU with 55-82% energy reduction. Can run 100B parameter models on single CPU at human reading speed. MIT licensed.
 
 #### High-performance Serving & API Servers
 
@@ -308,13 +329,12 @@
 - **[OpenLLM (BentoML)](https://github.com/bentoml/OpenLLM)** ![GitHub stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social) - Production-grade platform for running any open-source LLMs as OpenAI-compatible API endpoints. Supports 50+ models with built-in streaming, batching, and auto-acceleration. Apache 2.0 licensed.
 - **[Higress (Alibaba)](https://github.com/alibaba/higress)** ![GitHub stars](https://img.shields.io/github/stars/alibaba/higress?style=social) - AI-native API gateway born from Alibaba's internal infrastructure with 2+ years of production validation. Provides unified LLM API and MCP (Model Context Protocol) management with enterprise-grade 99.99% availability. Apache 2.0 licensed.
 - **[NVIDIA Dynamo](https://github.com/ai-dynamo/dynamo)** ![GitHub stars](https://img.shields.io/github/stars/ai-dynamo/dynamo?style=social) - Datacenter-scale distributed inference serving framework from NVIDIA. Orchestration layer above vLLM/SGLang/TensorRT-LLM with disaggregated serving, KV-aware routing, and automatic scaling. Built in Rust with Python extensibility. Apache 2.0 licensed.
+- **[Text Generation Inference (TGI)](https://github.com/huggingface/text-generation-inference)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/text-generation-inference?style=social) - Production-grade LLM serving toolkit from Hugging Face. High-performance text generation with support for Llama, Falcon, StarCoder, BLOOM, GPT-NeoX, and T5. Features custom prompt generation, fine-tuning support, and optimized Docker deployment. Apache 2.0 licensed.
 
 #### Additional Inference Engines
 
 - **[CTranslate2](https://github.com/OpenNMT/CTranslate2)** ![GitHub stars](https://img.shields.io/github/stars/OpenNMT/CTranslate2?style=social) - Fast inference engine for Transformer models supporting OpenNMT and Hugging Face models. Optimized for CPU and GPU with batching, quantization (INT8/FP16), and dynamic memory management. Powers faster-whisper and other production deployments. MIT licensed.
 - **[PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)** ![GitHub stars](https://img.shields.io/github/stars/SJTU-IPADS/PowerInfer?style=social) - High-speed LLM inference for local deployment on consumer GPUs. Achieves up to 11x speedup over llama.cpp on RTX 4090 by exploiting power-law neuron activation patterns. MIT licensed.
-- **[LoRAX (Predibase)](https://github.com/predibase/lorax)** ![GitHub stars](https://img.shields.io/github/stars/predibase/lorax?style=social) - Multi-LoRA inference server that scales to thousands of fine-tuned LLMs. Serve many specialized models from a single base model with dynamic adapter loading. Apache 2.0 licensed.
-- **[NanoFlow (UW Efeslab)](https://github.com/efeslab/Nanoflow)** ![GitHub stars](https://img.shields.io/github/stars/efeslab/Nanoflow?style=social) - Throughput-oriented high-performance serving framework with intra-device parallelism and async CPU scheduling. Delivers up to 1.91x throughput boost over TensorRT-LLM. Apache 2.0 licensed.
 
 #### Quantization, Distillation & Optimization
 
@@ -381,6 +401,11 @@
 - **[Gemini CLI (Google)](https://github.com/google-gemini/gemini-cli)** ![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social) - Open-source AI agent that brings Gemini's power directly into your terminal. Supports code generation, shell execution, and file editing with full Apache 2.0 licensing.
 - **[Archon](https://github.com/coleam00/Archon)** ![GitHub stars](https://img.shields.io/github/stars/coleam00/Archon?style=social) - Workflow engine for deterministic AI coding agents. Define development processes as YAML workflows (planning → implementation → validation → review → PR) with isolated git worktrees for parallel execution. MIT licensed.
 
+#### Prompt Engineering & Structured Outputs
+
+- **[Outlines](https://github.com/dottxt-ai/outlines)** ![GitHub stars](https://img.shields.io/github/stars/dottxt-ai/outlines?style=social) - Structured outputs for LLMs. Guarantees valid JSON, regex-compliant text, and Pydantic model outputs during generation. Trusted by NVIDIA, Cohere, HuggingFace, and vLLM. Apache 2.0 licensed.
+- **[Promptify](https://github.com/promptslab/Promptify)** ![GitHub stars](https://img.shields.io/github/stars/promptslab/Promptify?style=social) - Task-based NLP engine with Pydantic structured outputs, built-in evaluation, and LiteLLM as the universal LLM backend. Think "scikit-learn for LLM-powered NLP". Apache 2.0 licensed.
+
 #### Domain-Specific Agents
 
 - **[Composio](https://github.com/ComposioHQ/composio)** ![GitHub stars](https://img.shields.io/github/stars/ComposioHQ/composio?style=social) - Tool integration layer for AI agents with 1000+ toolkits, authentication management, and sandboxed workbench. Powers tool use across major frameworks.
@@ -427,6 +452,8 @@
 - **[Annoy](https://github.com/spotify/annoy)** ![GitHub stars](https://img.shields.io/github/stars/spotify/annoy?style=social) - Approximate nearest neighbors library optimized for memory usage and fast loading. Powers Spotify's music recommendation with C++/Python bindings. Apache 2.0 licensed.
 - **[sqlite-vec](https://github.com/asg017/sqlite-vec)** ![GitHub stars](https://img.shields.io/github/stars/asg017/sqlite-vec?style=social) - A vector search SQLite extension that runs anywhere. Extremely small, "fast enough" vector search written in pure C with no dependencies. Perfect for embedded and edge deployments. MIT/Apache-2.0 dual licensed.
 - **[zvec](https://github.com/alibaba/zvec)** ![GitHub stars](https://img.shields.io/github/stars/alibaba/zvec?style=social) - Lightweight, lightning-fast, in-process vector database from Alibaba. Built on Proxima (Alibaba's battle-tested vector search engine) for production-grade, low-latency similarity search. Apache 2.0 licensed.
+- **[Meilisearch](https://github.com/meilisearch/meilisearch)** ![GitHub stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=social) - Lightning-fast search engine API with AI-powered hybrid search. Features typo-tolerant full-text search combined with HNSW-based vector search for semantic retrieval. MIT licensed.
+- **[Typesense](https://github.com/typesense/typesense)** ![GitHub stars](https://img.shields.io/github/stars/typesense/typesense?style=social) - Open source alternative to Algolia + Pinecone. Fast, typo-tolerant, in-memory fuzzy search engine with native vector search capabilities. GPL-3.0 licensed.
 
 #### Embedding Models
 
@@ -443,6 +470,7 @@
 #### RAG Frameworks & Advanced Retrieval Tools
 
 - **[LlamaIndex](https://github.com/run-llama/llama_index)** ![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social) - Full-featured RAG pipeline with advanced indexing.
+- **[R2R (SciPhi)](https://github.com/SciPhi-AI/R2R)** ![GitHub stars](https://img.shields.io/github/stars/SciPhi-AI/R2R?style=social) - Production-ready agentic RAG engine with RESTful API. Features hybrid search, knowledge graphs, multimodal RAG, and deep research capabilities. MIT licensed.
 - **[Haystack](https://github.com/deepset-ai/haystack)** ![GitHub stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social) - End-to-end NLP and RAG framework.
 - **[RAGFlow](https://github.com/infiniflow/ragflow)** ![GitHub stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social) - Deep-document-understanding RAG engine.
 - **[GraphRAG (Microsoft)](https://github.com/microsoft/graphrag)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/graphrag?style=social) - Knowledge-graph-based RAG.
@@ -467,11 +495,9 @@
 - **[PageIndex (VectifyAI)](https://github.com/VectifyAI/PageIndex)** ![GitHub stars](https://img.shields.io/github/stars/VectifyAI/PageIndex?style=social) - Vectorless, reasoning-based RAG framework using document index structure. Achieves high accuracy without vector databases through intelligent context engineering and reasoning-based retrieval. MIT licensed.
 - **[Kotaemon (Cinnamon)](https://github.com/Cinnamon/kotaemon)** ![GitHub stars](https://img.shields.io/github/stars/Cinnamon/kotaemon?style=social) - Open-source RAG-based tool for chatting with your documents. Hybrid RAG pipeline with full-text and vector retriever, re-ranking, and multi-modal capabilities. Clean Gradio-based UI with support for local and API-based LLMs. Apache 2.0 licensed.
 - **[Reader (Jina AI)](https://github.com/jina-ai/reader)** ![GitHub stars](https://img.shields.io/github/stars/jina-ai/reader?style=social) - Convert any URL to LLM-friendly input with a simple prefix (r.jina.ai). Free service that extracts article content, removes clutter, and returns clean Markdown for RAG and agentic workflows. Apache 2.0 licensed.
-- **[Quivr](https://github.com/QuivrHQ/quivr)** ![GitHub stars](https://img.shields.io/github/stars/QuivrHQ/quivr?style=social) - Opiniated RAG framework for integrating GenAI in your apps. Focus on your product rather than the RAG with support for any LLM (OpenAI, Anthropic, Mistral, Groq, Llama), any vectorstore (PGVector, Faiss), and any file format. Features customizable RAG with internet search and tool integration. Apache 2.0 licensed.
-- **[R2R](https://github.com/SciPhi-AI/R2R)** ![GitHub stars](https://img.shields.io/github/stars/SciPhi-AI/R2R?style=social) - SoTA production-ready AI retrieval system with agentic Retrieval-Augmented Generation. Features multimodal content ingestion, hybrid search, knowledge graphs, comprehensive document management, and Deep Research API for multi-step reasoning. RESTful API with Python SDK. MIT licensed.
-- **[paper-qa](https://github.com/Future-House/paper-qa)** ![GitHub stars](https://img.shields.io/github/stars/Future-House/paper-qa?style=social) - High accuracy RAG for answering questions from scientific documents with citations. PaperQA2 focuses on scientific literature with document metadata-aware embeddings, LLM-based re-ranking, and contextual summarization. Achieves superhuman performance in scientific QA, summarization, and contradiction detection. Apache 2.0 licensed.
-- **[OpenRAG](https://github.com/langflow-ai/openrag)** ![GitHub stars](https://img.shields.io/github/stars/langflow-ai/openrag?style=social) - Comprehensive single-package RAG platform built on Langflow, Docling, and OpenSearch. Features agentic RAG workflows with re-ranking and multi-agent coordination, drag-and-drop workflow builder, and enterprise search at scale. MIT licensed.
-- **[dsRAG](https://github.com/D-Star-AI/dsRAG)** ![GitHub stars](https://img.shields.io/github/stars/D-Star-AI/dsRAG?style=social) - High-performance retrieval engine for unstructured data. Excels at challenging queries over dense text like financial reports, legal documents, and academic papers. Achieves 96.6% accuracy on FinanceBench vs 32% for vanilla RAG using semantic sectioning, AutoContext, and Relevant Segment Extraction. MIT licensed.
+- **[UltraRAG (OpenBMB)](https://github.com/OpenBMB/UltraRAG)** ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/UltraRAG?style=social) - First lightweight RAG framework based on Model Context Protocol (MCP) architecture. Low-code RAG pipeline builder with comprehensive evaluation system and DeepResearch capabilities. From Tsinghua THUNLP, NEUIR, OpenBMB, and AI9stars. Apache 2.0 licensed.
+- **[Neurite](https://github.com/satellitecomponent/Neurite)** ![GitHub stars](https://img.shields.io/github/stars/satellitecomponent/Neurite?style=social) - Fractal Graph-of-Thought mind-mapping for AI agents, web-links, notes, and code. Rhizomatic workspace blending chaos theory, graph theory, and fractal logic for creative thinking and RAG workflows. MIT licensed.
+- **[Verba](https://github.com/weaviate/Verba)** ![GitHub stars](https://img.shields.io/github/stars/weaviate/Verba?style=social) - The Golden RAGtriever - an end-to-end, streamlined, user-friendly RAG interface powered by Weaviate. Chat with your documents using hybrid search, multiple chunking strategies, and support for various LLM providers. BSD-3-Clause licensed.
 
 #### Knowledge Graphs for RAG
 
@@ -541,6 +567,7 @@
 - **[GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)** ![GitHub stars](https://img.shields.io/github/stars/RVC-Boss/GPT-SoVITS?style=social) - Few-shot voice cloning with just 1 minute of voice data. Combines GPT and SoVITS architectures for high-quality TTS with cross-lingual support and emotional expression. MIT licensed.
 - **[Chatterbox](https://github.com/resemble-ai/chatterbox)** ![GitHub stars](https://img.shields.io/github/stars/resemble-ai/chatterbox?style=social) - State-of-the-art open-source TTS with natural prosody and emotional control. Zero-shot voice cloning with high speaker similarity. MIT licensed.
 - **[F5-TTS](https://github.com/SWivid/F5-TTS)** ![GitHub stars](https://img.shields.io/github/stars/SWivid/F5-TTS?style=social) - Fully non-autoregressive text-to-speech using flow matching with diffusion transformer (DiT). Fast, high-quality synthesis with zero-shot voice cloning capabilities. MIT licensed.
+- **[Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)** ![GitHub stars](https://img.shields.io/github/stars/CorentinJ/Real-Time-Voice-Cloning?style=social) - Clone a voice in 5 seconds to generate arbitrary speech in real-time. SV2TTS implementation with speaker encoder and vocoder for instant voice synthesis. MIT licensed.
 
 #### 3D & Creative Tools
 
@@ -586,6 +613,7 @@
 - **[rLLM](https://github.com/rllm-org/rllm)** ![GitHub stars](https://img.shields.io/github/stars/rllm-org/rllm?style=social) - Democratizing Reinforcement Learning for LLMs. Framework for training AI agents with RL featuring near-zero code changes, CLI-first workflow, and 50+ built-in benchmarks. Supports GRPO, REINFORCE, RLOO with verl and tinker backends. Apache 2.0 licensed.
 - **[EasyR1](https://github.com/hiyouga/EasyR1)** ![GitHub stars](https://img.shields.io/github/stars/hiyouga/EasyR1?style=social) - Efficient, scalable, multi-modality RL training framework based on veRL. Extends veRL to support vision-language models with GRPO algorithm for efficient RL training. Apache 2.0 licensed.
 - **[simpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason)** ![GitHub stars](https://img.shields.io/github/stars/hkust-nlp/simpleRL-reason?style=social) - Simple reinforcement learning recipe to improve models' reasoning abilities. Rule-based reward with GSM8K/Math datasets, extending from OpenRLHF. MIT licensed.
+- **[align-anything](https://github.com/PKU-Alignment/align-anything)** ![GitHub stars](https://img.shields.io/github/stars/PKU-Alignment/align-anything?style=social) - Training all-modality models with feedback. Supports RLHF, DPO, and alignment fine-tuning for text, image, audio, and video models with seamless Slurm cluster integration. Apache 2.0 licensed.
 
 #### LoRA / PEFT Tools
 
@@ -614,6 +642,7 @@
 - **[veScale (ByteDance)](https://github.com/volcengine/veScale)** ![GitHub stars](https://img.shields.io/github/stars/volcengine/veScale?style=social) - Hyperscale PyTorch distributed training with flexible FSDP implementation for LLMs and RL training at scale.
 - **[GPT-NeoX (EleutherAI)](https://github.com/EleutherAI/gpt-neox)** ![GitHub stars](https://img.shields.io/github/stars/EleutherAI/gpt-neox?style=social) - Production-grade distributed training framework for large autoregressive transformers, powering models like GPT-J and GPT-NeoX-20B.
 - **[RLinf](https://github.com/RLinf/RLinf)** ![GitHub stars](https://img.shields.io/github/stars/RLinf/RLinf?style=social) - Scalable open-source RL infrastructure for post-training foundation models via reinforcement learning. Features M2Flow paradigm for embodied AI and agentic workflows with real-world robotics integrations. Apache 2.0 licensed.
+- **[dstack](https://github.com/dstackai/dstack)** ![GitHub stars](https://img.shields.io/github/stars/dstackai/dstack?style=social) - Vendor-agnostic orchestration for training, inference and agentic workloads across NVIDIA, AMD, TPU, and Tenstorrent on clouds, Kubernetes, and bare metal. MPL-2.0 licensed.
 - **[Streaming (MosaicML)](https://github.com/mosaicml/streaming)** ![GitHub stars](https://img.shields.io/github/stars/mosaicml/streaming?style=social) - High-performance data streaming library for efficient neural network training. Streams training data from cloud storage (S3, GCS, Azure) with local caching and deterministic shuffling. Apache 2.0 licensed.
 
 #### Model Quantization & Optimization
@@ -687,11 +716,15 @@
 - **[OpenLIT](https://github.com/openlit/openlit)** ![GitHub stars](https://img.shields.io/github/stars/openlit/openlit?style=social) - OpenTelemetry-native LLM observability platform with GPU monitoring, evaluations, prompt management, and guardrails.
 - **[OpenLLMetry (Traceloop)](https://github.com/traceloop/openllmetry)** ![GitHub stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social) - Open-source observability for GenAI/LLM applications based on OpenTelemetry with 25+ integration backends.
 - **[Agenta](https://github.com/Agenta-AI/agenta)** ![GitHub stars](https://img.shields.io/github/stars/Agenta-AI/agenta?style=social) - Open-source LLMOps platform combining prompt playground, prompt management, LLM evaluation, and observability.
+- **[Latitude](https://github.com/latitude-dev/latitude-llm)** ![GitHub stars](https://img.shields.io/github/stars/latitude-dev/latitude-llm?style=social) - Open-source agent engineering platform with prompt management, evaluations, and optimization. Features prompt playground, LLM-as-judge evals, and GEPA prompt optimizer for production LLM features. LGPL-3.0 licensed.
 - **[Helicone](https://github.com/helicone/helicone)** ![GitHub stars](https://img.shields.io/github/stars/helicone/helicone?style=social) - Open-source LLM observability with request logging, caching, rate limiting, and cost analytics.
 - **[Giskard](https://github.com/Giskard-AI/giskard-oss)** ![GitHub stars](https://img.shields.io/github/stars/Giskard-AI/giskard-oss?style=social) - Open-source evaluation and testing library for LLM agents. Red teaming, vulnerability scanning, RAG evaluation, and safety testing with modular architecture. Apache 2.0 licensed.
 - **[Portkey Gateway](https://github.com/Portkey-AI/gateway)** ![GitHub stars](https://img.shields.io/github/stars/Portkey-AI/gateway?style=social) - Blazing fast AI Gateway to route 200+ LLMs with unified API. Integrated guardrails, load balancing, fallbacks, and cost tracking. MIT licensed.
 - **[TensorZero](https://github.com/tensorzero/tensorzero)** ![GitHub stars](https://img.shields.io/github/stars/tensorzero/tensorzero?style=social) - Open-source LLMOps platform unifying LLM gateway, observability, evaluation, and experimentation. Production-grade with sub-1ms latency, used by Fortune 10 companies.
 - **[Envoy AI Gateway](https://github.com/envoyproxy/ai-gateway)** ![GitHub stars](https://img.shields.io/github/stars/envoyproxy/ai-gateway?style=social) - Manages unified access to generative AI services built on Envoy Gateway. Kubernetes-native AI gateway for routing, load balancing, and managing LLM traffic with enterprise-grade reliability. Apache 2.0 licensed.
+- **[Pezzo](https://github.com/pezzolabs/pezzo)** ![GitHub stars](https://img.shields.io/github/stars/pezzolabs/pezzo?style=social) - Cloud-native LLMOps platform with prompt management, versioning, and observability. Features collaborative prompt editing, A/B testing, and cost analytics. Apache 2.0 licensed.
+- **[Microsoft PromptFlow](https://github.com/microsoft/promptflow)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/promptflow?style=social) - Comprehensive suite for LLM-based AI app development from prototyping to production. Includes prompt engineering, evaluation, and deployment tools with VS Code integration. MIT licensed.
+- **[ChainForge](https://github.com/ianarawjo/ChainForge)** ![GitHub stars](https://img.shields.io/github/stars/ianarawjo/ChainForge?style=social) - Visual programming environment for battle-testing prompts and evaluating LLM outputs. Features node-based prompt chains, multi-model comparison, and hypothesis testing. MIT licensed.
 
 #### Guardrails & Safety Tools
 
@@ -739,6 +772,7 @@
 - **[BrowserGym](https://github.com/ServiceNow/BrowserGym)** ![GitHub stars](https://img.shields.io/github/stars/ServiceNow/BrowserGym?style=social) - Gym environment for web task automation and agent evaluation. Includes MiniWoB, WebArena, WorkArena, and more. Apache 2.0 licensed.
 - **[TruLens](https://github.com/truera/trulens)** ![GitHub stars](https://img.shields.io/github/stars/truera/trulens?style=social) - Evaluation and tracking for LLM experiments and AI agents. Provides feedback functions for measuring quality, relevance, and groundedness with LangChain and LlamaIndex integrations. MIT licensed.
 - **[OpenEvals](https://github.com/langchain-ai/openevals)** ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/openevals?style=social) - Open-source evaluation library for LLM and agent applications. Built by LangChain with pre-built evaluators for common use cases including RAG, agents, and structured output validation. MIT licensed.
+- **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** ![GitHub stars](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG?style=social) - RAG AutoML tool for automatically finding optimal RAG pipelines. Evaluates and optimizes retrieval-augmented generation with AutoML-style automation for your own data and use-case. Apache 2.0 licensed.
 
 #### High-quality Open Datasets & Data Tools
 
@@ -889,6 +923,8 @@
 - **[ExecuTorch](https://github.com/pytorch/executorch)** ![GitHub stars](https://img.shields.io/github/stars/pytorch/executorch?style=social) - PyTorch runtime and toolchain for deploying AI models on mobile, embedded, and edge devices.
 - **[OpenVINO](https://github.com/openvinotoolkit/openvino)** ![GitHub stars](https://img.shields.io/github/stars/openvinotoolkit/openvino?style=social) - Intel's toolkit for edge deployment.
 - **[Apache TVM](https://github.com/apache/tvm)** ![GitHub stars](https://img.shields.io/github/stars/apache/tvm?style=social) - Open Machine Learning Compiler Framework. Universal deployment to bring models into minimum deployable modules that can be embedded and run everywhere from datacenter to edge devices. Apache 2.0 licensed.
+- **[NCNN](https://github.com/Tencent/ncnn)** ![GitHub stars](https://img.shields.io/github/stars/Tencent/ncnn?style=social) - High-performance neural network inference framework optimized for mobile platforms. No third-party dependencies, cross-platform, and runs faster than all known open-source frameworks on mobile CPU. Powers Tencent apps including QQ, WeChat, and Pitu. BSD-3-Clause licensed.
+- **[MNN](https://github.com/alibaba/MNN)** ![GitHub stars](https://img.shields.io/github/stars/alibaba/MNN?style=social) - Blazing-fast, lightweight inference engine battle-tested by Alibaba. Supports inference and training with industry-leading on-device performance. Powers high-performance LLMs and Edge AI with MNN-LLM runtime. Apache 2.0 licensed.
 
 #### Legal AI & Contract Analysis
 
