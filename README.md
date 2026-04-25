@@ -984,6 +984,7 @@
 - **[Maid](https://github.com/Mobile-Artificial-Intelligence/maid)** ![GitHub stars](https://img.shields.io/github/stars/Mobile-Artificial-Intelligence/maid?style=social) - Free and open-source Android app for interfacing with llama.cpp models locally and remote APIs (Anthropic, DeepSeek, Mistral, Ollama, OpenAI). MIT licensed.
 - **[Dive](https://github.com/OpenAgentPlatform/Dive)** ![GitHub stars](https://img.shields.io/github/stars/OpenAgentPlatform/Dive?style=social) - Open-source MCP Host Desktop Application with dual Tauri/Electron architecture. Seamlessly integrates with any LLMs supporting function calling. MIT licensed.
 - **[PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai)** ![GitHub stars](https://img.shields.io/github/stars/a-ghorbani/pocketpal-ai?style=social) - Open-source app that brings small language models directly to your phone. Run AI 100% privately on iOS and Android with no cloud required. MIT licensed.
+- **[Screenpipe](https://github.com/screenpipe/screenpipe)** ![GitHub stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=social) - 24/7 local screen + microphone recording with OCR, audio transcription, and semantic search. MCP server for Claude integration. Works with any local LLM via Ollama. Cross-platform (macOS / Windows / Linux). MIT licensed.
 
 #### Agent & Voice Infrastructure
 
