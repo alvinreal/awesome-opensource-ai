@@ -154,6 +154,14 @@
 - **[Darts](https://github.com/unit8co/darts)** ![GitHub stars](https://img.shields.io/github/stars/unit8co/darts?style=social) - User-friendly forecasting and anomaly detection for time series. Unifies classical statistical models (ARIMA, ETS) with modern neural networks (N-BEATS, TFT, DeepAR) in a single scikit-learn compatible API. Apache 2.0 licensed.
 - **[PyTorch Forecasting](https://github.com/sktime/pytorch-forecasting)** ![GitHub stars](https://img.shields.io/github/stars/sktime/pytorch-forecasting?style=social) - Time series forecasting with PyTorch. Multiple neural architectures (N-BEATS, TFT, DeepAR) with in-built interpretation capabilities, built on PyTorch Lightning for distributed training. MIT licensed.
 
+#### Data Engineering & Feature Stores
+
+- **[DataHub](https://github.com/datahub-project/datahub)** ![GitHub stars](https://img.shields.io/github/stars/datahub-project/datahub?style=social) - The #1 open-source metadata platform for data and AI. Data discovery, governance, and observability with 80+ connectors, column-level lineage, and AI assistant integration. Originally built at LinkedIn. Apache 2.0 licensed.
+- **[OpenMetadata](https://github.com/open-metadata/OpenMetadata)** ![GitHub stars](https://img.shields.io/github/stars/open-metadata/OpenMetadata?style=social) - Unified metadata platform for data discovery, observability, and governance. Column-level lineage, semantic search, and team collaboration with 70+ data service connectors. Apache 2.0 licensed.
+- **[Amundsen](https://github.com/amundsen-io/amundsen)** ![GitHub stars](https://img.shields.io/github/stars/amundsen-io/amundsen?style=social) - Data discovery and metadata engine from Lyft. PageRank-style search for data resources with usage-based ranking. LF AI & Data Foundation project. Apache 2.0 licensed.
+- **[Hopsworks](https://github.com/logicalclocks/hopsworks)** ![GitHub stars](https://img.shields.io/github/stars/logicalclocks/hopsworks?style=social) - Real-Time AI Lakehouse with Python-centric Feature Store and MLOps. Manages features, models, and training pipelines with enterprise-grade governance. AGPL-3.0 licensed.
+- **[Featureform](https://github.com/featureform/featureform)** ![GitHub stars](https://img.shields.io/github/stars/featureform/featureform?style=social) - Virtual feature store that transforms existing data infrastructure into a feature store. Embeddings-first with native vector database support and transformer-based transformations. MPL-2.0 licensed.
+
 #### Data Quality & Validation
 
 - **[Deequ](https://github.com/awslabs/deequ)** ![GitHub stars](https://img.shields.io/github/stars/awslabs/deequ?style=social) - Library built on top of Apache Spark for defining "unit tests for data". Measures data quality in large datasets with constraint verification, anomaly detection, and incremental validation. Used at Amazon for production data quality. Apache 2.0 licensed.
