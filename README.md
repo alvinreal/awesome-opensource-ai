@@ -1014,6 +1014,8 @@
 - **[Roo Code](https://github.com/RooCodeInc/Roo-Code)** ![GitHub stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=social) - Open-source editor-based coding agent with multiple modes and tool integrations.
 - **[Aider](https://github.com/Aider-AI/aider)** ![GitHub stars](https://img.shields.io/github/stars/Aider-AI/aider?style=social) - Terminal-based AI pair programmer. Edit code in your local editor and aider implements the changes. Supports multiple LLMs, voice coding, and automatic git commits. Top scores on SWE Bench. Apache 2.0 licensed.
 - **[Refact](https://github.com/smallcloudai/refact)** ![GitHub stars](https://img.shields.io/github/stars/smallcloudai/refact?style=social) - Open-source AI code assistant with autocomplete, chat, and refactoring. Self-hostable with support for multiple LLM providers. BSD-3-Clause licensed.
+- **[Qwen Code](https://github.com/QwenLM/qwen-code)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/qwen-code?style=social) - Open-source AI agent for the terminal, optimized for Qwen series models. Multi-protocol provider support including OpenAI, Anthropic, Gemini, Alibaba Cloud, OpenRouter. Features agentic workflow with Skills and SubAgents. Apache 2.0 licensed.
+- **[DeepCode](https://github.com/HKUDS/DeepCode)** ![GitHub stars](https://img.shields.io/github/stars/HKUDS/DeepCode?style=social) - Transforms research papers and natural language into production-ready code. AI-powered research-to-code automation tool. MIT licensed.
 
 #### Notebooks & Interactive Computing
 
@@ -1031,6 +1033,7 @@
 - **[vim-ai](https://github.com/madox2/vim-ai)** ![GitHub stars](https://img.shields.io/github/stars/madox2/vim-ai?style=social) - AI-powered code assistant for Vim and Neovim. Generate code, edit text, and have interactive conversations with GPT models. Supports custom roles, vision capabilities, and any OpenAI-compatible API. MIT licensed.
 - **[windsurf.vim](https://github.com/Exafunction/windsurf.vim)** ![GitHub stars](https://img.shields.io/github/stars/Exafunction/windsurf.vim?style=social) - Free, ultrafast Copilot alternative for Vim and Neovim. AI-powered code completion with low latency and large context window. MIT licensed.
 - **[Jupyter AI](https://github.com/jupyterlab/jupyter-ai)** ![GitHub stars](https://img.shields.io/github/stars/jupyterlab/jupyter-ai?style=social) - Chat and code generation inside notebooks.
+- **[Minuet AI](https://github.com/milanglacier/minuet-ai.nvim)** ![GitHub stars](https://img.shields.io/github/stars/milanglacier/minuet-ai.nvim?style=social) - Neovim plugin offering code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more. GPL-3.0 licensed.
 
 #### UI Components & Chat Libraries
 
@@ -1040,8 +1043,8 @@
 
 #### CLI Tools & API Clients
 
+- **[Ruler](https://github.com/intellectronica/ruler)** ![GitHub stars](https://img.shields.io/github/stars/intellectronica/ruler?style=social) - Central AI agent rule registry. Manages and distributes rules for AI coding agents across projects. MIT licensed.
 - **[PR-Agent (Qodo)](https://github.com/qodo-ai/pr-agent)** ![GitHub stars](https://img.shields.io/github/stars/qodo-ai/pr-agent?style=social) - AI-powered code review agent for GitHub, GitLab, BitBucket, and Azure DevOps. Automated PR analysis, improvement suggestions, and multi-platform deployment via CLI, GitHub Actions, or webhooks. AGPL-3.0 licensed.
-
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** ![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social) - Google's open-source AI agent for the terminal. Access Gemini models with built-in tool use, MCP support, and 1M token context. Apache 2.0 licensed.
 - **[LLM (Simon Willison)](https://github.com/simonw/llm)** ![GitHub stars](https://img.shields.io/github/stars/simonw/llm?style=social) - CLI tool and Python library for interacting with dozens of LLMs via remote APIs or locally. Extensible plugin ecosystem, SQLite logging. Apache 2.0 licensed.
 - **[AIChat](https://github.com/sigoden/aichat)** ![GitHub stars](https://img.shields.io/github/stars/sigoden/aichat?style=social) - All-in-one LLM CLI in Rust featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents. Supports 20+ providers. MIT/Apache 2.0 licensed.
