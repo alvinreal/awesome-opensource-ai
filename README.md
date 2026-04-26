@@ -667,7 +667,6 @@
 - **[Weights & Biases Weave](https://github.com/wandb/weave)** ![GitHub stars](https://img.shields.io/github/stars/wandb/weave?style=social) - Open-source tracing and experiment tracking.
 - **[Aim](https://github.com/aimhubio/aim)** ![GitHub stars](https://img.shields.io/github/stars/aimhubio/aim?style=social) - Self-hosted ML experiment tracker designed to handle 10,000s of training runs with performant UI and SDK for programmatic access. Apache 2.0 licensed.
 - **[Feast](https://github.com/feast-dev/feast)** ![GitHub stars](https://img.shields.io/github/stars/feast-dev/feast?style=social) - Open source feature store for ML. Manages offline/online feature storage with point-in-time correctness to prevent data leakage. Apache 2.0 licensed.
-- **[Sacred](https://github.com/IDSIA/sacred)** ![GitHub stars](https://img.shields.io/github/stars/IDSIA/sacred?style=social) - Tool to help you configure, organize, log and reproduce experiments. Developed at IDSIA with flexible experiment configuration, automatic logging, and seamless reproducibility. MIT licensed.
 
 #### Model Hubs & Registries
 
