@@ -292,6 +292,11 @@
 
 #### Additional Vision-Language Models
 
+- **[LLaVA-NeXT (LMMs-Lab)](https://github.com/LLaVA-VL/LLaVA-NeXT)** ![GitHub stars](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT?style=social) - Next-generation LLaVA with improved visual reasoning, multi-image understanding, and video support. Apache 2.0 licensed.
+- **[Janus (DeepSeek)](https://github.com/deepseek-ai/Janus)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/Janus?style=social) - Unified multimodal understanding and generation models. Handles both visual comprehension and text-to-image generation. MIT licensed.
+- **[Ovis (AIDC-AI)](https://github.com/AIDC-AI/Ovis)** ![GitHub stars](https://img.shields.io/github/stars/AIDC-AI/Ovis?style=social) - Open vision-language model with strong performance on visual reasoning and document understanding. Apache 2.0 licensed.
+- **[SmolVLM (Hugging Face)](https://github.com/huggingface/smollm)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/smollm?style=social) - Small yet mighty vision language model family optimized for efficiency. Real-time webcam AI with WebGPU support. Apache 2.0 licensed.
+- **[Video-LLaVA (PKU-YuanGroup)](https://github.com/PKU-YuanGroup/Video-LLaVA)** ![GitHub stars](https://img.shields.io/github/stars/PKU-YuanGroup/Video-LLaVA?style=social) - Learning united visual representation by alignment before projection. Strong video understanding capabilities. Apache 2.0 licensed.
 - **[MiniCPM-V (OpenBMB)](https://github.com/OpenBMB/MiniCPM-V)** ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social) - GPT-4V level multimodal LLM for single image, multi-image and high-FPS video understanding on edge devices. 8B parameters with superior OCR and reasoning capabilities. Apache 2.0 licensed.
 
 ---
