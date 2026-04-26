@@ -6,7 +6,7 @@
 
 # Awesome Open Source AI
 
-*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated April 25, 2026.*
+*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated April 26, 2026.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
@@ -501,6 +501,10 @@
 - **[UltraRAG (OpenBMB)](https://github.com/OpenBMB/UltraRAG)** ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/UltraRAG?style=social) - First lightweight RAG framework based on Model Context Protocol (MCP) architecture. Low-code RAG pipeline builder with comprehensive evaluation system and DeepResearch capabilities. From Tsinghua THUNLP, NEUIR, OpenBMB, and AI9stars. Apache 2.0 licensed.
 - **[Neurite](https://github.com/satellitecomponent/Neurite)** ![GitHub stars](https://img.shields.io/github/stars/satellitecomponent/Neurite?style=social) - Fractal Graph-of-Thought mind-mapping for AI agents, web-links, notes, and code. Rhizomatic workspace blending chaos theory, graph theory, and fractal logic for creative thinking and RAG workflows. MIT licensed.
 - **[Verba](https://github.com/weaviate/Verba)** ![GitHub stars](https://img.shields.io/github/stars/weaviate/Verba?style=social) - The Golden RAGtriever - an end-to-end, streamlined, user-friendly RAG interface powered by Weaviate. Chat with your documents using hybrid search, multiple chunking strategies, and support for various LLM providers. BSD-3-Clause licensed.
+- **[STORM (Stanford)](https://github.com/stanford-oval/storm)** ![GitHub stars](https://img.shields.io/github/stars/stanford-oval/storm?style=social) - LLM-powered knowledge curation system that researches topics and generates full-length reports with citations. Creates Wikipedia-style articles from scratch through intelligent information retrieval and synthesis. MIT licensed.
+- **[Cognita (TrueFoundry)](https://github.com/truefoundry/cognita)** ![GitHub stars](https://img.shields.io/github/stars/truefoundry/cognita?style=social) - Modular RAG framework for building production-ready applications. Organizes RAG codebase with API-driven components that are easily extendible, featuring incremental indexing and a no-code UI for collection management. Apache 2.0 licensed.
+- **[RAGatouille (Answer.AI)](https://github.com/AnswerDotAI/RAGatouille)** ![GitHub stars](https://img.shields.io/github/stars/AnswerDotAI/RAGatouille?style=social) - Easy-to-use library for state-of-the-art late-interaction retrieval methods (ColBERT) in any RAG pipeline. Simplifies training and deploying ColBERT models with modular design backed by research. Apache 2.0 licensed.
+- **[fastRAG (Intel Labs)](https://github.com/IntelLabs/fastRAG)** ![GitHub stars](https://img.shields.io/github/stars/IntelLabs/fastRAG?style=social) - Efficient retrieval augmentation and generation framework optimized for Intel hardware. Incorporates SOTA LLMs and Information Retrieval with Haystack 2.0 compatibility and support for Gaudi2 accelerators. Apache 2.0 licensed.
 
 #### Knowledge Graphs for RAG
 
