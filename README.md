@@ -357,6 +357,8 @@
 
 > Frameworks and platforms for building agent-based systems and multi-agent workflows.
 
+- [Drevon](https://drevon.dev) - Mac desktop workspace for GTM engineers. Run parallel AI agents powered by Claude Code, Codex, or Copilot to build target lists, score accounts, and pull prospect intel.
+
 #### Single-Agent Frameworks
 
 - **[LangGraph](https://github.com/langchain-ai/langgraph)** ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social) - Stateful, controllable agent orchestration.
