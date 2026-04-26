@@ -618,6 +618,7 @@
 - **[EasyR1](https://github.com/hiyouga/EasyR1)** ![GitHub stars](https://img.shields.io/github/stars/hiyouga/EasyR1?style=social) - Efficient, scalable, multi-modality RL training framework based on veRL. Extends veRL to support vision-language models with GRPO algorithm for efficient RL training. Apache 2.0 licensed.
 - **[simpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason)** ![GitHub stars](https://img.shields.io/github/stars/hkust-nlp/simpleRL-reason?style=social) - Simple reinforcement learning recipe to improve models' reasoning abilities. Rule-based reward with GSM8K/Math datasets, extending from OpenRLHF. MIT licensed.
 - **[align-anything](https://github.com/PKU-Alignment/align-anything)** ![GitHub stars](https://img.shields.io/github/stars/PKU-Alignment/align-anything?style=social) - Training all-modality models with feedback. Supports RLHF, DPO, and alignment fine-tuning for text, image, audio, and video models with seamless Slurm cluster integration. Apache 2.0 licensed.
+- **[LeRobot](https://github.com/huggingface/lerobot)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/lerobot?style=social) - Making AI for robotics more accessible with end-to-end learning. State-of-the-art approaches for imitation learning and reinforcement learning with pretrained models, datasets, and simulated environments. Apache 2.0 licensed.
 
 #### LoRA / PEFT Tools
 
