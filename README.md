@@ -388,6 +388,7 @@
 
 #### Full Training Frameworks
 
+- **[FastChat (LMSYS)](https://github.com/lm-sys/FastChat)** ![GitHub stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social) - Open platform for training, serving, and evaluating LLMs. Powers Chatbot Arena with 10M+ chat requests. Training and evaluation code for Vicuna, MT-Bench. Apache 2.0 licensed.
 - **[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)** ![GitHub stars](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=social) - One-stop unified framework for SFT, DPO, ORPO, KTO with web UI.
 - **[Axolotl](https://github.com/axolotl-ai-cloud/axolotl)** ![GitHub stars](https://img.shields.io/github/stars/axolotl-ai-cloud/axolotl?style=social) - YAML-driven full pipeline for SFT, DPO, GRPO.
 - **[Unsloth](https://github.com/unslothai/unsloth)** ![GitHub stars](https://img.shields.io/github/stars/unslothai/unsloth?style=social) - 2× faster, 70% less memory fine-tuning.
