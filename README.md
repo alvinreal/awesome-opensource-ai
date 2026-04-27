@@ -423,7 +423,8 @@
 - **[Outlines](https://github.com/dottxt-ai/outlines)** ![GitHub stars](https://img.shields.io/github/stars/dottxt-ai/outlines?style=social) - Structured outputs for LLMs. Guarantees valid JSON, regex-compliant text, and Pydantic model outputs during generation. Trusted by NVIDIA, Cohere, HuggingFace, and vLLM. Apache 2.0 licensed.
 - **[Promptify](https://github.com/promptslab/Promptify)** ![GitHub stars](https://img.shields.io/github/stars/promptslab/Promptify?style=social) - Task-based NLP engine with Pydantic structured outputs, built-in evaluation, and LiteLLM as the universal LLM backend. Think "scikit-learn for LLM-powered NLP". Apache 2.0 licensed.
 - **[LangGPT](https://github.com/langgptai/LangGPT)** ![GitHub stars](https://img.shields.io/github/stars/langgptai/LangGPT?style=social) - Pioneering framework for structured and meta-prompt design. Battle-tested by thousands of users worldwide with 10,000+ stars. The most popular prompt engineering paradigm for creating reusable, maintainable prompt templates. Apache 2.0 licensed.
-
+- **[AutoPrompt](https://github.com/Eladlev/AutoPrompt)** ![GitHub stars](https://img.shields.io/github/stars/Eladlev/AutoPrompt?style=social) - Intent-based prompt calibration framework that iteratively optimizes prompts through automated edge case generation and refinement. Reduces manual prompt engineering effort while addressing prompt sensitivity and ambiguity. Apache 2.0 licensed.
+- **[Prompt Optimizer](https://github.com/linshenkx/prompt-optimizer)** ![GitHub stars](https://img.shields.io/github/stars/linshenkx/prompt-optimizer?style=social) - AI prompt optimization tool with multi-round iterative improvements, dual-mode optimization for system and user prompts, and multi-model support. Available as web app, desktop app, Chrome extension, and Docker deployment. AGPL-3.0 licensed.
 
 #### Domain-Specific Agents
 
