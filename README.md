@@ -6,7 +6,7 @@
 
 # Awesome Open Source AI
 
-*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated April 25, 2026.*
+*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated April 27, 2026.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
@@ -376,6 +376,11 @@
 - **[Agent Development Kit (Google)](https://github.com/google/adk-python)** ![GitHub stars](https://img.shields.io/github/stars/google/adk-python?style=social) - Code-first Python toolkit for building sophisticated AI agents with multi-agent orchestration, built-in evaluation, and flexible deployment. Model-agnostic with tight Google ecosystem integration. Apache 2.0 licensed.
 - **[PydanticAI](https://github.com/pydantic/pydantic-ai)** ![GitHub stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social) - Type-safe AI agent framework from the creators of Pydantic. Model-agnostic with 20+ providers, built-in observability via Logfire, MCP/A2A protocol support, and YAML/JSON agent definitions. MIT licensed.
 - **[Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen-Agent?style=social) - Agent framework built on Qwen models featuring function calling, MCP support, code interpreter, RAG, and Chrome extension. Powers Qwen Chat with advanced tool use and planning capabilities. Apache 2.0 licensed.
+- **[JARVIS (Microsoft)](https://github.com/microsoft/JARVIS)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/JARVIS?style=social) - System to connect LLMs with the ML community. Explores artificial general intelligence by bridging large language models with machine learning tools and APIs. MIT licensed.
+- **[SuperAGI](https://github.com/TransformerOptimus/SuperAGI)** ![GitHub stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social) - Dev-first open-source autonomous AI agent framework. Enables developers to build, manage and run useful autonomous agents quickly and reliably with built-in memory and tool integration. MIT licensed.
+- **[XAgent (OpenBMB)](https://github.com/OpenBMB/XAgent)** ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/XAgent?style=social) - Autonomous LLM agent for complex task solving. Features a dual-loop architecture with an outer loop for task decomposition and an inner loop for action execution. Apache 2.0 licensed.
+- **[TaskWeaver (Microsoft)](https://github.com/microsoft/TaskWeaver)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/TaskWeaver?style=social) - Code-first agent framework for seamlessly planning and executing data analytics tasks. Transforms user requests into executable code with state-of-the-art data processing capabilities. MIT licensed.
+- **[AgentVerse (OpenBMB)](https://github.com/OpenBMB/AgentVerse)** ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/AgentVerse?style=social) - Framework facilitating deployment of multiple LLM-based agents in various applications. Provides task-solving and simulation frameworks for collaborative multi-agent environments. Apache 2.0 licensed.
 
 #### Multi-Agent Orchestration
 
