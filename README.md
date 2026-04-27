@@ -311,6 +311,7 @@
 - **[KoboldCpp](https://github.com/LostRuins/koboldcpp)** ![GitHub stars](https://img.shields.io/github/stars/LostRuins/koboldcpp?style=social) - User-friendly llama.cpp fork focused on role-playing and creative writing.
 - **[RamaLama](https://github.com/containers/ramalama)** ![GitHub stars](https://img.shields.io/github/stars/containers/ramalama?style=social) - Container-centric tool for simplifying local AI model serving. Automatically detects GPUs, pulls optimized container images, and runs models securely in rootless containers with enterprise-grade isolation.
 - **[LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)** ![GitHub stars](https://img.shields.io/github/stars/google-ai-edge/LiteRT-LM?style=social) - Google's production-ready inference framework for deploying LLMs on edge devices. Cross-platform support for Android, iOS, Web, Desktop, and IoT with GPU/NPU acceleration. Powers on-device GenAI in Chrome and Chromebook Plus. Apache 2.0 licensed.
+- **[vimin-core](https://github.com/pberlizov/vimin-public)** ![GitHub stars](https://img.shields.io/github/stars/pberlizov/vimin-public?style=social) — Distributed local LLM and Whisper inference orchestration across up to 10 machines. MLX on Apple Silicon, llama.cpp on any platform. Designed for air-gapped and privacy-sensitive deployments. MIT.
 
 #### High-performance Serving & API Servers
 
