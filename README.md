@@ -408,6 +408,11 @@
 - **[Nanocoder (Nano-Collective)](https://github.com/Nano-Collective/nanocoder)** ![GitHub stars](https://img.shields.io/github/stars/Nano-Collective/nanocoder?style=social) - Beautiful local-first coding agent running in your terminal. Built for privacy and control with support for multiple AI providers via OpenRouter.
 - **[Gemini CLI (Google)](https://github.com/google-gemini/gemini-cli)** ![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social) - Open-source AI agent that brings Gemini's power directly into your terminal. Supports code generation, shell execution, and file editing with full Apache 2.0 licensing.
 - **[Archon](https://github.com/coleam00/Archon)** ![GitHub stars](https://img.shields.io/github/stars/coleam00/Archon?style=social) - Workflow engine for deterministic AI coding agents. Define development processes as YAML workflows (planning → implementation → validation → review → PR) with isolated git worktrees for parallel execution. MIT licensed.
+- **[mini-SWE-agent](https://github.com/SWE-agent/mini-swe-agent)** ![GitHub stars](https://img.shields.io/github/stars/SWE-agent/mini-swe-agent?style=social) - Lightweight coding agent for repository and issue-fixing workflows, designed for simple agentic software engineering experiments.
+- **[Plandex](https://github.com/plandex-ai/plandex)** ![GitHub stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social) - Terminal-based AI coding agent for larger tasks, multi-file plans, and controlled implementation workflows.
+- **[Trae Agent](https://github.com/bytedance/trae-agent)** ![GitHub stars](https://img.shields.io/github/stars/bytedance/trae-agent?style=social) - Software-engineering agent from ByteDance for autonomous coding tasks and repository-level development workflows.
+- **[Kilo Code](https://github.com/Kilo-Org/kilocode)** ![GitHub stars](https://img.shields.io/github/stars/Kilo-Org/kilocode?style=social) - Open-source agentic coding assistant with IDE workflows, tool use, and support for local or OpenAI-compatible models.
+- **[Open SWE](https://github.com/langchain-ai/open-swe)** ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/open-swe?style=social) - Asynchronous coding agent from the LangChain ecosystem for background software engineering tasks.
 
 #### Prompt Engineering & Structured Outputs
 
@@ -430,6 +435,15 @@
 - **[Steel Browser](https://github.com/steel-dev/steel-browser)** ![GitHub stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social) - Open-source browser API for AI agents and apps. Batteries-included browser sandbox for web automation without infrastructure worries. Apache 2.0 licensed.
 - **[TradingAgents](https://github.com/TauricResearch/TradingAgents)** ![GitHub stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents?style=social) - Multi-agent framework for financial trading. Simulates professional trading firm operations with 6+ specialized agent roles, backtesting, risk management, and portfolio optimization. Built with LangGraph, supports multiple LLM providers.
 - **[Parlant](https://github.com/emcie-co/parlant)** ![GitHub stars](https://img.shields.io/github/stars/emcie-co/parlant?style=social) - Conversational control layer for customer-facing AI agents. Enterprise-grade context engineering framework optimized for consistent, compliant, and on-brand B2C and sensitive B2B interactions. Apache 2.0 licensed.
+- **[n8n](https://github.com/n8n-io/n8n)** ![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social) - Self-hostable workflow automation platform with AI agent nodes, tool integrations, and production automation workflows.
+- **[Activepieces](https://github.com/activepieces/activepieces)** ![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social) - Open-source automation platform with AI agents, MCP integrations, and self-hosted workflow orchestration.
+- **[TaskingAI](https://github.com/TaskingAI/TaskingAI)** ![GitHub stars](https://img.shields.io/github/stars/TaskingAI/TaskingAI?style=social) - Backend platform for building AI assistants and agents with tools, retrieval, model management, and self-hosted deployment.
+- **[Julep](https://github.com/julep-ai/julep)** ![GitHub stars](https://img.shields.io/github/stars/julep-ai/julep?style=social) - Stateful agent workflow platform with memory, tools, branching, and long-running task execution.
+- **[Tracecat](https://github.com/TracecatHQ/tracecat)** ![GitHub stars](https://img.shields.io/github/stars/TracecatHQ/tracecat?style=social) - Self-hostable security automation platform for building agentic workflows across alerts, cases, and operations.
+- **[ToolJet](https://github.com/ToolJet/ToolJet)** ![GitHub stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social) - Self-hostable internal app builder with AI app and agent workflows for operations teams.
+- **[ByteChef](https://github.com/bytechefhq/bytechef)** ![GitHub stars](https://img.shields.io/github/stars/bytechefhq/bytechef?style=social) - AI-native low-code platform for API orchestration, workflow automation, and agent integrations.
+- **[Giselle](https://github.com/giselles-ai/giselle)** ![GitHub stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=social) - Open-source AI app builder for designing and running agentic workflows.
+- **[NodeTool](https://github.com/nodetool-ai/nodetool)** ![GitHub stars](https://img.shields.io/github/stars/nodetool-ai/nodetool?style=social) - Visual builder for AI workflows and agents with local-model integrations and node-based orchestration.
 
 #### Agent Memory & State
 
@@ -468,6 +482,12 @@
 - **[Meilisearch](https://github.com/meilisearch/meilisearch)** ![GitHub stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=social) - Lightning-fast search engine API with AI-powered hybrid search. Features typo-tolerant full-text search combined with HNSW-based vector search for semantic retrieval. MIT licensed.
 - **[Typesense](https://github.com/typesense/typesense)** ![GitHub stars](https://img.shields.io/github/stars/typesense/typesense?style=social) - Open source alternative to Algolia + Pinecone. Fast, typo-tolerant, in-memory fuzzy search engine with native vector search capabilities. GPL-3.0 licensed.
 - **[Elasticsearch](https://github.com/elastic/elasticsearch)** ![GitHub stars](https://img.shields.io/github/stars/elastic/elasticsearch?style=social) - Distributed search and analytics engine with native k-NN vector search, hybrid search, and dense vector indexing. Industry-standard for full-text search now with powerful semantic search capabilities. AGPL-3.0/Elastic-2.0 dual licensed.
+- **[Apache Solr](https://github.com/apache/solr)** ![GitHub stars](https://img.shields.io/github/stars/apache/solr?style=social) - Mature Lucene-based search platform with dense vector search, filtering, faceting, and hybrid retrieval patterns for production search-heavy RAG systems.
+- **[RediSearch](https://github.com/RediSearch/RediSearch)** ![GitHub stars](https://img.shields.io/github/stars/RediSearch/RediSearch?style=social) - Full-text, secondary indexing, and vector similarity search for Redis deployments. Useful when retrieval needs low-latency Redis-native search.
+- **[ParadeDB](https://github.com/paradedb/paradedb)** ![GitHub stars](https://img.shields.io/github/stars/paradedb/paradedb?style=social) - Postgres-native search and analytics engine for full-text, faceted, and hybrid retrieval without moving data out of PostgreSQL.
+- **[Orama](https://github.com/oramasearch/orama)** ![GitHub stars](https://img.shields.io/github/stars/oramasearch/orama?style=social) - Lightweight search engine with full-text, vector, and hybrid search for browser, server, and edge applications.
+- **[NucliaDB](https://github.com/nuclia/nucliadb)** ![GitHub stars](https://img.shields.io/github/stars/nuclia/nucliadb?style=social) - AI search database for unstructured data and RAG workloads, with extraction, indexing, semantic search, and multimodal retrieval support.
+- **[HelixDB](https://github.com/HelixDB/helix-db)** ![GitHub stars](https://img.shields.io/github/stars/HelixDB/helix-db?style=social) - Graph-vector database for retrieval systems that need relationship traversal alongside semantic search.
 
 #### Embedding Models
 
@@ -515,6 +535,13 @@
 - **[Verba](https://github.com/weaviate/Verba)** ![GitHub stars](https://img.shields.io/github/stars/weaviate/Verba?style=social) - The Golden RAGtriever - an end-to-end, streamlined, user-friendly RAG interface powered by Weaviate. Chat with your documents using hybrid search, multiple chunking strategies, and support for various LLM providers. BSD-3-Clause licensed.
 - **[Pathway](https://github.com/pathwaycom/pathway)** ![GitHub stars](https://img.shields.io/github/stars/pathwaycom/pathway?style=social) - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG. Features 350+ connectors with always-in-sync data from SharePoint, Google Drive, S3, Kafka, PostgreSQL and more. BSL 1.1 license (becomes Apache 2.0 after 4 years).
 - **[Infinity (AI Database)](https://github.com/infiniflow/infinity)** ![GitHub stars](https://img.shields.io/github/stars/infiniflow/infinity?style=social) - AI-native database built for LLM applications with incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text. Powers RAGFlow's document engine. Apache 2.0 licensed.
+- **[PrivateGPT](https://github.com/zylon-ai/private-gpt)** ![GitHub stars](https://img.shields.io/github/stars/zylon-ai/private-gpt?style=social) - Private document Q&A project for local and offline RAG workflows where data stays inside the user's environment.
+- **[FastGPT](https://github.com/labring/FastGPT)** ![GitHub stars](https://img.shields.io/github/stars/labring/FastGPT?style=social) - Knowledge-base platform with RAG retrieval, document processing, visual AI workflows, and self-hosted deployment options.
+- **[MaxKB](https://github.com/1Panel-dev/MaxKB)** ![GitHub stars](https://img.shields.io/github/stars/1Panel-dev/MaxKB?style=social) - Self-hostable knowledge-base and agent platform for document ingestion, RAG pipelines, and enterprise assistant workflows.
+- **[Quivr](https://github.com/QuivrHQ/quivr)** ![GitHub stars](https://img.shields.io/github/stars/QuivrHQ/quivr?style=social) - Self-hostable second-brain and knowledge-base app for chatting with documents and private data through RAG workflows.
+- **[DB-GPT](https://github.com/eosphoros-ai/DB-GPT)** ![GitHub stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=social) - Self-hosted AI data assistant for private knowledge, database-aware conversations, and data-heavy RAG workflows.
+- **[localGPT](https://github.com/PromtEngineer/localGPT)** ![GitHub stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social) - Local document-chat project for private, on-device Q&A over files without sending data to external APIs.
+- **[SurfSense](https://github.com/MODSetter/SurfSense)** ![GitHub stars](https://img.shields.io/github/stars/MODSetter/SurfSense?style=social) - Privacy-focused NotebookLM-style workspace for teams to search, organize, and query knowledge with self-hosted RAG.
 
 #### Knowledge Graphs for RAG
 
@@ -982,6 +1009,9 @@
 - **[CoPaw](https://github.com/agentscope-ai/CoPaw)** ![GitHub stars](https://img.shields.io/github/stars/agentscope-ai/CoPaw?style=social) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities. Apache-2.0 licensed.
 - **[Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain)** ![GitHub stars](https://img.shields.io/github/stars/your-papa/obsidian-Smart2Brain?style=social) - Privacy-focused Obsidian plugin for AI-powered second brain functionality. Chat with your notes using local or remote LLMs including Ollama and OpenAI. MIT licensed.
 - **[Casibase](https://github.com/casibase/casibase)** ![GitHub stars](https://img.shields.io/github/stars/casibase/casibase?style=social) - Open-source enterprise-level AI knowledge base and agent management platform. Supports multiple LLM providers, RAG, and team collaboration. Apache-2.0 licensed.
+- **[Chatbot UI](https://github.com/mckaywrigley/chatbot-ui)** ![GitHub stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui?style=social) - Classic ChatGPT-style web UI with a local and self-hosted deployment path, model-provider flexibility, and private workspace workflows.
+- **[Libre WebUI](https://github.com/libre-webui/libre-webui)** ![GitHub stars](https://img.shields.io/github/stars/libre-webui/libre-webui?style=social) - Self-hosted AI chat interface with local-first positioning, Docker and Kubernetes deployment, authentication, plugins, and RAG support.
+- **[BionicGPT](https://github.com/bionic-gpt/bionic-gpt)** ![GitHub stars](https://img.shields.io/github/stars/bionic-gpt/bionic-gpt?style=social) - On-prem ChatGPT replacement for teams with assistants, RAG, access controls, auditing, and enterprise deployment features.
 
 #### Full Self-hosted AI Platforms
 
@@ -996,6 +1026,7 @@
 - **[CoAI](https://github.com/coaidev/coai)** ![GitHub stars](https://img.shields.io/github/stars/coaidev/coai?style=social) - Next-generation multi-tenant AI one-stop solution with built-in admin and billing system. Enterprise-grade unified LLM gateway supporting 200+ models and 35+ providers. Apache-2.0 licensed.
 - **[Plane](https://github.com/makeplane/plane)** ![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social) - Open-source Jira, Linear, Monday, and ClickUp alternative. AI-powered project management platform with intelligent task triage, sprint planning, and automated workflows. AGPL-3.0 licensed.
 - **[RAG Web UI](https://github.com/rag-web-ui/rag-web-ui)** ![GitHub stars](https://img.shields.io/github/stars/rag-web-ui/rag-web-ui?style=social) - Intelligent dialogue system based on RAG technology. Build intelligent Q&A systems on your own knowledge base with modern web interface. Apache-2.0 licensed.
+- **[GPT4All](https://github.com/nomic-ai/gpt4all)** ![GitHub stars](https://img.shields.io/github/stars/nomic-ai/gpt4all?style=social) - Local LLM runtime and app for running private AI models on personal devices, with desktop chat and local inference workflows.
 
 #### Desktop & Mobile AI Apps
 
@@ -1025,6 +1056,7 @@
 - **[Void Editor](https://github.com/voideditor/void)** ![GitHub stars](https://img.shields.io/github/stars/voideditor/void?style=social) - Open-source AI-native code editor forked from VS Code. Features agentic AI editing, inline code generation, and chat interface. Designed as a Cursor alternative with full control over your data. Apache 2.0 licensed.
 - **[Code Server](https://github.com/coder/code-server)** ![GitHub stars](https://img.shields.io/github/stars/coder/code-server?style=social) - Run VS Code on any machine anywhere and access it in the browser. Self-hosted cloud IDE with full extension support. MIT licensed.
 - **[Gitpod](https://github.com/gitpod-io/gitpod)** ![GitHub stars](https://img.shields.io/github/stars/gitpod-io/gitpod?style=social) - Cloud development environment platform with automated prebuilds, ephemeral workspaces, and support for any IDE. Self-hostable with open-source core. AGPL-3.0 licensed.
+- **[Onlook](https://github.com/onlook-dev/onlook)** ![GitHub stars](https://img.shields.io/github/stars/onlook-dev/onlook?style=social) - Open-source AI-first design and React editing environment for visually building and modifying frontend applications.
 
 #### AI Coding Assistants (open-source)
 
@@ -1165,4 +1197,3 @@ Feel free to use it for any purpose.
 Star the repo if you find it useful - it helps more people discover the best open tools!
 
 ---
-
