@@ -485,6 +485,8 @@
 - **[ParadeDB](https://github.com/paradedb/paradedb)** ![GitHub stars](https://img.shields.io/github/stars/paradedb/paradedb?style=social) - Postgres-native search and analytics engine for full-text, faceted, and hybrid retrieval without moving data out of PostgreSQL.
 - **[Orama](https://github.com/oramasearch/orama)** ![GitHub stars](https://img.shields.io/github/stars/oramasearch/orama?style=social) - Lightweight search engine with full-text, vector, and hybrid search for browser, server, and edge applications.
 - **[HelixDB](https://github.com/HelixDB/helix-db)** ![GitHub stars](https://img.shields.io/github/stars/HelixDB/helix-db?style=social) - Graph-vector database for retrieval systems that need relationship traversal alongside semantic search.
+- **[USearch](https://github.com/unum-cloud/usearch)** ![GitHub stars](https://img.shields.io/github/stars/unum-cloud/usearch?style=social) - Fast single-file similarity search & clustering engine for vectors. Smaller and faster than FAISS with 20+ language bindings (C++, Python, JavaScript, Rust, Java, Go, etc.) and support for custom metrics. Apache 2.0 licensed.
+- **[Voyager](https://github.com/spotify/voyager)** ![GitHub stars](https://img.shields.io/github/stars/spotify/voyager?style=social) - Spotify's approximate nearest-neighbor search library for Python and Java. Up to 10x faster than Annoy with 4x less memory, designed for production use at billion-vector scale. Apache 2.0 licensed.
 
 #### Embedding Models
 
