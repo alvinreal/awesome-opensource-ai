@@ -6,7 +6,7 @@
 
 # Awesome Open Source AI
 
-*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated April 25, 2026.*
+*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated April 28, 2026.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
@@ -426,6 +426,8 @@
 - **[Outlines](https://github.com/dottxt-ai/outlines)** ![GitHub stars](https://img.shields.io/github/stars/dottxt-ai/outlines?style=social) - Structured outputs for LLMs. Guarantees valid JSON, regex-compliant text, and Pydantic model outputs during generation. Trusted by NVIDIA, Cohere, HuggingFace, and vLLM. Apache 2.0 licensed.
 - **[Promptify](https://github.com/promptslab/Promptify)** ![GitHub stars](https://img.shields.io/github/stars/promptslab/Promptify?style=social) - Task-based NLP engine with Pydantic structured outputs, built-in evaluation, and LiteLLM as the universal LLM backend. Think "scikit-learn for LLM-powered NLP". Apache 2.0 licensed.
 - **[LangGPT](https://github.com/langgptai/LangGPT)** ![GitHub stars](https://img.shields.io/github/stars/langgptai/LangGPT?style=social) - Pioneering framework for structured and meta-prompt design. Battle-tested by thousands of users worldwide with 10,000+ stars. The most popular prompt engineering paradigm for creating reusable, maintainable prompt templates. Apache 2.0 licensed.
+- **[AutoPrompt](https://github.com/Eladlev/AutoPrompt)** ![GitHub stars](https://img.shields.io/github/stars/Eladlev/AutoPrompt?style=social) - Intent-based prompt calibration framework that iteratively optimizes prompts through automated edge case generation and refinement. Reduces manual prompt engineering effort while addressing prompt sensitivity and ambiguity. Apache 2.0 licensed.
+- **[Prompt Optimizer](https://github.com/linshenkx/prompt-optimizer)** ![GitHub stars](https://img.shields.io/github/stars/linshenkx/prompt-optimizer?style=social) - AI prompt optimization tool with multi-round iterative improvements, dual-mode optimization for system and user prompts, and multi-model support. Available as web app, desktop app, Chrome extension, and Docker deployment. AGPL-3.0 licensed.
 
 
 
@@ -754,6 +756,9 @@
 
 - **[Featuretools](https://github.com/alteryx/featuretools)** ![GitHub stars](https://img.shields.io/github/stars/alteryx/featuretools?style=social) - Open-source Python library for automated feature engineering. Transforms transactional and relational datasets into feature matrices for machine learning using Deep Feature Synthesis with reusable primitives. BSD-3-Clause licensed.
 - **[Kedro](https://github.com/kedro-org/kedro)** ![GitHub stars](https://img.shields.io/github/stars/kedro-org/kedro?style=social) - Toolbox for production-ready data science. Uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular. Apache 2.0 licensed.
+- **[Feature-engine](https://github.com/feature-engine/feature_engine)** ![GitHub stars](https://img.shields.io/github/stars/feature-engine/feature_engine?style=social) - Python library with multiple transformers to engineer and select features for machine learning models. Scikit-learn compatible with fit() and transform() methods for encoding, imputation, variable transformation, and feature selection. BSD-3-Clause licensed.
+- **[NVTabular](https://github.com/NVIDIA-Merlin/NVTabular)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA-Merlin/NVTabular?style=social) - GPU-accelerated feature engineering and preprocessing library for tabular data. Manipulates terabyte-scale datasets to train deep learning recommender systems. Component of NVIDIA Merlin framework. Apache 2.0 licensed.
+- **[OpenMLDB](https://github.com/4paradigm/OpenMLDB)** ![GitHub stars](https://img.shields.io/github/stars/4paradigm/OpenMLDB?style=social) - Open-source machine learning database providing a feature platform for consistent features between training and inference. Real-time relational data feature computation system for online ML applications. Apache 2.0 licensed.
 
 #### Monitoring, Evaluation & Observability
 
@@ -823,6 +828,7 @@
 - **[TruLens](https://github.com/truera/trulens)** ![GitHub stars](https://img.shields.io/github/stars/truera/trulens?style=social) - Evaluation and tracking for LLM experiments and AI agents. Provides feedback functions for measuring quality, relevance, and groundedness with LangChain and LlamaIndex integrations. MIT licensed.
 - **[OpenEvals](https://github.com/langchain-ai/openevals)** ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/openevals?style=social) - Open-source evaluation library for LLM and agent applications. Built by LangChain with pre-built evaluators for common use cases including RAG, agents, and structured output validation. MIT licensed.
 - **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** ![GitHub stars](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG?style=social) - RAG AutoML tool for automatically finding optimal RAG pipelines. Evaluates and optimizes retrieval-augmented generation with AutoML-style automation for your own data and use-case. Apache 2.0 licensed.
+- **[E2B Code Interpreter](https://github.com/e2b-dev/code-interpreter)** ![GitHub stars](https://img.shields.io/github/stars/e2b-dev/code-interpreter?style=social) - Python & JS/TS SDK for running AI-generated code in secure isolated sandboxes. Essential infrastructure for evaluating code-generating LLMs with safe execution environments. Apache 2.0 licensed.
 
 #### High-quality Open Datasets & Data Tools
 
@@ -1199,6 +1205,6 @@ Feel free to use it for any purpose.
 ---
 
 **Made with ❤️ for the open-source AI community.**
-Star the repo if you find it useful - it helps more people discover the best open tools!
+Star the repo if you find it useful — it helps more people discover the best open tools!
 
 ---
