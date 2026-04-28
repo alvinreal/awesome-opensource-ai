@@ -82,15 +82,15 @@ After committing fixes:
 ## Current Status
 
 Last checked: 2026-04-28 08:02 UTC
-CI Status: 🔧 FIX IN PROGRESS - Fixed regex pattern to handle hyphens in repo names (e.g., llm-d/llm-d)
+CI Status: 🔧 FIX APPLIED - Triggering CI to verify regex fix for hyphens in repo names
 
 ## Summary
 
 CI Health Check completed for awesome-opensource-ai main branch.
-- Status: FAILING (structural error at line 317)
-- Fix applied: Updated ENTRY_RE regex in validate_awesome.py to include hyphens in badge_repo character class
+- Status: FIX APPLIED (awaiting CI verification)
+- Fix: Updated ENTRY_RE regex in validate_awesome.py to include hyphens in badge_repo character class
 - The regex `[^?)+]+` was changed to `[^?)+\-]+` to properly match repo names containing hyphens
-- Commit pushed: fix: regex pattern to handle hyphens in repo names [skip ci]
+- Triggering CI run to verify the fix resolves the structural error at line 317
 
 ## Recent Activity
 
