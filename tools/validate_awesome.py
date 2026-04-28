@@ -20,7 +20,7 @@ README_PATH = ROOT / "README.md"
 EMERGING_PATH = ROOT / "EMERGING.md"
 GITHUB_API = "https://api.github.com/graphql"
 ENTRY_RE = re.compile(
-    r"\*\*\[(?P<label>[^\]]+)\]\((?P<url>https?://[^)]+)\)\*\*(?:\s+(?P<badge>!\[GitHub stars\]\(https://img\.shields\.io/github/stars/(?P<badge_repo>[^?)+]+)\?style=social\)))?"
+    r"\*\*\[(?P<label>[^\]]+)\]\((?P<url>https?://[^)]+)\)\*\*(?:\s+(?P<badge>!\[GitHub stars\]\(https://img\.shields\.io/github/stars/(?P<badge_repo>[^?)+\-]+)\?style=social\)))?"
 )
 SECTION_RE = re.compile(r"^###\s+(?P<title>.+)$")
 SUBSECTION_RE = re.compile(r"^####\s+(?P<title>.+)$")
