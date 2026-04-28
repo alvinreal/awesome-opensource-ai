@@ -432,8 +432,6 @@
 - **[XGrammar](https://github.com/mlc-ai/xgrammar)** ![GitHub stars](https://img.shields.io/github/stars/mlc-ai/xgrammar?style=social) - Fast, flexible and portable structured generation engine. Default backend for vLLM, SGLang, TensorRT-LLM, and MLC-LLM with flexible grammar support and zero-overhead mask generation. Apache 2.0 licensed.
 - **[LM Format Enforcer](https://github.com/noamgat/lm-format-enforcer)** ![GitHub stars](https://img.shields.io/github/stars/noamgat/lm-format-enforcer?style=social) - Enforce output format (JSON Schema, Regex, etc) of language models by filtering allowed tokens at each generation step. Compatible with HuggingFace, llama-cpp-python, and vLLM. MIT licensed.
 
-
-
 #### Domain-Specific Agents
 
 - **[Composio](https://github.com/ComposioHQ/composio)** ![GitHub stars](https://img.shields.io/github/stars/ComposioHQ/composio?style=social) - Tool integration layer for AI agents with 1000+ toolkits, authentication management, and sandboxed workbench. Powers tool use across major frameworks.
@@ -896,7 +894,6 @@
 - **[Responsible AI Toolbox](https://github.com/microsoft/responsible-ai-toolbox)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/responsible-ai-toolbox?style=social) - Suite of tools providing model and data exploration, assessment interfaces and libraries for understanding AI systems. Enables developers to develop and monitor AI more responsibly with better data-driven actions. MIT licensed.
 
 #### Privacy-Preserving AI
-
 
 ---
 
