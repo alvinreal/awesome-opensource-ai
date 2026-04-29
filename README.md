@@ -952,6 +952,10 @@
 #### Game AI & Simulations
 
 - **[Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents)** ![GitHub stars](https://img.shields.io/github/stars/Unity-Technologies/ml-agents?style=social) - Toolkit for training intelligent agents in games and simulations using deep reinforcement learning. Enables NPC behavior control, automated testing, and game design evaluation. Apache 2.0 licensed.
+- **[Tianshou](https://github.com/thu-ml/tianshou)** ![GitHub stars](https://img.shields.io/github/stars/thu-ml/tianshou?style=social) - An elegant PyTorch deep reinforcement learning library with clean API design and comprehensive algorithm implementations. Supports both single-agent and multi-agent RL with GPU acceleration. MIT licensed.
+- **[RL Baselines3 Zoo](https://github.com/DLR-RM/rl-baselines3-zoo)** ![GitHub stars](https://img.shields.io/github/stars/DLR-RM/rl-baselines3-zoo?style=social) - A training framework for Stable Baselines3 reinforcement learning agents with hyperparameter optimization, pre-trained agents, and extensive benchmark environments. MIT licensed.
+- **[skrl](https://github.com/Toni-SM/skrl)** ![GitHub stars](https://img.shields.io/github/stars/Toni-SM/skrl?style=social) - Modular reinforcement learning library implemented in PyTorch, JAX, and NVIDIA Warp with support for Gymnasium, NVIDIA Isaac Lab, MuJoCo Playground, and other environments. MIT licensed.
+- **[Finetrainers](https://github.com/huggingface/finetrainers)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/finetrainers?style=social) - Scalable and memory-optimized training of diffusion models from Hugging Face. Supports LoRA and full fine-tuning for video and image generation models. Apache 2.0 licensed.
 - **[OpenSpiel](https://github.com/google-deepmind/open_spiel)** ![GitHub stars](https://img.shields.io/github/stars/google-deepmind/open_spiel?style=social) - Collection of environments and algorithms for research in general reinforcement learning and search/planning in games from Google DeepMind. Apache 2.0 licensed.
 
 #### Finance & Quantitative AI
