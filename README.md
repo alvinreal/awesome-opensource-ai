@@ -733,7 +733,6 @@
 - **[Weights & Biases Weave](https://github.com/wandb/weave)** ![GitHub stars](https://img.shields.io/github/stars/wandb/weave?style=social) - Open-source tracing and experiment tracking.
 - **[Aim](https://github.com/aimhubio/aim)** ![GitHub stars](https://img.shields.io/github/stars/aimhubio/aim?style=social) - Self-hosted ML experiment tracker designed to handle 10,000s of training runs with performant UI and SDK for programmatic access. Apache 2.0 licensed.
 - **[Feast](https://github.com/feast-dev/feast)** ![GitHub stars](https://img.shields.io/github/stars/feast-dev/feast?style=social) - Open source feature store for ML. Manages offline/online feature storage with point-in-time correctness to prevent data leakage. Apache 2.0 licensed.
-- **[whylogs](https://github.com/whylabs/whylogs)** ![GitHub stars](https://img.shields.io/github/stars/whylabs/whylogs?style=social) - Open-source data logging library for ML models and data pipelines. Provides visibility into data quality and model performance over time with privacy-preserving data collection. Apache 2.0 licensed.
 - **[OpenLineage](https://github.com/OpenLineage/OpenLineage)** ![GitHub stars](https://img.shields.io/github/stars/OpenLineage/OpenLineage?style=social) - Open standard for lineage metadata collection designed to instrument jobs as they run. Defines a generic model of run, job, and dataset entities for consistent data lineage tracking. Apache 2.0 licensed.
 
 #### Model Hubs & Registries
@@ -784,7 +783,6 @@
 - **[Feature-engine](https://github.com/feature-engine/feature_engine)** ![GitHub stars](https://img.shields.io/github/stars/feature-engine/feature_engine?style=social) - Python library with multiple transformers to engineer and select features for machine learning models. Scikit-learn compatible with fit() and transform() methods for encoding, imputation, variable transformation, and feature selection. BSD-3-Clause licensed.
 - **[NVTabular](https://github.com/NVIDIA-Merlin/NVTabular)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA-Merlin/NVTabular?style=social) - GPU-accelerated feature engineering and preprocessing library for tabular data. Manipulates terabyte-scale datasets to train deep learning recommender systems. Component of NVIDIA Merlin framework. Apache 2.0 licensed.
 - **[OpenMLDB](https://github.com/4paradigm/OpenMLDB)** ![GitHub stars](https://img.shields.io/github/stars/4paradigm/OpenMLDB?style=social) - Open-source machine learning database providing a feature platform for consistent features between training and inference. Real-time relational data feature computation system for online ML applications. Apache 2.0 licensed.
-- **[Featureform](https://github.com/featureform/featureform)** ![GitHub stars](https://img.shields.io/github/stars/featureform/featureform?style=social) - Virtual feature store that turns existing data infrastructure into a feature store. Define, manage, and serve model features, labels, and training sets with native embeddings support. MPL-2.0 licensed.
 
 #### Monitoring, Evaluation & Observability
 
@@ -845,7 +843,6 @@
 - **[DeepEval](https://github.com/confident-ai/deepeval)** ![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social) - The "Pytest for LLMs".
 - **[Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai)** ![GitHub stars](https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai?style=social) - Framework for large language model evaluations from the UK AI Security Institute.
 - **[RAGAs](https://github.com/explodinggradients/ragas)** ![GitHub stars](https://img.shields.io/github/stars/explodinggradients/ragas?style=social) - End-to-end RAG evaluation framework.
-- **[Quivr](https://github.com/QuivrHQ/quivr)** ![GitHub stars](https://img.shields.io/github/stars/QuivrHQ/quivr?style=social) - Opinionated RAG framework for integrating GenAI in your apps. Easy integration with any LLM (GPT4, Groq, Llama) and any Vectorstore (PGVector, Faiss). Focus on your product rather than the RAG. Apache 2.0 licensed.
 - **[Lighteval](https://github.com/huggingface/lighteval)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/lighteval?style=social) - Evaluation toolkit for LLMs across multiple backends with reusable tasks, metrics, and result tracking.
 - **[Hugging Face Evaluate](https://github.com/huggingface/evaluate)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/evaluate?style=social) - Standardized evaluation metrics.
 - **[OpenAI Evals](https://github.com/openai/evals)** ![GitHub stars](https://img.shields.io/github/stars/openai/evals?style=social) - Framework for evaluating LLMs and LLM systems with an open-source registry of 100+ community-contributed benchmarks. MIT licensed.
