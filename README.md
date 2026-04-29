@@ -348,7 +348,6 @@
 - **[CTranslate2](https://github.com/OpenNMT/CTranslate2)** ![GitHub stars](https://img.shields.io/github/stars/OpenNMT/CTranslate2?style=social) - Fast inference engine for Transformer models supporting OpenNMT and Hugging Face models. Optimized for CPU and GPU with batching, quantization (INT8/FP16), and dynamic memory management. Powers faster-whisper and other production deployments. MIT licensed.
 - **[PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)** ![GitHub stars](https://img.shields.io/github/stars/SJTU-IPADS/PowerInfer?style=social) - High-speed LLM inference for local deployment on consumer GPUs. Achieves up to 11x speedup over llama.cpp on RTX 4090 by exploiting power-law neuron activation patterns. MIT licensed.
 - **[distributed-llama](https://github.com/b4rtaz/distributed-llama)** ![GitHub stars](https://img.shields.io/github/stars/b4rtaz/distributed-llama?style=social) - Distributed LLM inference connecting home devices into a powerful cluster. More devices means faster inference via tensor parallelism over Ethernet. Supports Linux, macOS, Windows, ARM, and x86_64 AVX2 CPUs. MIT licensed.
-- **[Jlama](https://github.com/tjake/Jlama)** ![GitHub stars](https://img.shields.io/github/stars/tjake/Jlama?style=social) - Modern LLM inference engine for Java. Supports multiple models (Gemma, Llama, Mistral, Qwen, IBM Granite, GPT-2, BERT) with PagedAttention, MoE, tool calling, embeddings, and quantization (Q8/Q4). Includes CLI and REST API. Apache 2.0 licensed.
 
 #### Quantization, Distillation & Optimization
 
