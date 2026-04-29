@@ -1235,3 +1235,4 @@ Feel free to use it for any purpose.
 Star the repo if you find it useful — it helps more people discover the best open tools!
 
 ---
+
