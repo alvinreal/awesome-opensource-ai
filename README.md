@@ -1094,6 +1094,7 @@
 - **[Code Server](https://github.com/coder/code-server)** ![GitHub stars](https://img.shields.io/github/stars/coder/code-server?style=social) - Run VS Code on any machine anywhere and access it in the browser. Self-hosted cloud IDE with full extension support. MIT licensed.
 - **[Gitpod](https://github.com/gitpod-io/gitpod)** ![GitHub stars](https://img.shields.io/github/stars/gitpod-io/gitpod?style=social) - Cloud development environment platform with automated prebuilds, ephemeral workspaces, and support for any IDE. Self-hostable with open-source core. AGPL-3.0 licensed.
 - **[Onlook](https://github.com/onlook-dev/onlook)** ![GitHub stars](https://img.shields.io/github/stars/onlook-dev/onlook?style=social) - Open-source AI-first design and React editing environment for visually building and modifying frontend applications.
+- **[Daytona](https://github.com/daytonaio/daytona)** ![GitHub stars](https://img.shields.io/github/stars/daytonaio/daytona?style=social) - Secure elastic infrastructure for running AI-generated code. Self-hosted alternative to GitHub Codespaces with support for multiple IDEs, prebuilds, and any cloud provider. AGPL-3.0 licensed.
 
 #### AI Coding Assistants (open-source)
 
