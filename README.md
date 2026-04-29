@@ -344,6 +344,8 @@
 
 - **[CTranslate2](https://github.com/OpenNMT/CTranslate2)** ![GitHub stars](https://img.shields.io/github/stars/OpenNMT/CTranslate2?style=social) - Fast inference engine for Transformer models supporting OpenNMT and Hugging Face models. Optimized for CPU and GPU with batching, quantization (INT8/FP16), and dynamic memory management. Powers faster-whisper and other production deployments. MIT licensed.
 - **[PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)** ![GitHub stars](https://img.shields.io/github/stars/SJTU-IPADS/PowerInfer?style=social) - High-speed LLM inference for local deployment on consumer GPUs. Achieves up to 11x speedup over llama.cpp on RTX 4090 by exploiting power-law neuron activation patterns. MIT licensed.
+- **[Petals](https://github.com/bigscience-workshop/petals)** ![GitHub stars](https://img.shields.io/github/stars/bigscience-workshop/petals?style=social) - Run LLMs at home, BitTorrent-style. Decentralized inference and fine-tuning for large models (Llama 3.1 405B, Mixtral 8x22B, Falcon 40B+) distributed across volunteer GPUs. 10x faster than offloading. Apache 2.0 licensed.
+- **[distributed-llama](https://github.com/b4rtaz/distributed-llama)** ![GitHub stars](https://img.shields.io/github/stars/b4rtaz/distributed-llama?style=social) - Distributed LLM inference connecting home devices into a powerful cluster. More devices means faster inference via tensor parallelism over Ethernet. Supports Linux, macOS, Windows, ARM, and x86_64 AVX2 CPUs. MIT licensed.
 
 #### Quantization, Distillation & Optimization
 
