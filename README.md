@@ -736,6 +736,10 @@
 - **[DJL (Deep Java Library)](https://github.com/deepjavalibrary/djl)** ![GitHub stars](https://img.shields.io/github/stars/deepjavalibrary/djl?style=social) - Engine-agnostic deep learning framework for Java with built-in model zoo. Load and run PyTorch, TensorFlow, MXNet, and ONNX models with a unified API. Includes 80+ pre-trained models for CV and NLP. Apache 2.0 licensed.
 - **[PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)** ![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleSeg?style=social) - Easy-to-use image segmentation library with awesome pre-trained model zoo. Supports semantic segmentation, interactive segmentation, panoptic segmentation, image matting, and 3D segmentation with 200+ pre-trained models. Apache 2.0 licensed.
 
+#### Model Packaging & Deployment
+
+- **[Cog (Replicate)](https://github.com/replicate/cog)** ![GitHub stars](https://img.shields.io/github/stars/replicate/cog?style=social) - Containerize and deploy ML models with production-grade inference servers. Packages models into standardized containers with automatic API generation, GPU support, and one-command deployment. Powers thousands of production AI models on Replicate. Apache 2.0 licensed.
+
 #### Deployment & Orchestration
 
 - **[BentoML](https://github.com/bentoml/BentoML)** ![GitHub stars](https://img.shields.io/github/stars/bentoml/BentoML?style=social) - Unified framework to build, ship, and scale AI apps.
