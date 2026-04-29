@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/alvinreal-awesome-opensource-ai-badge.png)](https://mseep.ai/app/alvinreal-awesome-opensource-ai)
+
 <div align="center">
 
 <img src="assets/osai.png" alt="Awesome Open Source AI" width="120" />
