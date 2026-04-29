@@ -733,6 +733,8 @@
 - **[Weights & Biases Weave](https://github.com/wandb/weave)** ![GitHub stars](https://img.shields.io/github/stars/wandb/weave?style=social) - Open-source tracing and experiment tracking.
 - **[Aim](https://github.com/aimhubio/aim)** ![GitHub stars](https://img.shields.io/github/stars/aimhubio/aim?style=social) - Self-hosted ML experiment tracker designed to handle 10,000s of training runs with performant UI and SDK for programmatic access. Apache 2.0 licensed.
 - **[Feast](https://github.com/feast-dev/feast)** ![GitHub stars](https://img.shields.io/github/stars/feast-dev/feast?style=social) - Open source feature store for ML. Manages offline/online feature storage with point-in-time correctness to prevent data leakage. Apache 2.0 licensed.
+- **[whylogs](https://github.com/whylabs/whylogs)** ![GitHub stars](https://img.shields.io/github/stars/whylabs/whylogs?style=social) - Open-source data logging library for ML models and data pipelines. Provides visibility into data quality and model performance over time with privacy-preserving data collection. Apache 2.0 licensed.
+- **[OpenLineage](https://github.com/OpenLineage/OpenLineage)** ![GitHub stars](https://img.shields.io/github/stars/OpenLineage/OpenLineage?style=social) - Open standard for lineage metadata collection designed to instrument jobs as they run. Defines a generic model of run, job, and dataset entities for consistent data lineage tracking. Apache 2.0 licensed.
 
 #### Model Hubs & Registries
 
@@ -772,6 +774,8 @@
 - **[NVIDIA KAI Scheduler](https://github.com/NVIDIA/KAI-Scheduler)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/KAI-Scheduler?style=social) - Kubernetes-native GPU scheduler for AI workloads at large scale. Originally developed by Run:ai, now open-sourced by NVIDIA. Optimizes GPU resource allocation with dynamic allocation and efficient queue management. Apache 2.0 licensed.
 - **[NVIDIA DeepOps](https://github.com/NVIDIA/deepops)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/deepops?style=social) - Infrastructure automation tools for building GPU clusters with Kubernetes and Slurm. Deploys multi-node GPU clusters with monitoring, logging, and storage for AI/HPC workloads. BSD-3-Clause licensed.
 - **[SkyPilot](https://github.com/skypilot-org/skypilot)** ![GitHub stars](https://img.shields.io/github/stars/skypilot-org/skypilot?style=social) - Run, manage, and scale AI workloads on any AI infrastructure. Unified interface to access and manage compute across Kubernetes, Slurm, and 20+ cloud providers. Used by Shopify and research institutions for training and inference. Apache 2.0 licensed.
+- **[Volcano](https://github.com/volcano-sh/volcano)** ![GitHub stars](https://img.shields.io/github/stars/volcano-sh/volcano?style=social) - Cloud-native batch scheduling system for compute-intensive workloads. CNCF incubating project with gang scheduling, job dependency management, and topology-aware scheduling for AI/ML and deep learning. Apache 2.0 licensed.
+- **[Apache YuniKorn](https://github.com/apache/yunikorn-core)** ![GitHub stars](https://img.shields.io/github/stars/apache/yunikorn-core?style=social) - Kubernetes resource scheduler for batch, data, and ML workloads. Provides hierarchical resource queues, multi-tenancy fairness, and gang scheduling for big data and machine learning applications. Apache 2.0 licensed.
 
 #### Feature Engineering & Data Preparation
 
@@ -780,6 +784,7 @@
 - **[Feature-engine](https://github.com/feature-engine/feature_engine)** ![GitHub stars](https://img.shields.io/github/stars/feature-engine/feature_engine?style=social) - Python library with multiple transformers to engineer and select features for machine learning models. Scikit-learn compatible with fit() and transform() methods for encoding, imputation, variable transformation, and feature selection. BSD-3-Clause licensed.
 - **[NVTabular](https://github.com/NVIDIA-Merlin/NVTabular)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA-Merlin/NVTabular?style=social) - GPU-accelerated feature engineering and preprocessing library for tabular data. Manipulates terabyte-scale datasets to train deep learning recommender systems. Component of NVIDIA Merlin framework. Apache 2.0 licensed.
 - **[OpenMLDB](https://github.com/4paradigm/OpenMLDB)** ![GitHub stars](https://img.shields.io/github/stars/4paradigm/OpenMLDB?style=social) - Open-source machine learning database providing a feature platform for consistent features between training and inference. Real-time relational data feature computation system for online ML applications. Apache 2.0 licensed.
+- **[Featureform](https://github.com/featureform/featureform)** ![GitHub stars](https://img.shields.io/github/stars/featureform/featureform?style=social) - Virtual feature store that turns existing data infrastructure into a feature store. Define, manage, and serve model features, labels, and training sets with native embeddings support. MPL-2.0 licensed.
 
 #### Monitoring, Evaluation & Observability
 
