@@ -1146,6 +1146,7 @@
 #### SDKs & API Development Tools
 
 - **[Vercel AI SDK](https://github.com/vercel/ai)** ![GitHub stars](https://img.shields.io/github/stars/vercel/ai?style=social) - Provider-agnostic TypeScript toolkit for building AI-powered applications and agents. Unified API for OpenAI, Anthropic, Google, and 20+ providers with first-class streaming, tool-calling, and structured output support. Apache 2.0 licensed.
+- **[GitHub Copilot SDK](https://github.com/github/copilot-sdk)** ![GitHub stars](https://img.shields.io/github/stars/github/copilot-sdk?style=social) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services. Production-tested agent runtime with planning, tool invocation, and context management. Build Copilot-style agents without writing your own orchestration. MIT licensed.
 - **[Fern](https://github.com/fern-api/fern)** ![GitHub stars](https://img.shields.io/github/stars/fern-api/fern?style=social) - Open-source SDK generator for REST APIs. Generate type-safe API clients in TypeScript, Python, Go, Java, and more from OpenAPI specs. Powers SDKs for companies like OpenAI, Anthropic, and Cloudflare. Apache 2.0 licensed.
 
 #### Testing & Debugging Tools
