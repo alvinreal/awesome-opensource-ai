@@ -138,7 +138,7 @@
 
 > New chat interfaces, desktop assistants, and self-hosted AI platforms.
 
-- **[AVA AI Voice Agent](https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk)** ![GitHub stars](https://img.shields.io/github/stars/hkjarral/AVA-AI-Voice-Agent-for-Asterisk?style=social) - Open-source AI voice agent for Asterisk/FreePBX telephony systems. Modular pipeline architecture supporting multiple STT, LLM, and TTS providers with Audiosocket/RTP integration. MIT licensed.
+*No entries yet — [submit one!](./CONTRIBUTING.md)*
 
 ---
 
