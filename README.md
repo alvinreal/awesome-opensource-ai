@@ -6,7 +6,7 @@
 
 # Awesome Open Source AI
 
-*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated April 29, 2026. CI verified.*
+*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated April 30, 2026. CI verified.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
@@ -136,7 +136,6 @@
 - **[Apache Flink](https://github.com/apache/flink)** ![GitHub stars](https://img.shields.io/github/stars/apache/flink?style=social) - Stream processing framework with powerful batch and streaming capabilities. High-throughput, low-latency runtime with exactly-once processing guarantees. Ideal for real-time AI inference pipelines and event-driven ML applications. Apache 2.0 licensed.
 - **[Apache Beam](https://github.com/apache/beam)** ![GitHub stars](https://img.shields.io/github/stars/apache/beam?style=social) - Unified programming model for batch and streaming data processing. Write pipelines once, run anywhere on Flink, Spark, or Google Cloud Dataflow. Portable, extensible, and enterprise-ready for AI data pipelines. Apache 2.0 licensed.
 - **[Scrapy](https://github.com/scrapy/scrapy)** ![GitHub stars](https://img.shields.io/github/stars/scrapy/scrapy?style=social) - Fast, high-level web crawling and scraping framework for Python. Extract structured data from websites at scale with built-in support for handling common challenges like pagination, cookies, and concurrent requests. BSD-3-Clause licensed.
-- **[PandasAI](https://github.com/sinaptik-ai/pandas-ai)** ![GitHub stars](https://img.shields.io/github/stars/sinaptik-ai/pandas-ai?style=social) - Conversational data analysis for pandas DataFrames using LLMs and RAG. Chat with your database, CSV, or parquet files using natural language queries. MIT licensed.
 - **[Temporal](https://github.com/temporalio/temporal)** ![GitHub stars](https://img.shields.io/github/stars/temporalio/temporal?style=social) - Durable execution platform for reliable workflow orchestration. Build resilient data pipelines and ML workflows that survive failures and continue execution exactly where they left off. MIT licensed.
 - **[Luigi](https://github.com/spotify/luigi)** ![GitHub stars](https://img.shields.io/github/stars/spotify/luigi?style=social) - Python module for building complex pipelines of batch jobs. Handles dependency resolution, workflow management, visualization, and Hadoop integration. Built at Spotify and battle-tested in production. Apache 2.0 licensed.
 - **[Mage.ai](https://github.com/mage-ai/mage-ai)** ![GitHub stars](https://img.shields.io/github/stars/mage-ai/mage-ai?style=social) - Modern open-source data pipeline tool for integrating and transforming data. AI-native ETL/ELT platform with 100+ integrations, real-time monitoring, and collaborative features. Apache 2.0 licensed.
@@ -635,7 +634,6 @@
 
 #### 3D & Creative Tools
 
-- **[Hunyuan3D-2 (Tencent)](https://github.com/Tencent-Hunyuan/Hunyuan3D-2)** ![GitHub stars](https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan3D-2?style=social) - State-of-the-art open image-to-3D and text-to-3D.
 - **[Trellis (Microsoft)](https://github.com/microsoft/TRELLIS)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/TRELLIS?style=social) - Structured 3D latents for high-quality generation.
 - **[gsplat (3D Gaussian Splatting tools)](https://github.com/nerfstudio-project/gsplat)** ![GitHub stars](https://img.shields.io/github/stars/nerfstudio-project/gsplat?style=social) - High-performance 3D Gaussian Splatting library.
 - **[LichtFeld-Studio](https://github.com/MrNeRF/LichtFeld-Studio)** ![GitHub stars](https://img.shields.io/github/stars/MrNeRF/LichtFeld-Studio?style=social) - Native application for training, editing, and exporting 3D Gaussian Splatting scenes with MCMC optimization and timelapse generation. GPL-3.0 licensed.
