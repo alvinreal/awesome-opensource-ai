@@ -1160,6 +1160,16 @@
 - **[GitHub Copilot SDK](https://github.com/github/copilot-sdk)** ![GitHub stars](https://img.shields.io/github/stars/github/copilot-sdk?style=social) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services. Production-tested agent runtime with planning, tool invocation, and context management. Build Copilot-style agents without writing your own orchestration. MIT licensed.
 - **[Fern](https://github.com/fern-api/fern)** ![GitHub stars](https://img.shields.io/github/stars/fern-api/fern?style=social) - Open-source SDK generator for REST APIs. Generate type-safe API clients in TypeScript, Python, Go, Java, and more from OpenAPI specs. Powers SDKs for companies like OpenAI, Anthropic, and Cloudflare. Apache 2.0 licensed.
 
+#### MCP (Model Context Protocol) Tools & Frameworks
+
+> Tools, frameworks, and SDKs for building and using MCP servers - the open protocol for connecting AI assistants to data sources and tools.
+
+- **[FastMCP (Python)](https://github.com/jlowin/fastmcp)** ![GitHub stars](https://img.shields.io/github/stars/jlowin/fastmcp?style=social) - The fast, Pythonic way to build MCP servers and clients. High-level framework that powers 70% of MCP servers. From the creators of Prefect. MIT licensed.
+- **[FastMCP (TypeScript)](https://github.com/punkpeye/fastmcp)** ![GitHub stars](https://img.shields.io/github/stars/punkpeye/fastmcp?style=social) - TypeScript framework for building MCP servers with session handling, authentication, HTTP streaming, and edge runtime support. Built on official SDK. MIT licensed.
+- **[MCP Inspector](https://github.com/modelcontextprotocol/inspector)** ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/inspector?style=social) - Official visual testing tool for MCP servers. React-based web UI for interactive testing and debugging. MIT licensed.
+- **[MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)** ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/typescript-sdk?style=social) - Official TypeScript SDK for building MCP servers and clients. Supports Node.js, Bun, and Deno with split packages for server/client. MIT licensed.
+- **[Awesome MCP Servers](https://github.com/wong2/awesome-mcp-servers)** ![GitHub stars](https://img.shields.io/github/stars/wong2/awesome-mcp-servers?style=social) - Curated list of 1000+ Model Context Protocol servers. Community-maintained collection of MCP integrations for databases, APIs, file systems, and more. CC0-1.0 licensed.
+
 #### Testing & Debugging Tools
 
 - **[Promptfoo](https://github.com/promptfoo/promptfoo)** ![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social) - Systematic LLM testing framework. MIT licensed.
