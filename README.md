@@ -1158,10 +1158,17 @@
 
 #### Testing & Debugging Tools
 
-- **[Promptfoo](https://github.com/promptfoo/promptfoo)** ![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social) - Systematic LLM testing framework.
+- **[Promptfoo](https://github.com/promptfoo/promptfoo)** ![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social) - Systematic LLM testing framework. MIT licensed.
 - **[DeepEval](https://github.com/confident-ai/deepeval)** ![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social) - LLM unit-testing framework.
 - **[Garak](https://github.com/NVIDIA/garak)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/garak?style=social) - LLM vulnerability scanner.
 - **[Phoenix (Arize)](https://github.com/Arize-ai/phoenix)** ![GitHub stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social) - AI observability for development.
+
+#### Prompt Engineering & Management
+
+- **[Agenta](https://github.com/Agenta-AI/agenta)** ![GitHub stars](https://img.shields.io/github/stars/Agenta-AI/agenta?style=social) - Open-source LLMOps platform with integrated prompt playground, management, evaluation, and observability. Self-hostable with Docker. MIT licensed.
+- **[Pezzo](https://github.com/pezzolabs/pezzo)** ![GitHub stars](https://img.shields.io/github/stars/pezzolabs/pezzo?style=social) - Developer-first LLMOps platform for prompt design, version management, instant delivery, and cost optimization (up to 90% savings). Cloud-native with PostgreSQL, ClickHouse, and Redis. Apache 2.0 licensed.
+- **[Langfuse](https://github.com/langfuse/langfuse)** ![GitHub stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social) - Open-source LLM engineering platform with prompt management, versioning, observability, and evaluation. YC W23 company. MIT licensed.
+- **[Promptify](https://github.com/promptslab/Promptify)** ![GitHub stars](https://img.shields.io/github/stars/promptslab/Promptify?style=social) - Task-based NLP engine with Pydantic structured outputs and built-in evaluation. "Scikit-learn for LLM-powered NLP" with NER, classification, QA, and more. Apache 2.0 licensed.
 
 ---
 
