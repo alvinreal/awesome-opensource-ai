@@ -792,6 +792,7 @@
 - **[SkyPilot](https://github.com/skypilot-org/skypilot)** ![GitHub stars](https://img.shields.io/github/stars/skypilot-org/skypilot?style=social) - Run, manage, and scale AI workloads on any AI infrastructure. Unified interface to access and manage compute across Kubernetes, Slurm, and 20+ cloud providers. Used by Shopify and research institutions for training and inference. Apache 2.0 licensed.
 - **[Volcano](https://github.com/volcano-sh/volcano)** ![GitHub stars](https://img.shields.io/github/stars/volcano-sh/volcano?style=social) - Cloud-native batch scheduling system for compute-intensive workloads. CNCF incubating project with gang scheduling, job dependency management, and topology-aware scheduling for AI/ML and deep learning. Apache 2.0 licensed.
 - **[Apache YuniKorn](https://github.com/apache/yunikorn-core)** ![GitHub stars](https://img.shields.io/github/stars/apache/yunikorn-core?style=social) - Kubernetes resource scheduler for batch, data, and ML workloads. Provides hierarchical resource queues, multi-tenancy fairness, and gang scheduling for big data and machine learning applications. Apache 2.0 licensed.
+- **[Ploomber](https://github.com/ploomber/ploomber)** ![GitHub stars](https://img.shields.io/github/stars/ploomber/ploomber?style=social) - The fastest way to build data pipelines. Develop iteratively, deploy anywhere. Python-native pipeline framework for data science and ML workflows with support for notebooks, scripts, and cloud deployment. Apache 2.0 licensed.
 
 #### Feature Engineering & Data Preparation
 
