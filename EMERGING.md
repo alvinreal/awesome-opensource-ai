@@ -134,6 +134,11 @@
 
 <a id="section-12"></a>
 
+- **[Strata](https://github.com/zan-maker/strata) ![GitHub stars](https://img.shields.io/github/stars/zan-maker/strata?style=social) - Maturity-assessed, rubric-graded AI copilot for the CFO / VP Finance function.
+- **[CritMin Oracle](https://github.com/zan-maker/critmin-oracle) ![GitHub stars](https://img.shields.io/github/stars/zan-maker/critmin-oracle?style=social) - AI-powered critical minerals risk oracle on HashKey Chain.
+- **[Liquify Gateway](https://github.com/zan-maker/liquify-gateway) ![GitHub stars](https://img.shields.io/github/stars/zan-maker/liquify-gateway?style=social) - Institutional liquid staking intelligence platform for BNB Chain.
+- **[Solana Critical Minerals Traceability](https://github.com/zan-maker/Solana-based-critical-minerals-traceability-and-domestic-content-attestation-platform) ![GitHub stars](https://img.shields.io/github/stars/zan-maker/Solana-based-critical-minerals-traceability-and-domestic-content-attestation-platform?style=social) - Blockchain-based critical minerals traceability and domestic content attestation on Solana.
+- **[Battery ERP](https://github.com/zan-maker/battery-erp) ![GitHub stars](https://img.shields.io/github/stars/zan-maker/battery-erp?style=social) - Enterprise ERP for battery recycling operations with sustainability supply chain management.
 ### 🖥️ 12. User Interfaces & Self-hosted Platforms
 
 > New chat interfaces, desktop assistants, and self-hosted AI platforms.
