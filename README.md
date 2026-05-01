@@ -583,6 +583,14 @@
 - **[OmniParse](https://github.com/adithya-s-k/omniparse)** ![GitHub stars](https://img.shields.io/github/stars/adithya-s-k/omniparse?style=social) - Ingest and parse any unstructured data into structured, actionable data optimized for GenAI applications. Supports documents, tables, images, videos, audio, and web pages with local deployment on T4 GPU. GPL-3.0 licensed.
 - **[DocETL (UC Berkeley)](https://github.com/ucbepic/docetl)** ![GitHub stars](https://img.shields.io/github/stars/ucbepic/docetl?style=social) - Agentic LLM-powered data processing and ETL system for complex document processing. Query rewriting and evaluation for unstructured data analysis with 80% higher accuracy than baselines. MIT licensed.
 
+#### LLM Application Frameworks
+
+- **[aisuite](https://github.com/andrewyng/aisuite)** ![GitHub stars](https://img.shields.io/github/stars/andrewyng/aisuite?style=social) - Simple, unified interface to multiple Generative AI providers. Use OpenAI, Anthropic, Google, and 10+ other providers with a standardized API similar to OpenAI's. Switch between models or providers with a single line of code. MIT licensed.
+- **[Spring AI](https://github.com/spring-projects/spring-ai)** ![GitHub stars](https://img.shields.io/github/stars/spring-projects/spring-ai?style=social) - Application framework for AI engineering in the Spring ecosystem. Unified API for LLMs, vector stores, and embedding models with seamless integration into Spring Boot applications. Supports RAG, tool calling, and structured outputs. Apache 2.0 licensed.
+- **[Rig](https://github.com/0xPlaygrounds/rig)** ![GitHub stars](https://img.shields.io/github/stars/0xPlaygrounds/rig?style=social) - Rust library for building scalable, modular LLM-powered applications. Type-safe agent framework with unified LLM interface, built-in vector store integrations, and ergonomic abstractions for production AI systems. MIT licensed.
+- **[Ax](https://github.com/ax-llm/ax)** ![GitHub stars](https://img.shields.io/github/stars/ax-llm/ax?style=social) - TypeScript framework for building reliable AI applications. "Official" DSPy-inspired framework for TypeScript with type-safe LLM interactions, chain-of-thought reasoning, and structured output validation. Apache 2.0 licensed.
+- **[ControlFlow](https://github.com/PrefectHQ/ControlFlow)** ![GitHub stars](https://img.shields.io/github/stars/PrefectHQ/ControlFlow?style=social) - Python framework for building agentic AI workflows with structured, deterministic outcomes. Task-centric approach with flow control, structured outputs, and built-in observability. From the creators of Prefect. Apache 2.0 licensed.
+
 ---
 
 ### 🎨 6. Generative Media Tools
