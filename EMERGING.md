@@ -68,6 +68,12 @@
 > Fresh agent frameworks, memory systems, and autonomous workflow tools.
 
 - **[Forgetful](https://github.com/ScottRBK/forgetful)** ![GitHub stars](https://img.shields.io/github/stars/ScottRBK/forgetful?style=social) - MCP server for persistent AI agent memory. Stores atomic single-concept notes and auto-links them into a knowledge graph via semantic similarity. SQLite or PostgreSQL.
+- **[Cubiczan Swarm Pack](https://github.com/zan-maker/cubiczan-swarm-pack)** ![GitHub stars](https://img.shields.io/github/stars/zan-maker/cubiczan-swarm-pack?style=social) - Zero-token agent swarm intelligence platform with stigmergy + PARL + adversarial consensus (CHP).
+- **[Consensus Hardening Protocol](https://github.com/zan-maker/consensus-hardening-protocol)** ![GitHub stars](https://img.shields.io/github/stars/zan-maker/consensus-hardening-protocol?style=social) - Decision-governance layer for multi-agent systems - foundation disclosure, adversarial defense, EXPLORING→PROVISIONAL_LOCK→LOCKED workflow.
+- **[GenSwarm Contract](https://github.com/zan-maker/genswarm-contract)** ![GitHub stars](https://img.shields.io/github/stars/zan-maker/genswarm-contract?style=social) - Stigmergic coordination protocol for agent-to-agent communication without central orchestrator.
+- **[SwarmChat](https://github.com/zan-maker/swarmchat)** ![GitHub stars](https://img.shields.io/github/stars/zan-maker/swarmchat?style=social) - Multi-agent debate platform - agents argue, converge, and produce consensus-driven outputs.
+- **[Multi-Agent CFO OS](https://github.com/zan-maker/multi-agent-cfo-os)** ![GitHub stars](https://img.shields.io/github/stars/zan-maker/multi-agent-cfo-os?style=social) - Board-ready financial analysis with CHP-hardened multi-agent consensus.
+- **[SEC Earnings Workbench](https://github.com/zan-maker/sec-earnings-workbench)** ![GitHub stars](https://img.shields.io/github/stars/zan-maker/sec-earnings-workbench?style=social) - Multi-agent SEC research - 10-K/10-Q analysis, earnings call synthesis, cross-model envelope verification.
 
 ---
 
@@ -102,6 +108,7 @@
 > Experimental observability tools, deployment patterns, and safety guardrails.
 
 - **[KubeStellar Console](https://github.com/kubestellar/console)** ![GitHub stars](https://img.shields.io/github/stars/kubestellar/console?style=social) - AI-powered multi-cluster Kubernetes dashboard with GPU workload monitoring, AI pipeline observability, and 30+ CNCF integrations. CNCF Sandbox project. Apache-2.0 licensed.
+- **[FlagOS Track3](https://github.com/zan-maker/flagos-track3)** ![GitHub stars](https://img.shields.io/github/stars/zan-maker/flagos-track3?style=social) - MLOps bootcamp project - ML experiment tracking, model registry, and deployment pipeline with scale-out infrastructure.
 
 ---
 
@@ -129,6 +136,10 @@
 
 - **[JaxMARL](https://github.com/FLAIROx/JaxMARL)** ![GitHub stars](https://img.shields.io/github/stars/FLAIROx/JaxMARL?style=social) - Multi-Agent Reinforcement Learning with JAX. Accelerated environments and baselines.
 - **[OpenEyes](https://github.com/mandarwagh9/openeyes)** ![GitHub stars](https://img.shields.io/github/stars/mandarwagh9/openeyes?style=social) - Hardware-agnostic robot vision framework with world models for predictive intelligence on edge devices.
+- **[MineScope](https://github.com/zan-maker/minescope)** ![GitHub stars](https://img.shields.io/github/stars/zan-maker/minescope?style=social) - Multi-agent critical mineral supply chain intelligence - geopolitics, trade flows, on-chain verification, risk scoring.
+- **[CritMin Oracle](https://github.com/zan-maker/critmin-oracle)** ![GitHub stars](https://img.shields.io/github/stars/zan-maker/critmin-oracle?style=social) - On-chain oracle for critical mineral supply chain verification and risk assessment on HashKey Chain.
+- **[Battery ERP](https://github.com/zan-maker/battery-erp)** ![GitHub stars](https://img.shields.io/github/stars/zan-maker/battery-erp?style=social) - Enterprise ERP system for battery recycling operations - material tracking, compliance, and lifecycle management.
+- **[SwarmFi](https://github.com/zan-maker/swarmfi)** ![GitHub stars](https://img.shields.io/github/stars/zan-maker/swarmfi?style=social) - Decentralized prediction markets with agent swarm intelligence for truth-discovery via stigmergic information aggregation.
 
 ---
 
@@ -138,7 +149,7 @@
 
 > New chat interfaces, desktop assistants, and self-hosted AI platforms.
 
-*No entries yet — [submit one!](./CONTRIBUTING.md)*
+- **[Liquify Gateway](https://github.com/zan-maker/liquify-gateway)** ![GitHub stars](https://img.shields.io/github/stars/zan-maker/liquify-gateway?style=social) - Self-hosted Solana staking delegation platform with automated validator selection, reward tracking, and portfolio management.
 
 ---
 
@@ -146,7 +157,9 @@
 
 > Fresh IDE plugins, testing frameworks, and developer productivity tools.
 
-*No entries yet — [submit one!](./CONTRIBUTING.md)*
+- **[Tailwind CSS v4 Codemod](https://github.com/zan-maker/tailwindcss-v4-codemod)** ![GitHub stars](https://img.shields.io/github/stars/zan-maker/tailwindcss-v4-codemod?style=social) - Automated migration tool from Tailwind CSS v3 to v4 - handles syntax changes, utility renames, and configuration updates.
+- **[Community Reply Assistant](https://github.com/zan-maker/community-reply-assistant)** ![GitHub stars](https://img.shields.io/github/stars/zan-maker/community-reply-assistant?style=social) - AI-powered reply generator for open-source community management - context-aware, tone-consistent, multi-platform.
+- **[First Principles Product Incubator](https://github.com/zan-maker/first-principles-product-incubator)** ![GitHub stars](https://img.shields.io/github/stars/zan-maker/first-principles-product-incubator?style=social) - Generator for first-principles product ideas using AI reasoning - structured ideation for AI-native products.
 
 ---
 
