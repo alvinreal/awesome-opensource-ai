@@ -69,6 +69,7 @@
 
 - **[Forgetful](https://github.com/ScottRBK/forgetful)** ![GitHub stars](https://img.shields.io/github/stars/ScottRBK/forgetful?style=social) - MCP server for persistent AI agent memory. Stores atomic single-concept notes and auto-links them into a knowledge graph via semantic similarity. SQLite or PostgreSQL.
 
+- **[MetaboCommand](https://github.com/zan-maker/metabocommand)** ![GitHub stars](https://img.shields.io/github/stars/zan-maker/metabocommand?style=social) - Multi-agent eCommerce finance and operations platform built with Next.js 16, Supabase Realtime, and Presence for real-time agent coordination.
 ---
 
 ### 🔍 5. Retrieval-Augmented Generation (RAG) & Knowledge
