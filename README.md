@@ -762,6 +762,7 @@
 - **[PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)** ![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleSeg?style=social) - Easy-to-use image segmentation library with awesome pre-trained model zoo. Supports semantic segmentation, interactive segmentation, panoptic segmentation, image matting, and 3D segmentation with 200+ pre-trained models. Apache 2.0 licensed.
 - **[TorchVision Models](https://github.com/pytorch/vision)** ![GitHub stars](https://img.shields.io/github/stars/pytorch/vision?style=social) - PyTorch's official computer vision library with 50+ pre-trained model architectures including ResNet, EfficientNet, Vision Transformers (ViT), ConvNeXt, and more. The de facto standard model zoo for PyTorch computer vision. BSD-3-Clause licensed.
 - **[TensorFlow Model Garden](https://github.com/tensorflow/models)** ![GitHub stars](https://img.shields.io/github/stars/tensorflow/models?style=social) - Official TensorFlow repository of state-of-the-art (SOTA) models and modeling solutions. Contains reference implementations for BERT, ResNet, Transformer, and many more with pre-trained weights and training scripts. Apache 2.0 licensed.
+- **[PINTO Model Zoo](https://github.com/PINTO0309/PINTO_model_zoo)** ![GitHub stars](https://img.shields.io/github/stars/PINTO0309/PINTO_model_zoo?style=social) - Comprehensive repository of 600+ pre-trained models inter-converted between major frameworks. Supports TensorFlow, PyTorch, ONNX, OpenVINO, TensorFlow Lite, TFJS, TF-TRT, EdgeTPU, and CoreML. Essential resource for edge deployment and cross-platform model conversion. MIT licensed.
 
 #### Model Packaging & Deployment
 
@@ -1239,6 +1240,7 @@
 
 - **[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)** ![GitHub stars](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social) - The definitive curated list of machine learning frameworks, libraries and software organized by language. Covers Python, C++, Java, JavaScript, and more with comprehensive coverage of the ML ecosystem. CC0-1.0 licensed.
 - **[Andrej Karpathy Skills](https://github.com/forrestchang/andrej-karpathy-skills)** ![GitHub stars](https://img.shields.io/github/stars/forrestchang/andrej-karpathy-skills?style=social) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. Principles: Think Before Coding, Simplicity First, Surgical Changes, Goal-Driven Execution. MIT licensed.
+- **[Open LLMs (eugeneyan)](https://github.com/eugeneyan/open-llms)** ![GitHub stars](https://img.shields.io/github/stars/eugeneyan/open-llms?style=social) - Curated list of open-source LLMs licensed for commercial use (Apache 2.0, MIT, OpenRAIL-M). Comprehensive catalog of commercially-permissive language models with license verification and use-case guidance. Apache 2.0 licensed.
 
 ---
 
