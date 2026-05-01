@@ -68,6 +68,7 @@
 > Fresh agent frameworks, memory systems, and autonomous workflow tools.
 
 - **[Forgetful](https://github.com/ScottRBK/forgetful)** ![GitHub stars](https://img.shields.io/github/stars/ScottRBK/forgetful?style=social) - MCP server for persistent AI agent memory. Stores atomic single-concept notes and auto-links them into a knowledge graph via semantic similarity. SQLite or PostgreSQL.
+- **[Consensus Hardening Protocol](https://github.com/zan-maker/consensus-hardening-protocol)** ![GitHub stars](https://img.shields.io/github/stars/zan-maker/consensus-hardening-protocol?style=social) - Decision-governance layer for multi-agent AI: adversarial attack, foundation disclosure, R0 gate, and EXPLORING → PROVISIONAL_LOCK → LOCKED progression with auditable cross-model payload envelopes.
 
 ---
 
