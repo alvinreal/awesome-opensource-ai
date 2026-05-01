@@ -69,6 +69,7 @@
 
 - **[Forgetful](https://github.com/ScottRBK/forgetful)** ![GitHub stars](https://img.shields.io/github/stars/ScottRBK/forgetful?style=social) - MCP server for persistent AI agent memory. Stores atomic single-concept notes and auto-links them into a knowledge graph via semantic similarity. SQLite or PostgreSQL.
 
+- **[Multi-Agent CFO OS](https://github.com/zan-maker/multi-agent-cfo-os)** ![GitHub stars](https://img.shields.io/github/stars/zan-maker/multi-agent-cfo-os?style=social) - Multi-agent CFO Operating System using Cognitive Mesh and Consensus Hardening Protocol for forecasts, investment cases, and board-ready outputs.
 ---
 
 ### 🔍 5. Retrieval-Augmented Generation (RAG) & Knowledge
