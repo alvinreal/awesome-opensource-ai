@@ -69,6 +69,7 @@
 
 - **[Forgetful](https://github.com/ScottRBK/forgetful)** ![GitHub stars](https://img.shields.io/github/stars/ScottRBK/forgetful?style=social) - MCP server for persistent AI agent memory. Stores atomic single-concept notes and auto-links them into a knowledge graph via semantic similarity. SQLite or PostgreSQL.
 
+- **[Swarm Intelligence Pack](https://github.com/zan-maker/cubiczan-swarm-pack)** ![GitHub stars](https://img.shields.io/github/stars/zan-maker/cubiczan-swarm-pack?style=social) - Zero-token agent swarm intelligence platform combining stigmergy, PARL, and adversarial consensus for enterprise multi-agent orchestration across 9 domains.
 ---
 
 ### 🔍 5. Retrieval-Augmented Generation (RAG) & Knowledge
