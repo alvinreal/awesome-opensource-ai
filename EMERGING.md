@@ -107,7 +107,9 @@
 
 ### 📈 9. Evaluation, Benchmarks & Datasets
 
-> New evaluation harnesses, specialized benchmarks, and high-quality datasets.
+
+- **[ARC Prize 2026](https://github.com/zan-maker/arc-prize-2026) ![GitHub stars](https://img.shields.io/github/stars/zan-maker/arc-prize-2026?style=social) - ARC Prize 2026 submissions: AnnotateX for ARC-AGI-2/3, Paper Track, and SwarmARC Grant. In-context learning approach to the abstraction and reasoning corpus.
+- **[FlagOS Track 3 — AnnotateX](https://github.com/zan-maker/flagos-track3) ![GitHub stars](https://img.shields.io/github/stars/zan-maker/flagos-track3?style=social) - ICL-based automatic data annotation engine for the FlagOS Open Computing Challenge. Few-shot learning for structured data labeling.> New evaluation harnesses, specialized benchmarks, and high-quality datasets.
 
 - **[MMLU-Pro / GPQA](https://github.com/TIGER-AI-Lab/MMLU-Pro)** ![GitHub stars](https://img.shields.io/github/stars/TIGER-AI-Lab/MMLU-Pro?style=social) - Hardened expert-level benchmarks.
 
@@ -144,6 +146,7 @@
 
 ### 🧪 13. Developer Tools & Integrations
 
+- **[Tailwind CSS v4 Codemod](https://github.com/zan-maker/tailwindcss-v4-codemod) ![GitHub stars](https://img.shields.io/github/stars/zan-maker/tailwindcss-v4-codemod?style=social) - Automated codemod to migrate Tailwind CSS projects from v3 to v4. Developer productivity tool for CSS migration.
 > Fresh IDE plugins, testing frameworks, and developer productivity tools.
 
 *No entries yet — [submit one!](./CONTRIBUTING.md)*
