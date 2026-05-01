@@ -1188,6 +1188,8 @@
 - **[Pezzo](https://github.com/pezzolabs/pezzo)** ![GitHub stars](https://img.shields.io/github/stars/pezzolabs/pezzo?style=social) - Developer-first LLMOps platform for prompt design, version management, instant delivery, and cost optimization (up to 90% savings). Cloud-native with PostgreSQL, ClickHouse, and Redis. Apache 2.0 licensed.
 - **[Langfuse](https://github.com/langfuse/langfuse)** ![GitHub stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social) - Open-source LLM engineering platform with prompt management, versioning, observability, and evaluation. YC W23 company. MIT licensed.
 - **[Promptify](https://github.com/promptslab/Promptify)** ![GitHub stars](https://img.shields.io/github/stars/promptslab/Promptify?style=social) - Task-based NLP engine with Pydantic structured outputs and built-in evaluation. "Scikit-learn for LLM-powered NLP" with NER, classification, QA, and more. Apache 2.0 licensed.
+- **[Helicone](https://github.com/Helicone/helicone)** ![GitHub stars](https://img.shields.io/github/stars/Helicone/helicone?style=social) - Open-source LLM observability platform with prompt management, versioning, and experimentation. One-line integration, YC W23 company. Apache 2.0 licensed.
+- **[Weave](https://github.com/wandb/weave)** ![GitHub stars](https://img.shields.io/github/stars/wandb/weave?style=social) - Toolkit for developing AI-powered applications from Weights & Biases. Features prompt versioning, tracking, and evaluation workflows. Apache 2.0 licensed.
 
 ---
 
