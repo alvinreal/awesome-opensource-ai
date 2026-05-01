@@ -69,6 +69,7 @@
 
 - **[Forgetful](https://github.com/ScottRBK/forgetful)** ![GitHub stars](https://img.shields.io/github/stars/ScottRBK/forgetful?style=social) - MCP server for persistent AI agent memory. Stores atomic single-concept notes and auto-links them into a knowledge graph via semantic similarity. SQLite or PostgreSQL.
 
+- **[SwarmChat](https://github.com/zan-maker/swarmchat)** ![GitHub stars](https://img.shields.io/github/stars/zan-maker/swarmchat?style=social) - Multi-agent AI debate platform where three AI personas debate any topic in real-time and reach consensus through swarm intelligence.
 ---
 
 ### 🔍 5. Retrieval-Augmented Generation (RAG) & Knowledge
