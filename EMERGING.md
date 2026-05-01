@@ -69,6 +69,7 @@
 
 - **[Forgetful](https://github.com/ScottRBK/forgetful)** ![GitHub stars](https://img.shields.io/github/stars/ScottRBK/forgetful?style=social) - MCP server for persistent AI agent memory. Stores atomic single-concept notes and auto-links them into a knowledge graph via semantic similarity. SQLite or PostgreSQL.
 
+- **[SEC / Earnings Workbench](https://github.com/zan-maker/sec-earnings-workbench)** ![GitHub stars](https://img.shields.io/github/stars/zan-maker/sec-earnings-workbench?style=social) - CHP-hardened multi-agent research workbench over AlphaVantage fundamentals and FRED macro panel for company research, SEC deep dives, and Initiation of Coverage reports.
 ---
 
 ### 🔍 5. Retrieval-Augmented Generation (RAG) & Knowledge
