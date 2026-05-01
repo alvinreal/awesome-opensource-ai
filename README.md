@@ -291,9 +291,6 @@
 - **[Open-Sora (HPC-AI Tech)](https://github.com/hpcaitech/Open-Sora)** ![GitHub stars](https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social) - Democratizing efficient video production for all. Complete open-source video generation system with 11B model achieving commercial-level quality. Apache 2.0 licensed.
 - **[CogVideoX (Zhipu AI / community)](https://github.com/THUDM/CogVideo)** ![GitHub stars](https://img.shields.io/github/stars/THUDM/CogVideo?style=social) - High-quality open text-to-video model (5B-12B).
 - **[Mochi 1 (Genmo)](https://github.com/genmoai/mochi)** ![GitHub stars](https://img.shields.io/github/stars/genmoai/mochi?style=social) - 10B open video model with impressive motion and consistency.
-- **[Step-Video-T2V (StepFun)](https://github.com/stepfun-ai/Step-Video-T2V)** ![GitHub stars](https://img.shields.io/github/stars/stepfun-ai/Step-Video-T2V?style=social) - State-of-the-art 30B parameter text-to-video model generating up to 204 frames with deep compression VAE and DPO-enhanced visual quality. MIT licensed.
-- **[Pyramid-Flow](https://github.com/jy0205/Pyramid-Flow)** ![GitHub stars](https://img.shields.io/github/stars/jy0205/Pyramid-Flow?style=social) - Pyramidal flow matching for efficient video generation. Supports 768p resolution, 10-second videos at 24 FPS trained in only 20.7k A100 GPU hours. ICLR 2025. MIT licensed.
-- **[Allegro (Rhymes AI)](https://github.com/rhymes-ai/Allegro)** ![GitHub stars](https://img.shields.io/github/stars/rhymes-ai/Allegro?style=social) - High-quality text-to-video model generating 6-second 720p videos at 15 FPS. Efficient 2.8B parameter VideoDiT with 175M VideoVAE. Apache 2.0 licensed.
 
 #### Image Generation Models
 
