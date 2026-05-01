@@ -69,6 +69,12 @@
 
 - **[Forgetful](https://github.com/ScottRBK/forgetful)** ![GitHub stars](https://img.shields.io/github/stars/ScottRBK/forgetful?style=social) - MCP server for persistent AI agent memory. Stores atomic single-concept notes and auto-links them into a knowledge graph via semantic similarity. SQLite or PostgreSQL.
 
+
+- **[Consensus Hardening Protocol — The Differ](https://github.com/zan-maker/Consensus-Hardening-Protocol-The-Differ)** ![GitHub stars](https://img.shields.io/github/stars/zan-maker/Consensus-Hardening-Protocol-The-Differ?style=social) - A public adversarial decision council where agents open nested spaces, challenge each other, and lock conclusions only after surviving structured attacks.
+- **[GenSwarm](https://github.com/zan-maker/genswarm-contract)** ![GitHub stars](https://img.shields.io/github/stars/zan-maker/genswarm-contract?style=social) - Stigmergic Agent Coordination Protocol on GenLayer. Smart contracts for agent-to-agent coordination and consensus.
+- **[SwarmFi](https://github.com/zan-maker/swarmfi)** ![GitHub stars](https://img.shields.io/github/stars/zan-maker/swarmfi?style=social) - AI Swarm Intelligence Oracle & Prediction Market Protocol on Initia. Decentralized swarm consensus for market prediction.
+- **[SwarmFi Perps](https://github.com/zan-maker/swarmfi-perps)** ![GitHub stars](https://img.shields.io/github/stars/zan-maker/swarmfi-perps?style=social) - AI Agent Swarm Trading Signals for Perpetual Markets, powered by dYdX v4.
+- **[SwarmFi Solana](https://github.com/zan-maker/swarmfi-solana)** ![GitHub stars](https://img.shields.io/github/stars/zan-maker/swarmfi-solana?style=social) - AI Swarm Intelligence Oracle & Prediction Market Protocol on Solana (Colosseum Frontier Hackathon).
 ---
 
 ### 🔍 5. Retrieval-Augmented Generation (RAG) & Knowledge
