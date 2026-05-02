@@ -6,7 +6,7 @@
 
 # Awesome Open Source AI
 
-*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated May 1, 2026. CI verified.*
+*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated May 2, 2026. CI verified.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
@@ -1140,6 +1140,8 @@
 - **[Open Notebook](https://github.com/lfnovo/open-notebook)** ![GitHub stars](https://img.shields.io/github/stars/lfnovo/open-notebook?style=social) - Open-source implementation of Notebook LM with multi-modal content support (PDFs, videos, audio, web pages). Features multi-speaker podcast generation, 18+ AI provider integrations, and full-text + vector search. Self-hosted with complete data sovereignty. MIT licensed.
 - **[Deta Surf](https://github.com/deta/surf)** ![GitHub stars](https://img.shields.io/github/stars/deta/surf?style=social) - Personal AI notebook for organizing files and webpages with AI-generated notes. Local-first data storage, open data formats, and open model choice including local models. Cross-platform desktop app for research and thinking workflows. Apache 2.0 licensed.
 - **[Quarto](https://github.com/quarto-dev/quarto-cli)** ![GitHub stars](https://img.shields.io/github/stars/quarto-dev/quarto-cli?style=social) - Open-source scientific and technical publishing system built on Pandoc. Create dynamic content with Python, R, Julia, and Observable. MIT licensed.
+- **[Deepnote](https://github.com/deepnote/deepnote)** ![GitHub stars](https://img.shields.io/github/stars/deepnote/deepnote?style=social) - Drop-in replacement for Jupyter with AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-time collaboration. Apache 2.0 licensed.
+- **[Pretzel AI](https://github.com/pretzelai/pretzelai)** ![GitHub stars](https://img.shields.io/github/stars/pretzelai/pretzelai?style=social) - Modern replacement for Jupyter Notebooks with AI code generation and editing, inline tab completion, sidebar chat and error fixing. All Jupyter config, settings, keybindings, and extensions work out of the box. AGPL-3.0 licensed.
 
 #### IDE Plugins & Extensions
 
