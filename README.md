@@ -519,6 +519,7 @@
 - **[Annoy (Spotify)](https://github.com/spotify/annoy)** ![GitHub stars](https://img.shields.io/github/stars/spotify/annoy?style=social) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk. Creates read-only file-based data structures that can be mmapped into memory for fast multi-process access. Powers Spotify's music recommendations. Apache 2.0 licensed.
 - **[Voyager (Spotify)](https://github.com/spotify/voyager)** ![GitHub stars](https://img.shields.io/github/stars/spotify/voyager?style=social) - Spotify's approximate nearest-neighbor search library for Python and Java. Up to 10x faster than Annoy with 4x less memory, designed for production use at billion-vector scale. Apache 2.0 licensed.
 - **[Deep Lake](https://github.com/activeloopai/deeplake)** ![GitHub stars](https://img.shields.io/github/stars/activeloopai/deeplake?style=social) - AI Data Runtime for Agents with serverless PostgreSQL and multimodal datalake. Store and search vectors, images, text, videos, and more with LangChain/LlamaIndex integrations. Used by Intel, Bayer, Yale, and Oxford. Apache 2.0 licensed.
+
 #### Embedding Models
 
 - **[BGE (FlagEmbedding)](https://github.com/FlagOpen/FlagEmbedding)** ![GitHub stars](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding?style=social) - BAAI's best-in-class embedding family.
