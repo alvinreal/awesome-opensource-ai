@@ -3,3 +3,14 @@ data.txt
 scripts
 local
 opencode.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Scripts
+run_validation.sh
