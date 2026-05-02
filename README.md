@@ -369,6 +369,8 @@
 
 #### Single-Agent Frameworks
 
+- **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** ![GitHub stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social) - The original autonomous AI agent framework that sparked the agent revolution. Vision of accessible AI for everyone with modular agent architecture, benchmark testing, and forge-based agent building. 183k+ stars.
+- **[BabyAGI](https://github.com/yoheinakajima/babyagi)** ![GitHub stars](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=social) - Pioneering task-driven autonomous agent that inspired the AI agent movement. Simple, elegant implementation of an AI agent that creates, prioritizes, and executes tasks autonomously. 22k+ stars.
 - **[LangGraph](https://github.com/langchain-ai/langgraph)** ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social) - Stateful, controllable agent orchestration.
 - **[CrewAI](https://github.com/crewAIInc/crewAI)** ![GitHub stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social) - Role-based agent framework.
 - **[AutoGen (AG2)](https://github.com/microsoft/autogen)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/autogen?style=social) - Flexible multi-agent conversation framework.
@@ -396,6 +398,7 @@
 
 #### Multi-Agent Orchestration
 
+- **[SuperAGI](https://github.com/TransformerOptimus/SuperAGI)** ![GitHub stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social) - Dev-first open source autonomous AI agent framework. Enables developers to build, manage and run useful autonomous agents quickly and reliably with built-in memory, tool integration, and multi-agent orchestration. 17k+ stars. MIT licensed.
 - **[MetaGPT](https://github.com/FoundationAgents/MetaGPT)** ![GitHub stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT?style=social) - The Multi-Agent Framework: First AI Software Company. Assigns different roles to GPTs to form a collaborative software entity. Takes one-line requirements and outputs comprehensive software development artifacts including user stories, competitive analysis, requirements, data structures, APIs, and documents. ICLR 2024 oral presentation (top 1.2%). MIT licensed.
 - **[ChatDev](https://github.com/OpenBMB/ChatDev)** ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social) - Multi-agent software development framework where AI agents collaborate as programmers, designers, and testers to build software. Apache 2.0 licensed.
 - **[CAMEL](https://github.com/camel-ai/camel)** ![GitHub stars](https://img.shields.io/github/stars/camel-ai/camel?style=social) - First and best multi-agent framework for building scalable agent systems. Apache 2.0 licensed with extensive tooling for agent communication and task automation.
