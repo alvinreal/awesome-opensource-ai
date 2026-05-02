@@ -146,7 +146,7 @@
 
 > Fresh IDE plugins, testing frameworks, and developer productivity tools.
 
-*No entries yet — [submit one!](./CONTRIBUTING.md)*
+- **[agenttrace](https://github.com/luoyuctl/agenttrace)** ![GitHub stars](https://img.shields.io/github/stars/luoyuctl/agenttrace?style=social) - Local-first TUI for AI coding agent session observability across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, OpenCode, and more.
 
 ---
 
