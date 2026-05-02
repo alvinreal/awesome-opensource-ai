@@ -1,40 +1,49 @@
-# OSAI CI Health Report - 2026-05-02
+# OSAI CI Health Report - 2026-05-03
 
 ## Summary
 
 **Status:** ✅ CI PASSING
 
-**Run Date:** May 2, 2026 at 08:02 UTC (Europe/Amsterdam)
+**Run Date:** May 3, 2026 at 00:08 UTC (Europe/Amsterdam)
 **Repository:** alvinreal/awesome-opensource-ai (main branch)
 
 ## CI Status Check
 
 **Latest GitHub Actions Run:**
 - **Status:** ✅ Success
-- **Run Date:** May 2, 2026 at 02:05 UTC
+- **Run Date:** May 2, 2026 at 22:08 UTC
 - **Workflow:** Validate awesome lists
 - **Conclusion:** All checks passed
 
-## Previous Actions (Already Completed)
+## CI Run History (main branch, last 5)
+| Run # | Status | Commit | Time |
+|-------|--------|--------|------|
+| 651 | ✅ success | Remove stale repos | 2026-05-02 22:08 UTC |
+| 650 | ❌ failure | Fix markdown syntax | 2026-05-02 22:05 UTC |
+| 648 | ❌ failure | Add AutoGPT, BabyAGI, SuperAGI | 2026-05-02 21:17 UTC |
+| 647 | ❌ failure | Add Annoy | 2026-05-02 20:19 UTC |
+| 646 | ✅ success | Add xLLM and Mooncake | 2026-05-02 19:20 UTC |
 
-The following stale repositories were removed in previous runs:
+## Issues Found and Fixed
 
-### Removed on May 1, 2026 (Run 1):
-| Repository | Days Stale | Reason |
-|------------|------------|--------|
-| stepfun-ai/Step-Video-T2V | 409 days | No commits in 13+ months |
-| jy0205/Pyramid-Flow | 495 days | No commits in 16+ months |
-| rhymes-ai/Allegro | 447 days | No commits in 14+ months |
+### 1. Stale Repository: SuperAGI
+- **Repository:** TransformerOptimus/SuperAGI
+- **Issue:** Last pushed 2025-01-22 (100+ days ago, exceeds 183-day limit)
+- **Action:** Removed from Multi-Agent Orchestration section
+- **Stars:** 17,500 (met elite-tier threshold but inactive)
 
-### Removed on May 1, 2026 (Run 2):
-| Repository | Days Stale | Reason |
-|------------|------------|--------|
-| madcowd/ell | 329 days | No commits in 11+ months |
-| zou-group/textgrad | 279 days | No commits in 9+ months |
-| prefecthq/controlflow | 251 days | Archived repository |
+### 2. Stale Repository: Annoy (Spotify)
+- **Repository:** spotify/annoy
+- **Issue:** Last pushed 2025-10-29 (185 days ago, exceeds 183-day limit)
+- **Action:** Removed from Vector Databases section
+- **Stars:** 14,230 (met elite-tier threshold but inactive)
 
-## Current Validation Results
+### 3. Markdown Syntax Error
+- **Issue:** Missing blank line before "#### Embedding Models" subsection
+- **Location:** Line 521 in README.md
+- **Action:** Added blank line to fix structural validation
 
+## Validation Results (Current)
 ```
 == Structural checks ==
 ok
@@ -45,27 +54,23 @@ ok
 Summary: 0 error(s), 0 warning(s)
 ```
 
-## Actions Taken Today
+## Actions Taken
 
-1. Verified CI is passing with no validation errors
-2. Confirmed no stale repos (>183 days) remaining
-3. Confirmed no archived repos in the list
-4. Confirmed no duplicates detected
-5. No fixes needed - all entries within thresholds
-6. Updated CI health documentation (08:02 UTC check)
+1. ✅ Fixed markdown syntax (added missing blank line)
+2. ✅ Removed stale repo: SuperAGI (inactive 100+ days)
+3. ✅ Removed stale repo: Annoy (inactive 185 days)
+4. ✅ Verified CI passes after fixes
 
 ## Summary Stats
 
-- **Total entries processed:** 0 (no fixes needed)
-- **Stale repos removed:** 0 (already clean)
-- **Archived repos removed:** 0 (already clean)
-- **Duplicates removed:** 0 (none found)
+- **Total entries processed:** 3
+- **Stale repos removed:** 2 (SuperAGI, Annoy)
+- **Markdown fixes:** 1 (blank line before subsection)
 - **Entries remaining:** All current entries are active and within thresholds
+- **Max entries per run limit:** 5 (not reached - 3 fixes applied)
 
 ## Notes
 
-- The list maintains 100% CI compliance
-- All repositories have been pushed within the last 183 days
-- No archived or disabled repositories present
-- Max entries per run limit: 5 (not reached - no fixes needed)
-- Previous cleanup runs successfully removed 6 stale/archived repositories total
+- AutoGPT and BabyAGI remain in the list (both active within 183 days)
+- xLLM and Mooncake (added in run 646) remain active and compliant
+- The list maintains 100% CI compliance after fixes
