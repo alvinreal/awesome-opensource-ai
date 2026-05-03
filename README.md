@@ -264,6 +264,8 @@
 - **[Moondream (m87-labs)](https://github.com/m87-labs/moondream)** ![GitHub stars](https://img.shields.io/github/stars/m87-labs/moondream?style=social) - Tiny vision language model (0.5B and 2B parameters) that runs anywhere. Powerful image understanding with remarkably small footprint for edge devices and real-time applications. Apache 2.0 licensed.
 - **[VILA (NVIDIA)](https://github.com/NVlabs/VILA)** ![GitHub stars](https://img.shields.io/github/stars/NVlabs/VILA?style=social) - Family of state-of-the-art vision language models for diverse multimodal AI tasks across edge, data center, and cloud. Features NVILA 8B/15B with efficient training and deployment. Apache 2.0 licensed.
 - **[OmniGen (VectorSpaceLab)](https://github.com/VectorSpaceLab/OmniGen)** ![GitHub stars](https://img.shields.io/github/stars/VectorSpaceLab/OmniGen?style=social) - Unified image generation model that handles text-to-image, subject-driven generation, identity-preserving generation, and image editing from multi-modal prompts without additional plugins. MIT licensed.
+- **[Skywork-R1V (Skywork AI)](https://github.com/SkyworkAI/Skywork-R1V)** ![GitHub stars](https://img.shields.io/github/stars/SkyworkAI/Skywork-R1V?style=social) - Advanced multimodal reasoning model specializing in vision-language tasks with chain-of-thought capabilities. State-of-the-art open multimodal reasoning with 76.0 on MMMU benchmark. MIT licensed.
+- **[Depth Anything V2](https://github.com/DepthAnything/Depth-Anything-V2)** ![GitHub stars](https://img.shields.io/github/stars/DepthAnything/Depth-Anything-V2?style=social) - Foundation model for monocular depth estimation trained on 595K synthetic and 62M+ real images. Provides robust, fine-grained depth estimation for any image. Apache 2.0 licensed.
 #### Speech & Audio Models (TTS, STT, Music)
 
 - **[NVIDIA NeMo Speech](https://github.com/NVIDIA-NeMo/NeMo)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA-NeMo/NeMo?style=social) - Scalable generative AI framework for Speech AI including ASR, TTS, and speech LLMs. Includes state-of-the-art Canary and Parakeet models with 25+ European language support. Apache 2.0 licensed.
@@ -293,6 +295,8 @@
 
 #### Image Generation Models
 
+- **[FLUX.1 (Black Forest Labs)](https://github.com/black-forest-labs/flux)** ![GitHub stars](https://img.shields.io/github/stars/black-forest-labs/flux?style=social) - State-of-the-art open weights image generation model with exceptional prompt adherence and visual quality. Apache 2.0 licensed.
+- **[FLUX.2 (Black Forest Labs)](https://github.com/black-forest-labs/flux2)** ![GitHub stars](https://img.shields.io/github/stars/black-forest-labs/flux2?style=social) - Next-generation frontier visual intelligence model with improved architecture and generation capabilities. Apache 2.0 licensed.
 - **[Stable Diffusion XL](https://github.com/Stability-AI/generative-models)** ![GitHub stars](https://img.shields.io/github/stars/Stability-AI/generative-models?style=social) - Next-generation image generation model with significantly improved quality, 1024px native resolution, and better prompt adherence. Foundation for SDXL-based video models. CreativeML Open RAIL++-M licensed.
 - **[OmniGen (VectorSpaceLab)](https://github.com/VectorSpaceLab/OmniGen)** ![GitHub stars](https://img.shields.io/github/stars/VectorSpaceLab/OmniGen?style=social) - Unified image generation model handling text-to-image, subject-driven generation, identity-preserving generation, and image editing from multi-modal prompts in a single framework. MIT licensed.
 
