@@ -6,7 +6,7 @@
 
 # Awesome Open Source AI
 
-*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated May 2, 2026. CI verified - auto-fixed.*
+*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated May 3, 2026. CI verified - auto-fixed.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
@@ -874,6 +874,10 @@
 - **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** ![GitHub stars](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG?style=social) - RAG AutoML tool for automatically finding optimal RAG pipelines. Evaluates and optimizes retrieval-augmented generation with AutoML-style automation for your own data and use-case. Apache 2.0 licensed.
 - **[E2B Code Interpreter](https://github.com/e2b-dev/code-interpreter)** ![GitHub stars](https://img.shields.io/github/stars/e2b-dev/code-interpreter?style=social) - Python & JS/TS SDK for running AI-generated code in secure isolated sandboxes. Essential infrastructure for evaluating code-generating LLMs with safe execution environments. Apache 2.0 licensed.
 - **[SimpleEvals (OpenAI)](https://github.com/openai/simple-evals)** ![GitHub stars](https://img.shields.io/github/stars/openai/simple-evals?style=social) - Lightweight library for evaluating language models with transparent accuracy numbers. Reference implementations for MMLU, GPQA, MATH, HumanEval, MGSM, DROP, and SimpleQA benchmarks. MIT licensed.
+- **[EvalScope (ModelScope)](https://github.com/modelscope/evalscope)** ![GitHub stars](https://img.shields.io/github/stars/modelscope/evalscope?style=social) - Streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking. One-stop evaluation solution with 80+ benchmarks. Apache 2.0 licensed.
+- **[ToolBench (OpenBMB)](https://github.com/OpenBMB/ToolBench)** ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/ToolBench?style=social) - Open platform for training, serving, and evaluating large language models for tool learning. ICLR 2024 spotlight. Includes ToolEval automatic evaluator for tool-use capabilities. Apache 2.0 licensed.
+- **[UpTrain](https://github.com/uptrain-ai/uptrain)** ![GitHub stars](https://img.shields.io/github/stars/uptrain-ai/uptrain?style=social) - Open-source unified platform to evaluate and improve Generative AI applications. 20+ preconfigured checks covering language, code, and embedding use-cases with root cause analysis. Apache 2.0 licensed.
+- **[EvalPlus](https://github.com/evalplus/evalplus)** ![GitHub stars](https://img.shields.io/github/stars/evalplus/evalplus?style=social) - Rigorous evaluation framework for code synthesis with augmented test suites. EvalPlus++ provides 4.8x more test coverage than original HumanEval/MBPP for accurate code LLM assessment. Apache 2.0 licensed.
 
 #### High-quality Open Datasets & Data Tools
 
