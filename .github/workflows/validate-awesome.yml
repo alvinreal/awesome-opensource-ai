@@ -50,4 +50,6 @@ jobs:
       - name: Run GitHub-backed validation
         env:
           GITHUB_TOKEN: ${{ github.token }}
-        run: python3 tools/validate_awesome.py
+        run: |
+          echo "Running GitHub-backed validation..."
+          python3 tools/validate_awesome.py
