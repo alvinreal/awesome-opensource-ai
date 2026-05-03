@@ -751,6 +751,7 @@
 - **[Aim](https://github.com/aimhubio/aim)** ![GitHub stars](https://img.shields.io/github/stars/aimhubio/aim?style=social) - Self-hosted ML experiment tracker designed to handle 10,000s of training runs with performant UI and SDK for programmatic access. Apache 2.0 licensed.
 - **[Feast](https://github.com/feast-dev/feast)** ![GitHub stars](https://img.shields.io/github/stars/feast-dev/feast?style=social) - Open source feature store for ML. Manages offline/online feature storage with point-in-time correctness to prevent data leakage. Apache 2.0 licensed.
 - **[OpenLineage](https://github.com/OpenLineage/OpenLineage)** ![GitHub stars](https://img.shields.io/github/stars/OpenLineage/OpenLineage?style=social) - Open standard for lineage metadata collection designed to instrument jobs as they run. Defines a generic model of run, job, and dataset entities for consistent data lineage tracking. Apache 2.0 licensed.
+- **[Marquez](https://github.com/MarquezProject/marquez)** ![GitHub stars](https://img.shields.io/github/stars/MarquezProject/marquez?style=social) - LF AI & Data Foundation Graduated project for metadata collection, aggregation, and visualization. Maintains provenance of how datasets are consumed and produced with global visibility into job runtime and dataset lifecycle management. Integrates with OpenLineage. Apache 2.0 licensed.
 
 #### Model Hubs & Registries
 
