@@ -6,7 +6,7 @@
 
 # Awesome Open Source AI
 
-*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated May 3, 2026. CI verified - auto-fixed.*
+*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated May 3, 2026. CI verified.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
@@ -1202,8 +1202,6 @@
 - **[Promptify](https://github.com/promptslab/Promptify)** ![GitHub stars](https://img.shields.io/github/stars/promptslab/Promptify?style=social) - Task-based NLP engine with Pydantic structured outputs and built-in evaluation. "Scikit-learn for LLM-powered NLP" with NER, classification, QA, and more. Apache 2.0 licensed.
 - **[Helicone](https://github.com/Helicone/helicone)** ![GitHub stars](https://img.shields.io/github/stars/Helicone/helicone?style=social) - Open-source LLM observability platform with prompt management, versioning, and experimentation. One-line integration, YC W23 company. Apache 2.0 licensed.
 - **[Weave](https://github.com/wandb/weave)** ![GitHub stars](https://img.shields.io/github/stars/wandb/weave?style=social) - Toolkit for developing AI-powered applications from Weights & Biases. Features prompt versioning, tracking, and evaluation workflows. Apache 2.0 licensed.
-- **[OpenPrompt](https://github.com/thunlp/OpenPrompt)** ![GitHub stars](https://img.shields.io/github/stars/thunlp/OpenPrompt?style=social) - Unified framework for prompt-learning with pre-trained language models. Supports templating, verbalizing, and optimization strategies. Winner of ACL 2022 Best Demo Paper Award. Apache 2.0 licensed.
-- **[TextGrad](https://github.com/zou-group/textgrad)** ![GitHub stars](https://img.shields.io/github/stars/zou-group/textgrad?style=social) - Automatic "differentiation" via text using LLMs to backpropagate textual gradients. PyTorch-like API for optimizing prompts, code, and solutions. Published in Nature. MIT licensed.
 - **[GEPA](https://github.com/gepa-ai/gepa)** ![GitHub stars](https://img.shields.io/github/stars/gepa-ai/gepa?style=social) - Reflective prompt evolution optimizer using natural language reflection and Pareto frontier learning. Outperforms reinforcement learning for prompt optimization. Integrated with DSPY and MLflow. MIT licensed.
 
 ---
