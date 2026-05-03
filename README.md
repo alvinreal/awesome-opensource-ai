@@ -648,7 +648,6 @@
 
 - **[AudioCraft / MusicGen (Meta)](https://github.com/facebookresearch/audiocraft)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social) - Controllable text-to-music and audio models.
 - **[ACE-Step 1.5](https://github.com/ace-step/ACE-Step-1.5)** ![GitHub stars](https://img.shields.io/github/stars/ace-step/ACE-Step-1.5?style=social) - Local-first music generation model with broad hardware support across Mac, AMD, Intel, and CUDA devices.
-- **[YuE](https://github.com/multimodal-art-projection/YuE)** ![GitHub stars](https://img.shields.io/github/stars/multimodal-art-projection/YuE?style=social) - Open full-song music generation foundation model similar to Suno.ai. Generates complete songs with vocal and accompaniment tracks lasting several minutes across diverse genres, languages, and vocal techniques. Apache 2.0 licensed.
 - **[Fish Speech](https://github.com/fishaudio/fish-speech)** ![GitHub stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=social) - Zero-shot TTS and voice cloning.
 - **[CosyVoice 2](https://github.com/FunAudioLLM/CosyVoice)** ![GitHub stars](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=social) - Natural multilingual TTS with emotional control.
 - **[OuteTTS](https://github.com/edwko/OuteTTS)** ![GitHub stars](https://img.shields.io/github/stars/edwko/OuteTTS?style=social) - High-quality open TTS.
