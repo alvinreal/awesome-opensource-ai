@@ -35,7 +35,7 @@ jobs:
         run: python3 tools/validate_awesome.py --skip-remote
 
   validate-github-rules:
-    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    if: (github.event_name == 'push' && github.ref == 'refs/heads/main') || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     permissions:
       contents: read
