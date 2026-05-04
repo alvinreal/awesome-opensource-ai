@@ -6,7 +6,7 @@
 
 # Awesome Open Source AI
 
-*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated May 4, 2026. CI verified - auto-fixed.*
+*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated May 4, 2026. CI verified - auto-fixed. Added Morphik RAG framework.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
@@ -583,6 +583,7 @@
 - **[DB-GPT](https://github.com/eosphoros-ai/DB-GPT)** ![GitHub stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=social) - Self-hosted AI data assistant for private knowledge, database-aware conversations, and data-heavy RAG workflows.
 - **[localGPT](https://github.com/PromtEngineer/localGPT)** ![GitHub stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social) - Local document-chat project for private, on-device Q&A over files without sending data to external APIs.
 - **[SurfSense](https://github.com/MODSetter/SurfSense)** ![GitHub stars](https://img.shields.io/github/stars/MODSetter/SurfSense?style=social) - Privacy-focused NotebookLM-style workspace for teams to search, organize, and query knowledge with self-hosted RAG.
+- **[Morphik](https://github.com/morphik-org/morphik-core)** ![GitHub stars](https://img.shields.io/github/stars/morphik-org/morphik-core?style=social) - Open-source multimodal RAG framework for building AI apps over private knowledge. Handles text, images, and documents with built-in embedding generation and vector search. MIT licensed.
 
 #### Knowledge Graphs for RAG
 
