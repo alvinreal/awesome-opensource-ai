@@ -6,7 +6,7 @@
 
 # Awesome Open Source AI
 
-*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated May 4, 2026. CI verified - auto-fixed. Added Morphik RAG framework.*
+*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated May 4, 2026. CI verified - auto-fixed.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
@@ -612,7 +612,6 @@
 - **[Rig](https://github.com/0xPlaygrounds/rig)** ![GitHub stars](https://img.shields.io/github/stars/0xPlaygrounds/rig?style=social) - Rust library for building scalable, modular LLM-powered applications. Type-safe agent framework with unified LLM interface, built-in vector store integrations, and ergonomic abstractions for production AI systems. MIT licensed.
 - **[Ax](https://github.com/ax-llm/ax)** ![GitHub stars](https://img.shields.io/github/stars/ax-llm/ax?style=social) - TypeScript framework for building reliable AI applications. "Official" DSPy-inspired framework for TypeScript with type-safe LLM interactions, chain-of-thought reasoning, and structured output validation. Apache 2.0 licensed.
 - **[Genkit](https://github.com/genkit-ai/genkit)** ![GitHub stars](https://img.shields.io/github/stars/genkit-ai/genkit?style=social) - Open-source framework for building full-stack AI-powered applications in JavaScript, Go, and Python. Built and used in production by Google's Firebase. Unified interface for integrating AI models from multiple providers with built-in RAG, tool calling, structured outputs, and developer tools. Apache 2.0 licensed.
-- **[ell](https://github.com/MadcowD/ell)** ![GitHub stars](https://img.shields.io/github/stars/MadcowD/ell?style=social) - Language model programming library for Python. Elegant framework for building LLM-powered applications with automatic versioning, rich monitoring, and structured outputs. Created by a former OpenAI research scientist. MIT licensed.
 - **[ContextGem](https://github.com/shcherbak-ai/contextgem)** ![GitHub stars](https://img.shields.io/github/stars/shcherbak-ai/contextgem?style=social) - Effortless LLM extraction framework for documents. Powerful abstractions for building extraction workflows with automated dynamic prompts, data modeling, validation, and precise reference mapping. Apache 2.0 licensed.
 
 
