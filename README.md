@@ -528,6 +528,8 @@
 - **[SPTAG (Microsoft)](https://github.com/microsoft/SPTAG)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/SPTAG?style=social) - Distributed approximate nearest neighbor search library with high-quality vector index build and online serving toolkits. Powers Bing's vector search at trillion-vector scale. MIT licensed.
 - **[nanoflann](https://github.com/jlblancoc/nanoflann)** ![GitHub stars](https://img.shields.io/github/stars/jlblancoc/nanoflann?style=social) - C++11 header-only library for fast nearest neighbor search with KD-trees. Zero dependencies, single-file integration, and 2-3x faster than FLANN with modern C++. BSD licensed.
 - **[NMSLIB](https://github.com/nmslib/nmslib)** ![GitHub stars](https://img.shields.io/github/stars/nmslib/nmslib?style=social) - Non-Metric Space Library for efficient similarity search in generic non-metric spaces. Comprehensive toolkit for evaluating k-NN methods with support for exotic distance functions. Apache 2.0 licensed.
+- **[Annoy (Spotify)](https://github.com/spotify/annoy)** ![GitHub stars](https://img.shields.io/github/stars/spotify/annoy?style=social) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk. Fast, lightweight library powering music recommendation at Spotify. Apache 2.0 licensed.
+- **[Vearch](https://github.com/vearch/vearch)** ![GitHub stars](https://img.shields.io/github/stars/vearch/vearch?style=social) - Cloud-native distributed vector database for AI-native applications. Efficient similarity search of embedding vectors with horizontal scaling and real-time indexing. Apache 2.0 licensed.
 
 #### Embedding Models
 
