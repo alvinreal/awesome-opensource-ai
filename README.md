@@ -37,6 +37,9 @@
 
 ## 📋 Contents
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time AI agent monitoring dashboard for OpenClaw. Tracks Gateway status, sessions, token usage & trends with Vue 3 + ECharts.
+
+
 - [🧬 1. Core Frameworks & Libraries](#-1-core-frameworks--libraries)
 - [🧠 2. Open Foundation Models](#-2-open-foundation-models)
 - [⚡ 3. Inference Engines & Serving](#-3-inference-engines--serving)
