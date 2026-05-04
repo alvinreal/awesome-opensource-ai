@@ -1210,6 +1210,9 @@
 - **[Helicone](https://github.com/Helicone/helicone)** ![GitHub stars](https://img.shields.io/github/stars/Helicone/helicone?style=social) - Open-source LLM observability platform with prompt management, versioning, and experimentation. One-line integration, YC W23 company. Apache 2.0 licensed.
 - **[Weave](https://github.com/wandb/weave)** ![GitHub stars](https://img.shields.io/github/stars/wandb/weave?style=social) - Toolkit for developing AI-powered applications from Weights & Biases. Features prompt versioning, tracking, and evaluation workflows. Apache 2.0 licensed.
 - **[GEPA](https://github.com/gepa-ai/gepa)** ![GitHub stars](https://img.shields.io/github/stars/gepa-ai/gepa?style=social) - Reflective prompt evolution optimizer using natural language reflection and Pareto frontier learning. Outperforms reinforcement learning for prompt optimization. Integrated with DSPY and MLflow. MIT licensed.
+- **[GPTCache](https://github.com/zilliztech/GPTCache)** ![GitHub stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social) - Semantic cache for LLMs. Reduce API costs by 10x and boost speed by 100x with intelligent caching. Fully integrated with LangChain and LlamaIndex. MIT licensed.
+- **[TextGrad](https://github.com/zou-group/textgrad)** ![GitHub stars](https://img.shields.io/github/stars/zou-group/textgrad?style=social) - Automatic "Differentiation" via Text using LLMs to backpropagate textual gradients. Published in Nature. Framework for optimizing prompts and LLM workflows through text-based gradients. MIT licensed.
+- **[OpenPrompt](https://github.com/thunlp/OpenPrompt)** ![GitHub stars](https://img.shields.io/github/stars/thunlp/OpenPrompt?style=social) - Open-source framework for prompt-learning. Standardized, flexible pipeline for deploying prompt-based learning with pre-trained language models. Apache 2.0 licensed.
 
 ---
 
