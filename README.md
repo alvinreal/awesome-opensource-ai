@@ -884,6 +884,8 @@
 
 #### Evaluation Frameworks
 
+- **[AlpacaEval](https://github.com/tatsu-lab/alpaca_eval)** ![GitHub stars](https://img.shields.io/github/stars/tatsu-lab/alpaca_eval?style=social) - Automatic evaluator for instruction-following language models. Human-validated, high-quality, cheap (<$10), and fast (<5min) with 0.98 correlation to human judgments. Apache 2.0 licensed.
+- **[Prometheus Eval](https://github.com/prometheus-eval/prometheus-eval)** ![GitHub stars](https://img.shields.io/github/stars/prometheus-eval/prometheus-eval?style=social) - Open-source evaluation framework for LLMs with comprehensive benchmark support and reproducible evaluation pipelines. Apache 2.0 licensed.
 - **[DeepEval](https://github.com/confident-ai/deepeval)** ![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social) - The "Pytest for LLMs".
 - **[Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai)** ![GitHub stars](https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai?style=social) - Framework for large language model evaluations from the UK AI Security Institute.
 - **[RAGAs](https://github.com/explodinggradients/ragas)** ![GitHub stars](https://img.shields.io/github/stars/explodinggradients/ragas?style=social) - End-to-end RAG evaluation framework.
