@@ -68,6 +68,7 @@
 > Fresh agent frameworks, memory systems, and autonomous workflow tools.
 
 - **[Forgetful](https://github.com/ScottRBK/forgetful)** ![GitHub stars](https://img.shields.io/github/stars/ScottRBK/forgetful?style=social) - MCP server for persistent AI agent memory. Stores atomic single-concept notes and auto-links them into a knowledge graph via semantic similarity. SQLite or PostgreSQL.
+- **[OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) ![GitHub stars](https://img.shields.io/github/stars/flik2002/openclaw-monitor?style=social) - Real-time monitoring dashboard for OpenClaw AI agents — tracks Gateway health, token usage, and message trends. Vue 3 + Express + SQLite.
 
 ---
 
