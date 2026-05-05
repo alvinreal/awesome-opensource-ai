@@ -8,6 +8,8 @@
 
 *A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated May 5, 2026. CI verified - auto-fixed.*
 
+*Research Loop Run: May 5, 2026 - Category 9 (AI Infrastructure & MLOps) - Added 2 projects*
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-blue.svg?style=flat-square)](./LICENSE)
@@ -850,6 +852,8 @@
 - **[Pezzo](https://github.com/pezzolabs/pezzo)** ![GitHub stars](https://img.shields.io/github/stars/pezzolabs/pezzo?style=social) - Cloud-native LLMOps platform with prompt management, versioning, and observability. Features collaborative prompt editing, A/B testing, and cost analytics. Apache 2.0 licensed.
 - **[Microsoft PromptFlow](https://github.com/microsoft/promptflow)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/promptflow?style=social) - Comprehensive suite for LLM-based AI app development from prototyping to production. Includes prompt engineering, evaluation, and deployment tools with VS Code integration. MIT licensed.
 - **[ChainForge](https://github.com/ianarawjo/ChainForge)** ![GitHub stars](https://img.shields.io/github/stars/ianarawjo/ChainForge?style=social) - Visual programming environment for battle-testing prompts and evaluating LLM outputs. Features node-based prompt chains, multi-model comparison, and hypothesis testing. MIT licensed.
+- **[NannyML](https://github.com/NannyML/nannyml)** ![GitHub stars](https://img.shields.io/github/stars/NannyML/nannyml?style=social) - Post-deployment data science library for ML model monitoring. Estimates model performance without access to targets, detects data drift, and intelligently links drift alerts to performance changes. Novel algorithms for confidence-based and direct loss estimation. Apache 2.0 licensed.
+- **[whylogs](https://github.com/whylabs/whylogs)** ![GitHub stars](https://img.shields.io/github/stars/whylabs/whylogs?style=social) - Open-source data logging library for ML models and data pipelines. Privacy-preserving data profiling for tracking data quality, detecting drift, and monitoring model performance over time. Lightweight statistical summaries for scalable observability. Apache 2.0 licensed.
 
 #### Guardrails & Safety Tools
 
