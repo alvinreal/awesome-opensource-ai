@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="assets/osai-emerging.png" alt="Awesome Open Source AI - Emerging & Innovations" width="120" />
-
 # Awesome Open Source AI - *Emerging & Innovations*
 
 *A showcase for **promising new projects** that haven't yet met our strict elite-tier criteria but deserve visibility and community support.*
@@ -9,12 +5,8 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-blue.svg?style=flat-square)](./LICENSE)
-</div>
-<div align="center">
 
 **[ 🏆 Elite Tier ](./README.md)** • **[ Submission Guidelines ](./CONTRIBUTING.md)** • **[ License ](#license)**
-
-</div>
 
 ---
 
@@ -68,7 +60,7 @@
 > Fresh agent frameworks, memory systems, and autonomous workflow tools.
 
 - **[Forgetful](https://github.com/ScottRBK/forgetful)** ![GitHub stars](https://img.shields.io/github/stars/ScottRBK/forgetful?style=social) - MCP server for persistent AI agent memory. Stores atomic single-concept notes and auto-links them into a knowledge graph via semantic similarity. SQLite or PostgreSQL.
-- **[OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) ![GitHub stars](https://img.shields.io/github/stars/flik2002/openclaw-monitor?style=social) - Real-time monitoring dashboard for OpenClaw AI agents — tracks Gateway health, token usage, and message trends. Vue 3 + Express + SQLite.
+- **[OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor)** ![GitHub stars](https://img.shields.io/github/stars/flik2002/openclaw-monitor?style=social) - Real-time monitoring dashboard for OpenClaw AI agents — tracks Gateway health, token usage, and message trends. Vue 3 + Express + SQLite.
 
 ---
 
@@ -87,8 +79,6 @@
 *No entries yet — [submit one!](./CONTRIBUTING.md)*
 
 ---
-
-<a id="section-7"></a>
 
 ### 🛠️ 7. Training & Fine-tuning Ecosystem
 
@@ -114,8 +104,6 @@
 
 ---
 
-<a id="section-10"></a>
-
 ### 🛡️ 10. AI Safety, Alignment & Interpretability
 
 > Emerging tools for mechanistic interpretability, alignment training, and red-teaming.
@@ -132,8 +120,6 @@
 - **[OpenEyes](https://github.com/mandarwagh9/openeyes)** ![GitHub stars](https://img.shields.io/github/stars/mandarwagh9/openeyes?style=social) - Hardware-agnostic robot vision framework with world models for predictive intelligence on edge devices.
 
 ---
-
-<a id="section-12"></a>
 
 ### 🖥️ 12. User Interfaces & Self-hosted Platforms
 
