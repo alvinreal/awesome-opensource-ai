@@ -253,7 +253,6 @@
 
 #### Multimodal Models (Vision + Language)
 
-- **[Janus (DeepSeek)](https://github.com/deepseek-ai/Janus)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/Janus?style=social) - Unified multimodal understanding and generation models. Single autoregressive framework handling both visual comprehension and text-to-image generation with state-of-the-art performance. MIT licensed.
 - **[MMaDA (Gen-Verse)](https://github.com/Gen-Verse/MMaDA)** ![GitHub stars](https://img.shields.io/github/stars/Gen-Verse/MMaDA?style=social) - Open-sourced multimodal large diffusion language model with unified architecture for text, image generation and multimodal reasoning. MIT licensed, NeurIPS 2025.
 - **[Qwen3-VL (Alibaba)](https://github.com/QwenLM/Qwen3-VL)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen3-VL?style=social) - Latest flagship VLM with native 256K context (expandable to 1M), visual agent capabilities, 3D grounding, and superior multimodal reasoning. Major leap over Qwen2.5-VL.
 - **[GLM-4.5V / GLM-4.1V-Thinking (Zhipu AI)](https://github.com/zai-org/GLM-V)** ![GitHub stars](https://img.shields.io/github/stars/zai-org/GLM-V?style=social) - Strong multimodal reasoning with scalable reinforcement learning. Compares favorably with Gemini-2.5-Flash on benchmarks.
@@ -1037,7 +1036,6 @@
 
 #### Reinforcement Learning & Robotics
 
-- **[OpenVLA](https://github.com/openvla/openvla)** ![GitHub stars](https://img.shields.io/github/stars/openvla/openvla?style=social) - Open-source vision-language-action model for robotic manipulation. Generalist VLA model that learns from diverse robot demonstrations and language instructions for flexible real-world robot control. MIT licensed.
 - **[LeRobot (Hugging Face)](https://github.com/huggingface/lerobot)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/lerobot?style=social) - State-of-the-art machine learning framework for real-world robotics. End-to-end learning with models, datasets, and training tools for robotic manipulation tasks.
 - **[Stable-Baselines3](https://github.com/DLR-RM/stable-baselines3)** ![GitHub stars](https://img.shields.io/github/stars/DLR-RM/stable-baselines3?style=social) - Production-ready RL algorithms.
 - **[Isaac Lab](https://github.com/isaac-sim/IsaacLab)** ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/IsaacLab?style=social) - GPU-accelerated robot learning framework.
