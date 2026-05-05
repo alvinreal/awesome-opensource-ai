@@ -6,7 +6,7 @@
 
 # Awesome Open Source AI
 
-*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated May 4, 2026. CI verified - auto-fixed.*
+*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated May 5, 2026. CI verified - auto-fixed.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
@@ -1156,12 +1156,15 @@
 - **[Refact](https://github.com/smallcloudai/refact)** ![GitHub stars](https://img.shields.io/github/stars/smallcloudai/refact?style=social) - Open-source AI code assistant with autocomplete, chat, and refactoring. Self-hostable with support for multiple LLM providers. BSD-3-Clause licensed.
 - **[Qwen Code](https://github.com/QwenLM/qwen-code)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/qwen-code?style=social) - Open-source AI agent for the terminal, optimized for Qwen series models. Multi-protocol provider support including OpenAI, Anthropic, Gemini, Alibaba Cloud, OpenRouter. Features agentic workflow with Skills and SubAgents. Apache 2.0 licensed.
 - **[DeepCode](https://github.com/HKUDS/DeepCode)** ![GitHub stars](https://img.shields.io/github/stars/HKUDS/DeepCode?style=social) - Transforms research papers and natural language into production-ready code. AI-powered research-to-code automation tool. MIT licensed.
+- **[Plandex](https://github.com/plandex-ai/plandex)** ![GitHub stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social) - Terminal-based AI coding agent designed for large projects and real-world tasks. Plan and execute multi-step coding tasks with up to 2M tokens of context. Cumulative diff review sandbox keeps AI changes separate until ready. MIT licensed.
 
 #### Notebooks & Interactive Computing
 
 - **[Open Notebook](https://github.com/lfnovo/open-notebook)** ![GitHub stars](https://img.shields.io/github/stars/lfnovo/open-notebook?style=social) - Open-source implementation of Notebook LM with multi-modal content support (PDFs, videos, audio, web pages). Features multi-speaker podcast generation, 18+ AI provider integrations, and full-text + vector search. Self-hosted with complete data sovereignty. MIT licensed.
 - **[Deta Surf](https://github.com/deta/surf)** ![GitHub stars](https://img.shields.io/github/stars/deta/surf?style=social) - Personal AI notebook for organizing files and webpages with AI-generated notes. Local-first data storage, open data formats, and open model choice including local models. Cross-platform desktop app for research and thinking workflows. Apache 2.0 licensed.
 - **[Quarto](https://github.com/quarto-dev/quarto-cli)** ![GitHub stars](https://img.shields.io/github/stars/quarto-dev/quarto-cli?style=social) - Open-source scientific and technical publishing system built on Pandoc. Create dynamic content with Python, R, Julia, and Observable. MIT licensed.
+- **[Deepnote](https://github.com/deepnote/deepnote)** ![GitHub stars](https://img.shields.io/github/stars/deepnote/deepnote?style=social) - Drop-in replacement for Jupyter with AI-first design, sleek UI, and native data integrations. Use Python, R, and SQL locally, then scale to Deepnote cloud for collaboration and deployable data apps. Apache 2.0 licensed.
+- **[Zasper](https://github.com/zasper-io/zasper)** ![GitHub stars](https://img.shields.io/github/stars/zasper-io/zasper?style=social) - High-performance IDE for Jupyter Notebooks built with Go. Up to 5x less CPU and 40x less RAM than JupyterLab. Implements Jupyter's wire protocol with massive concurrency support. AGPL-3.0 licensed.
 
 #### IDE Plugins & Extensions
 
