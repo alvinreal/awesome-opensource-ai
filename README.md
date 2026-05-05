@@ -253,6 +253,7 @@
 
 #### Multimodal Models (Vision + Language)
 
+- **[Janus (DeepSeek)](https://github.com/deepseek-ai/Janus)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/Janus?style=social) - Unified multimodal understanding and generation models. Single autoregressive framework handling both visual comprehension and text-to-image generation with state-of-the-art performance. MIT licensed.
 - **[MMaDA (Gen-Verse)](https://github.com/Gen-Verse/MMaDA)** ![GitHub stars](https://img.shields.io/github/stars/Gen-Verse/MMaDA?style=social) - Open-sourced multimodal large diffusion language model with unified architecture for text, image generation and multimodal reasoning. MIT licensed, NeurIPS 2025.
 - **[Qwen3-VL (Alibaba)](https://github.com/QwenLM/Qwen3-VL)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen3-VL?style=social) - Latest flagship VLM with native 256K context (expandable to 1M), visual agent capabilities, 3D grounding, and superior multimodal reasoning. Major leap over Qwen2.5-VL.
 - **[GLM-4.5V / GLM-4.1V-Thinking (Zhipu AI)](https://github.com/zai-org/GLM-V)** ![GitHub stars](https://img.shields.io/github/stars/zai-org/GLM-V?style=social) - Strong multimodal reasoning with scalable reinforcement learning. Compares favorably with Gemini-2.5-Flash on benchmarks.
@@ -281,6 +282,7 @@
 - **[Chatterbox (Resemble AI)](https://github.com/resemble-ai/chatterbox)** ![GitHub stars](https://img.shields.io/github/stars/resemble-ai/chatterbox?style=social) - State-of-the-art open TTS family with 350M parameter Turbo variant. Single-step generation with native paralinguistic tags for realistic dialogue.
 - **[Dia (Nari Labs)](https://github.com/nari-labs/dia)** ![GitHub stars](https://img.shields.io/github/stars/nari-labs/dia?style=social) - 1.6B parameter TTS generating ultra-realistic dialogue in one pass with nonverbal communications (laughter, coughing). Emotion and tone control via audio conditioning.
 - **[Voxtral TTS (Mistral)](https://github.com/mistralai/mistral-inference)** ![GitHub stars](https://img.shields.io/github/stars/mistralai/mistral-inference?style=social) - 4B parameter state-of-the-art TTS with zero-shot voice cloning, 9-language support, and ~90ms time-to-first-audio for voice agents.
+- **[Ultravox (Fixie AI)](https://github.com/fixie-ai/ultravox)** ![GitHub stars](https://img.shields.io/github/stars/fixie-ai/ultravox?style=social) - Fast multimodal LLM for real-time voice. Production-grade speech-to-text with streaming audio input and low-latency response for conversational AI applications. MIT licensed.
 - **[WhisperSpeech](https://github.com/WhisperSpeech/WhisperSpeech)** ![GitHub stars](https://img.shields.io/github/stars/WhisperSpeech/WhisperSpeech?style=social) - Open source text-to-speech system built by inverting Whisper. High-quality voice cloning with zero-shot capabilities. MIT licensed.
 - **[VoxCPM](https://github.com/OpenBMB/VoxCPM)** ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/VoxCPM?style=social) - Tokenizer-free diffusion autoregressive TTS with 2B parameters. Supports 30+ languages with automatic detection, creative voice design from text descriptions, and high-fidelity voice cloning. Apache 2.0 licensed.
 - **[F5-TTS](https://github.com/SWivid/F5-TTS)** ![GitHub stars](https://img.shields.io/github/stars/SWivid/F5-TTS?style=social) - Flow matching-based TTS with fluent and faithful speech synthesis. Zero-shot voice cloning with high naturalness and prosody accuracy. MIT licensed.
@@ -1035,6 +1037,7 @@
 
 #### Reinforcement Learning & Robotics
 
+- **[OpenVLA](https://github.com/openvla/openvla)** ![GitHub stars](https://img.shields.io/github/stars/openvla/openvla?style=social) - Open-source vision-language-action model for robotic manipulation. Generalist VLA model that learns from diverse robot demonstrations and language instructions for flexible real-world robot control. MIT licensed.
 - **[LeRobot (Hugging Face)](https://github.com/huggingface/lerobot)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/lerobot?style=social) - State-of-the-art machine learning framework for real-world robotics. End-to-end learning with models, datasets, and training tools for robotic manipulation tasks.
 - **[Stable-Baselines3](https://github.com/DLR-RM/stable-baselines3)** ![GitHub stars](https://img.shields.io/github/stars/DLR-RM/stable-baselines3?style=social) - Production-ready RL algorithms.
 - **[Isaac Lab](https://github.com/isaac-sim/IsaacLab)** ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/IsaacLab?style=social) - GPU-accelerated robot learning framework.
