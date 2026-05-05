@@ -148,6 +148,7 @@
 > Fresh IDE plugins, testing frameworks, and developer productivity tools.
 
 - **[agenttrace](https://github.com/luoyuctl/agenttrace)** ![GitHub stars](https://img.shields.io/github/stars/luoyuctl/agenttrace?style=social) - Local-first TUI for AI coding agent session observability across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, OpenCode, and more.
+- **[Uni-CLI](https://github.com/olo-dot-io/Uni-CLI)** ![GitHub stars](https://img.shields.io/github/stars/olo-dot-io/Uni-CLI?style=social) - Self-repairing CLI catalog exposing 237+ websites, desktop apps, and external CLIs as deterministic commands for AI agents via 920 declarative YAML adapters and structured error envelopes; ships an optional MCP server.
 
 ---
 
