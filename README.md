@@ -267,9 +267,6 @@
 - **[Skywork-R1V (Skywork AI)](https://github.com/SkyworkAI/Skywork-R1V)** ![GitHub stars](https://img.shields.io/github/stars/SkyworkAI/Skywork-R1V?style=social) - Advanced multimodal reasoning model specializing in vision-language tasks with chain-of-thought capabilities. State-of-the-art open multimodal reasoning with 76.0 on MMMU benchmark. MIT licensed.
 - **[Depth Anything V2](https://github.com/DepthAnything/Depth-Anything-V2)** ![GitHub stars](https://img.shields.io/github/stars/DepthAnything/Depth-Anything-V2?style=social) - Foundation model for monocular depth estimation trained on 595K synthetic and 62M+ real images. Provides robust, fine-grained depth estimation for any image. Apache 2.0 licensed.
 
-#### Real-Time Multimodal Interaction
-
-
 #### Speech & Audio Models (TTS, STT, Music)
 
 - **[NVIDIA NeMo Speech](https://github.com/NVIDIA-NeMo/NeMo)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA-NeMo/NeMo?style=social) - Scalable generative AI framework for Speech AI including ASR, TTS, and speech LLMs. Includes state-of-the-art Canary and Parakeet models with 25+ European language support. Apache 2.0 licensed.
