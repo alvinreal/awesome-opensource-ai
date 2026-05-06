@@ -321,6 +321,7 @@
 - **[KoboldCpp](https://github.com/LostRuins/koboldcpp)** ![GitHub stars](https://img.shields.io/github/stars/LostRuins/koboldcpp?style=social) - User-friendly llama.cpp fork focused on role-playing and creative writing.
 - **[RamaLama](https://github.com/containers/ramalama)** ![GitHub stars](https://img.shields.io/github/stars/containers/ramalama?style=social) - Container-centric tool for simplifying local AI model serving. Automatically detects GPUs, pulls optimized container images, and runs models securely in rootless containers with enterprise-grade isolation.
 - **[LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)** ![GitHub stars](https://img.shields.io/github/stars/google-ai-edge/LiteRT-LM?style=social) - Google's production-ready inference framework for deploying LLMs on edge devices. Cross-platform support for Android, iOS, Web, Desktop, and IoT with GPU/NPU acceleration. Powers on-device GenAI in Chrome and Chromebook Plus. Apache 2.0 licensed.
+- **[exo](https://github.com/exo-explore/exo)** ![GitHub stars](https://img.shields.io/github/stars/exo-explore/exo?style=social) - Run frontier AI locally by connecting all your devices into an AI cluster. Features automatic device discovery, RDMA over Thunderbolt for 99% latency reduction, topology-aware auto parallel, and tensor parallelism. Uses MLX backend for distributed inference across Apple Silicon devices. Apache 2.0 licensed.
 
 #### High-performance Serving & API Servers
 
