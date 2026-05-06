@@ -321,6 +321,7 @@
 - **[KoboldCpp](https://github.com/LostRuins/koboldcpp)** ![GitHub stars](https://img.shields.io/github/stars/LostRuins/koboldcpp?style=social) - User-friendly llama.cpp fork focused on role-playing and creative writing.
 - **[RamaLama](https://github.com/containers/ramalama)** ![GitHub stars](https://img.shields.io/github/stars/containers/ramalama?style=social) - Container-centric tool for simplifying local AI model serving. Automatically detects GPUs, pulls optimized container images, and runs models securely in rootless containers with enterprise-grade isolation.
 - **[LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)** ![GitHub stars](https://img.shields.io/github/stars/google-ai-edge/LiteRT-LM?style=social) - Google's production-ready inference framework for deploying LLMs on edge devices. Cross-platform support for Android, iOS, Web, Desktop, and IoT with GPU/NPU acceleration. Powers on-device GenAI in Chrome and Chromebook Plus. Apache 2.0 licensed.
+- **[exo](https://github.com/exo-explore/exo)** ![GitHub stars](https://img.shields.io/github/stars/exo-explore/exo?style=social) - Run frontier AI locally by connecting all your devices into an AI cluster. Features automatic device discovery, RDMA over Thunderbolt for 99% latency reduction, topology-aware auto parallel, and tensor parallelism. Uses MLX backend for distributed inference across Apple Silicon devices. Apache 2.0 licensed.
 
 #### High-performance Serving & API Servers
 
@@ -534,6 +535,8 @@
 - **[nanoflann](https://github.com/jlblancoc/nanoflann)** ![GitHub stars](https://img.shields.io/github/stars/jlblancoc/nanoflann?style=social) - C++11 header-only library for fast nearest neighbor search with KD-trees. Zero dependencies, single-file integration, and 2-3x faster than FLANN with modern C++. BSD licensed.
 - **[NMSLIB](https://github.com/nmslib/nmslib)** ![GitHub stars](https://img.shields.io/github/stars/nmslib/nmslib?style=social) - Non-Metric Space Library for efficient similarity search in generic non-metric spaces. Comprehensive toolkit for evaluating k-NN methods with support for exotic distance functions. Apache 2.0 licensed.
 - **[Vearch](https://github.com/vearch/vearch)** ![GitHub stars](https://img.shields.io/github/stars/vearch/vearch?style=social) - Cloud-native distributed vector database for AI-native applications. Efficient similarity search of embedding vectors with horizontal scaling and real-time indexing. Apache 2.0 licensed.
+- **[JVector (DataStax)](https://github.com/datastax/jvector)** ![GitHub stars](https://img.shields.io/github/stars/datastax/jvector?style=social) - The most advanced embedded vector search engine for Java. DiskANN-based algorithm for billion-scale vector search with efficient memory mapping. Apache 2.0 licensed.
+- **[VectorDBBench (Zilliz)](https://github.com/zilliztech/VectorDBBench)** ![GitHub stars](https://img.shields.io/github/stars/zilliztech/VectorDBBench?style=social) - Industry-standard benchmark suite for vector databases. Test and compare performance of Milvus, Zilliz Cloud, and other vector DBs with your own datasets. MIT licensed.
 
 #### Embedding Models
 
@@ -615,6 +618,9 @@
 - **[Ax](https://github.com/ax-llm/ax)** ![GitHub stars](https://img.shields.io/github/stars/ax-llm/ax?style=social) - TypeScript framework for building reliable AI applications. "Official" DSPy-inspired framework for TypeScript with type-safe LLM interactions, chain-of-thought reasoning, and structured output validation. Apache 2.0 licensed.
 - **[Genkit](https://github.com/genkit-ai/genkit)** ![GitHub stars](https://img.shields.io/github/stars/genkit-ai/genkit?style=social) - Open-source framework for building full-stack AI-powered applications in JavaScript, Go, and Python. Built and used in production by Google's Firebase. Unified interface for integrating AI models from multiple providers with built-in RAG, tool calling, structured outputs, and developer tools. Apache 2.0 licensed.
 - **[ContextGem](https://github.com/shcherbak-ai/contextgem)** ![GitHub stars](https://img.shields.io/github/stars/shcherbak-ai/contextgem?style=social) - Effortless LLM extraction framework for documents. Powerful abstractions for building extraction workflows with automated dynamic prompts, data modeling, validation, and precise reference mapping. Apache 2.0 licensed.
+- **[Eino](https://github.com/cloudwego/eino)** ![GitHub stars](https://img.shields.io/github/stars/cloudwego/eino?style=social) - The ultimate LLM/AI application development framework in Go. Drawing from LangChain and Google ADK, designed to follow Go conventions with composable components for chains, agents, and workflows. Apache 2.0 licensed.
+- **[ruby_llm](https://github.com/crmne/ruby_llm)** ![GitHub stars](https://img.shields.io/github/stars/crmne/ruby_llm?style=social) - One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, Azure, OpenRouter, DeepSeek, Ollama, and 15+ providers. Agents, Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming and Rails integration. MIT licensed.
+- **[LangChain.rb](https://github.com/patterns-ai-core/langchainrb)** ![GitHub stars](https://img.shields.io/github/stars/patterns-ai-core/langchainrb?style=social) - Build LLM-powered applications in Ruby. Idiomatic Ruby library for building AI applications with support for multiple LLM providers, vector stores, and RAG pipelines. MIT licensed.
 
 
 ---
@@ -792,6 +798,7 @@
 - **[Cerebras Model Zoo](https://github.com/Cerebras/modelzoo)** ![GitHub stars](https://img.shields.io/github/stars/Cerebras/modelzoo?style=social) - Collection of deep learning models and utilities optimized for Cerebras hardware. Includes reference implementations for Llama, Mixtral, DINOv2, and Llava with configuration files, data preprocessing tools, and checkpoint converters. 1,150+ stars. Apache 2.0 licensed.
 - **[PaddleClas](https://github.com/PaddlePaddle/PaddleClas)** ![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleClas?style=social) - Comprehensive image recognition and classification toolkit with rich model zoo. 5,800+ stars featuring 24 series of classification networks, 122 pretrained models, and end-to-end image recognition systems including PP-ShiTuV2. Apache 2.0 licensed.
 
+
 #### Model Packaging & Deployment
 
 - **[Cog (Replicate)](https://github.com/replicate/cog)** ![GitHub stars](https://img.shields.io/github/stars/replicate/cog?style=social) - Containerize and deploy ML models with production-grade inference servers. Packages models into standardized containers with automatic API generation, GPU support, and one-command deployment. Powers thousands of production AI models on Replicate. Apache 2.0 licensed.
@@ -821,6 +828,7 @@
 - **[SkyPilot](https://github.com/skypilot-org/skypilot)** ![GitHub stars](https://img.shields.io/github/stars/skypilot-org/skypilot?style=social) - Run, manage, and scale AI workloads on any AI infrastructure. Unified interface to access and manage compute across Kubernetes, Slurm, and 20+ cloud providers. Used by Shopify and research institutions for training and inference. Apache 2.0 licensed.
 - **[Volcano](https://github.com/volcano-sh/volcano)** ![GitHub stars](https://img.shields.io/github/stars/volcano-sh/volcano?style=social) - Cloud-native batch scheduling system for compute-intensive workloads. CNCF incubating project with gang scheduling, job dependency management, and topology-aware scheduling for AI/ML and deep learning. Apache 2.0 licensed.
 - **[Apache YuniKorn](https://github.com/apache/yunikorn-core)** ![GitHub stars](https://img.shields.io/github/stars/apache/yunikorn-core?style=social) - Kubernetes resource scheduler for batch, data, and ML workloads. Provides hierarchical resource queues, multi-tenancy fairness, and gang scheduling for big data and machine learning applications. Apache 2.0 licensed.
+- **[Kueue](https://github.com/kubernetes-sigs/kueue)** ![GitHub stars](https://img.shields.io/github/stars/kubernetes-sigs/kueue?style=social) - Kubernetes-native job queueing system for batch, HPC, AI/ML, and similar applications. Cloud-native job queueing with resource flavor fungibility, fair sharing, cohorts, and preemption policies. Integrates with Kubeflow, Ray, and JobSet. Apache 2.0 licensed.
 
 #### Feature Engineering & Data Preparation
 
