@@ -6,7 +6,7 @@
 
 # Awesome Open Source AI
 
-*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated May 5, 2026. CI verified - auto-fixed.*
+*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated May 6, 2026. CI verified - auto-fixed.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
@@ -771,7 +771,6 @@
 
 - **[MLflow](https://github.com/mlflow/mlflow)** ![GitHub stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social) - End-to-end open platform for the ML/LLM lifecycle.
 - **[DVC (Data Version Control)](https://github.com/iterative/dvc)** ![GitHub stars](https://img.shields.io/github/stars/iterative/dvc?style=social) - Git-like versioning for data and models.
-- **[Pachyderm](https://github.com/pachyderm/pachyderm)** ![GitHub stars](https://img.shields.io/github/stars/pachyderm/pachyderm?style=social) - Data-centric pipelines and data versioning for ML. Automates data pipelines with version control, lineage tracking, and reproducibility. Apache 2.0 licensed.
 - **[ClearML](https://github.com/clearml/clearml)** ![GitHub stars](https://img.shields.io/github/stars/clearml/clearml?style=social) - Open-source platform for experiment tracking, orchestration, data management, and model serving.
 - **[Weights & Biases Weave](https://github.com/wandb/weave)** ![GitHub stars](https://img.shields.io/github/stars/wandb/weave?style=social) - Open-source tracing and experiment tracking.
 - **[Aim](https://github.com/aimhubio/aim)** ![GitHub stars](https://img.shields.io/github/stars/aimhubio/aim?style=social) - Self-hosted ML experiment tracker designed to handle 10,000s of training runs with performant UI and SDK for programmatic access. Apache 2.0 licensed.
@@ -903,7 +902,6 @@
 - **[E2B Code Interpreter](https://github.com/e2b-dev/code-interpreter)** ![GitHub stars](https://img.shields.io/github/stars/e2b-dev/code-interpreter?style=social) - Python & JS/TS SDK for running AI-generated code in secure isolated sandboxes. Essential infrastructure for evaluating code-generating LLMs with safe execution environments. Apache 2.0 licensed.
 - **[SimpleEvals (OpenAI)](https://github.com/openai/simple-evals)** ![GitHub stars](https://img.shields.io/github/stars/openai/simple-evals?style=social) - Lightweight library for evaluating language models with transparent accuracy numbers. Reference implementations for MMLU, GPQA, MATH, HumanEval, MGSM, DROP, and SimpleQA benchmarks. MIT licensed.
 - **[EvalScope (ModelScope)](https://github.com/modelscope/evalscope)** ![GitHub stars](https://img.shields.io/github/stars/modelscope/evalscope?style=social) - Streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking. One-stop evaluation solution with 80+ benchmarks. Apache 2.0 licensed.
-- **[BigCode Evaluation Harness](https://github.com/bigcode-project/bigcode-evaluation-harness)** ![GitHub stars](https://img.shields.io/github/stars/bigcode-project/bigcode-evaluation-harness?style=social) - Comprehensive framework for evaluating autoregressive code generation language models across 15+ benchmarks including HumanEval, MBPP, and MultiPL-E (18 languages). From the BigCode project. Apache 2.0 licensed.
 - **[Harbor](https://github.com/harbor-framework/harbor)** ![GitHub stars](https://img.shields.io/github/stars/harbor-framework/harbor?style=social) - Framework for running agent evaluations and creating/using RL environments. Evaluate arbitrary agents like Claude Code, OpenHands, and Codex CLI. Build and share benchmarks and environments. Apache 2.0 licensed.
 #### High-quality Open Datasets & Data Tools
 
