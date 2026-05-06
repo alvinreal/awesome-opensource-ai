@@ -160,6 +160,14 @@
 
 ## 🚀 Promotion to Elite Tier
 
+
+## OpenClaw Monitor
+
+⭐ **[OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor)** — Real-time AI agent monitoring dashboard for OpenClaw Gateway. Tracks session metrics, token usage trends, and agent status.
+
+![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor/main/Openclaw%20Monitor.jpg)
+
+
 Projects can graduate from Emerging to Elite when they meet **all** elite-tier criteria:
 
 | Criterion | Emerging Threshold | Elite Threshold |
