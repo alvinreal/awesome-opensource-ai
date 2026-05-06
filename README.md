@@ -266,14 +266,9 @@
 - **[OmniGen (VectorSpaceLab)](https://github.com/VectorSpaceLab/OmniGen)** ![GitHub stars](https://img.shields.io/github/stars/VectorSpaceLab/OmniGen?style=social) - Unified image generation model that handles text-to-image, subject-driven generation, identity-preserving generation, and image editing from multi-modal prompts without additional plugins. MIT licensed.
 - **[Skywork-R1V (Skywork AI)](https://github.com/SkyworkAI/Skywork-R1V)** ![GitHub stars](https://img.shields.io/github/stars/SkyworkAI/Skywork-R1V?style=social) - Advanced multimodal reasoning model specializing in vision-language tasks with chain-of-thought capabilities. State-of-the-art open multimodal reasoning with 76.0 on MMMU benchmark. MIT licensed.
 - **[Depth Anything V2](https://github.com/DepthAnything/Depth-Anything-V2)** ![GitHub stars](https://img.shields.io/github/stars/DepthAnything/Depth-Anything-V2?style=social) - Foundation model for monocular depth estimation trained on 595K synthetic and 62M+ real images. Provides robust, fine-grained depth estimation for any image. Apache 2.0 licensed.
-- **[LLaVA (Haotian Liu)](https://github.com/haotian-liu/LLaVA)** ![GitHub stars](https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social) - Pioneer in visual instruction tuning (NeurIPS'23 Oral). Connects vision encoder to LLM for general-purpose visual and language understanding. Foundation for many subsequent VLMs. Apache 2.0 licensed.
-- **[Janus / Janus-Pro (DeepSeek)](https://github.com/deepseek-ai/Janus)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/Janus?style=social) - Unified multimodal understanding and generation models. Janus-Pro achieves state-of-the-art results on both multimodal understanding and visual generation benchmarks. MIT licensed.
 
 #### Real-Time Multimodal Interaction
 
-- **[VITA (VITA-MLLM)](https://github.com/VITA-MLLM/VITA)** ![GitHub stars](https://img.shields.io/github/stars/VITA-MLLM/VITA?style=social) - First open-source interactive omni multimodal LLM with real-time vision and speech interaction. GPT-4o level capabilities for streaming audio-visual conversations. Apache 2.0 licensed.
-- **[Mini-Omni (GPT-Omni)](https://github.com/gpt-omni/mini-omni)** ![GitHub stars](https://img.shields.io/github/stars/gpt-omni/mini-omni?style=social) - Multimodal LLM that can hear, talk while thinking. Real-time end-to-end speech input and streaming audio output without separate ASR/TTS models. MIT licensed.
-- **[OpenOmni (RainBowLuoCS)](https://github.com/RainBowLuoCS/OpenOmni)** ![GitHub stars](https://img.shields.io/github/stars/RainBowLuoCS/OpenOmni?style=social) - End-to-end fully open-source omni-modal LLM with progressive multimodal alignment and real-time self-aware emotional speech synthesis (NeurIPS 2025). MIT licensed.
 
 #### Speech & Audio Models (TTS, STT, Music)
 
