@@ -39,17 +39,10 @@ Maintain the awesome-opensource-ai list by:
 ## Last Run
 
 **Date:** 2026-05-06
-**Run ID:** 25412556802
+**Run ID:** 25434088404
 **Status:** All validation errors fixed
-**Entries Removed (Batch 1):** 5
-- haotian-liu/LLaVA (stale 631 days)
-- deepseek-ai/Janus (stale 458 days)
-- VITA-MLLM/VITA (stale 403 days)
-- gpt-omni/mini-omni (stale 546 days)
-- RainBowLuoCS/OpenOmni (low stars: 139 < 1000)
+**Entries Removed (Batch 1):** 1
+- protectai/rebuff (stale 636 days, archived)
 
-**Entries Removed (Batch 2):** 1
-- open-mmlab/mmpretrain (stale 550 days)
-
-**Total:** 6 entries removed
+**Total:** 1 entry removed
 **CI Status:** Passing after fixes
