@@ -896,6 +896,8 @@
 - **[Vectara Hallucination Leaderboard](https://github.com/vectara/hallucination-leaderboard)** ![GitHub stars](https://img.shields.io/github/stars/vectara/hallucination-leaderboard?style=social) - Leaderboard comparing LLM performance at producing hallucinations when summarizing short documents. Systematic evaluation of factual consistency across major models. Apache 2.0 licensed.
 - **[SWE-rebench (Nebius)](https://huggingface.co/datasets/nebius/SWE-rebench)** - Continuously updated benchmark with 21,000+ real-world SWE tasks for evaluating agentic LLMs. Decontaminated, mined from GitHub.
 - **[AgentBench (THUDM)](https://github.com/THUDM/AgentBench)** ![GitHub stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=social) - Comprehensive benchmark to evaluate LLMs as agents across 8 diverse environments including household, web shopping, OS interaction, and database tasks. ICLR 2024. Apache 2.0 licensed.
+- **[MLE-bench (OpenAI)](https://github.com/openai/mle-bench)** ![GitHub stars](https://img.shields.io/github/stars/openai/mle-bench?style=social) - Benchmark for measuring how well AI agents perform at machine learning engineering. Evaluates agents on 75 Kaggle competitions covering diverse ML tasks. MIT licensed.
+- **[WebArena](https://github.com/web-arena-x/webarena)** ![GitHub stars](https://img.shields.io/github/stars/web-arena-x/webarena?style=social) - Realistic web environment for building and evaluating autonomous agents. Self-hostable benchmark with 812 diverse web tasks across shopping, CMS, Reddit, GitLab, and more. ICLR 2024. MIT licensed.
 
 
 #### Evaluation Frameworks
