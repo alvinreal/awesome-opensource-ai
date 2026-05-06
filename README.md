@@ -405,6 +405,7 @@
 
 - **[Burr](https://github.com/apache/burr)** ![GitHub stars](https://img.shields.io/github/stars/apache/burr?style=social) - Apache incubating framework for building stateful AI applications (chatbots, agents, simulations). Monitor, trace, persist, and execute on your own infrastructure with built-in UI and pluggable memory. Apache 2.0 licensed.
 - **[KaibanJS](https://github.com/kaiban-ai/KaibanJS)** ![GitHub stars](https://img.shields.io/github/stars/kaiban-ai/KaibanJS?style=social) - JavaScript-native framework for building and managing multi-agent systems with a Kanban-inspired approach. Visual task board for AI agents with real-time collaboration features. MIT licensed.
+- **[Superpowers](https://github.com/obra/superpowers)** ![GitHub stars](https://img.shields.io/github/stars/obra/superpowers?style=social) - Agentic skills framework and software development methodology for coding agents. Provides structured skill definitions that work across Claude Code, Codex CLI, Gemini CLI, OpenCode, and other coding agents. 180K+ stars. MIT licensed.
 
 #### Multi-Agent Orchestration
 
