@@ -432,6 +432,13 @@
 - **[BeeAI Framework (IBM)](https://github.com/i-am-bee/beeai-framework)** ![GitHub stars](https://img.shields.io/github/stars/i-am-bee/beeai-framework?style=social) - Production-ready multi-agent framework in Python and TypeScript. Features workflow orchestration, ACP/MCP protocol support, and deep watsonx integration. Part of Linux Foundation AI & Data program.
 - **[AI Town](https://github.com/a16z-infra/ai-town)** ![GitHub stars](https://img.shields.io/github/stars/a16z-infra/ai-town?style=social) - Deployable starter kit for building virtual towns where AI characters live, chat and socialize. Inspired by Stanford's Generative Agents research with persistent agent memory and social interactions. MIT licensed.
 - **[Conductor OSS](https://github.com/conductor-oss/conductor)** ![GitHub stars](https://img.shields.io/github/stars/conductor-oss/conductor?style=social) - Event-driven agentic orchestration platform providing durable and resilient execution engine for applications and AI agents. Battle-tested at Netflix, Tesla, LinkedIn, and J.P. Morgan with 30K+ stars. Apache 2.0 licensed.
+- **[A2A Protocol](https://github.com/a2aproject/A2A)** ![GitHub stars](https://img.shields.io/github/stars/a2aproject/A2A?style=social) - Agent2Agent (A2A) open protocol enabling communication and interoperability between opaque agentic applications. Donated to Linux Foundation by Google with 50+ technology partners. Apache 2.0 licensed.
+- **[Sim Studio](https://github.com/simstudioai/sim)** ![GitHub stars](https://img.shields.io/github/stars/simstudioai/sim?style=social) - Open-source AI workspace for building, deploying, and orchestrating AI agents. Visual canvas with 1000+ integrations, multi-framework support (Agno, OpenAI, LangChain, Google ADK), and self-hosted or cloud deployment. Apache 2.0 licensed.
+- **[2FastLabs Agent Squad](https://github.com/2FastLabs/agent-squad)** ![GitHub stars](https://img.shields.io/github/stars/2FastLabs/agent-squad?style=social) - Flexible, lightweight open-source framework for orchestrating multiple AI agents to handle complex conversations with parallel execution capabilities. Apache 2.0 licensed.
+
+#### Agent Protocols & Standards
+
+- **[Agent File](https://github.com/letta-ai/agent-file)** ![GitHub stars](https://img.shields.io/github/stars/letta-ai/agent-file?style=social) - Open file format (.af) for serializing stateful AI agents with persistent memory and behavior. Share, checkpoint, and version control agents across compatible frameworks. Apache 2.0 licensed.
 
 #### Autonomous Coding Agents
 
@@ -448,6 +455,7 @@
 - **[Trae Agent](https://github.com/bytedance/trae-agent)** ![GitHub stars](https://img.shields.io/github/stars/bytedance/trae-agent?style=social) - Software-engineering agent from ByteDance for autonomous coding tasks and repository-level development workflows.
 - **[Kilo Code](https://github.com/Kilo-Org/kilocode)** ![GitHub stars](https://img.shields.io/github/stars/Kilo-Org/kilocode?style=social) - Open-source agentic coding assistant with IDE workflows, tool use, and support for local or OpenAI-compatible models.
 - **[Open SWE](https://github.com/langchain-ai/open-swe)** ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/open-swe?style=social) - Asynchronous coding agent from the LangChain ecosystem for background software engineering tasks.
+- **[Letta Code](https://github.com/letta-ai/letta-code)** ![GitHub stars](https://img.shields.io/github/stars/letta-ai/letta-code?style=social) - Memory-first coding harness designed for long-lived agents that learn from experience. Persistent agents with portable memory across models (Claude, GPT, Gemini, GLM, Kimi). CLI and desktop app for MacOS, Windows, and Linux. Apache 2.0 licensed.
 
 #### Prompt Engineering & Structured Outputs
 
