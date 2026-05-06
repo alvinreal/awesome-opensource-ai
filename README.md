@@ -6,7 +6,7 @@
 
 # Awesome Open Source AI
 
-*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated May 6, 2026. CI verified - auto-fixed.*
+*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated May 6, 2026.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
@@ -600,6 +600,8 @@
 - **[localGPT](https://github.com/PromtEngineer/localGPT)** ![GitHub stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social) - Local document-chat project for private, on-device Q&A over files without sending data to external APIs.
 - **[SurfSense](https://github.com/MODSetter/SurfSense)** ![GitHub stars](https://img.shields.io/github/stars/MODSetter/SurfSense?style=social) - Privacy-focused NotebookLM-style workspace for teams to search, organize, and query knowledge with self-hosted RAG.
 - **[Morphik](https://github.com/morphik-org/morphik-core)** ![GitHub stars](https://img.shields.io/github/stars/morphik-org/morphik-core?style=social) - Open-source multimodal RAG framework for building AI apps over private knowledge. Handles text, images, and documents with built-in embedding generation and vector search. MIT licensed.
+- **[Quivr](https://github.com/QuivrHQ/quivr)** ![GitHub stars](https://img.shields.io/github/stars/QuivrHQ/quivr?style=social) - Opinionated RAG framework for integrating GenAI into your apps. Focus on your product rather than the RAG. Works with any LLM (OpenAI, Anthropic, Groq, Llama), any vector store (PGVector, Faiss), and any file format. Apache 2.0 licensed.
+- **[STORM](https://github.com/stanford-oval/storm)** ![GitHub stars](https://img.shields.io/github/stars/stanford-oval/storm?style=social) - LLM-powered knowledge curation system that researches a topic and generates full-length reports with citations. From Stanford OVAL lab. Apache 2.0 licensed.
 
 #### Knowledge Graphs for RAG
 
