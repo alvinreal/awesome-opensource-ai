@@ -293,7 +293,7 @@
 #### Video & Animation Models
 
 - **[Open-Sora (HPC-AI Tech)](https://github.com/hpcaitech/Open-Sora)** ![GitHub stars](https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social) - Democratizing efficient video production for all. Complete open-source video generation system with 11B model achieving commercial-level quality. Apache 2.0 licensed.
-- **[Mochi 1 (Genmo)](https://github.com/genmoai/mochi) ![GitHub stars](https://img.shields.io/github/stars/genmoai/mochi?style=social) - 10B open video model with impressive motion and consistency.
+- **[Mochi 1 (Genmo)](https://github.com/genmoai/mochi)** ![GitHub stars](https://img.shields.io/github/stars/genmoai/mochi?style=social) - 10B open video model with impressive motion and consistency.
 
 #### Image Generation Models
 
