@@ -634,6 +634,7 @@
 - **[Eino](https://github.com/cloudwego/eino)** ![GitHub stars](https://img.shields.io/github/stars/cloudwego/eino?style=social) - The ultimate LLM/AI application development framework in Go. Drawing from LangChain and Google ADK, designed to follow Go conventions with composable components for chains, agents, and workflows. Apache 2.0 licensed.
 - **[ruby_llm](https://github.com/crmne/ruby_llm)** ![GitHub stars](https://img.shields.io/github/stars/crmne/ruby_llm?style=social) - One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, Azure, OpenRouter, DeepSeek, Ollama, and 15+ providers. Agents, Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming and Rails integration. MIT licensed.
 - **[LangChain.rb](https://github.com/patterns-ai-core/langchainrb)** ![GitHub stars](https://img.shields.io/github/stars/patterns-ai-core/langchainrb?style=social) - Build LLM-powered applications in Ruby. Idiomatic Ruby library for building AI applications with support for multiple LLM providers, vector stores, and RAG pipelines. MIT licensed.
+- **[LMQL](https://github.com/eth-sri/lmql)** ![GitHub stars](https://img.shields.io/github/stars/eth-sri/lmql?style=social) - Programming language for large language models based on a superset of Python. Offers constraint-guided and efficient LLM programming with typed prompting, control flow, and constraints. MIT licensed.
 
 
 ---
