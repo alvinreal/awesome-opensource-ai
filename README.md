@@ -475,6 +475,8 @@
 
 - **[AdalFlow](https://github.com/SylphAI-Inc/AdalFlow)** ![GitHub stars](https://img.shields.io/github/stars/SylphAI-Inc/AdalFlow?style=social) - Library to build and auto-optimize LLM applications with LLM-AutoDiff for fine-tuning-free optimization. End-to-end workflow optimization with tracing and human-in-the-loop capabilities. MIT licensed.
 - **[PromptTools](https://github.com/hegelai/prompttools)** ![GitHub stars](https://img.shields.io/github/stars/hegelai/prompttools?style=social) - Open-source tools for prompt testing and experimentation with support for LLMs and vector databases. Test prompt variants across multiple providers (OpenAI, LLaMA) and vector stores (Chroma, Weaviate, LanceDB). Apache 2.0 licensed.
+- **[TextGrad](https://github.com/zou-group/textgrad)** ![GitHub stars](https://img.shields.io/github/stars/zou-group/textgrad?style=social) - Automatic "Differentiation" via Text using large language models to backpropagate textual gradients. Published in Nature. Enables gradient-based optimization of prompts and text-based systems without traditional backpropagation. MIT licensed.
+- **[PromptWizard](https://github.com/microsoft/PromptWizard)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/PromptWizard?style=social) - Task-Aware Agent-driven Prompt Optimization Framework from Microsoft. Automatically optimizes prompts through iterative refinement using agent-based feedback loops and task-aware evaluation. MIT licensed.
 
 #### Domain-Specific Agents
 
