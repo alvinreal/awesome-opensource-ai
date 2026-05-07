@@ -245,11 +245,7 @@
 - **[Pythia (EleutherAI)](https://github.com/EleutherAI/pythia)** ![GitHub stars](https://img.shields.io/github/stars/EleutherAI/pythia?style=social) - Suite of interpretability-focused LLMs (70M to 12B parameters) with fully open training data, intermediate checkpoints, and analysis tools. Designed for studying learning dynamics and interpretability with public domain training data. Apache 2.0 licensed.
 - **[T5 (Google)](https://github.com/google-research/text-to-text-transfer-transformer)** ![GitHub stars](https://img.shields.io/github/stars/google-research/text-to-text-transfer-transformer?style=social) - Text-to-Text Transfer Transformer that unified NLP tasks under a single encoder-decoder architecture. The foundation for Flan-T5 and many downstream applications. One of the first OSI-validated fully open-source language models with training data and code. Apache 2.0 licensed.
 - **[GPT-NeoX-20B (EleutherAI)](https://github.com/EleutherAI/gpt-neox)** ![GitHub stars](https://img.shields.io/github/stars/EleutherAI/gpt-neox?style=social) - 20B parameter autoregressive language model trained on the Pile dataset. One of the largest dense open-source models with publicly available weights at release. Complete training codebase with distributed training support. Apache 2.0 licensed.
-- **[OpenLLaMA (OpenLM Research)](https://github.com/openlm-research/open_llama)** ![GitHub stars](https://img.shields.io/github/stars/openlm-research/open_llama?style=social) - Permissively licensed open source reproduction of Meta AI's LLaMA. 3B, 7B, and 13B models trained on 1T tokens with PyTorch and JAX weights. Drop-in replacement for LLaMA in existing implementations. Apache 2.0 licensed.
-- **[StableLM (Stability AI)](https://github.com/Stability-AI/StableLM)** ![GitHub stars](https://img.shields.io/github/stars/Stability-AI/StableLM?style=social) - Stability AI's ongoing development of open language models. State-of-the-art performance at 3B parameter scale, competitive with many 7B models. Apache 2.0 licensed.
-- **[Petals (BigScience)](https://github.com/bigscience-workshop/petals)** ![GitHub stars](https://img.shields.io/github/stars/bigscience-workshop/petals?style=social) - Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading by distributing model layers across peers. Decentralized inference for large models. MIT licensed.
-- **[OpenFlamingo (ML Foundations)](https://github.com/mlfoundations/open_flamingo)** ![GitHub stars](https://img.shields.io/github/stars/mlfoundations/open_flamingo?style=social) - Open-source framework for training large multimodal models. Fuses pretrained vision encoder and language model using cross attention layers. Enables training custom multimodal models with publicly available components. MIT licensed.
-- **[CodeGen (Salesforce)](https://github.com/salesforce/CodeGen)** ![GitHub stars](https://img.shields.io/github/stars/salesforce/CodeGen?style=social) - Family of open-source models for program synthesis trained on TPU-v4. Competitive with OpenAI Codex at release. Multiple model sizes for code generation, completion, and synthesis tasks. Apache 2.0 licensed.
+
 
 #### Coding & Reasoning Models
 
@@ -475,8 +471,7 @@
 
 - **[AdalFlow](https://github.com/SylphAI-Inc/AdalFlow)** ![GitHub stars](https://img.shields.io/github/stars/SylphAI-Inc/AdalFlow?style=social) - Library to build and auto-optimize LLM applications with LLM-AutoDiff for fine-tuning-free optimization. End-to-end workflow optimization with tracing and human-in-the-loop capabilities. MIT licensed.
 - **[PromptTools](https://github.com/hegelai/prompttools)** ![GitHub stars](https://img.shields.io/github/stars/hegelai/prompttools?style=social) - Open-source tools for prompt testing and experimentation with support for LLMs and vector databases. Test prompt variants across multiple providers (OpenAI, LLaMA) and vector stores (Chroma, Weaviate, LanceDB). Apache 2.0 licensed.
-- **[TextGrad](https://github.com/zou-group/textgrad)** ![GitHub stars](https://img.shields.io/github/stars/zou-group/textgrad?style=social) - Automatic "Differentiation" via Text using large language models to backpropagate textual gradients. Published in Nature. Enables gradient-based optimization of prompts and text-based systems without traditional backpropagation. MIT licensed.
-- **[PromptWizard](https://github.com/microsoft/PromptWizard)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/PromptWizard?style=social) - Task-Aware Agent-driven Prompt Optimization Framework from Microsoft. Automatically optimizes prompts through iterative refinement using agent-based feedback loops and task-aware evaluation. MIT licensed.
+
 
 #### Domain-Specific Agents
 
@@ -636,7 +631,7 @@
 - **[Eino](https://github.com/cloudwego/eino)** ![GitHub stars](https://img.shields.io/github/stars/cloudwego/eino?style=social) - The ultimate LLM/AI application development framework in Go. Drawing from LangChain and Google ADK, designed to follow Go conventions with composable components for chains, agents, and workflows. Apache 2.0 licensed.
 - **[ruby_llm](https://github.com/crmne/ruby_llm)** ![GitHub stars](https://img.shields.io/github/stars/crmne/ruby_llm?style=social) - One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, Azure, OpenRouter, DeepSeek, Ollama, and 15+ providers. Agents, Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming and Rails integration. MIT licensed.
 - **[LangChain.rb](https://github.com/patterns-ai-core/langchainrb)** ![GitHub stars](https://img.shields.io/github/stars/patterns-ai-core/langchainrb?style=social) - Build LLM-powered applications in Ruby. Idiomatic Ruby library for building AI applications with support for multiple LLM providers, vector stores, and RAG pipelines. MIT licensed.
-- **[LMQL](https://github.com/eth-sri/lmql)** ![GitHub stars](https://img.shields.io/github/stars/eth-sri/lmql?style=social) - Programming language for large language models based on a superset of Python. Offers constraint-guided and efficient LLM programming with typed prompting, control flow, and constraints. MIT licensed.
+
 
 
 ---
