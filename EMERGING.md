@@ -84,7 +84,7 @@
 
 > Emerging image, video, audio, and 3D generation models with novel techniques.
 
-*No entries yet — [submit one!](./CONTRIBUTING.md)*
+- **[ViralMint](https://github.com/openclaw-easy/ViralMint)** ![GitHub stars](https://img.shields.io/github/stars/openclaw-easy/ViralMint?style=social) - End-to-end short-video pipeline that scouts trending content across YouTube, TikTok and Douyin, transcribes competitors locally with faster-whisper, and assembles original mp4s with AI script, voice, word-by-word ASS captions and background music on Pexels stock footage. AGPL-3.0 licensed.
 
 ---
 
