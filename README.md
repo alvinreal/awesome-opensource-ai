@@ -1324,7 +1324,7 @@ Feel free to use it for any purpose.
 ---
 
 **Made with ❤️ for the open-source AI community.**
-Star the repo if you find it useful — it helps more people discover the best open tools!
+Star the repo if you find it useful — it helps more people discover the best open-source AI tools!
 
 ---
 
