@@ -38,12 +38,12 @@ Maintain the awesome-opensource-ai list by:
 
 ## Last Run
 
-**Date:** 2026-05-06 20:02 UTC
-**Run ID:** 25444645687 (latest successful push to main)
+**Date:** 2026-05-08 02:02 UTC
+**Run ID:** 25528971386 (latest successful push to main)
 **Status:** ✅ CI PASSING - No fixes needed
 **Entries Removed:** 0
 
-**Previous Runs Today:**
+**Previous Runs (May 7-8, 2026):**
 - Batch 1 (Run 25412556802): 5 entries removed
   - haotian-liu/LLaVA (stale 631 days)
   - deepseek-ai/Janus (stale 458 days)
@@ -54,7 +54,13 @@ Maintain the awesome-opensource-ai list by:
   - open-mmlab/mmpretrain (stale 550 days)
 - Batch 3 (Run 25434088404): 1 entry removed
   - protectai/rebuff (stale 636 days, archived)
-- Batch 4 (Run 25444645687): 0 entries removed - CI passing, no action needed
+- Batch 4 (Run 25444645687): 0 entries removed - CI passing
+- Batch 5 (Run 25527326066): Failed - 4 stale repos detected but already fixed in subsequent run
+  - deepseek-ai/deepseek-vl2 (stale 435 days)
+  - moonshotai/kimi-vl (stale 296 days)
+  - bytedance-seed/seed1.5-vl (stale 327 days)
+  - modelscope/clearervoice-studio (stale 266 days)
+- Batch 6 (Run 25528971386): ✅ CI PASSING - All stale repos removed
 
-**Total entries removed today:** 7
+**Total entries removed this cycle:** 11
 **CI Status:** Passing - 0 errors, 0 warnings
