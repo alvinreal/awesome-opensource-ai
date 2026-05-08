@@ -6,7 +6,7 @@
 
 # Awesome Open Source AI
 
-*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated May 6, 2026. CI verified - auto-fixed.*
+*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated May 8, 2026. CI verified - auto-fixed.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
@@ -901,6 +901,11 @@
 - **[AgentBench (THUDM)](https://github.com/THUDM/AgentBench)** ![GitHub stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=social) - Comprehensive benchmark to evaluate LLMs as agents across 8 diverse environments including household, web shopping, OS interaction, and database tasks. ICLR 2024. Apache 2.0 licensed.
 - **[MLE-bench (OpenAI)](https://github.com/openai/mle-bench)** ![GitHub stars](https://img.shields.io/github/stars/openai/mle-bench?style=social) - Benchmark for measuring how well AI agents perform at machine learning engineering. Evaluates agents on 75 Kaggle competitions covering diverse ML tasks. MIT licensed.
 - **[WebArena](https://github.com/web-arena-x/webarena)** ![GitHub stars](https://img.shields.io/github/stars/web-arena-x/webarena?style=social) - Realistic web environment for building and evaluating autonomous agents. Self-hostable benchmark with 812 diverse web tasks across shopping, CMS, Reddit, GitLab, and more. ICLR 2024. MIT licensed.
+- **[LLMZoo (FreedomIntelligence)](https://github.com/FreedomIntelligence/LLMZoo)** ![GitHub stars](https://img.shields.io/github/stars/FreedomIntelligence/LLMZoo?style=social) - Comprehensive LLM evaluation benchmark with data, models, and standardized assessment protocols. Apache 2.0 licensed.
+- **[BEIR](https://github.com/beir-cellar/beir)** ![GitHub stars](https://img.shields.io/github/stars/beir-cellar/beir?style=social) - Heterogeneous benchmark for information retrieval evaluation across 15+ diverse IR datasets. Apache 2.0 licensed.
+- **[EvalPlus](https://github.com/evalplus/evalplus)** ![GitHub stars](https://img.shields.io/github/stars/evalplus/evalplus?style=social) - Rigorous evaluation framework for LLM-synthesized code with enhanced test coverage. NeurIPS 2023 & COLM 2024. Apache 2.0 licensed.
+- **[LLM Colosseum](https://github.com/OpenGenerativeAI/llm-colosseum)** ![GitHub stars](https://img.shields.io/github/stars/OpenGenerativeAI/llm-colosseum?style=social) - Novel benchmark evaluating LLMs through competitive Street Fighter 3 gameplay. Creative approach to assessing model decision-making and strategy. MIT licensed.
+- **[PinchBench](https://github.com/pinchbench/skill)** ![GitHub stars](https://img.shields.io/github/stars/pinchbench/skill?style=social) - Benchmarking system for evaluating LLM models as OpenClaw coding agents. Built with Rust by the kilo.ai team. MIT licensed.
 
 
 #### Evaluation Frameworks
