@@ -47,7 +47,7 @@ Maintain the awesome-opensource-ai list by:
 - pinecone-io/canopy (stale 541 days, archived)
 - truefoundry/cognita (archived)
 
-**Previous Runs (May 7-8, 2026):**
+**Previous Runs (May 7-9, 2026):**
 - Batch 1 (Run 25412556802): 5 entries removed
   - haotian-liu/LLaVA (stale 631 days)
   - deepseek-ai/Janus (stale 458 days)
@@ -67,6 +67,13 @@ Maintain the awesome-opensource-ai list by:
 - Batch 6 (Run 25528971386): ✅ CI PASSING - All stale repos removed
 - Batch 7 (Run 25543885701): Failed - 4 new stale repos detected from recent additions
 - Batch 8 (Run 25544538815): ✅ CI PASSING - 4 stale repos removed
+- Batch 9 (Run 25572796356): Failed - 3 stale repos + 1 archived from new evaluation tools addition
+  - tatsu-lab/alpaca_eval (stale 272 days) - removed
+  - bigcode-project/bigcode-evaluation-harness (stale 290 days) - removed
+  - microsoftarchive/promptbench (archived) - removed
+  - microsoft/trellis (stale 184 days) - removed in Batch 10
+- Batch 10 (Run 25572796356 fix): ✅ CI PASSING - 1 stale repo removed
+  - microsoft/TRELLIS (stale 184 days)
 
-**Total entries removed this cycle:** 17
+**Total entries removed this cycle:** 18
 **CI Status:** Passing - 0 errors, 0 warnings
