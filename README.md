@@ -143,6 +143,7 @@
 - **[D-Tale](https://github.com/man-group/dtale)** ![GitHub stars](https://img.shields.io/github/stars/man-group/dtale?style=social) - Visualizer for pandas data structures with a Flask back-end and React front-end. Interactive data exploration with charting, filtering, and code export. LGPL-2.1 licensed.
 - **[Sweetviz](https://github.com/fbdesignpro/sweetviz)** ![GitHub stars](https://img.shields.io/github/stars/fbdesignpro/sweetviz?style=social) - Beautiful, high-density visualizations for exploratory data analysis in two lines of code. Self-contained HTML reports for dataset comparison and target analysis. MIT licensed.
 - **[TextAttack](https://github.com/QData/TextAttack)** ![GitHub stars](https://img.shields.io/github/stars/QData/TextAttack?style=social) - Python framework for adversarial attacks, data augmentation, and model training in NLP. Augment datasets to increase model robustness and generate adversarial examples. MIT licensed.
+- **[Albumentations](https://github.com/albumentations-team/albumentations)** ![GitHub stars](https://img.shields.io/github/stars/albumentations-team/albumentations?style=social) - Fast and flexible image augmentation library for machine learning. Comprehensive set of image transforms for computer vision data preprocessing with optimized performance. MIT licensed.
 
 #### Classical ML & Gradient Boosting
 
