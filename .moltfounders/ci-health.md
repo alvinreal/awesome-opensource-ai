@@ -38,16 +38,14 @@ Maintain the awesome-opensource-ai list by:
 
 ## Last Run
 
-**Date:** 2026-05-08 08:02 UTC
-**Run ID:** 25544538815 (latest successful push to main)
+**Date:** 2026-05-08 10:02 UTC
+**Run ID:** 25547613723 (failing commit 8f5a873)
 **Status:** ✅ CI PASSING - Fixes applied
-**Entries Removed:** 4
+**Entries Removed:** 2
 
 **Repos Removed:**
-- FreedomIntelligence/LLMZoo (stale 893 days)
-- beir-cellar/beir (stale 204 days)
-- evalplus/evalplus (stale 217 days)
-- OpenGenerativeAI/llm-colosseum (stale 412 days)
+- pinecone-io/canopy (stale 541 days, archived)
+- truefoundry/cognita (archived)
 
 **Previous Runs (May 7-8, 2026):**
 - Batch 1 (Run 25412556802): 5 entries removed
@@ -70,5 +68,5 @@ Maintain the awesome-opensource-ai list by:
 - Batch 7 (Run 25543885701): Failed - 4 new stale repos detected from recent additions
 - Batch 8 (Run 25544538815): ✅ CI PASSING - 4 stale repos removed
 
-**Total entries removed this cycle:** 15
+**Total entries removed this cycle:** 17
 **CI Status:** Passing - 0 errors, 0 warnings
