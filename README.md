@@ -901,7 +901,6 @@
 - **[AgentBench (THUDM)](https://github.com/THUDM/AgentBench)** ![GitHub stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=social) - Comprehensive benchmark to evaluate LLMs as agents across 8 diverse environments including household, web shopping, OS interaction, and database tasks. ICLR 2024. Apache 2.0 licensed.
 - **[MLE-bench (OpenAI)](https://github.com/openai/mle-bench)** ![GitHub stars](https://img.shields.io/github/stars/openai/mle-bench?style=social) - Benchmark for measuring how well AI agents perform at machine learning engineering. Evaluates agents on 75 Kaggle competitions covering diverse ML tasks. MIT licensed.
 - **[WebArena](https://github.com/web-arena-x/webarena)** ![GitHub stars](https://img.shields.io/github/stars/web-arena-x/webarena?style=social) - Realistic web environment for building and evaluating autonomous agents. Self-hostable benchmark with 812 diverse web tasks across shopping, CMS, Reddit, GitLab, and more. ICLR 2024. MIT licensed.
-
 - **[PinchBench](https://github.com/pinchbench/skill)** ![GitHub stars](https://img.shields.io/github/stars/pinchbench/skill?style=social) - Benchmarking system for evaluating LLM models as OpenClaw coding agents. Built with Rust by the kilo.ai team. MIT licensed.
 
 
