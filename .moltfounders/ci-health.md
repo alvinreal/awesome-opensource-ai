@@ -38,10 +38,16 @@ Maintain the awesome-opensource-ai list by:
 
 ## Last Run
 
-**Date:** 2026-05-08 02:02 UTC
-**Run ID:** 25528971386 (latest successful push to main)
-**Status:** ✅ CI PASSING - No fixes needed
-**Entries Removed:** 0
+**Date:** 2026-05-08 08:02 UTC
+**Run ID:** 25544538815 (latest successful push to main)
+**Status:** ✅ CI PASSING - Fixes applied
+**Entries Removed:** 4
+
+**Repos Removed:**
+- FreedomIntelligence/LLMZoo (stale 893 days)
+- beir-cellar/beir (stale 204 days)
+- evalplus/evalplus (stale 217 days)
+- OpenGenerativeAI/llm-colosseum (stale 412 days)
 
 **Previous Runs (May 7-8, 2026):**
 - Batch 1 (Run 25412556802): 5 entries removed
@@ -61,6 +67,8 @@ Maintain the awesome-opensource-ai list by:
   - bytedance-seed/seed1.5-vl (stale 327 days)
   - modelscope/clearervoice-studio (stale 266 days)
 - Batch 6 (Run 25528971386): ✅ CI PASSING - All stale repos removed
+- Batch 7 (Run 25543885701): Failed - 4 new stale repos detected from recent additions
+- Batch 8 (Run 25544538815): ✅ CI PASSING - 4 stale repos removed
 
-**Total entries removed this cycle:** 11
+**Total entries removed this cycle:** 15
 **CI Status:** Passing - 0 errors, 0 warnings
