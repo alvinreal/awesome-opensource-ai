@@ -1176,6 +1176,7 @@
 - **[Gitpod](https://github.com/gitpod-io/gitpod)** ![GitHub stars](https://img.shields.io/github/stars/gitpod-io/gitpod?style=social) - Cloud development environment platform with automated prebuilds, ephemeral workspaces, and support for any IDE. Self-hostable with open-source core. AGPL-3.0 licensed.
 - **[Onlook](https://github.com/onlook-dev/onlook)** ![GitHub stars](https://img.shields.io/github/stars/onlook-dev/onlook?style=social) - Open-source AI-first design and React editing environment for visually building and modifying frontend applications.
 - **[Daytona](https://github.com/daytonaio/daytona)** ![GitHub stars](https://img.shields.io/github/stars/daytonaio/daytona?style=social) - Secure elastic infrastructure for running AI-generated code. Self-hosted alternative to GitHub Codespaces with support for multiple IDEs, prebuilds, and any cloud provider. AGPL-3.0 licensed.
+- **[Nimbalyst](https://github.com/nimbalyst/nimbalyst)** ![GitHub stars](https://img.shields.io/github/stars/nimbalyst/nimbalyst?style=social) - Open-source visual workspace for agentic engineering. Run multiple agents (Claude Code, Codex, and pluggable providers) across parallel sessions, tasks, and files, with visual editing for markdown, mockups, diagrams, diffs, and code. Desktop and iOS apps are MIT licensed; the optional collaboration server is AGPL-3.0.
 
 #### AI Coding Assistants (open-source)
 
