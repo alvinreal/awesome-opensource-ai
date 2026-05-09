@@ -6,7 +6,7 @@
 
 # Awesome Open Source AI
 
-*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated May 8, 2026. CI verified - auto-fixed.*
+*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated May 9, 2026. CI verified - auto-fixed.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
@@ -245,6 +245,8 @@
 - **[Pythia (EleutherAI)](https://github.com/EleutherAI/pythia)** ![GitHub stars](https://img.shields.io/github/stars/EleutherAI/pythia?style=social) - Suite of interpretability-focused LLMs (70M to 12B parameters) with fully open training data, intermediate checkpoints, and analysis tools. Designed for studying learning dynamics and interpretability with public domain training data. Apache 2.0 licensed.
 - **[T5 (Google)](https://github.com/google-research/text-to-text-transfer-transformer)** ![GitHub stars](https://img.shields.io/github/stars/google-research/text-to-text-transfer-transformer?style=social) - Text-to-Text Transfer Transformer that unified NLP tasks under a single encoder-decoder architecture. The foundation for Flan-T5 and many downstream applications. One of the first OSI-validated fully open-source language models with training data and code. Apache 2.0 licensed.
 - **[GPT-NeoX-20B (EleutherAI)](https://github.com/EleutherAI/gpt-neox)** ![GitHub stars](https://img.shields.io/github/stars/EleutherAI/gpt-neox?style=social) - 20B parameter autoregressive language model trained on the Pile dataset. One of the largest dense open-source models with publicly available weights at release. Complete training codebase with distributed training support. Apache 2.0 licensed.
+- **[DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/DeepSeek-V3)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social) - 671B parameter MoE model (37B activated) with state-of-the-art performance matching leading closed-source models. Features 128K context window, advanced reasoning capabilities, and efficient inference with FP8 support. MIT licensed.
+- **[DeepSeek-R1 (DeepSeek)](https://github.com/deepseek-ai/DeepSeek-R1)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=social) - First-generation reasoning model with chain-of-thought capabilities. Open-weight model trained with large-scale reinforcement learning, achieving strong performance on math, code, and reasoning benchmarks. MIT licensed.
 
 
 #### Coding & Reasoning Models
