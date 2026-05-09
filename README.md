@@ -1190,6 +1190,7 @@
 - **[Refact](https://github.com/smallcloudai/refact)** ![GitHub stars](https://img.shields.io/github/stars/smallcloudai/refact?style=social) - Open-source AI code assistant with autocomplete, chat, and refactoring. Self-hostable with support for multiple LLM providers. BSD-3-Clause licensed.
 - **[Qwen Code](https://github.com/QwenLM/qwen-code)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/qwen-code?style=social) - Open-source AI agent for the terminal, optimized for Qwen series models. Multi-protocol provider support including OpenAI, Anthropic, Gemini, Alibaba Cloud, OpenRouter. Features agentic workflow with Skills and SubAgents. Apache 2.0 licensed.
 - **[DeepCode](https://github.com/HKUDS/DeepCode)** ![GitHub stars](https://img.shields.io/github/stars/HKUDS/DeepCode?style=social) - Transforms research papers and natural language into production-ready code. AI-powered research-to-code automation tool. MIT licensed.
+- **[Plandex](https://github.com/plandex-ai/plandex)** ![GitHub stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social) - Open source AI coding agent designed for large projects and real-world tasks. Terminal-based with support for complex multi-file changes and planning. MIT licensed.
 
 #### Notebooks & Interactive Computing
 
@@ -1234,6 +1235,8 @@
 - **[Instructor](https://github.com/jxnl/instructor)** ![GitHub stars](https://img.shields.io/github/stars/jxnl/instructor?style=social) - Python library for extracting structured, validated data from LLMs using Pydantic models. Handles validation, retries, and error handling with 15+ provider support. MIT licensed.
 - **[Mirascope](https://github.com/Mirascope/mirascope)** ![GitHub stars](https://img.shields.io/github/stars/Mirascope/mirascope?style=social) - Python toolkit for building LLM applications with automatic versioning, tracing, and cost tracking. The "LLM Anti-Framework" for developers who want control. MIT licensed.
 - **[Context7](https://github.com/upstash/context7)** ![GitHub stars](https://img.shields.io/github/stars/upstash/context7?style=social) - Up-to-date code documentation for LLMs and AI code editors. Fetches latest docs and code examples directly into LLM context via MCP. Eliminates hallucinated APIs. MIT licensed.
+- **[Claude Squad](https://github.com/smtg-ai/claude-squad)** ![GitHub stars](https://img.shields.io/github/stars/smtg-ai/claude-squad?style=social) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp. Terminal multiplexer for AI coding agents with session management and parallel execution. AGPL-3.0 licensed.
+- **[DesktopCommander MCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** ![GitHub stars](https://img.shields.io/github/stars/wonderwhy-er/DesktopCommanderMCP?style=social) - MCP server for Claude providing terminal control, file system search, and diff file editing capabilities. Enables autonomous code editing through Model Context Protocol. MIT licensed.
 
 #### SDKs & API Development Tools
 
