@@ -143,7 +143,6 @@
 - **[D-Tale](https://github.com/man-group/dtale)** ![GitHub stars](https://img.shields.io/github/stars/man-group/dtale?style=social) - Visualizer for pandas data structures with a Flask back-end and React front-end. Interactive data exploration with charting, filtering, and code export. LGPL-2.1 licensed.
 - **[Sweetviz](https://github.com/fbdesignpro/sweetviz)** ![GitHub stars](https://img.shields.io/github/stars/fbdesignpro/sweetviz?style=social) - Beautiful, high-density visualizations for exploratory data analysis in two lines of code. Self-contained HTML reports for dataset comparison and target analysis. MIT licensed.
 - **[TextAttack](https://github.com/QData/TextAttack)** ![GitHub stars](https://img.shields.io/github/stars/QData/TextAttack?style=social) - Python framework for adversarial attacks, data augmentation, and model training in NLP. Augment datasets to increase model robustness and generate adversarial examples. MIT licensed.
-- **[Albumentations](https://github.com/albumentations-team/albumentations)** ![GitHub stars](https://img.shields.io/github/stars/albumentations-team/albumentations?style=social) - Fast and flexible image augmentation library for machine learning. Comprehensive set of image transforms for computer vision data preprocessing with optimized performance. MIT licensed.
 
 #### Classical ML & Gradient Boosting
 
@@ -246,9 +245,6 @@
 - **[Pythia (EleutherAI)](https://github.com/EleutherAI/pythia)** ![GitHub stars](https://img.shields.io/github/stars/EleutherAI/pythia?style=social) - Suite of interpretability-focused LLMs (70M to 12B parameters) with fully open training data, intermediate checkpoints, and analysis tools. Designed for studying learning dynamics and interpretability with public domain training data. Apache 2.0 licensed.
 - **[T5 (Google)](https://github.com/google-research/text-to-text-transfer-transformer)** ![GitHub stars](https://img.shields.io/github/stars/google-research/text-to-text-transfer-transformer?style=social) - Text-to-Text Transfer Transformer that unified NLP tasks under a single encoder-decoder architecture. The foundation for Flan-T5 and many downstream applications. One of the first OSI-validated fully open-source language models with training data and code. Apache 2.0 licensed.
 - **[GPT-NeoX-20B (EleutherAI)](https://github.com/EleutherAI/gpt-neox)** ![GitHub stars](https://img.shields.io/github/stars/EleutherAI/gpt-neox?style=social) - 20B parameter autoregressive language model trained on the Pile dataset. One of the largest dense open-source models with publicly available weights at release. Complete training codebase with distributed training support. Apache 2.0 licensed.
-- **[DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/DeepSeek-V3)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social) - 671B parameter MoE model (37B activated) with state-of-the-art performance matching leading closed-source models. Features 128K context window, advanced reasoning capabilities, and efficient inference with FP8 support. MIT licensed.
-- **[DeepSeek-R1 (DeepSeek)](https://github.com/deepseek-ai/DeepSeek-R1)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=social) - First-generation reasoning model with chain-of-thought capabilities. Open-weight model trained with large-scale reinforcement learning, achieving strong performance on math, code, and reasoning benchmarks. MIT licensed.
-
 
 #### Coding & Reasoning Models
 
