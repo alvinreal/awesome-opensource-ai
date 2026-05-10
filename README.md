@@ -388,7 +388,6 @@ Open-source artificial intelligence models, libraries, infrastructure, and devel
 
 - [Burr](https://github.com/apache/burr) - Apache incubating framework for building stateful AI applications (chatbots, agents, simulations). Monitor, trace, persist, and execute on your own infrastructure with built-in UI and pluggable memory. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/apache/burr?style=social)
 - [KaibanJS](https://github.com/kaiban-ai/KaibanJS) - JavaScript-native framework for building and managing multi-agent systems with a Kanban-inspired approach. Visual task board for AI agents with real-time collaboration features. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/kaiban-ai/KaibanJS?style=social)
-- [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - Dev-first open-source autonomous AI agent framework. Enables developers to build, manage and run useful autonomous agents quickly and reliably. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social)
 - [Jido](https://github.com/agentjido/jido) - Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows with actor-model concurrency. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/agentjido/jido?style=social)
 
 #### Multi-Agent Orchestration
@@ -549,7 +548,6 @@ Open-source artificial intelligence models, libraries, infrastructure, and devel
 
 - [EmbedChain](https://github.com/embedchain/embedchain) - Universal memory layer for AI agents. Simple API to create RAG applications over any dataset with support for multiple vector stores, embedding models, and LLM providers. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)
 - [LlamaIndex](https://github.com/run-llama/llama_index) - Full-featured RAG pipeline with advanced indexing. ![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social)
-- [R2R (SciPhi)](https://github.com/SciPhi-AI/R2R) - Production-ready agentic RAG engine with RESTful API. Features hybrid search, knowledge graphs, multimodal RAG, and deep research capabilities. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/SciPhi-AI/R2R?style=social)
 - [Haystack](https://github.com/deepset-ai/haystack) - End-to-end NLP and RAG framework. ![GitHub stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)
 - [RAGFlow](https://github.com/infiniflow/ragflow) - Deep-document-understanding RAG engine. ![GitHub stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social)
 - [GraphRAG (Microsoft)](https://github.com/microsoft/graphrag) - Knowledge-graph-based RAG. ![GitHub stars](https://img.shields.io/github/stars/microsoft/graphrag?style=social)
