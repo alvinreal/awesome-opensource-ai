@@ -841,6 +841,7 @@ Open-source artificial intelligence models, libraries, infrastructure, and devel
 - [Pezzo](https://github.com/pezzolabs/pezzo) - Cloud-native LLMOps platform with prompt management, versioning, and observability. Features collaborative prompt editing, A/B testing, and cost analytics. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/pezzolabs/pezzo?style=social)
 - [Microsoft PromptFlow](https://github.com/microsoft/promptflow) - Comprehensive suite for LLM-based AI app development from prototyping to production. Includes prompt engineering, evaluation, and deployment tools with VS Code integration. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/microsoft/promptflow?style=social)
 - [ChainForge](https://github.com/ianarawjo/ChainForge) - Visual programming environment for battle-testing prompts and evaluating LLM outputs. Features node-based prompt chains, multi-model comparison, and hypothesis testing. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/ianarawjo/ChainForge?style=social)
+- [Future AGI](https://github.com/future-agi/future-agi) - Open-source self-hostable end-to-end agent engineering and optimization platform that unifies tracing, evals, simulations, datasets, gateway, and guardrails. Built for shipping self-improving AI agents with one feedback loop from prototype to production. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/future-agi/future-agi?style=social)
 
 #### Guardrails & Safety Tools
 
