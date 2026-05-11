@@ -1173,6 +1173,7 @@ Open-source artificial intelligence models, libraries, infrastructure, and devel
 
 #### CLI Tools & API Clients
 
+- [llm-prices](https://github.com/benbencodes/llm-prices) - Zero-dependency CLI and MCP server for comparing LLM API pricing across 22 providers (OpenAI, Anthropic, Google, xAI, Mistral, and more). Calculate exact API costs, find cheapest models for any workload, 130 models, offline-first with no API key required. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/benbencodes/llm-prices?style=social)
 - [Ruler](https://github.com/intellectronica/ruler) - Central AI agent rule registry. Manages and distributes rules for AI coding agents across projects. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/intellectronica/ruler?style=social)
 - [PR-Agent (Qodo)](https://github.com/qodo-ai/pr-agent) - AI-powered code review agent for GitHub, GitLab, Bitbucket, and Azure DevOps. Automated PR analysis, improvement suggestions, and multi-platform deployment via CLI, GitHub Actions, or webhooks. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/qodo-ai/pr-agent?style=social)
 - [LLM (Simon Willison)](https://github.com/simonw/llm) - CLI tool and Python library for interacting with dozens of LLMs via remote APIs or locally. Extensible plugin ecosystem, SQLite logging. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/simonw/llm?style=social)
