@@ -485,6 +485,7 @@ Open-source artificial intelligence models, libraries, infrastructure, and devel
 - [Letta (ex-MemGPT)](https://github.com/letta-ai/letta) - Platform for building stateful agents with advanced memory that learn and self-improve over time. ![GitHub stars](https://img.shields.io/github/stars/letta-ai/letta?style=social)
 - [Mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI agents. Persistent, multi-session memory across models and environments. ![GitHub stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social)
 - [Hindsight](https://github.com/vectorize-io/hindsight) - State-of-the-art long-term memory for AI agents by Vectorize. Fully self-hosted, MIT-licensed, with integrations for LangChain, CrewAI, LlamaIndex, Vercel AI SDK, and more. ![GitHub stars](https://img.shields.io/github/stars/vectorize-io/hindsight?style=social)
+- [Dakera](https://github.com/dakera-ai/dakera-mcp) - Self-hosted open-source MCP agent memory server. HNSW vector search, RocksDB persistence, decay-weighted recall, and cross-agent knowledge sharing. Python, JavaScript, Rust, Go SDKs. ![GitHub stars](https://img.shields.io/github/stars/dakera-ai/dakera-mcp?style=social)
 
 ---
 
