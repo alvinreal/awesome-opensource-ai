@@ -69,6 +69,7 @@
 
 - **[Forgetful](https://github.com/ScottRBK/forgetful)** ![GitHub stars](https://img.shields.io/github/stars/ScottRBK/forgetful?style=social) - MCP server for persistent AI agent memory. Stores atomic single-concept notes and auto-links them into a knowledge graph via semantic similarity. SQLite or PostgreSQL.
 - **[Octomind](https://github.com/Muvon/octomind)** ![GitHub stars](https://img.shields.io/github/stars/Muvon/octomind?style=social) - Open-source, model-agnostic AI agent runtime written in Rust. Features community-built specialist agents, MCP (Model Context Protocol) support, 13+ provider integrations, and zero-config setup. Apache-2.0 licensed.
+- **[Parley](https://github.com/nkuhanas/Parley)** ![GitHub stars](https://img.shields.io/github/stars/nkuhanas/Parley?style=social) - Harness-agnostic coordination backend for AI agents, with durable boards, obligations, plans, artifacts, scoped identity, and recovery.
 
 ---
 
