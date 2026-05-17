@@ -1261,3 +1261,5 @@ Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) for gu
 - Only OSI-approved licenses
 - Projects must be actively maintained (commits in last 6 months)
 - High-quality, well-documented, real adoption
+
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) — Real-time monitoring dashboard for OpenClaw AI agents: token usage, session tracking, 7-day trends, WebSocket updates
