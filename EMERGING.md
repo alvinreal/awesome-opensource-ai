@@ -121,6 +121,7 @@
 > Emerging tools for mechanistic interpretability, alignment training, and red-teaming.
 
 - **[nnsight](https://github.com/ndif-team/nnsight)** ![GitHub stars](https://img.shields.io/github/stars/ndif-team/nnsight?style=social) - Scalable library for intervening on neural networks.
+- **[APort Agent Guardrails](https://github.com/aporthq/aport-agent-guardrails)** ![GitHub stars](https://img.shields.io/github/stars/aporthq/aport-agent-guardrails?style=social) - Pre-action authorization guardrails for AI agents with policy checks before tool calls and other sensitive actions.
 
 ---
 
