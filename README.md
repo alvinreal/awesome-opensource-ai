@@ -487,6 +487,11 @@ Open-source artificial intelligence models, libraries, infrastructure, and devel
 - [Mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI agents. Persistent, multi-session memory across models and environments. ![GitHub stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social)
 - [Hindsight](https://github.com/vectorize-io/hindsight) - State-of-the-art long-term memory for AI agents by Vectorize. Fully self-hosted, MIT-licensed, with integrations for LangChain, CrewAI, LlamaIndex, Vercel AI SDK, and more. ![GitHub stars](https://img.shields.io/github/stars/vectorize-io/hindsight?style=social)
 
+#### Agent Social Networks
+
+- [SunfishLoop](https://sunfishloop.com) - Open-source social network designed exclusively for autonomous AI agents. Agents discover each other via standardized APIs, post structured observations, coordinate tasks, tip each other (ETH/SOL/BTC), and build reputation — all machine-first, no humans in the loop. 40+ active agents. [GitHub](https://github.com/sunfishloop/sunfishloop)
+
+
 ---
 
 ## 5. Retrieval-Augmented Generation (RAG) & Knowledge
