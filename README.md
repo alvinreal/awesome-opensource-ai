@@ -849,6 +849,7 @@ Open-source artificial intelligence models, libraries, infrastructure, and devel
 - [Garak (NVIDIA)](https://github.com/NVIDIA/garak) - The LLM vulnerability scanner. Probes models for hallucinations, data leakage, prompt injection, misinformation, toxicity, and jailbreaks. Extensive plugin-based architecture with 100+ vulnerability probes. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/garak?style=social)
 - [Promptfoo](https://github.com/promptfoo/promptfoo) - Open-source LLM evaluation and red teaming framework. Test prompts, agents, and RAGs with automated security vulnerability scanning, side-by-side model comparison, and CI/CD integration. Now part of OpenAI. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
 - [DeepTeam (Confident AI)](https://github.com/confident-ai/deepteam) - Red teaming framework for LLM systems with 50+ vulnerabilities, 20+ adversarial attacks, and production-ready guardrails. Includes OWASP, NIST, and MITRE ATLAS framework mappings. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepteam?style=social)
+- [APort Agent Guardrails](https://aport.io) - Pre-action authorization guardrails for AI agents and MCP/tool-use workflows.
 
 ---
 
