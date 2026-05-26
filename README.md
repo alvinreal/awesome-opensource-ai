@@ -202,6 +202,8 @@ Open-source artificial intelligence models, libraries, infrastructure, and devel
 - [NVIDIA Apex](https://github.com/NVIDIA/apex) - PyTorch extension for mixed precision training and distributed training optimizations. Powers many production deep learning workloads with tools for automatic mixed precision (AMP), distributed data parallel, and fused optimizers. BSD-3-Clause licensed. ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/apex?style=social)
 
 ---
+- **[screenplay-parser](https://github.com/mcqx4/screenplay-parser)** — Parse Final Draft (`.fdx`) and Fountain screenplay files into structured JSON. Pure-stdlib Python library + CLI. Built for AI pre-production workflows. MIT licensed. (Maintained by the team behind [STORYLINER](https://www.storyliner.online).
+
 
 ## 2. Open Foundation Models
 
