@@ -17,7 +17,6 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 README_PATH = ROOT / "README.md"
-EMERGING_PATH = ROOT / "EMERGING.md"
 GITHUB_API = "https://api.github.com/graphql"
 ENTRY_RE = re.compile(
     r"(?:\*\*)?\[(?P<label>[^\]]+)\]\((?P<url>https?://[^)]+)\)(?:\*\*)?"
@@ -378,8 +377,6 @@ def validate_remote_requirements(
     entries: list[ParsedEntry],
     metadata: dict[str, dict],
     *,
-    min_stars: int | None,
-    max_stars: int | None,
     require_recent_push_days: int | None,
 ) -> list[Problem]:
     problems: list[Problem] = []
@@ -414,30 +411,9 @@ def validate_remote_requirements(
             )
             continue
 
-        stars = info.get("stargazerCount")
         pushed_at = info.get("pushedAt")
         is_archived = bool(info.get("isArchived"))
         is_disabled = bool(info.get("isDisabled"))
-
-        if isinstance(stars, int):
-            if min_stars is not None and stars < min_stars:
-                problems.append(
-                    Problem(
-                        "error",
-                        first_entry.file.name,
-                        first_entry.line_number,
-                        f"repo `{repo_name}` has {stars} stars, below required minimum of {min_stars}",
-                    )
-                )
-            if max_stars is not None and stars >= max_stars:
-                problems.append(
-                    Problem(
-                        "error",
-                        first_entry.file.name,
-                        first_entry.line_number,
-                        f"repo `{repo_name}` has {stars} stars, expected fewer than {max_stars}",
-                    )
-                )
 
         if pushed_at and require_recent_push_days is not None:
             pushed = dt.datetime.fromisoformat(pushed_at.replace("Z", "+00:00"))
@@ -490,7 +466,7 @@ def print_report(title: str, problems: list[Problem]) -> None:
 
 def main() -> int:
     parser = argparse.ArgumentParser(
-        description="Validate Awesome Open Source AI structure and GitHub thresholds."
+        description="Validate Awesome Open Source AI structure and GitHub repository health."
     )
     parser.add_argument(
         "--skip-remote",
@@ -500,14 +476,11 @@ def main() -> int:
     args = parser.parse_args()
 
     readme_entries, readme_entry_problems = parse_entries(README_PATH)
-    emerging_entries, emerging_entry_problems = parse_entries(EMERGING_PATH)
 
     structure_problems = [
         *validate_toc(README_PATH),
-        *validate_toc(EMERGING_PATH),
         *readme_entry_problems,
-        *emerging_entry_problems,
-        *validate_duplicates(readme_entries + emerging_entries),
+        *validate_duplicates(readme_entries),
     ]
 
     remote_problems: list[Problem] = []
@@ -517,30 +490,16 @@ def main() -> int:
         remote_notes.append("remote validation skipped via --skip-remote")
     elif not token:
         remote_notes.append(
-            "set GITHUB_TOKEN to validate star count and last-push thresholds via GitHub GraphQL API"
+            "set GITHUB_TOKEN to validate repository availability and last-push health via GitHub GraphQL API"
         )
     else:
         readme_repos = collect_repos(readme_entries)
-        emerging_repos = collect_repos(emerging_entries)
-        metadata, api_failures = fetch_repo_metadata(
-            readme_repos + emerging_repos, token
-        )
+        metadata, api_failures = fetch_repo_metadata(readme_repos, token)
         remote_notes.extend(api_failures)
         remote_problems.extend(
             validate_remote_requirements(
                 readme_entries,
                 metadata,
-                min_stars=1000,
-                max_stars=None,
-                require_recent_push_days=183,
-            )
-        )
-        remote_problems.extend(
-            validate_remote_requirements(
-                emerging_entries,
-                metadata,
-                min_stars=None,
-                max_stars=1000,
                 require_recent_push_days=183,
             )
         )
