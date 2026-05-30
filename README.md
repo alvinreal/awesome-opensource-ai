@@ -616,6 +616,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Lightpanda](https://github.com/lightpanda-io/browser) - Machine-first headless browser in Zig; rendering-free and ultra-lightweight for AI agent browsing. ![GitHub stars](https://img.shields.io/github/stars/lightpanda-io/browser?style=social)
 - [Paperless-AI](https://github.com/clusterzx/paperless-ai) - Automated document analyzer for Paperless-ngx with RAG-powered semantic search across your document archive. ![GitHub stars](https://img.shields.io/github/stars/clusterzx/paperless-ai?style=social)
 - [Firecrawl](https://github.com/firecrawl/firecrawl) - Web Data API for AI - search, scrape, and interact with the web at scale. Clean markdown/JSON output with proxy rotation and JS-blocking handled automatically. ![GitHub stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=social)
+- [invisible-playwright](https://github.com/feder-cr/invisible_playwright) - Playwright wrapper for a stealth-patched Firefox 150 binary. Drop-in Browser object for AI agents that need to ingest web data from sites with anti-bot guardrails (reCAPTCHA, FingerprintPro, Cloudflare). Spoofing happens in C++ source, not via JS overrides. MIT (wrapper) + MPL-2.0 (patches). ![GitHub stars](https://img.shields.io/github/stars/feder-cr/invisible_playwright?style=social)
 
 #### Document Conversion & Preprocessing
 
