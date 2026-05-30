@@ -772,6 +772,8 @@ Good entries should have a clear reason to exist. They should help people build,
 
 ## 8. MLOps / LLMOps & Production
 
+- [ARC-Neuron LLMBuilder](https://github.com/GareBear99/ARC-Neuron-LLMBuilder) - Local-first AI model lifecycle framework for benchmark receipts, candidate/incumbent model promotion, archive-ready lineage, and governed small-model improvement. ![GitHub stars](https://img.shields.io/github/stars/GareBear99/ARC-Neuron-LLMBuilder?style=social)
+
 > Tooling for tracking, deploying, monitoring, and operating AI systems in production.
 
 #### Experiment Tracking & Versioning
