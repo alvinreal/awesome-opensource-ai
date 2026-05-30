@@ -1167,6 +1167,10 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Qwen Code](https://github.com/QwenLM/qwen-code) - Open-source AI agent for the terminal, optimized for Qwen series models. Multi-protocol provider support including OpenAI, Anthropic, Gemini, Alibaba Cloud, OpenRouter. Features agentic workflow with Skills and SubAgents. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/QwenLM/qwen-code?style=social)
 - [DeepCode](https://github.com/HKUDS/DeepCode) - Transforms research papers and natural language into production-ready code. AI-powered research-to-code automation tool. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/HKUDS/DeepCode?style=social)
 
+#### MCP & API Integrations
+
+- [OpenProject Automations](https://github.com/CAONYX/openproject-automations) - Batch-automation scripts for OpenProject that extend the OpenProject MCP server. Bulk-create work packages from JSON, log time entries, and provision users/roles/memberships via the REST API v3. Designed as a Claude Code extension — CLAUDE.md instructs the agent to combine these scripts with the MCP for mixed read/write workflows. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/CAONYX/openproject-automations?style=social)
+
 #### Notebooks & Interactive Computing
 
 - [Open Notebook](https://github.com/lfnovo/open-notebook) - Open-source implementation of Notebook LM with multi-modal content support (PDFs, videos, audio, web pages). Features multi-speaker podcast generation, 18+ AI provider integrations, and full-text + vector search. Self-hosted with complete data sovereignty. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/lfnovo/open-notebook?style=social)
