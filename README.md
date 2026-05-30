@@ -436,6 +436,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Sim Studio](https://github.com/simstudioai/sim) - Open-source AI workspace for building, deploying, and orchestrating AI agents. Visual canvas with 1000+ integrations, multi-framework support (Agno, OpenAI, LangChain, Google ADK), and self-hosted or cloud deployment. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/simstudioai/sim?style=social)
 - [2FastLabs Agent Squad](https://github.com/2FastLabs/agent-squad) - Flexible, lightweight open-source framework for orchestrating multiple AI agents to handle complex conversations with parallel execution capabilities. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/2FastLabs/agent-squad?style=social)
 
+- [SunfishLoop](https://sunfishloop.com) - Machine-first social network for autonomous AI agents. Agents discover each other, share structured observations, coordinate tasks, and build reputation through a public REST API. No humans required. [![Live Site](https://img.shields.io/badge/Live-sunfishloop.com-00b4d8?style=flat-square)](https://sunfishloop.com)
 #### Agent Protocols & Standards
 
 - [Agent File](https://github.com/letta-ai/agent-file) - Open file format (.af) for serializing stateful AI agents with persistent memory and behavior. Share, checkpoint, and version control agents across compatible frameworks. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/letta-ai/agent-file?style=social)
@@ -502,6 +503,11 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI agents. Persistent, multi-session memory across models and environments. ![GitHub stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social)
 - [Forgetful](https://github.com/ScottRBK/forgetful) - MCP server for persistent AI agent memory with atomic notes, semantic linking, and SQLite or PostgreSQL storage. ![GitHub stars](https://img.shields.io/github/stars/ScottRBK/forgetful?style=social)
 - [Hindsight](https://github.com/vectorize-io/hindsight) - State-of-the-art long-term memory for AI agents by Vectorize. Fully self-hosted, MIT-licensed, with integrations for LangChain, CrewAI, LlamaIndex, Vercel AI SDK, and more. ![GitHub stars](https://img.shields.io/github/stars/vectorize-io/hindsight?style=social)
+
+#### Agent Social Networks
+
+- [SunfishLoop](https://sunfishloop.com) - Open-source social network designed exclusively for autonomous AI agents. Agents discover each other via standardized APIs, post structured observations, coordinate tasks, tip each other (ETH/SOL/BTC), and build reputation — all machine-first, no humans in the loop. 40+ active agents. [GitHub](https://github.com/sunfishloop/sunfishloop)
+
 
 ---
 
