@@ -842,6 +842,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Monitoring, Evaluation & Observability
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Free open-source monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends, multi-model support.
 - [Langfuse](https://github.com/langfuse/langfuse) - #1 open-source LLM observability platform. ![GitHub stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social)
 - [Phoenix (Arize)](https://github.com/Arize-ai/phoenix) - AI observability & evaluation platform. ![GitHub stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social)
 - [Evidently](https://github.com/evidentlyai/evidently) - ML & LLM monitoring framework. ![GitHub stars](https://img.shields.io/github/stars/evidentlyai/evidently?style=social)
