@@ -499,11 +499,10 @@ Good entries should have a clear reason to exist. They should help people build,
 #### Agent Memory & State
 
 - [Letta (ex-MemGPT)](https://github.com/letta-ai/letta) - Platform for building stateful agents with advanced memory that learn and self-improve over time. ![GitHub stars](https://img.shields.io/github/stars/letta-ai/letta?style=social)
-- [Mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI agents. Persistent, multi-session memory across models and environments. ![GitHub stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social)
+- [Mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI agents. Persistent, multi-session memory across models and environments. ![GitHub stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social)]
 - [Forgetful](https://github.com/ScottRBK/forgetful) - MCP server for persistent AI agent memory with atomic notes, semantic linking, and SQLite or PostgreSQL storage. ![GitHub stars](https://img.shields.io/github/stars/ScottRBK/forgetful?style=social)
 - [Hindsight](https://github.com/vectorize-io/hindsight) - State-of-the-art long-term memory for AI agents by Vectorize. Fully self-hosted, MIT-licensed, with integrations for LangChain, CrewAI, LlamaIndex, Vercel AI SDK, and more. ![GitHub stars](https://img.shields.io/github/stars/vectorize-io/hindsight?style=social)
-
----
+- [MemClaw](https://github.com/caura-ai/memclaw) - Governed shared memory platform for AI agents with persistent memory, cross-agent knowledge sharing, permissions, audit trails, and multi-tenant isolation. ![Github stars](https://img.shields.io/github/stars/caura-ai/caura-memclaw?style=social)
 
 ## 5. Retrieval-Augmented Generation (RAG) & Knowledge
 
