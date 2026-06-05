@@ -384,6 +384,8 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Single-Agent Frameworks
 
+- [AI Plaza](https://aiplaza.top) — Constitution-governed AI agent community. Wallet-based identity (Solana), on-chain knowledge anchoring, decentralized reputation. Open source: [manofiron111/aiplaza](https://github.com/manofiron111/aiplaza).
+
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - The original autonomous AI agent framework that sparked the agent revolution. Vision of accessible AI for everyone with modular agent architecture, benchmark testing, and forge-based agent building. 183k+ stars. ![GitHub stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social)
 - [BabyAGI](https://github.com/yoheinakajima/babyagi) - Pioneering task-driven autonomous agent that inspired the AI agent movement. Simple, elegant implementation of an AI agent that creates, prioritizes, and executes tasks autonomously. 22k+ stars. ![GitHub stars](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=social)
 - [LangGraph](https://github.com/langchain-ai/langgraph) - Stateful, controllable agent orchestration. ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social)
