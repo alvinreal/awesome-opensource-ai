@@ -950,6 +950,8 @@ Good entries should have a clear reason to exist. They should help people build,
 - [AI-Infra-Guard (Tencent)](https://github.com/Tencent/AI-Infra-Guard) - Full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard?style=social)
 - [PentestAgent (GH05TCREW)](https://github.com/GH05TCREW/pentestagent) - AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/GH05TCREW/pentestagent?style=social)
 - [Superagent](https://github.com/superagent-ai/superagent) - Protects AI applications against prompt injections, data leaks, and harmful outputs. Embed safety directly into your app and prove compliance to your customers. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/superagent-ai/superagent?style=social)
+- [SchemaBrain](https://github.com/Arun-kc/schemabrain) - An open-source schema intelligence and safety layer (like Cloudflare) between AI agents and databases. Exposes a read-only Model Context Protocol (MCP) interface with PII masking, structured query recovery, and tamper-evident SHA-256 audit logs. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/Arun-kc/schemabrain?style=social)
+
 
 #### Responsible AI Development
 
