@@ -490,6 +490,8 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Hindsight](https://github.com/vectorize-io/hindsight) - State-of-the-art long-term memory for AI agents by Vectorize. Fully self-hosted, MIT-licensed, with integrations for LangChain, CrewAI, LlamaIndex, Vercel AI SDK, and more. ![GitHub stars](https://img.shields.io/github/stars/vectorize-io/hindsight?style=social)
 - [Supermemory](https://github.com/supermemoryai/supermemory) - Memory API and app for AI agents that provides fast, scalable, context-aware storage and retrieval across projects. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/supermemoryai/supermemory?style=social)
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Free open-source monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends, multi-model support.
+
 ---
 
 ## 5. Retrieval-Augmented Generation (RAG) & Knowledge
