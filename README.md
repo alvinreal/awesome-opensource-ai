@@ -249,7 +249,6 @@ Good entries should have a clear reason to exist. They should help people build,
 - [MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS) - Open speech and sound generation family focused on expressive, long-form text-to-speech with streaming and multi-speaker support. ![GitHub stars](https://img.shields.io/github/stars/OpenMOSS/MOSS-TTS?style=social)
 - [VoxCPM](https://github.com/OpenBMB/VoxCPM) - Open-sourced tokenizer-free multilingual speech synthesis model with high-quality TTS and style transfer workflows. ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/VoxCPM?style=social)
 - [VibeVoice](https://github.com/microsoft/VibeVoice) - Open Frontier Voice AI toolkit spanning speech understanding, generation, and multilingual TTS workflows, with active research and deployment tooling. ![GitHub stars](https://img.shields.io/github/stars/microsoft/VibeVoice?style=social)
-- [faster-whisper](https://github.com/SYSTRAN/faster-whisper) - CTranslate2 implementation of Whisper for faster batched and quantized inference. ![GitHub stars](https://img.shields.io/github/stars/SYSTRAN/faster-whisper?style=social)
 - [SpeechBrain](https://github.com/speechbrain/speechbrain) - PyTorch speech toolkit with recipes for ASR, TTS, speaker recognition, and speech enhancement. ![GitHub stars](https://img.shields.io/github/stars/speechbrain/speechbrain?style=social)
 
 ---
