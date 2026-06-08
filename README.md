@@ -1083,6 +1083,7 @@ Good entries should have a clear reason to exist. They should help people build,
 #### Local AI Chat UIs & Personal Assistants
 
 - [OpenClaw](https://github.com/openclaw/openclaw) - Local-first personal AI assistant with multi-channel integrations and full agentic task execution. ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Free open-source monitoring dashboard for OpenClaw agents — token usage, session tracking, 7-day trends, multi-model support. ![GitHub stars](https://img.shields.io/github/stars/flik2002/openclaw-monitor)
 - [Open WebUI](https://github.com/open-webui/open-webui) - Most popular self-hosted ChatGPT-style interface. ![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)
 - [text-generation-webui](https://github.com/oobabooga/text-generation-webui) - Web UI for running local LLMs with multiple backends, extensions, and model formats. ![GitHub stars](https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=social)
 - [LobeChat](https://github.com/lobehub/lobe-chat) - Sleek modern chat UI. ![GitHub stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social)
