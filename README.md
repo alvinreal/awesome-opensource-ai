@@ -676,6 +676,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Pixelle-Video (AIDC-AI)](https://github.com/AIDC-AI/Pixelle-Video) - Text-to-video foundation model optimized for long coherent scenes and controllable generation workflows. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/AIDC-AI/Pixelle-Video?style=social)
 - [ViralMint](https://github.com/openclaw-easy/ViralMint) - End-to-end short-video pipeline that scouts trends, transcribes competitors locally, and assembles captioned videos with AI scripts, voice, and stock footage. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/openclaw-easy/ViralMint?style=social)
 - [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - An end-to-end short-video generation pipeline that automates scripts, footage collection, voiceover, and subtitle synthesis. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo?style=social)
+- [ViMax](https://github.com/HKUDS/ViMax) - Multi-agent video generation framework that orchestrates scriptwriting, storyboarding, character design, and temporal visual consistency for end-to-end video synthesis. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/HKUDS/ViMax?style=social)
 - [WhisperLive](https://github.com/collabora/WhisperLive) - Nearly-live implementation of OpenAI's Whisper for real-time speech-to-text transcription. Supports faster-whisper, tensorrt, and openvino backends with WebSocket streaming. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/collabora/WhisperLive?style=social)
 #### Audio / Music / Voice Generation
 
@@ -685,6 +686,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Stable Audio Tools](https://github.com/Stability-AI/stable-audio-tools) - Stability AI's open-source audio and music generative models. Latent diffusion model for generating audio conditioned on metadata and timing, providing faster inference times and creative control for sound effects and music production. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Stability-AI/stable-audio-tools?style=social)
 - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - Few-shot voice cloning with just 1 minute of voice data. Combines GPT and SoVITS architectures for high-quality TTS with cross-lingual support and emotional expression. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/RVC-Boss/GPT-SoVITS?style=social)
 - [Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time. SV2TTS implementation with speaker encoder and vocoder for instant voice synthesis. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/CorentinJ/Real-Time-Voice-Cloning?style=social)
+- [Supertonic](https://github.com/supertone-inc/supertonic) - Lightning-fast, on-device, multilingual text-to-speech system running natively via ONNX. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/supertone-inc/supertonic?style=social)
 
 #### 3D & Creative Tools
 
@@ -1135,6 +1137,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Free and open-source Android app for interfacing with llama.cpp models locally and remote APIs (Anthropic, DeepSeek, Mistral, Ollama, OpenAI). MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Mobile-Artificial-Intelligence/maid?style=social)
 - [Dive](https://github.com/OpenAgentPlatform/Dive) - Open-source MCP Host Desktop Application with dual Tauri/Electron architecture. Seamlessly integrates with any LLMs supporting function calling. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/OpenAgentPlatform/Dive?style=social)
 - [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - Open-source app that brings small language models directly to your phone. Run AI 100% privately on iOS and Android with no cloud required. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/a-ghorbani/pocketpal-ai?style=social)
+- [Hermes Desktop](https://github.com/fathah/hermes-desktop) - Desktop companion application for installing, configuring, and chatting with Hermes Agent. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/fathah/hermes-desktop?style=social)
 
 #### Agent & Voice Infrastructure
 
@@ -1192,6 +1195,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Peekaboo](https://github.com/steipete/Peekaboo) - macOS CLI & MCP server enabling AI agents to capture screenshots and automate UI interactions. Visual question answering through local or remote AI models. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/steipete/Peekaboo?style=social)
 - [Skills](https://github.com/mattpocock/skills) - A collection of custom productivity and engineering skills for Claude Code and other AI coding agents. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/mattpocock/skills?style=social)
 - [Understand Anything](https://github.com/Egonex-AI/Understand-Anything) - Turns subdirectories, codebases, or knowledge bases into an interactive, AI-navigable knowledge graph and dashboard. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Egonex-AI/Understand-Anything?style=social)
+- [Knowledge Work Plugins (Anthropic)](https://github.com/anthropics/knowledge-work-plugins) - Collection of role-specific plugins and sub-agents for Claude Cowork and Claude Code. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/anthropics/knowledge-work-plugins?style=social)
 
 #### UI Components & Chat Libraries
 
