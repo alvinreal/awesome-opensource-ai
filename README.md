@@ -1245,6 +1245,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Educational Resources & Courses
 
+- [AI Engineering from Scratch (rohitg00)](https://github.com/rohitg00/ai-engineering-from-scratch) - Comprehensive curriculum covering machine learning, deep learning, NLP, computer vision, and agents by implementing them from scratch. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/rohitg00/ai-engineering-from-scratch?style=social)
 - [Prompt Engineering Guide (DAIR-AI)](https://github.com/dair-ai/Prompt-Engineering-Guide) - Comprehensive guides, papers, lessons, and notebooks for prompt engineering, context engineering, RAG, and AI Agents. The definitive open-source resource for learning prompt engineering with 3M+ learners. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide?style=social)
 - [Start Machine Learning (louisfb01)](https://github.com/louisfb01/start-machine-learning) - A complete guide to start and improve in machine learning and AI in 2026 without any background. Curated learning path with the latest news, state-of-the-art techniques, and comprehensive resources for beginners. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/louisfb01/start-machine-learning?style=social)
 - [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) - Go-to subreddit for local/open-source LLM topics.
