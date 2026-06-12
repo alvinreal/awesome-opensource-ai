@@ -450,6 +450,8 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Open SWE](https://github.com/langchain-ai/open-swe) - Asynchronous coding agent from the LangChain ecosystem for background software engineering tasks. ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/open-swe?style=social)
 - [Letta Code](https://github.com/letta-ai/letta-code) - Memory-first coding harness designed for long-lived agents that learn from experience. Persistent agents with portable memory across models (Claude, GPT, Gemini, GLM, Kimi). CLI and desktop app for macOS, Windows, and Linux. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/letta-ai/letta-code?style=social)
 - [gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/gptme/gptme?style=social)
+- [Superpowers](https://github.com/obra/superpowers) - Composable skills framework and software development methodology for coding agents, structuring processes like planning, test-driven development, and code review. ![GitHub stars](https://img.shields.io/github/stars/obra/superpowers?style=social)
+- [Agent Skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills and quality gates for AI coding agents, packaging developer workflows like spec refinement, planning, and testing. ![GitHub stars](https://img.shields.io/github/stars/addyosmani/agent-skills?style=social)
 
 #### Prompt Engineering & Structured Outputs
 
