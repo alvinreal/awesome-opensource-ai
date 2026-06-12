@@ -1014,6 +1014,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 - [MONAI](https://github.com/Project-MONAI/MONAI) - Medical Open Network for AI. End-to-end framework for healthcare imaging with state-of-the-art, production-ready training workflows. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/Project-MONAI/MONAI?style=social)
 - [nnU-Net](https://github.com/MIC-DKFZ/nnUNet) - Self-configuring deep learning method for medical image segmentation. Automatically adapts to any dataset without manual parameter tuning. Widely adopted as the standard baseline for biomedical segmentation challenges. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/MIC-DKFZ/nnUNet?style=social)
+- [OpenMed](https://github.com/maziyarpanahi/openmed) - Local-first healthcare AI framework and application for clinical text de-identification, entity extraction, and on-device specialized model serving. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/maziyarpanahi/openmed?style=social)
 
 #### Game AI & Simulations
 
