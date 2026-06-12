@@ -412,6 +412,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [xerrors/Yuxi](https://github.com/xerrors/Yuxi) - Self-hosted multi-tenant agent harness combining retrieval, knowledge graph grounding, and workflow orchestration for production teams. ![GitHub stars](https://img.shields.io/github/stars/xerrors/Yuxi?style=social)
 - [Sim Studio](https://github.com/simstudioai/sim) - Open-source AI workspace for building, deploying, and orchestrating AI agents. Visual canvas with 1000+ integrations, multi-framework support (Agno, OpenAI, LangChain, Google ADK), and self-hosted or cloud deployment. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/simstudioai/sim?style=social)
 - [2FastLabs Agent Squad](https://github.com/2FastLabs/agent-squad) - Flexible, lightweight open-source framework for orchestrating multiple AI agents to handle complex conversations with parallel execution capabilities. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/2FastLabs/agent-squad?style=social)
+- [SIA](https://github.com/hexo-ai/sia) - Self-improving framework that orchestrates meta, target, and feedback agents to autonomously optimize the performance of AI models and agents on benchmark tasks. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/hexo-ai/sia?style=social)
 
 #### Agent Protocols & Standards
 
@@ -874,6 +875,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Garak (NVIDIA)](https://github.com/NVIDIA/garak) - The LLM vulnerability scanner. Probes models for hallucinations, data leakage, prompt injection, misinformation, toxicity, and jailbreaks. Extensive plugin-based architecture with 100+ vulnerability probes. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/garak?style=social)
 - [Promptfoo](https://github.com/promptfoo/promptfoo) - Open-source LLM evaluation and red teaming framework. Test prompts, agents, and RAGs with automated security vulnerability scanning, side-by-side model comparison, and CI/CD integration. Now part of OpenAI. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
 - [DeepTeam (Confident AI)](https://github.com/confident-ai/deepteam) - Red teaming framework for LLM systems with 50+ vulnerabilities, 20+ adversarial attacks, and production-ready guardrails. Includes OWASP, NIST, and MITRE ATLAS framework mappings. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepteam?style=social)
+- [SkillSpector (NVIDIA)](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills that detects vulnerabilities, malicious patterns, and security risks. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/SkillSpector?style=social)
 
 ---
 
