@@ -239,6 +239,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Moondream](https://github.com/m87-labs/moondream) - Small vision-language model with practical inference examples for edge and real-time image understanding. ![GitHub stars](https://img.shields.io/github/stars/m87-labs/moondream?style=social)
 - [VILA](https://github.com/NVlabs/VILA) - NVIDIA vision-language model family with training, evaluation, and deployment materials across edge and datacenter settings. ![GitHub stars](https://img.shields.io/github/stars/NVlabs/VILA?style=social)
 - [Depth Anything V2](https://github.com/DepthAnything/Depth-Anything-V2) - Monocular depth-estimation foundation model with practical inference code and broad computer-vision reuse. ![GitHub stars](https://img.shields.io/github/stars/DepthAnything/Depth-Anything-V2?style=social)
+- [NVIDIA Cosmos](https://github.com/NVIDIA/cosmos) - Open platform of world models, tokenizers, and post-training tools designed for physical AI, robotics, and autonomous systems. ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/cosmos?style=social)
 
 #### Speech & Audio Model Codebases
 
@@ -453,6 +454,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/gptme/gptme?style=social)
 - [Superpowers](https://github.com/obra/superpowers) - Composable skills framework and software development methodology for coding agents, structuring processes like planning, test-driven development, and code review. ![GitHub stars](https://img.shields.io/github/stars/obra/superpowers?style=social)
 - [Agent Skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills and quality gates for AI coding agents, packaging developer workflows like spec refinement, planning, and testing. ![GitHub stars](https://img.shields.io/github/stars/addyosmani/agent-skills?style=social)
+- [Harness](https://github.com/revfactory/harness) - Team-architecture factory for C‍laude Code that designs domain-specific agent teams, defines specialized agents, and generates their skills. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/revfactory/harness?style=social)
 
 #### Prompt Engineering & Structured Outputs
 
