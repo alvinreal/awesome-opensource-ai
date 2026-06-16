@@ -414,6 +414,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Sim Studio](https://github.com/simstudioai/sim) - Open-source AI workspace for building, deploying, and orchestrating AI agents. Visual canvas with 1000+ integrations, multi-framework support (Agno, OpenAI, LangChain, Google ADK), and self-hosted or cloud deployment. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/simstudioai/sim?style=social)
 - [2FastLabs Agent Squad](https://github.com/2FastLabs/agent-squad) - Flexible, lightweight open-source framework for orchestrating multiple AI agents to handle complex conversations with parallel execution capabilities. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/2FastLabs/agent-squad?style=social)
 - [SIA](https://github.com/hexo-ai/sia) - Self-improving framework that orchestrates meta, target, and feedback agents to autonomously optimize the performance of AI models and agents on benchmark tasks. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/hexo-ai/sia?style=social)
+- [NarraNexus](https://github.com/NetMindAI-Open/NarraNexus) - Ready-to-run AI agent team workspace by NetMind.AI. Ships a team of agents that already remember, collaborate, and use tools from day one — with persistent memory across sessions, multi-agent collaboration (PM/dev/deployment/research agents), MCP-style tool integrations, and composable modules. ![GitHub stars](https://img.shields.io/github/stars/NetMindAI-Open/NarraNexus?style=social)
 
 #### Agent Protocols & Standards
 
