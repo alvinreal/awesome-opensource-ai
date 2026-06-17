@@ -1167,6 +1167,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Gitpod](https://github.com/gitpod-io/gitpod) - Cloud development environment platform with automated prebuilds, ephemeral workspaces, and support for any IDE. Self-hostable with open-source core. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/gitpod-io/gitpod?style=social)
 - [Onlook](https://github.com/onlook-dev/onlook) - Open-source AI-first design and React editing environment for visually building and modifying frontend applications. ![GitHub stars](https://img.shields.io/github/stars/onlook-dev/onlook?style=social)
 - [Daytona](https://github.com/daytonaio/daytona) - Secure elastic infrastructure for running AI-generated code. Self-hosted alternative to GitHub Codespaces with support for multiple IDEs, prebuilds, and any cloud provider. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/daytonaio/daytona?style=social)
+- [AI Workdeck](https://github.com/zeweihan/aiworkdeck) - Open-source AI-native IDE workspace for legal and document-heavy workflows — "VS Code for lawyers." Self-hosted with MCP agent orchestration, OCR, due-diligence risk flagging, evidence-chain management, WPS WebOffice integration, smart clipboard. Supports air-gapped deployment with Ollama + local storage. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/zeweihan/aiworkdeck?style=social)
 
 #### AI Coding Assistants (open-source)
 
