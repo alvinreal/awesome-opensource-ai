@@ -1202,6 +1202,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Skills](https://github.com/mattpocock/skills) - A collection of custom productivity and engineering skills for Claude Code and other AI coding agents. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/mattpocock/skills?style=social)
 - [Understand Anything](https://github.com/Egonex-AI/Understand-Anything) - Turns subdirectories, codebases, or knowledge bases into an interactive, AI-navigable knowledge graph and dashboard. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Egonex-AI/Understand-Anything?style=social)
 - [Knowledge Work Plugins (Anthropic)](https://github.com/anthropics/knowledge-work-plugins) - Collection of role-specific plugins and sub-agents for Claude Cowork and Claude Code. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/anthropics/knowledge-work-plugins?style=social)
+- [Cursor Plugins](https://github.com/cursor/plugins) - Official Cursor plugins for developer tools, workflows, and SaaS integrations. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/cursor/plugins?style=social)
 
 #### UI Components & Chat Libraries
 
