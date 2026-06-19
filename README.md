@@ -433,6 +433,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [llmtrim](https://github.com/fkiene/llmtrim) - Self-hosted Rust proxy, MCP server, CLI, and library that compresses LLM prompts, tool outputs, and replies to cut token usage, quality-gated so it never raises your bill. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/fkiene/llmtrim?style=social)
 - [MemPalace](https://github.com/MemPalace/mempalace) - High-performance, benchmarked AI memory system for persistent recall and retrieval in long-horizon autonomous workflows. ![GitHub stars](https://img.shields.io/github/stars/MemPalace/mempalace?style=social)
 - [Supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and API designed for long-lived AI agents to store, retrieve, and reuse long-horizon context with low latency. ![GitHub stars](https://img.shields.io/github/stars/supermemoryai/supermemory?style=social)
+- [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance C-based codebase intelligence engine and MCP server that indexes repositories into local type-resolved knowledge graphs. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/DeusData/codebase-memory-mcp?style=social)
 
 #### Autonomous Coding Agents
 
@@ -981,6 +982,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Superagent](https://github.com/superagent-ai/superagent) - Protects AI applications against prompt injections, data leaks, and harmful outputs. Embed safety directly into your app and prove compliance to your customers. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/superagent-ai/superagent?style=social)
 - [Anthropic Sandbox Runtime](https://github.com/anthropic-experimental/sandbox-runtime) - Portable sandbox execution environment for AI agents with constrained filesystem and network boundaries, designed to reduce blast radius in tool-use and LLM autonomy tests. ![GitHub stars](https://img.shields.io/github/stars/anthropic-experimental/sandbox-runtime?style=social)
 - [SchemaBrain](https://github.com/Arun-kc/schemabrain) - An open-source schema intelligence and safety layer (like Cloudflare) between AI agents and databases. Exposes a read-only Model Context Protocol (MCP) interface with PII masking, structured query recovery, and tamper-evident SHA-256 audit logs. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/Arun-kc/schemabrain?style=social)
+- [Anthropic Cybersecurity Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - Structured library of 754 cybersecurity skills mapped to five frameworks including MITRE ATT&CK and NIST CSF 2.0, compatible with Claude Code, Cursor, and agentskills.io. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/mukul975/Anthropic-Cybersecurity-Skills?style=social)
 
 
 #### Responsible AI Development
@@ -1075,6 +1077,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Chronos (Amazon)](https://github.com/amazon-science/chronos-forecasting) - Pretrained foundation models for time-series forecasting. ![GitHub stars](https://img.shields.io/github/stars/amazon-science/chronos-forecasting?style=social)
 - [GluonTS (AWS Labs)](https://github.com/awslabs/gluonts) - Probabilistic time series modeling with deep learning. Powers Amazon SageMaker forecasting with PyTorch and MXNet backends. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/awslabs/gluonts?style=social)
 - [AutoTS](https://github.com/winedarksea/AutoTS) - Automated time series forecasting with broad model selection, ensembling, anomaly detection, and holiday effects. Designed for production deployment with minimal setup. ![GitHub stars](https://img.shields.io/github/stars/winedarksea/AutoTS?style=social)
+- [TimesFM (Google Research)](https://github.com/google-research/timesfm) - Pretrained decoder-only foundation model developed by Google Research for time-series forecasting, supporting up to 16k context length, covariate support, and Flax / PyTorch backends. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/google-research/timesfm?style=social)
 
 #### Edge / On-device AI
 
