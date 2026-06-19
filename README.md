@@ -229,6 +229,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [GPT-OSS](https://github.com/openai/gpt-oss) - OpenAI open-weight model repository with inference examples, recipes, and deployment guidance. ![GitHub stars](https://img.shields.io/github/stars/openai/gpt-oss?style=social)
 - [Mamba](https://github.com/state-spaces/mamba) - State Space Model implementation with pretrained checkpoints, architecture code, and research tooling for efficient long-sequence modeling. ![GitHub stars](https://img.shields.io/github/stars/state-spaces/mamba?style=social)
 - [GPT-NeoX](https://github.com/EleutherAI/gpt-neox) - Large-scale language model training codebase from EleutherAI with distributed training support and historical open-model importance. ![GitHub stars](https://img.shields.io/github/stars/EleutherAI/gpt-neox?style=social)
+- [GLM-5](https://github.com/zai-org/GLM-5) - Open-source mixture-of-experts language model family optimized for long-horizon planning, agentic tasks, and coding. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/zai-org/GLM-5?style=social)
 
 #### Multimodal & Vision-Language Codebases
 
@@ -380,6 +381,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Burr](https://github.com/apache/burr) - Apache incubating framework for building stateful AI applications (chatbots, agents, simulations). Monitor, trace, persist, and execute on your own infrastructure with built-in UI and pluggable memory. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/apache/burr?style=social)
 - [KaibanJS](https://github.com/kaiban-ai/KaibanJS) - JavaScript-native framework for building and managing multi-agent systems with a Kanban-inspired approach. Visual task board for AI agents with real-time collaboration features. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/kaiban-ai/KaibanJS?style=social)
 - [Jido](https://github.com/agentjido/jido) - Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows with actor-model concurrency. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/agentjido/jido?style=social)
+- [Flue](https://github.com/withastro/flue) - Programmable TypeScript harness and sandbox agent framework for building autonomous workflows and agents. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/withastro/flue?style=social)
 
 #### Multi-Agent Orchestration
 
@@ -1038,6 +1040,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [FinRL](https://github.com/AI4Finance-Foundation/FinRL) - Financial reinforcement learning framework for quantitative trading. Deep RL library for stock trading, portfolio allocation, and market execution with pre-built environments and benchmarks. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRL?style=social)
 - [Qlib](https://github.com/microsoft/qlib) - AI-oriented quantitative investment platform from Microsoft. Supports diverse ML modeling paradigms including supervised learning, market dynamics modeling, and RL. Now equipped with RD-Agent for automated R&D process. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/microsoft/qlib?style=social)
 - [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - Open-source AI agent platform for financial analysis using LLMs. Multi-agent system with specialized agents for trading, analysis, and research. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=social)
+- [Kronos](https://github.com/shiyu-coder/Kronos) - Foundation model for financial candlesticks (K-lines) pre-trained on multi-dimensional market data across global exchanges. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/shiyu-coder/Kronos?style=social)
 
 #### Computer Vision
 
