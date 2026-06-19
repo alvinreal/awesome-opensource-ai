@@ -878,7 +878,6 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Guardrails & Safety Tools
 
-- [LLM Guard](https://github.com/protectai/llm-guard) - Comprehensive security toolkit for LLM interactions with input/output scanners for prompt injection, PII anonymization, toxic content, secrets detection, and adversarial attack prevention. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/protectai/llm-guard?style=social)
 - [PurpleLlama (Meta)](https://github.com/meta-llama/PurpleLlama) - Comprehensive set of tools to assess and improve LLM security. Includes Llama Guard safety classifiers, CyberSec Eval benchmarks, and Prompt Guard for prompt injection detection. BSD-3-Clause licensed. ![GitHub stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?style=social)
 - [Garak (NVIDIA)](https://github.com/NVIDIA/garak) - The LLM vulnerability scanner. Probes models for hallucinations, data leakage, prompt injection, misinformation, toxicity, and jailbreaks. Extensive plugin-based architecture with 100+ vulnerability probes. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/garak?style=social)
 - [Promptfoo](https://github.com/promptfoo/promptfoo) - Open-source LLM evaluation and red teaming framework. Test prompts, agents, and RAGs with automated security vulnerability scanning, side-by-side model comparison, and CI/CD integration. Now part of OpenAI. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
@@ -1009,7 +1008,6 @@ Good entries should have a clear reason to exist. They should help people build,
 
 - [Boltz](https://github.com/jwohlwend/boltz) - Open-source biomolecular interaction prediction models. Boltz-1 was the first fully open source model to approach AlphaFold3 accuracy; Boltz-2 adds binding affinity prediction for drug discovery. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/jwohlwend/boltz?style=social)
 - [Protenix](https://github.com/bytedance/Protenix) - High-accuracy open-source biomolecular structure prediction model from ByteDance. First fully open-source model to outperform AlphaFold3 across diverse benchmarks with Apache 2.0 licensing for both academic and commercial use. ![GitHub stars](https://img.shields.io/github/stars/bytedance/Protenix?style=social)
-- [OpenFold](https://github.com/aqlaboratory/openfold) - Trainable PyTorch reproduction of AlphaFold2. Complete open-source pipeline for protein structure prediction with competitive accuracy to the original. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/aqlaboratory/openfold?style=social)
 - [DeepChem](https://github.com/deepchem/deepchem) - Democratizing deep learning for drug discovery, quantum chemistry, materials science, and biology. High-quality open-source toolchain with 50+ models and extensive tutorials. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/deepchem/deepchem?style=social)
 
 #### Probabilistic Programming & Bayesian ML
