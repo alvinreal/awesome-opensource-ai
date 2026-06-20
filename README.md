@@ -613,6 +613,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [localGPT](https://github.com/PromtEngineer/localGPT) - Local document-chat project for private, on-device Q&A over files without sending data to external APIs. ![GitHub stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social)
 - [SurfSense](https://github.com/MODSetter/SurfSense) - Privacy-focused NotebookLM-style workspace for teams to search, organize, and query knowledge with self-hosted RAG. ![GitHub stars](https://img.shields.io/github/stars/MODSetter/SurfSense?style=social)
 - [Morphik](https://github.com/morphik-org/morphik-core) - Open-source multimodal RAG framework for building AI apps over private knowledge. Handles text, images, and documents with built-in embedding generation and vector search. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/morphik-org/morphik-core?style=social)
+- [Beever Atlas](https://github.com/Beever-AI/beever-atlas) - Open-source LLM knowledge base combining Neo4j knowledge graph with Weaviate vector DB for graph-based RAG. Native MCP server, team chat ingestion (Slack, Discord, Teams, Telegram), and BYO LLM via LiteLLM. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/Beever-AI/beever-atlas?style=social)
 
 #### Knowledge Graphs for RAG
 
