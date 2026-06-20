@@ -382,6 +382,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [KaibanJS](https://github.com/kaiban-ai/KaibanJS) - JavaScript-native framework for building and managing multi-agent systems with a Kanban-inspired approach. Visual task board for AI agents with real-time collaboration features. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/kaiban-ai/KaibanJS?style=social)
 - [Jido](https://github.com/agentjido/jido) - Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows with actor-model concurrency. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/agentjido/jido?style=social)
 - [Flue](https://github.com/withastro/flue) - Programmable TypeScript harness and sandbox agent framework for building autonomous workflows and agents. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/withastro/flue?style=social)
+- [Agent-Native](https://github.com/BuilderIO/agent-native) - TypeScript-first framework for building agent-first applications featuring shared database state, real-time multiplayer editing, and action-driven tools. ISC licensed. ![GitHub stars](https://img.shields.io/github/stars/BuilderIO/agent-native?style=social)
 
 #### Multi-Agent Orchestration
 
