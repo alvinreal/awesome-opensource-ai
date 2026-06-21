@@ -1073,6 +1073,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Isaac Lab](https://github.com/isaac-sim/IsaacLab) - GPU-accelerated robot learning framework. ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/IsaacLab?style=social)
 - [MuJoCo](https://github.com/google-deepmind/mujoco) - General-purpose physics simulator for robotics, biomechanics, and ML research. High-fidelity contact dynamics with native Python and C++ bindings. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/google-deepmind/mujoco?style=social)
 - [Gymnasium (ex-OpenAI Gym)](https://github.com/Farama-Foundation/Gymnasium) - Standard RL environment API. ![GitHub stars](https://img.shields.io/github/stars/Farama-Foundation/Gymnasium?style=social)
+- [OpenEnv](https://github.com/huggingface/OpenEnv) - End-to-end sandbox execution environment framework for agentic reinforcement learning training built on Gymnasium-compatible APIs. ![GitHub stars](https://img.shields.io/github/stars/huggingface/OpenEnv?style=social)
 - [JaxMARL](https://github.com/FLAIROx/JaxMARL) - Multi-agent reinforcement learning library with JAX-accelerated environments and baselines. ![GitHub stars](https://img.shields.io/github/stars/FLAIROx/JaxMARL?style=social)
 
 #### Time Series & Scientific AI
