@@ -463,6 +463,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Superpowers](https://github.com/obra/superpowers) - Composable skills framework and software development methodology for coding agents, structuring processes like planning, test-driven development, and code review. ![GitHub stars](https://img.shields.io/github/stars/obra/superpowers?style=social)
 - [Agent Skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills and quality gates for AI coding agents, packaging developer workflows like spec refinement, planning, and testing. ![GitHub stars](https://img.shields.io/github/stars/addyosmani/agent-skills?style=social)
 - [Harness](https://github.com/revfactory/harness) - Team-architecture factory for C‍laude Code that designs domain-specific agent teams, defines specialized agents, and generates their skills. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/revfactory/harness?style=social)
+- [jcode](https://github.com/1jehuang/jcode) - Performance-oriented, memory-efficient coding agent harness built for multi-session workflows and infinite customizability. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/1jehuang/jcode?style=social)
 
 #### Prompt Engineering & Structured Outputs
 
@@ -701,6 +702,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - Few-shot voice cloning with just 1 minute of voice data. Combines GPT and SoVITS architectures for high-quality TTS with cross-lingual support and emotional expression. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/RVC-Boss/GPT-SoVITS?style=social)
 - [Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time. SV2TTS implementation with speaker encoder and vocoder for instant voice synthesis. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/CorentinJ/Real-Time-Voice-Cloning?style=social)
 - [Supertonic](https://github.com/supertone-inc/supertonic) - Lightning-fast, on-device, multilingual text-to-speech system running natively via ONNX. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/supertone-inc/supertonic?style=social)
+- [Voicebox](https://github.com/jamiepine/voicebox) - Local-first AI voice studio to clone voices, generate speech in multiple languages, and dictate text locally. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/jamiepine/voicebox?style=social)
 
 #### 3D & Creative Tools
 
