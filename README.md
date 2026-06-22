@@ -305,6 +305,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Higress (Alibaba)](https://github.com/alibaba/higress) - AI-native API gateway born from Alibaba's internal infrastructure with 2+ years of production validation. Provides unified LLM API and MCP (Model Context Protocol) management with enterprise-grade 99.99% availability. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/alibaba/higress?style=social)
 - [NVIDIA Dynamo](https://github.com/ai-dynamo/dynamo) - Datacenter-scale distributed inference serving framework from NVIDIA. Orchestration layer above vLLM/SGLang/TensorRT-LLM with disaggregated serving, KV-aware routing, and automatic scaling. Built in Rust with Python extensibility. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/ai-dynamo/dynamo?style=social)
 - [Microsoft BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs (BitNet b1.58). Enables running large models on CPU with minimal memory footprint. Features custom kernels for ternary weight quantization and efficient matmul operations. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/microsoft/BitNet?style=social)
+- [FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy gateway that stacks the free tiers of multiple LLM providers behind a single endpoint with automatic failover and rate tracking. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/tashfeenahmed/freellmapi?style=social)
 
 #### Additional Inference Engines
 
@@ -464,6 +465,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Agent Skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills and quality gates for AI coding agents, packaging developer workflows like spec refinement, planning, and testing. ![GitHub stars](https://img.shields.io/github/stars/addyosmani/agent-skills?style=social)
 - [Harness](https://github.com/revfactory/harness) - Team-architecture factory for C‍laude Code that designs domain-specific agent teams, defines specialized agents, and generates their skills. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/revfactory/harness?style=social)
 - [jcode](https://github.com/1jehuang/jcode) - Performance-oriented, memory-efficient coding agent harness built for multi-session workflows and infinite customizability. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/1jehuang/jcode?style=social)
+- [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for the terminal, designed around prefix-cache stability. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/esengine/DeepSeek-Reasonix?style=social)
 
 #### Prompt Engineering & Structured Outputs
 
@@ -512,6 +514,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Hindsight](https://github.com/vectorize-io/hindsight) - State-of-the-art long-term memory for AI agents by Vectorize. Fully self-hosted, MIT-licensed, with integrations for LangChain, CrewAI, LlamaIndex, Vercel AI SDK, and more. ![GitHub stars](https://img.shields.io/github/stars/vectorize-io/hindsight?style=social)
 - [Supermemory](https://github.com/supermemoryai/supermemory) - Memory API and app for AI agents that provides fast, scalable, context-aware storage and retrieval across projects. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/supermemoryai/supermemory?style=social)
 - [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - Fully local long-term memory layer for AI agents with a four-tier progressive pipeline and zero external dependencies. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/TencentCloud/TencentDB-Agent-Memory?style=social)
+- [Cognee](https://github.com/topoteretes/cognee) - AI memory platform for agents that builds a self-hosted knowledge graph for persistent, long-term memory across sessions. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/topoteretes/cognee?style=social)
 
 ---
 
