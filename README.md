@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://www.atlascloud.ai/?utm_source=github&utm_medium=link&utm_campaign=awesome-opensource-ai">
+    <img src="assets/atlas-cloud-logo.png" alt="Atlas Cloud" width="140" />
+  </a>
+  <br />
+  <sub><strong>Atlas Cloud</strong> provides OpenAI-compatible LLM APIs and async image/video generation APIs for open-source AI apps, agents, and multimodal workflows.</sub>
+</p>
+
 <div align="center">
 
 <img src="assets/osai.png" alt="Awesome Open Source AI" width="120" />
