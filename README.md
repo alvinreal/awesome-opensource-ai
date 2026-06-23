@@ -466,6 +466,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Harness](https://github.com/revfactory/harness) - Team-architecture factory for C‍laude Code that designs domain-specific agent teams, defines specialized agents, and generates their skills. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/revfactory/harness?style=social)
 - [jcode](https://github.com/1jehuang/jcode) - Performance-oriented, memory-efficient coding agent harness built for multi-session workflows and infinite customizability. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/1jehuang/jcode?style=social)
 - [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for the terminal, designed around prefix-cache stability. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/esengine/DeepSeek-Reasonix?style=social)
+- [gstack](https://github.com/garrytan/gstack) - Multi-specialist agent skills framework for Claude Code and coding agents that structures development workflows into planning, design, QA, and release phases. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/garrytan/gstack?style=social)
 
 #### Prompt Engineering & Structured Outputs
 
