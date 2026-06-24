@@ -1188,6 +1188,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Onlook](https://github.com/onlook-dev/onlook) - Open-source AI-first design and React editing environment for visually building and modifying frontend applications. ![GitHub stars](https://img.shields.io/github/stars/onlook-dev/onlook?style=social)
 - [Daytona](https://github.com/daytonaio/daytona) - Secure elastic infrastructure for running AI-generated code. Self-hosted alternative to GitHub Codespaces with support for multiple IDEs, prebuilds, and any cloud provider. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/daytonaio/daytona?style=social)
 - [AI Workdeck](https://github.com/zeweihan/aiworkdeck) - Open-source AI-native IDE workspace for legal and document-heavy workflows — "VS Code for lawyers." Self-hosted with MCP agent orchestration, OCR, due-diligence risk flagging, evidence-chain management, WPS WebOffice integration, smart clipboard. Supports air-gapped deployment with Ollama + local storage. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/zeweihan/aiworkdeck?style=social)
+- [Orca](https://github.com/stablyai/orca) - An agentic development environment (ADE) for running and orchestrating coding agents in parallel Git worktrees on desktop and mobile. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/stablyai/orca?style=social)
 
 #### AI Coding Assistants (open-source)
 
@@ -1227,6 +1228,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Understand Anything](https://github.com/Egonex-AI/Understand-Anything) - Turns subdirectories, codebases, or knowledge bases into an interactive, AI-navigable knowledge graph and dashboard. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Egonex-AI/Understand-Anything?style=social)
 - [Knowledge Work Plugins (Anthropic)](https://github.com/anthropics/knowledge-work-plugins) - Collection of role-specific plugins and sub-agents for Claude Cowork and Claude Code. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/anthropics/knowledge-work-plugins?style=social)
 - [Cursor Plugins](https://github.com/cursor/plugins) - Official Cursor plugins for developer tools, workflows, and SaaS integrations. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/cursor/plugins?style=social)
+- [Claude Plugins Marketplace](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high-quality plugins for Claude Code. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/anthropics/claude-plugins-official?style=social)
 
 #### UI Components & Chat Libraries
 
