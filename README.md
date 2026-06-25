@@ -1004,6 +1004,8 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Privacy-Preserving AI
 
+- [Presidio (Microsoft)](https://github.com/microsoft/presidio) - SDK for detecting, redacting, masking, and anonymizing sensitive personally identifiable information (PII) across text and images. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/microsoft/presidio?style=social)
+
 ---
 
 ## 11. Specialized Domains
