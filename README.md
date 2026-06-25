@@ -426,6 +426,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Agent File](https://github.com/letta-ai/agent-file) - Open file format (.af) for serializing stateful AI agents with persistent memory and behavior. Share, checkpoint, and version control agents across compatible frameworks. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/letta-ai/agent-file?style=social)
 - [Agent Gateway](https://github.com/agentgateway/agentgateway) - Next-generation proxy and routing layer for AI agents and MCP servers, with Kubernetes-native transport, protocol interoperability, and service-mesh-style isolation for reliable agent infrastructure. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/agentgateway/agentgateway?style=social)
 - [Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) - Policy, safety, and execution controls for autonomous AI agents, including governance guardrails, sandboxing, and reliability checks. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/microsoft/agent-governance-toolkit?style=social)
+- [DESIGN.md (Google)](https://github.com/google-labs-code/design.md) - A format specification for describing visual identity to coding agents, combining YAML tokens and markdown prose to give agents a structured understanding of design systems. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/google-labs-code/design.md?style=social)
 
 #### Agent Context, Memory & Knowledge
 
@@ -501,6 +502,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Headroom](https://github.com/chopratejas/headroom) - Token and output compression middleware for AI agents and RAG workflows, reducing context footprint while preserving semantics (claims up to 60-95% fewer tokens). Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/chopratejas/headroom?style=social)
 - [Steel Browser](https://github.com/steel-dev/steel-browser) - Open-source browser API for AI agents and apps. Batteries-included browser sandbox for web automation without infrastructure worries. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social)
 - [Cua](https://github.com/trycua/cua) - Open-source sandboxes, SDKs, and benchmarks for computer-use agents to control desktop environments. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/trycua/cua?style=social)
+- [Webwright](https://github.com/microsoft/Webwright) - A terminal-style web agent framework that enables coding models to run as browser agents by writing and executing Playwright scripts. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/microsoft/Webwright?style=social)
 - [TradingAgents](https://github.com/TauricResearch/TradingAgents) - Multi-agent framework for financial trading. Simulates professional trading firm operations with 6+ specialized agent roles, backtesting, risk management, and portfolio optimization. Built with LangGraph, supports multiple LLM providers. ![GitHub stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents?style=social)
 - [Parlant](https://github.com/emcie-co/parlant) - Conversational control layer for customer-facing AI agents. Enterprise-grade context engineering framework optimized for consistent, compliant, and on-brand B2C and sensitive B2B interactions. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/emcie-co/parlant?style=social)
 - [n8n](https://github.com/n8n-io/n8n) - Self-hostable workflow automation platform with AI agent nodes, tool integrations, and production automation workflows. ![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social)
@@ -1267,6 +1269,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Testing & Debugging Tools
 
+- [no-mistakes](https://github.com/kunchenguid/no-mistakes) - A local Git proxy and validation pipeline that runs AI-driven checks and applies fixes in a temporary worktree before forwarding pushes and opening clean PRs. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/kunchenguid/no-mistakes?style=social)
 
 #### Prompt Engineering & Management
 
