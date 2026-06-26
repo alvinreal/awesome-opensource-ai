@@ -306,6 +306,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [NVIDIA Dynamo](https://github.com/ai-dynamo/dynamo) - Datacenter-scale distributed inference serving framework from NVIDIA. Orchestration layer above vLLM/SGLang/TensorRT-LLM with disaggregated serving, KV-aware routing, and automatic scaling. Built in Rust with Python extensibility. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/ai-dynamo/dynamo?style=social)
 - [Microsoft BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs (BitNet b1.58). Enables running large models on CPU with minimal memory footprint. Features custom kernels for ternary weight quantization and efficient matmul operations. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/microsoft/BitNet?style=social)
 - [FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy gateway that stacks the free tiers of multiple LLM providers behind a single endpoint with automatic failover and rate tracking. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/tashfeenahmed/freellmapi?style=social)
+- [LocalGateway](https://github.com/Correctover/local-gateway) - Zero-dependency desktop LLM gateway CLI with multi-provider automatic failover and model name mapping. Routes requests across OpenAI, Anthropic, DeepSeek, Groq with seamless fallback. Works as local proxy for Cursor, Claude Desktop, Windsurf and any OpenAI-compatible client. MIT licensed.
 
 #### Additional Inference Engines
 
@@ -888,6 +889,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [ChainForge](https://github.com/ianarawjo/ChainForge) - Visual programming environment for battle-testing prompts and evaluating LLM outputs. Features node-based prompt chains, multi-model comparison, and hypothesis testing. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/ianarawjo/ChainForge?style=social)
 - [Future AGI](https://github.com/future-agi/future-agi) - Open-source self-hostable end-to-end agent engineering and optimization platform that unifies tracing, evals, simulations, datasets, gateway, and guardrails. Built for shipping self-improving AI agents with one feedback loop from prototype to production. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/future-agi/future-agi?style=social)
 - [KubeStellar Console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes dashboard with GPU workload monitoring, AI pipeline observability, and CNCF ecosystem integrations. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/kubestellar/console?style=social)
+- [NeuralBridge](https://github.com/Correctover/neuralbridge-sdk) - Protocol-level LLM contract validation engine with automatic failover. Detects 87 failure patterns across 6 dimensions (latency, format, content, availability, cost, semantics) with MAPE-K decision loop and three-tier automatic recovery. Python SDK for production LLM reliability.
 
 #### Guardrails & Safety Tools
 
@@ -1268,6 +1270,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [GitHub Copilot SDK](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services. Production-tested agent runtime with planning, tool invocation, and context management. Build Copilot-style agents without writing your own orchestration. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/github/copilot-sdk?style=social)
 - [IBM MCP Context Forge](https://github.com/IBM/mcp-context-forge) - Gateway and registry for MCP/A2A/REST APIs with unified discovery, routing, and guardrails for production agent integrations. ![GitHub stars](https://img.shields.io/github/stars/IBM/mcp-context-forge?style=social)
 - [Fern](https://github.com/fern-api/fern) - Open-source SDK generator for REST APIs. Generate type-safe API clients in TypeScript, Python, Go, Java, and more from OpenAPI specs. Powers SDKs for companies like OpenAI, Anthropic, and Cloudflare. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/fern-api/fern?style=social)
+- [Correctover](https://github.com/Correctover/Correctover-) - Enterprise AI reliability infrastructure SDK. Protocol-level contract validation with automatic failover across LLM providers. Circuit breaker, 6-dimensional health checks, drift detection, and self-healing engine. MIT licensed.
 
 #### Testing & Debugging Tools
 
