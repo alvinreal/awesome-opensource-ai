@@ -52,6 +52,8 @@ Good entries should have a clear reason to exist. They should help people build,
 
 ## 1. Core Frameworks & Libraries
 
+- [Loopy](https://github.com/arjunkshah/loopy) - Kanban-based agent operating system orchestrating dozens of coding-agent CLIs with complexity-aware routing, named subagents, and verifiable execution receipts. Local-first, open-source.
+
 > Core libraries and frameworks used to build, train, and run AI and machine learning systems.
 
 #### Deep Learning Frameworks
