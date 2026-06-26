@@ -1233,6 +1233,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Knowledge Work Plugins (Anthropic)](https://github.com/anthropics/knowledge-work-plugins) - Collection of role-specific plugins and sub-agents for Claude Cowork and Claude Code. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/anthropics/knowledge-work-plugins?style=social)
 - [Cursor Plugins](https://github.com/cursor/plugins) - Official Cursor plugins for developer tools, workflows, and SaaS integrations. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/cursor/plugins?style=social)
 - [Claude Plugins Marketplace](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high-quality plugins for Claude Code. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/anthropics/claude-plugins-official?style=social)
+- [Agent Toolkit for AWS](https://github.com/aws/agent-toolkit-for-aws) - Official AWS-supported MCP servers, skills, and plugins to help AI coding agents build, deploy, and manage applications on AWS. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/aws/agent-toolkit-for-aws?style=social)
 
 #### UI Components & Chat Libraries
 
