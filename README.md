@@ -997,6 +997,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Anthropic Sandbox Runtime](https://github.com/anthropic-experimental/sandbox-runtime) - Portable sandbox execution environment for AI agents with constrained filesystem and network boundaries, designed to reduce blast radius in tool-use and LLM autonomy tests. ![GitHub stars](https://img.shields.io/github/stars/anthropic-experimental/sandbox-runtime?style=social)
 - [SchemaBrain](https://github.com/Arun-kc/schemabrain) - An open-source schema intelligence and safety layer (like Cloudflare) between AI agents and databases. Exposes a read-only Model Context Protocol (MCP) interface with PII masking, structured query recovery, and tamper-evident SHA-256 audit logs. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/Arun-kc/schemabrain?style=social)
 - [Anthropic Cybersecurity Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - Structured library of 754 cybersecurity skills mapped to five frameworks including MITRE ATT&CK and NIST CSF 2.0, compatible with Claude Code, Cursor, and agentskills.io. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/mukul975/Anthropic-Cybersecurity-Skills?style=social)
+- [Strix](https://github.com/usestrix/strix) - Autonomous AI-powered penetration testing agent that identifies vulnerabilities and validates them with proof-of-concept exploits. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/usestrix/strix?style=social)
 
 
 #### Responsible AI Development
