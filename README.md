@@ -108,6 +108,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Dask](https://github.com/dask/dask) - Parallel computing for big data - scales Pandas/NumPy/scikit-learn to clusters. ![GitHub stars](https://img.shields.io/github/stars/dask/dask?style=social)
 - [NumPy](https://github.com/numpy/numpy) - Fundamental array computing library that powers almost every AI stack. ![GitHub stars](https://img.shields.io/github/stars/numpy/numpy?style=social)
 - [SciPy](https://github.com/scipy/scipy) - Scientific computing algorithms (optimization, linear algebra, statistics, signal processing). ![GitHub stars](https://img.shields.io/github/stars/scipy/scipy?style=social)
+- [CuPy](https://github.com/cupy/cupy) - NumPy and SciPy-compatible array library for GPU-accelerated computing in Python. ![GitHub stars](https://img.shields.io/github/stars/cupy/cupy?style=social)
 - [NetworkX](https://github.com/networkx/networkx) - Creation, manipulation, and study of complex networks. The foundational graph analysis library for Python data science. ![GitHub stars](https://img.shields.io/github/stars/networkx/networkx?style=social)
 - [cuGraph](https://github.com/rapidsai/cugraph) - GPU graph analytics library with NetworkX-compatible API. 10-100x faster than CPU for large-scale graph algorithms. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/rapidsai/cugraph?style=social)
 - [Vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python. Visualize and explore billion-row datasets at millions of rows per second. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/vaexio/vaex?style=social)
@@ -1079,6 +1080,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [PyTorch3D](https://github.com/facebookresearch/pytorch3d) - FAIR's library of reusable components for deep learning with 3D data. Provides efficient 3D operators, differentiable rendering, and mesh processing tools integrated with PyTorch. BSD licensed. ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/pytorch3d?style=social)
 - [RTAB-Map](https://github.com/introlab/rtabmap) - Real-Time Appearance-Based Mapping library for RGB-D, Stereo and LiDAR SLAM. Graph-based SLAM approach with incremental appearance-based loop closure detection for large-scale and long-term operation. BSD licensed. ![GitHub stars](https://img.shields.io/github/stars/introlab/rtabmap?style=social)
 - [MoveIt 2](https://github.com/ros-planning/moveit2) - Open source robotics manipulation framework for ROS 2. Motion planning, manipulation, 3D perception, kinematics, control, and navigation for robotic arms. BSD-3-Clause licensed. ![GitHub stars](https://img.shields.io/github/stars/ros-planning/moveit2?style=social)
+- [LingBot-Map](https://github.com/Robbyant/lingbot-map) - Feed-forward 3D foundation model for transforming and reconstructing streaming 3D scenes. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/Robbyant/lingbot-map?style=social)
 
 #### Reinforcement Learning & Robotics
 
