@@ -422,6 +422,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Sim Studio](https://github.com/simstudioai/sim) - Open-source AI workspace for building, deploying, and orchestrating AI agents. Visual canvas with 1000+ integrations, multi-framework support (Agno, OpenAI, LangChain, Google ADK), and self-hosted or cloud deployment. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/simstudioai/sim?style=social)
 - [2FastLabs Agent Squad](https://github.com/2FastLabs/agent-squad) - Flexible, lightweight open-source framework for orchestrating multiple AI agents to handle complex conversations with parallel execution capabilities. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/2FastLabs/agent-squad?style=social)
 - [SIA](https://github.com/hexo-ai/sia) - Self-improving framework that orchestrates meta, target, and feedback agents to autonomously optimize the performance of AI models and agents on benchmark tasks. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/hexo-ai/sia?style=social)
+- [Council of High Intelligence](https://github.com/0xNyk/council-of-high-intelligence) - Multi-agent deliberation framework that routes specialized personas across different LLM providers to debate topics and reach consensus. ![GitHub stars](https://img.shields.io/github/stars/0xNyk/council-of-high-intelligence?style=social)
 
 #### Agent Protocols & Standards
 
@@ -514,6 +515,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [uAgents (Fetch.ai)](https://github.com/fetchai/uAgents) - Fast and lightweight framework for creating decentralized agents with ease. Agents automatically join the network by registering on the Almanac smart contract. Supports agent-to-agent communication out of the box. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/fetchai/uAgents?style=social)
 - [Tracecat](https://github.com/TracecatHQ/tracecat) - Self-hostable security automation platform for building agentic workflows across alerts, cases, and operations. ![GitHub stars](https://img.shields.io/github/stars/TracecatHQ/tracecat?style=social)
 - [ToolJet](https://github.com/ToolJet/ToolJet) - Self-hostable internal app builder with AI app and agent workflows for operations teams. ![GitHub stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social)
+- [The Agency](https://github.com/msitarzewski/agency-agents) - Extensive library of specialized developer and workflow agent personas with installer support for Claude Code, Cursor, Codex, and other coding assistants. ![GitHub stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=social)
 
 #### Agent Memory & State
 
