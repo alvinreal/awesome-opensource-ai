@@ -213,6 +213,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [skorch](https://github.com/skorch-dev/skorch) - scikit-learn compatible neural network library that wraps PyTorch. Seamlessly integrate PyTorch models with scikit-learn pipelines, grid search, and cross-validation. ![GitHub stars](https://img.shields.io/github/stars/skorch-dev/skorch?style=social)
 - [Composer](https://github.com/mosaicml/composer) - Supercharge your model training. MosaicML's PyTorch training library with built-in algorithms for efficient training (FSDP, gradient compression, progressive resizing) and seamless distributed training on large-scale clusters. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/mosaicml/composer?style=social)
 - [NVIDIA Apex](https://github.com/NVIDIA/apex) - PyTorch extension for mixed precision training and distributed training optimizations. Powers many production deep learning workloads with tools for automatic mixed precision (AMP), distributed data parallel, and fused optimizers. BSD-3-Clause licensed. ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/apex?style=social)
+- [SuperCompress](https://supercompress.vercel.app) - Learned prompt compression that reduces LLM token costs by ~65% using a ~5K-param CPU policy (~60ms latency). Open-source (MIT).
 
 ---
 
