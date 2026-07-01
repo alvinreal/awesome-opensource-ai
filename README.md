@@ -1350,3 +1350,7 @@ Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) for gu
 - No minimum GitHub star requirement
 - Useful, relevant, well-documented projects with a clear reason to exist
 - Maintained current list, not a historical archive
+
+## Workflow Orchestration
+
+| [Springwell-Keel](https://github.com/stevenjones-bot/springwell-keel) | Agentic workflow orchestration for faith-based benevolence ministries. Intake sensing, care routing, follow-up automation. Postgres + Docker. Phase 0, Apache 2.0. | Workflow/Agents |
