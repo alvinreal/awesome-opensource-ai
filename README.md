@@ -307,6 +307,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [NVIDIA Dynamo](https://github.com/ai-dynamo/dynamo) - Datacenter-scale distributed inference serving framework from NVIDIA. Orchestration layer above vLLM/SGLang/TensorRT-LLM with disaggregated serving, KV-aware routing, and automatic scaling. Built in Rust with Python extensibility. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/ai-dynamo/dynamo?style=social)
 - [Microsoft BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs (BitNet b1.58). Enables running large models on CPU with minimal memory footprint. Features custom kernels for ternary weight quantization and efficient matmul operations. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/microsoft/BitNet?style=social)
 - [FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy gateway that stacks the free tiers of multiple LLM providers behind a single endpoint with automatic failover and rate tracking. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/tashfeenahmed/freellmapi?style=social)
+- [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Unified AI gateway and proxy supporting over 230 providers with token compression, automatic failover, and routing strategies. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social)
 
 #### Additional Inference Engines
 
@@ -473,6 +474,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for the terminal, designed around prefix-cache stability. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/esengine/DeepSeek-Reasonix?style=social)
 - [gstack](https://github.com/garrytan/gstack) - Multi-specialist agent skills framework for Claude Code and coding agents that structures development workflows into planning, design, QA, and release phases. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/garrytan/gstack?style=social)
 - [taste-skill](https://github.com/Leonxlnx/taste-skill) - Anti-slop frontend design skills for coding agents that improve layout, typography, and design system alignment during generation. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Leonxlnx/taste-skill?style=social)
+- [Agents CLI (Google)](https://github.com/google/agents-cli) - CLI and skills that turn coding assistants into experts at creating, evaluating, and deploying AI agents on Google Cloud. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/google/agents-cli?style=social)
 
 #### Prompt Engineering & Structured Outputs
 
