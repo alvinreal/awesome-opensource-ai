@@ -1340,6 +1340,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - Curated list of artificial intelligence courses, books, video lectures, and papers for developers and researchers. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/owainlewis/awesome-artificial-intelligence?style=social)
 - [Andrej Karpathy Skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. Principles: Think Before Coding, Simplicity First, Surgical Changes, Goal-Driven Execution. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/forrestchang/andrej-karpathy-skills?style=social)
 
+- [OpenModelMap](https://github.com/duola15/open-source-model-nav) - Chinese-language open-source AI model discovery engine with 2,300+ models across text generation, image generation, speech recognition, TTS, multimodal, and embedding categories. Features daily auto-sync, AI-translated introductions, hardware-requirement filtering, deploy command generation, and 3,000+ SSG pages with JSON-LD structured data. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/duola15/open-source-model-nav?style=social)
 ---
 
 ## Contributing
