@@ -519,6 +519,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Tracecat](https://github.com/TracecatHQ/tracecat) - Self-hostable security automation platform for building agentic workflows across alerts, cases, and operations. ![GitHub stars](https://img.shields.io/github/stars/TracecatHQ/tracecat?style=social)
 - [ToolJet](https://github.com/ToolJet/ToolJet) - Self-hostable internal app builder with AI app and agent workflows for operations teams. ![GitHub stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social)
 - [The Agency](https://github.com/msitarzewski/agency-agents) - Extensive library of specialized developer and workflow agent personas with installer support for Claude Code, Cursor, Codex, and other coding assistants. ![GitHub stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=social)
+- [CubeSandbox (Tencent Cloud)](https://github.com/TencentCloud/CubeSandbox) - High-performance, secure agent sandbox built on RustVMM and KVM, compatible with the E2B SDK. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/TencentCloud/CubeSandbox?style=social)
 
 #### Agent Memory & State
 
@@ -653,6 +654,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [LiteParse](https://github.com/run-llama/liteparse) - Lightweight document parsing toolkit for AI and RAG pipelines with PDF/OCR extraction and clean preprocessing defaults. ![GitHub stars](https://img.shields.io/github/stars/run-llama/liteparse?style=social)
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Large-scale OCR suite with detection, recognition, and layout analysis, used widely for document digitization and downstream RAG pipelines. ![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=social)
 - [DocETL (UC Berkeley)](https://github.com/ucbepic/docetl) - Agentic LLM-powered data processing and ETL system for complex document processing. Query rewriting and evaluation for unstructured data analysis with 80% higher accuracy than baselines. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/ucbepic/docetl?style=social)
+- [olmOCR (Allen Institute for AI)](https://github.com/allenai/olmocr) - Toolkit for reconstructing and linearizing PDF documents into clean text optimized for LLM datasets, training, and RAG pipelines. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/allenai/olmocr?style=social)
 
 #### LLM Application Frameworks
 
