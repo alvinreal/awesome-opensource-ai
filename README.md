@@ -431,6 +431,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Agent Gateway](https://github.com/agentgateway/agentgateway) - Next-generation proxy and routing layer for AI agents and MCP servers, with Kubernetes-native transport, protocol interoperability, and service-mesh-style isolation for reliable agent infrastructure. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/agentgateway/agentgateway?style=social)
 - [Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) - Policy, safety, and execution controls for autonomous AI agents, including governance guardrails, sandboxing, and reliability checks. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/microsoft/agent-governance-toolkit?style=social)
 - [DESIGN.md (Google)](https://github.com/google-labs-code/design.md) - A format specification for describing visual identity to coding agents, combining YAML tokens and markdown prose to give agents a structured understanding of design systems. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/google-labs-code/design.md?style=social)
+- [Agent Skills](https://github.com/agentskills/agentskills) - Standardized specification and document format for bundling and progressively loading AI agent capabilities, instructions, scripts, and resources. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/agentskills/agentskills?style=social)
 
 #### Agent Context, Memory & Knowledge
 
@@ -1246,6 +1247,9 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Cursor Plugins](https://github.com/cursor/plugins) - Official Cursor plugins for developer tools, workflows, and SaaS integrations. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/cursor/plugins?style=social)
 - [Claude Plugins Marketplace](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high-quality plugins for Claude Code. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/anthropics/claude-plugins-official?style=social)
 - [Agent Toolkit for AWS](https://github.com/aws/agent-toolkit-for-aws) - Official AWS-supported MCP servers, skills, and plugins to help AI coding agents build, deploy, and manage applications on AWS. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/aws/agent-toolkit-for-aws?style=social)
+- [Caveman](https://github.com/JuliusBrussee/caveman) - Skill and setup script for Claude Code, Codex, Gemini, Cursor, and other coding agents that reduces token output by instructing agents to communicate in concise, caveman-style prose. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/JuliusBrussee/caveman?style=social)
+- [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Official Model Context Protocol (MCP) server from Google that enables coding agents to control and inspect a live Chrome browser for automation, debugging, and web performance analysis. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=social)
+- [Codex Plugin for Claude Code](https://github.com/openai/codex-plugin-cc) - Official integration plugin for Claude Code that enables developers to run Codex code reviews, delegate tasks, and manage background coding jobs. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/openai/codex-plugin-cc?style=social)
 
 #### UI Components & Chat Libraries
 
