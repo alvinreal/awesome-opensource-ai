@@ -1351,6 +1351,8 @@ Good entries should have a clear reason to exist. They should help people build,
 
 ---
 
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts (PCAs): structured Markdown files + Claude Code skills that give any AI agent deep, longitudinal context about you. 4 templates + 5 skills, MIT licensed.
+
 ## Contributing
 
 Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
