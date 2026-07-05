@@ -476,6 +476,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [gstack](https://github.com/garrytan/gstack) - Multi-specialist agent skills framework for Claude Code and coding agents that structures development workflows into planning, design, QA, and release phases. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/garrytan/gstack?style=social)
 - [taste-skill](https://github.com/Leonxlnx/taste-skill) - Anti-slop frontend design skills for coding agents that improve layout, typography, and design system alignment during generation. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Leonxlnx/taste-skill?style=social)
 - [Agents CLI (Google)](https://github.com/google/agents-cli) - CLI and skills that turn coding assistants into experts at creating, evaluating, and deploying AI agents on Google Cloud. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/google/agents-cli?style=social)
+- [Claude Code Skills & Plugins](https://github.com/alirezarezvani/claude-skills) - Modular instruction packages, custom commands, and utility scripts for Claude Code, Gemini CLI, Cursor, and other AI coding agents. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/alirezarezvani/claude-skills?style=social)
 
 #### Prompt Engineering & Structured Outputs
 
@@ -1182,6 +1183,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - Open-source app that brings small language models directly to your phone. Run AI 100% privately on iOS and Android with no cloud required. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/a-ghorbani/pocketpal-ai?style=social)
 - [Hermes Desktop](https://github.com/fathah/hermes-desktop) - Desktop companion application for installing, configuring, and chatting with Hermes Agent. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/fathah/hermes-desktop?style=social)
 - [Craft Agents](https://github.com/craft-ai-agents/craft-agents-oss) - Open-source desktop and web interface for agentic workflows, featuring built-in MCP support, customizable API connections, and session sharing. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/craft-ai-agents/craft-agents-oss?style=social)
+- [Meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first local AI meeting assistant for real-time transcription and summary generation. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Zackriya-Solutions/meetily?style=social)
 
 #### Agent & Voice Infrastructure
 
