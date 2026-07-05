@@ -1184,6 +1184,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Hermes Desktop](https://github.com/fathah/hermes-desktop) - Desktop companion application for installing, configuring, and chatting with Hermes Agent. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/fathah/hermes-desktop?style=social)
 - [Craft Agents](https://github.com/craft-ai-agents/craft-agents-oss) - Open-source desktop and web interface for agentic workflows, featuring built-in MCP support, customizable API connections, and session sharing. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/craft-ai-agents/craft-agents-oss?style=social)
 - [Meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first local AI meeting assistant for real-time transcription and summary generation. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Zackriya-Solutions/meetily?style=social)
+- [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper) - macOS dictation application providing real-time audio transcription and drag-and-drop file transcription using Whisper and Parakeet models. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Starmel/OpenSuperWhisper?style=social)
 
 #### Agent & Voice Infrastructure
 
@@ -1208,6 +1209,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Daytona](https://github.com/daytonaio/daytona) - Secure elastic infrastructure for running AI-generated code. Self-hosted alternative to GitHub Codespaces with support for multiple IDEs, prebuilds, and any cloud provider. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/daytonaio/daytona?style=social)
 - [AI Workdeck](https://github.com/zeweihan/aiworkdeck) - Open-source AI-native IDE workspace for legal and document-heavy workflows — "VS Code for lawyers." Self-hosted with MCP agent orchestration, OCR, due-diligence risk flagging, evidence-chain management, WPS WebOffice integration, smart clipboard. Supports air-gapped deployment with Ollama + local storage. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/zeweihan/aiworkdeck?style=social)
 - [Orca](https://github.com/stablyai/orca) - An agentic development environment (ADE) for running and orchestrating coding agents in parallel Git worktrees on desktop and mobile. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/stablyai/orca?style=social)
+- [Terax](https://github.com/crynta/terax-ai) - Lightweight terminal-first AI-native dev workspace (ADE) featuring multi-tab terminals, a code editor with AI edit diffs, source control, and agentic workflows. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/crynta/terax-ai?style=social)
 
 #### AI Coding Assistants (open-source)
 
@@ -1253,6 +1255,8 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Caveman](https://github.com/JuliusBrussee/caveman) - Skill and setup script for Claude Code, Codex, Gemini, Cursor, and other coding agents that reduces token output by instructing agents to communicate in concise, caveman-style prose. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/JuliusBrussee/caveman?style=social)
 - [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Official Model Context Protocol (MCP) server from Google that enables coding agents to control and inspect a live Chrome browser for automation, debugging, and web performance analysis. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=social)
 - [Codex Plugin for Claude Code](https://github.com/openai/codex-plugin-cc) - Official integration plugin for Claude Code that enables developers to run Codex code reviews, delegate tasks, and manage background coding jobs. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/openai/codex-plugin-cc?style=social)
+- [Unity MCP](https://github.com/CoplayDev/unity-mcp) - Model Context Protocol (MCP) server bridging AI assistants with the Unity Editor to automate asset, scene, and script workflows. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/CoplayDev/unity-mcp?style=social)
+- [.NET Agent Skills](https://github.com/dotnet/skills) - Curated set of skills, custom agents, and plugins to assist AI coding agents with .NET and C# development. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/dotnet/skills?style=social)
 
 #### UI Components & Chat Libraries
 
