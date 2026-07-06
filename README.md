@@ -8,6 +8,8 @@
 
 Curated open-source artificial intelligence models, libraries, infrastructure, and developer tools.
 
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 </div>
