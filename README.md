@@ -1182,6 +1182,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - Open-source app that brings small language models directly to your phone. Run AI 100% privately on iOS and Android with no cloud required. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/a-ghorbani/pocketpal-ai?style=social)
 - [Hermes Desktop](https://github.com/fathah/hermes-desktop) - Desktop companion application for installing, configuring, and chatting with Hermes Agent. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/fathah/hermes-desktop?style=social)
 - [Craft Agents](https://github.com/craft-ai-agents/craft-agents-oss) - Open-source desktop and web interface for agentic workflows, featuring built-in MCP support, customizable API connections, and session sharing. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/craft-ai-agents/craft-agents-oss?style=social)
+- [Off Grid AI Desktop](https://github.com/off-grid-ai/off-grid-ai-desktop) - Local-first macOS AI app that runs LLM chat, image generation, voice transcription, and personal memory/RAG fully on-device via llama.cpp - nothing leaves the machine. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/off-grid-ai/off-grid-ai-desktop?style=social)
 
 #### Agent & Voice Infrastructure
 
