@@ -1246,6 +1246,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [T3 Code](https://github.com/pingdotgg/t3code) - Minimal web GUI and desktop app for interacting with coding agents like Codex, Claude Code, Cursor, and OpenCode. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/pingdotgg/t3code?style=social)
 - [OpenWork](https://github.com/different-ai/openwork) - Open-source desktop app for sharing AI workflows, skills, and MCP capabilities across agents. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/different-ai/openwork?style=social)
 - [ego lite](https://github.com/citrolabs/ego-lite) - Desktop browser designed for running web automation tasks and AI agents in parallel within isolated workspaces. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/citrolabs/ego-lite?style=social)
+- [Off Grid AI Desktop](https://github.com/off-grid-ai/OGAD) - Local-first macOS AI app that runs LLM chat, image generation, voice transcription, and personal memory/RAG fully on-device via llama.cpp - nothing leaves the machine. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/off-grid-ai/OGAD?style=social)
 
 #### Agent & Voice Infrastructure
 
