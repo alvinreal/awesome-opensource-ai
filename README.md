@@ -1122,6 +1122,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [stock-analysis](https://github.com/AdvancingTitans/stock-analysis) - Evidence-first market research CLI and Agent Skill for A-share, Hong Kong, and US stocks, funds, and portfolios, with auditable JSON Evidence Packs and explicit data-quality gaps. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/AdvancingTitans/stock-analysis?style=social)
 - [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - Open-source personal trading agent and research autopilot platform featuring multi-agent swarms, quantitative backtesting, and broker connectors. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/HKUDS/Vibe-Trading?style=social)
 - [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund) - Multi-agent system simulating an AI-powered hedge fund that utilizes specialized investor agent personalities to make trading decisions. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/virattt/ai-hedge-fund?style=social)
+- [etf-pattern-match-pybind11](https://github.com/redamancy231-create/etf-pattern-match-pybind11) - High-performance ETF pattern matching with C++20/pybind11 acceleration achieving 43x DTW and 58x pattern-matching speedups over pure Python. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/redamancy231-create/etf-pattern-match-pybind11?style=social)
 
 #### Computer Vision
 
