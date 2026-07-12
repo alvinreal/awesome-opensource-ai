@@ -256,6 +256,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [VoxCPM](https://github.com/OpenBMB/VoxCPM) - Open-sourced tokenizer-free multilingual speech synthesis model with high-quality TTS and style transfer workflows. ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/VoxCPM?style=social)
 - [VibeVoice](https://github.com/microsoft/VibeVoice) - Open Frontier Voice AI toolkit spanning speech understanding, generation, and multilingual TTS workflows, with active research and deployment tooling. ![GitHub stars](https://img.shields.io/github/stars/microsoft/VibeVoice?style=social)
 - [SpeechBrain](https://github.com/speechbrain/speechbrain) - PyTorch speech toolkit with recipes for ASR, TTS, speaker recognition, and speech enhancement. ![GitHub stars](https://img.shields.io/github/stars/speechbrain/speechbrain?style=social)
+- [Pocket TTS](https://github.com/kyutai-labs/pocket-tts) - Lightweight text-to-speech engine optimized for CPU inference with low latency and streaming support. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/kyutai-labs/pocket-tts?style=social)
 
 ---
 
@@ -1264,6 +1265,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Codex Plugin for Claude Code](https://github.com/openai/codex-plugin-cc) - Official integration plugin for Claude Code that enables developers to run Codex code reviews, delegate tasks, and manage background coding jobs. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/openai/codex-plugin-cc?style=social)
 - [Unity MCP](https://github.com/CoplayDev/unity-mcp) - Model Context Protocol (MCP) server bridging AI assistants with the Unity Editor to automate asset, scene, and script workflows. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/CoplayDev/unity-mcp?style=social)
 - [.NET Agent Skills](https://github.com/dotnet/skills) - Curated set of skills, custom agents, and plugins to assist AI coding agents with .NET and C# development. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/dotnet/skills?style=social)
+- [Claude Video](https://github.com/bradautomates/claude-video) - A skill and plugin that enables AI coding assistants to view, transcribe, and analyze video content. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/bradautomates/claude-video?style=social)
 
 #### UI Components & Chat Libraries
 
@@ -1292,6 +1294,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [OpenChamber Mobile Bridge](https://github.com/Zaradacht/opencode-openchamber-mobile-bridge) - OpenCode/OpenChamber helper for exposing devcontainer-based coding sessions to private Tailscale mobile access through a host bridge. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Zaradacht/opencode-openchamber-mobile-bridge?style=social)
 - [DesktopCommander MCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - MCP server for Claude providing terminal control, file system search, and diff file editing capabilities. Enables autonomous code editing through Model Context Protocol. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/wonderwhy-er/DesktopCommanderMCP?style=social)
 - [Claude Code Action](https://github.com/anthropics/claude-code-action) - GitHub Action for running Claude Code in PR and issue workflows with approval-aware automation and coding assistance. ![GitHub stars](https://img.shields.io/github/stars/anthropics/claude-code-action?style=social)
+- [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files without external Office installations. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/iOfficeAI/OfficeCLI?style=social)
 
 #### SDKs & API Development Tools
 
