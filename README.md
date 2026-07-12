@@ -1353,8 +1353,9 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Starter Projects & Examples
 
-- [TensorFlow Tutorials](https://github.com/tensorflow/docs) - Official guides for beginners to advanced users. ![GitHub stars](https://img.shields.io/github/stars/tensorflow/docs?style=social)
+- [Claude Cookbooks](https://github.com/anthropics/claude-cookbooks) - Official collection of recipes and notebooks demonstrating tool use, prompt caching, structured outputs, and agentic workflows with Claude. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/anthropics/claude-cookbooks?style=social)
 - [Hugging Face Transformers Notebooks](https://github.com/huggingface/notebooks) - Run Transformers, Datasets, and more in Colab. ![GitHub stars](https://img.shields.io/github/stars/huggingface/notebooks?style=social)
+- [TensorFlow Tutorials](https://github.com/tensorflow/docs) - Official guides for beginners to advanced users. ![GitHub stars](https://img.shields.io/github/stars/tensorflow/docs?style=social)
 
 #### Curated Resource Lists
 
