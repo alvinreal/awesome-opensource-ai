@@ -1078,6 +1078,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Kronos](https://github.com/shiyu-coder/Kronos) - Foundation model for financial candlesticks (K-lines) pre-trained on multi-dimensional market data across global exchanges. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/shiyu-coder/Kronos?style=social)
 - [Daily Stock Analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM-powered multi-market stock analysis system providing automated decision dashboard reports and real-time market insights. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/ZhuLinsen/daily_stock_analysis?style=social)
 - [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - Open-source personal trading agent and research autopilot platform featuring multi-agent swarms, quantitative backtesting, and broker connectors. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/HKUDS/Vibe-Trading?style=social)
+- [etf-pattern-match-pybind11](https://github.com/redamancy231-create/etf-pattern-match-pybind11) - High-performance ETF pattern matching with C++20/pybind11 acceleration achieving 43x DTW and 58x pattern-matching speedups over pure Python. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/redamancy231-create/etf-pattern-match-pybind11?style=social)
 
 #### Computer Vision
 
