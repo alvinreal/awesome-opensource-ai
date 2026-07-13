@@ -1265,6 +1265,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Unity MCP](https://github.com/CoplayDev/unity-mcp) - Model Context Protocol (MCP) server bridging AI assistants with the Unity Editor to automate asset, scene, and script workflows. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/CoplayDev/unity-mcp?style=social)
 - [.NET Agent Skills](https://github.com/dotnet/skills) - Curated set of skills, custom agents, and plugins to assist AI coding agents with .NET and C# development. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/dotnet/skills?style=social)
 - [Claude Video](https://github.com/bradautomates/claude-video) - A skill and plugin that enables AI coding assistants to view, transcribe, and analyze video content. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/bradautomates/claude-video?style=social)
+- [Stitch Design Skills](https://github.com/google-labs-code/stitch-skills) - A library of agent skills and plugins designed to work with the Stitch MCP server, following the Agent Skills open standard. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/google-labs-code/stitch-skills?style=social)
 
 #### UI Components & Chat Libraries
 
