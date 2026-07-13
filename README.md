@@ -1163,6 +1163,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [BionicGPT](https://github.com/bionic-gpt/bionic-gpt) - On-prem ChatGPT replacement for teams with assistants, RAG, access controls, auditing, and enterprise deployment features. ![GitHub stars](https://img.shields.io/github/stars/bionic-gpt/bionic-gpt?style=social)
 - [OpenHuman](https://github.com/tinyhumansai/openhuman) - A local-first personal assistant and memory harness with Obsidian integration, model routing, and automatic integration sync. GPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/tinyhumansai/openhuman?style=social)
 - [Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) - Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D talking face running locally across platforms. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Open-LLM-VTuber/Open-LLM-VTuber?style=social)
+- [Next AI Draw.io](https://github.com/DayuanJiang/next-ai-draw-io) - Next.js web application that integrates AI capabilities with draw.io diagrams to create and edit diagrams through natural language. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/DayuanJiang/next-ai-draw-io?style=social)
 
 #### Full Self-hosted AI Platforms
 
