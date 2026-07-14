@@ -450,6 +450,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Autonomous Coding Agents
 
+- [Background Agents](https://github.com/ColeMurray/background-agents) - Open-source background coding agent system inspired by Ramp's Inspect, supporting file and environment snapshots, cron-based automation, and multi-provider models. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/ColeMurray/background-agents?style=social)
 - [OpenHands (ex-OpenDevin)](https://github.com/All-Hands-AI/OpenHands) - Full-featured open-source AI software engineer. ![GitHub stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social)
 - [HEXStrike AI](https://github.com/0x4m4/hexstrike-ai) - MCP-powered coding-focused cybersecurity agent framework for automated pentesting and bug-hunting workflows. ![GitHub stars](https://img.shields.io/github/stars/0x4m4/hexstrike-ai?style=social)
 - [VulnClaw](https://github.com/Unclecheng-li/VulnClaw) - Autonomous penetration testing agent utilizing Model Context Protocol (MCP) toolchains, blackboard state space search, and structured reasoning. ![GitHub stars](https://img.shields.io/github/stars/Unclecheng-li/VulnClaw?style=social)
@@ -1201,6 +1202,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Agent & Voice Infrastructure
 
+- [Speech to Speech](https://github.com/huggingface/speech-to-speech) - Low-latency, fully modular voice-agent pipeline integrating voice activity detection, speech-to-text, LLMs, and text-to-speech via an OpenAI Realtime-compatible WebSocket API. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/huggingface/speech-to-speech?style=social)
 - [LiveKit Agents](https://github.com/livekit/agents) - Framework for building realtime voice AI agents with WebRTC transport, STT-LLM-TTS pipelines, and production-grade orchestration. Used by Salesforce Agentforce and Tesla. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/livekit/agents?style=social)
 - [Pipecat](https://github.com/pipecat-ai/pipecat) - Open-source framework for voice and multimodal conversational AI. Build real-time voice agents with support for speech-to-text, LLMs, text-to-speech, and live video. BSD-2-Clause licensed. ![GitHub stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social)
 - [Agent Chat UI](https://github.com/langchain-ai/agent-chat-ui) - Web app for interacting with any LangGraph agent (Python & TypeScript) via a chat interface. Stream messages, handle interruptions, and view agent state. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/agent-chat-ui?style=social)
@@ -1248,6 +1250,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### IDE Plugins & Extensions
 
+- [Archify](https://github.com/tt-a1i/archify) - Diagram-generation agent skill for Claude Code, Codex, and OpenCode that converts natural language into interactive system, workflow, sequence, data flow, and lifecycle diagrams. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/tt-a1i/archify?style=social)
 - [llama.vim](https://github.com/ggml-org/llama.vim) - Local LLM-powered code completion plugin for Vim/Neovim using llama.cpp. Fast, privacy-first, no API key needed. ![GitHub stars](https://img.shields.io/github/stars/ggml-org/llama.vim?style=social)
 - [CodeCompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - AI-powered coding assistant for Neovim. Inline code generation, chat, actions, and tool use with support for multiple LLM providers. ![GitHub stars](https://img.shields.io/github/stars/olimorris/codecompanion.nvim?style=social)
 - [ProxyAI](https://github.com/carlrobertoh/ProxyAI) - Leading open-source AI copilot for JetBrains IDEs. Connect to any model in any environment with auto-apply, image chat, file references, web search, and customizable personas. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/carlrobertoh/ProxyAI?style=social)
