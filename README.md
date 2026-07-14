@@ -1169,6 +1169,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [BionicGPT](https://github.com/bionic-gpt/bionic-gpt) - On-prem ChatGPT replacement for teams with assistants, RAG, access controls, auditing, and enterprise deployment features. ![GitHub stars](https://img.shields.io/github/stars/bionic-gpt/bionic-gpt?style=social)
 - [OpenHuman](https://github.com/tinyhumansai/openhuman) - A local-first personal assistant and memory harness with Obsidian integration, model routing, and automatic integration sync. GPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/tinyhumansai/openhuman?style=social)
 - [Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) - Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D talking face running locally across platforms. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Open-LLM-VTuber/Open-LLM-VTuber?style=social)
+- [AIRI](https://github.com/moeru-ai/airi) - Self-hosted cyber companion and VTuber platform with Live2D character rendering, real-time voice chat, and game integration capabilities. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/moeru-ai/airi?style=social)
 - [Next AI Draw.io](https://github.com/DayuanJiang/next-ai-draw-io) - Next.js web application that integrates AI capabilities with draw.io diagrams to create and edit diagrams through natural language. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/DayuanJiang/next-ai-draw-io?style=social)
 
 #### Full Self-hosted AI Platforms
@@ -1237,6 +1238,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Qwen Code](https://github.com/QwenLM/qwen-code) - Open-source AI agent for the terminal, optimized for Qwen series models. Multi-protocol provider support including OpenAI, Anthropic, Gemini, Alibaba Cloud, OpenRouter. Features agentic workflow with Skills and SubAgents. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/QwenLM/qwen-code?style=social)
 - [DeepCode](https://github.com/HKUDS/DeepCode) - Transforms research papers and natural language into production-ready code. AI-powered research-to-code automation tool. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/HKUDS/DeepCode?style=social)
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) framework and CLI tool for AI coding assistants, providing structured workflows for proposing, implementing, and archiving code changes. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Fission-AI/OpenSpec?style=social)
+- [Spec Kit](https://github.com/github/spec-kit) - Toolkit and CLI for Spec-Driven Development that integrates with AI coding agents to generate structured code implementations from executable specifications. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/github/spec-kit?style=social)
 
 #### Notebooks & Interactive Computing
 
@@ -1251,6 +1253,7 @@ Good entries should have a clear reason to exist. They should help people build,
 #### IDE Plugins & Extensions
 
 - [Archify](https://github.com/tt-a1i/archify) - Diagram-generation agent skill for Claude Code, Codex, and OpenCode that converts natural language into interactive system, workflow, sequence, data flow, and lifecycle diagrams. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/tt-a1i/archify?style=social)
+- [Graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill that maps a codebase and resource directory into an interactive knowledge graph for local query and navigation. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Graphify-Labs/graphify?style=social)
 - [llama.vim](https://github.com/ggml-org/llama.vim) - Local LLM-powered code completion plugin for Vim/Neovim using llama.cpp. Fast, privacy-first, no API key needed. ![GitHub stars](https://img.shields.io/github/stars/ggml-org/llama.vim?style=social)
 - [CodeCompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - AI-powered coding assistant for Neovim. Inline code generation, chat, actions, and tool use with support for multiple LLM providers. ![GitHub stars](https://img.shields.io/github/stars/olimorris/codecompanion.nvim?style=social)
 - [ProxyAI](https://github.com/carlrobertoh/ProxyAI) - Leading open-source AI copilot for JetBrains IDEs. Connect to any model in any environment with auto-apply, image chat, file references, web search, and customizable personas. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/carlrobertoh/ProxyAI?style=social)
