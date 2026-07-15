@@ -1060,6 +1060,10 @@ Good entries should have a clear reason to exist. They should help people build,
 
 - [Alex](https://github.com/Alex663028/Alex-Novel-Platform) - Open-source desktop novel-writing engine and AI story scaffold with Tauri, FastAPI, SQLite, and plot-generation workflows. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Alex663028/Alex-Novel-Platform?style=social)
 
+#### HR & Recruiting AI
+
+- [Aural](https://github.com/1146345502/aural-oss) - Self-hostable AI interview platform for voice, chat, and video interviews with adaptive follow-ups, automated scoring, and detailed feedback reports. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/1146345502/aural-oss?style=social)
+
 #### Game AI & Simulations
 
 - [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents) - Toolkit for training intelligent agents in games and simulations using deep reinforcement learning. Enables NPC behavior control, automated testing, and game design evaluation. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/Unity-Technologies/ml-agents?style=social)
