@@ -482,6 +482,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [taste-skill](https://github.com/Leonxlnx/taste-skill) - Anti-slop frontend design skills for coding agents that improve layout, typography, and design system alignment during generation. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Leonxlnx/taste-skill?style=social)
 - [Agents CLI (Google)](https://github.com/google/agents-cli) - CLI and skills that turn coding assistants into experts at creating, evaluating, and deploying AI agents on Google Cloud. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/google/agents-cli?style=social)
 - [Claude Code Skills & Plugins](https://github.com/alirezarezvani/claude-skills) - Modular instruction packages, custom commands, and utility scripts for Claude Code, Gemini CLI, Cursor, and other AI coding agents. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/alirezarezvani/claude-skills?style=social)
+- [Tura](https://github.com/Tura-AI/tura) - Local coding agent with CLI, TUI, and GUI interfaces, task-scoped context, repository command execution, verification, and published long-horizon benchmark artifacts. AGPL-3.0-or-later licensed. ![GitHub stars](https://img.shields.io/github/stars/Tura-AI/tura?style=social)
 
 #### Prompt Engineering & Structured Outputs
 
