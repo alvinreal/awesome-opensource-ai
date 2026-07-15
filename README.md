@@ -1321,6 +1321,7 @@ Good entries should have a clear reason to exist. They should help people build,
 #### Testing & Debugging Tools
 
 - [no-mistakes](https://github.com/kunchenguid/no-mistakes) - A local Git proxy and validation pipeline that runs AI-driven checks and applies fixes in a temporary worktree before forwarding pushes and opening clean PRs. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/kunchenguid/no-mistakes?style=social)
+- [agent-qa](https://github.com/vostride/agent-qa) - Self-improving QA harness for web and mobile apps with natural-language tests, memory-backed self-healing, sandboxed hooks, and MCP/skills support for coding agents. FSL-1.1-ALv2 licensed. ![GitHub stars](https://img.shields.io/github/stars/vostride/agent-qa?style=social)
 
 #### Prompt Engineering & Management
 
