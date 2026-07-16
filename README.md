@@ -528,6 +528,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [ToolJet](https://github.com/ToolJet/ToolJet) - Self-hostable internal app builder with AI app and agent workflows for operations teams. ![GitHub stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social)
 - [The Agency](https://github.com/msitarzewski/agency-agents) - Extensive library of specialized developer and workflow agent personas with installer support for Claude Code, Cursor, Codex, and other coding assistants. ![GitHub stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=social)
 - [CubeSandbox (Tencent Cloud)](https://github.com/TencentCloud/CubeSandbox) - High-performance, secure agent sandbox built on RustVMM and KVM, compatible with the E2B SDK. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/TencentCloud/CubeSandbox?style=social)
+- [DeepTutor](https://github.com/HKUDS/DeepTutor) - Multi-agent system for lifelong personalized tutoring with interactive and adaptive learning workflows. ![GitHub stars](https://img.shields.io/github/stars/HKUDS/DeepTutor?style=social)
 
 #### Agent Memory & State
 
