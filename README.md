@@ -1215,6 +1215,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### AI-Native IDEs & Development Environments
 
+- [Claude Pet](https://github.com/nikhilagrima/claude-pet) - Desktop companion for Claude Code that reacts to hook events with animated emotions and sounds, maintains a local SQLite graph memory per project injected as a compact recap at session start, promotes repeated patterns into SKILL.md files, and monitors GitHub repository activity. macOS/Windows/Linux, 100% local. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/nikhilagrima/claude-pet?style=social)
 - [Ralph](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection. Automates iterative coding workflows with self-monitoring capabilities. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/frankbria/ralph-claude-code?style=social)
 - [Nimbalyst](https://github.com/nimbalyst/nimbalyst) - Desktop app for running multiple Codex and Claude Code AI sessions in parallel Git worktrees. Test, compare approaches and manage AI-assisted development workflows in one unified interface. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/nimbalyst/nimbalyst?style=social)
 - [Nezha](https://github.com/hanshuaikang/nezha) - Code editor for the AI agents era. Run multiple Claude Code and Codex agents across projects on your machine with an intuitive interface. GPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/hanshuaikang/nezha?style=social)
