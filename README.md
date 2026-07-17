@@ -167,6 +167,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Data Transformation & Analytics Engineering
 
+- [Apache Ossie](https://github.com/apache/ossie) - Vendor-neutral specification to standardize semantic models across analytics, BI, and AI agent platforms. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/apache/ossie?style=social)
 - [dbt-core](https://github.com/dbt-labs/dbt-core) - Transform data using software engineering best practices. The industry-standard framework for analytics engineering with 15M+ monthly downloads. Enables version control, testing, and documentation for SQL transformations. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/dbt-labs/dbt-core?style=social)
 - [SQLMesh](https://github.com/TobikoData/sqlmesh) - Scalable and efficient data transformation framework with dbt compatibility. Features automatic data lineage, time travel, and virtual data environments for testing. Optimized for large-scale data warehouses. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/TobikoData/sqlmesh?style=social)
 - [SLayer](https://github.com/MotleyAI/slayer) - Semantic layer for AI-powered data analytics. Allows AI agents to describe data models and query the data using an expressive format with measures, dimensions, and filters, without writing raw SQL. MCP, CLI, API, and Python clients. Embeddable as a Python library. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/MotleyAI/slayer?style=social)
@@ -438,6 +439,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Agent Context, Memory & Knowledge
 
+- [Cangjie Skill](https://github.com/kangarooking/cangjie-skill) - Pipeline to distill books, videos, and podcasts into structured, executable agent skills using verification and testing workflows. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/kangarooking/cangjie-skill?style=social)
 - [Codegraph](https://github.com/colbymchenry/codegraph) - Local pre-indexed code knowledge graph for coding agents to reduce token usage and redundant tool calls across Claude, Codex, and other agents. ![GitHub stars](https://img.shields.io/github/stars/colbymchenry/codegraph?style=social)
 - [Gortex](https://github.com/zzet/gortex) - Local-first code knowledge graph and code intelligence engine built in Golang with multi-repository support and real-time graph actualisation. Built for AI coding agents aiming to expose only the needed information, reducing token usage by up to 50x. Works natively with Claude, Codex, Hermes, and other agents. ![GitHub stars](https://img.shields.io/github/stars/zzet/gortex?style=social)
 - [Graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill that indexes codebases, databases, and documents into a queryable knowledge graph for coding agents. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/safishamsi/graphify?style=social)
@@ -1154,7 +1156,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [OpenClaw](https://github.com/openclaw/openclaw) - Local-first personal AI assistant with multi-channel integrations and full agentic task execution. ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)
 - [Open WebUI](https://github.com/open-webui/open-webui) - Most popular self-hosted ChatGPT-style interface. ![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)
 - [text-generation-webui](https://github.com/oobabooga/text-generation-webui) - Web UI for running local LLMs with multiple backends, extensions, and model formats. ![GitHub stars](https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=social)
-- [LobeChat](https://github.com/lobehub/lobe-chat) - Sleek modern chat UI. ![GitHub stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social)
+- [LobeHub](https://github.com/lobehub/lobehub) - Multi-agent workspace and self-hosted platform to orchestrate, schedule, and run autonomous AI agents. ![GitHub stars](https://img.shields.io/github/stars/lobehub/lobehub?style=social)
 - [LibreChat](https://github.com/danny-avila/LibreChat) - Feature-packed multi-LLM interface. ![GitHub stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=social)
 - [HuggingChat (self-hosted)](https://github.com/huggingface/chat-ui) - Official open-source codebase for HuggingChat. ![GitHub stars](https://img.shields.io/github/stars/huggingface/chat-ui?style=social)
 - [Khoj](https://github.com/khoj-ai/khoj) - Self-hostable personal AI assistant for search, chat, automation, and workflows over local and web data. ![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social)
