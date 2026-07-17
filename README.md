@@ -1201,6 +1201,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first local AI meeting assistant for real-time transcription and summary generation. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Zackriya-Solutions/meetily?style=social)
 - [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper) - macOS dictation application providing real-time audio transcription and drag-and-drop file transcription using Whisper and Parakeet models. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Starmel/OpenSuperWhisper?style=social)
 - [T3 Code](https://github.com/pingdotgg/t3code) - Minimal web GUI and desktop app for interacting with coding agents like Codex, Claude Code, Cursor, and OpenCode. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/pingdotgg/t3code?style=social)
+- [Orkas](https://github.com/Orkas-AI/Orkas) - MIT-licensed, local-first desktop application where a Commander coordinates specialist AI agents for research, coding, data analysis, documents, and media, with bring-your-own model keys. ![GitHub stars](https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social)
 
 #### Agent & Voice Infrastructure
 
