@@ -428,6 +428,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [SIA](https://github.com/hexo-ai/sia) - Self-improving framework that orchestrates meta, target, and feedback agents to autonomously optimize the performance of AI models and agents on benchmark tasks. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/hexo-ai/sia?style=social)
 - [Council of High Intelligence](https://github.com/0xNyk/council-of-high-intelligence) - Multi-agent deliberation framework that routes specialized personas across different LLM providers to debate topics and reach consensus. ![GitHub stars](https://img.shields.io/github/stars/0xNyk/council-of-high-intelligence?style=social)
 - [Gas Town](https://github.com/gastownhall/gastown) - Multi-agent workspace manager and orchestration system for Claude Code and other coding agents with persistent work tracking, mailboxes, and automated merge queues. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/gastownhall/gastown?style=social)
+- [Agentlas OS Agent Operation Environment (AOE)](https://github.com/agentlas-ai/Agentlas-OS) - Local-first, model-agnostic environment for building, borrowing, and orchestrating specialist agents and teams across supported LLM hosts, with owner-scoped packages and host-enforced permissions. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/agentlas-ai/Agentlas-OS?style=social)
 
 #### Agent Protocols & Standards
 
