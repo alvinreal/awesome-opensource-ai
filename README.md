@@ -1177,6 +1177,8 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Full Self-hosted AI Platforms
 
+- [Aural](https://github.com/1146345502/aural-oss) - Self-hostable AI interview platform for adaptive voice, chat, and video interviews with structured scoring and practice feedback. ![GitHub stars](https://img.shields.io/github/stars/1146345502/aural-oss?style=social)
+
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) - All-in-one RAG + agents platform. ![GitHub stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social)
 - [Flowise](https://github.com/FlowiseAI/Flowise) - Drag-and-drop LLM app builder. ![GitHub stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
 - [LocalAI](https://github.com/mudler/LocalAI) - Open-source AI engine running LLMs, vision, voice, image, and video models on any hardware. Self-hosted OpenAI-compatible API. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/mudler/LocalAI?style=social)
