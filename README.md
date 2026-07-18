@@ -961,7 +961,6 @@ Good entries should have a clear reason to exist. They should help people build,
 #### High-quality Open Datasets & Data Tools
 
 - [Hugging Face Datasets](https://github.com/huggingface/datasets) - Largest open repository of datasets. ![GitHub stars](https://img.shields.io/github/stars/huggingface/datasets?style=social)
-- [Cleanlab](https://github.com/cleanlab/cleanlab) - Data-centric AI package for automatically finding and fixing issues in datasets. Detects label errors, outliers, and ambiguous examples in ML datasets. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/cleanlab/cleanlab?style=social)
 - [FineWeb / FineWeb-2 (Hugging Face)](https://huggingface.co/datasets/HuggingFaceFW/fineweb) - Curated 15T+ token web dataset for pre-training.
 - [OSWorld](https://github.com/xlang-ai/OSWorld) - Multimodal agent benchmark dataset. ![GitHub stars](https://img.shields.io/github/stars/xlang-ai/OSWorld?style=social)
 
