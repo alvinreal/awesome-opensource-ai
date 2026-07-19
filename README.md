@@ -1289,6 +1289,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 - [Assistant UI](https://github.com/assistant-ui/assistant-ui) - React/TypeScript library for building production-grade AI chat interfaces. Drop-in components for streaming messages, tool calls, and multi-modal inputs. ![GitHub stars](https://img.shields.io/github/stars/assistant-ui/assistant-ui?style=social)
 - [Deep Chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website. Supports OpenAI, direct API services, and custom endpoints. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/OvidijusParsiunas/deep-chat?style=social)
+- [Markstream](https://github.com/Simon-He95/markstream-vue) - Multi-framework streaming Markdown renderer for AI chat interfaces, with incomplete Markdown handling, Mermaid, KaTeX, Shiki/Monaco code blocks, SSR, and packages for Vue, React, Svelte, and Angular. ![GitHub stars](https://img.shields.io/github/stars/Simon-He95/markstream-vue?style=social)
 - [CopilotKit](https://github.com/CopilotKit/CopilotKit) - Best-in-class SDK for building full-stack agentic applications, Generative UI, and chat applications. Creators of the AG-UI Protocol adopted by Google, LangChain, AWS, and Microsoft. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=social)
 
 #### CLI Tools & API Clients
