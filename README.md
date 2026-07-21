@@ -438,6 +438,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) - Policy, safety, and execution controls for autonomous AI agents, including governance guardrails, sandboxing, and reliability checks. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/microsoft/agent-governance-toolkit?style=social)
 - [DESIGN.md (Google)](https://github.com/google-labs-code/design.md) - A format specification for describing visual identity to coding agents, combining YAML tokens and markdown prose to give agents a structured understanding of design systems. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/google-labs-code/design.md?style=social)
 - [Agent Skills](https://github.com/agentskills/agentskills) - Standardized specification and document format for bundling and progressively loading AI agent capabilities, instructions, scripts, and resources. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/agentskills/agentskills?style=social)
+- [FastMCP](https://github.com/PrefectHQ/fastmcp) - A Python framework for building Model Context Protocol (MCP) servers and clients with automatic schema generation and validation. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/PrefectHQ/fastmcp?style=social)
 
 #### Agent Context, Memory & Knowledge
 
