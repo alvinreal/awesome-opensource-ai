@@ -258,6 +258,8 @@ Good entries should have a clear reason to exist. They should help people build,
 - [VibeVoice](https://github.com/microsoft/VibeVoice) - Open Frontier Voice AI toolkit spanning speech understanding, generation, and multilingual TTS workflows, with active research and deployment tooling. ![GitHub stars](https://img.shields.io/github/stars/microsoft/VibeVoice?style=social)
 - [SpeechBrain](https://github.com/speechbrain/speechbrain) - PyTorch speech toolkit with recipes for ASR, TTS, speaker recognition, and speech enhancement. ![GitHub stars](https://img.shields.io/github/stars/speechbrain/speechbrain?style=social)
 - [Pocket TTS](https://github.com/kyutai-labs/pocket-tts) - Lightweight text-to-speech engine optimized for CPU inference with low latency and streaming support. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/kyutai-labs/pocket-tts?style=social)
+- [transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) - C/C++ speech-to-text inference library running 16+ model families on the ggml runtime with GPU acceleration. ![GitHub stars](https://img.shields.io/github/stars/handy-computer/transcribe.cpp?style=social)
+- [Moonshine](https://github.com/moonshine-ai/moonshine) - Open-source on-device voice AI toolkit for low-latency speech-to-text, intent recognition, and text-to-speech. ![GitHub stars](https://img.shields.io/github/stars/moonshine-ai/moonshine?style=social)
 
 ---
 
