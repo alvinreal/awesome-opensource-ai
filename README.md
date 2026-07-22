@@ -282,6 +282,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) - Production-ready runtime for deploying LLMs on edge devices with low-latency inference and optimized hardware paths for mobile and embedded platforms. ![GitHub stars](https://img.shields.io/github/stars/google-ai-edge/LiteRT-LM?style=social)
 - [exo](https://github.com/exo-explore/exo) - Run frontier AI locally by connecting all your devices into an AI cluster. Features automatic device discovery, RDMA over Thunderbolt for 99% latency reduction, topology-aware auto parallel, and tensor parallelism. Uses MLX backend for distributed inference across Apple Silicon devices. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/exo-explore/exo?style=social)
 - [omlx](https://github.com/jundot/omlx) - Apple-centric inference server for local-first AI workflows with model management, GPU orchestration, and OpenAI-compatible APIs for self-hosted deployment. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/jundot/omlx?style=social)
+- [llmfit](https://github.com/AlexsJones/llmfit) - Terminal tool and TUI that right-sizes LLM models to hardware specs and scores local compatibility across GPU, CPU, and RAM. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/AlexsJones/llmfit?style=social)
 
 #### High-performance Serving & API Servers
 
@@ -430,6 +431,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [SIA](https://github.com/hexo-ai/sia) - Self-improving framework that orchestrates meta, target, and feedback agents to autonomously optimize the performance of AI models and agents on benchmark tasks. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/hexo-ai/sia?style=social)
 - [Council of High Intelligence](https://github.com/0xNyk/council-of-high-intelligence) - Multi-agent deliberation framework that routes specialized personas across different LLM providers to debate topics and reach consensus. ![GitHub stars](https://img.shields.io/github/stars/0xNyk/council-of-high-intelligence?style=social)
 - [Gas Town](https://github.com/gastownhall/gastown) - Multi-agent workspace manager and orchestration system for Claude Code and other coding agents with persistent work tracking, mailboxes, and automated merge queues. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/gastownhall/gastown?style=social)
+- [Open Deep Research](https://github.com/langchain-ai/open_deep_research) - Open-source deep research assistant that orchestrates language models and search tools to run multi-step web research and compile reports. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/open_deep_research?style=social)
 
 #### Agent Protocols & Standards
 
