@@ -1236,6 +1236,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Orca](https://github.com/stablyai/orca) - An agentic development environment (ADE) for running and orchestrating coding agents in parallel Git worktrees on desktop and mobile. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/stablyai/orca?style=social)
 - [Terax](https://github.com/crynta/terax-ai) - Lightweight terminal-first AI-native dev workspace (ADE) featuring multi-tab terminals, a code editor with AI edit diffs, source control, and agentic workflows. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/crynta/terax-ai?style=social)
 - [Pi Web](https://github.com/agegr/pi-web) - Web UI and local workspace for the pi coding agent with session browsing, file previews, and model configuration. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/agegr/pi-web?style=social)
+- [Garcon](https://github.com/cfal/garcon) - Browser and mobile workspace for running and steering parallel Claude Code, Codex, Cursor Agent, OpenCode, Amp, Droid, and Pi sessions, with integrated terminal, file editing, diff review, Git/PR workflows, mobile approvals, scheduling, and cross-agent transfers. GPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/cfal/garcon?style=social)
 
 #### AI Coding Assistants (open-source)
 
