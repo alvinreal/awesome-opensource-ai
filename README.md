@@ -1180,6 +1180,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) - Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D talking face running locally across platforms. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Open-LLM-VTuber/Open-LLM-VTuber?style=social)
 - [AIRI](https://github.com/moeru-ai/airi) - Self-hosted cyber companion and VTuber platform with Live2D character rendering, real-time voice chat, and game integration capabilities. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/moeru-ai/airi?style=social)
 - [Next AI Draw.io](https://github.com/DayuanJiang/next-ai-draw-io) - Next.js web application that integrates AI capabilities with draw.io diagrams to create and edit diagrams through natural language. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/DayuanJiang/next-ai-draw-io?style=social)
+- [nanobot](https://github.com/HKUDS/nanobot) - Lightweight personal AI agent with a built-in WebUI, model routing, MCP, and multi-channel chat integrations. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/HKUDS/nanobot?style=social)
 
 #### Full Self-hosted AI Platforms
 
