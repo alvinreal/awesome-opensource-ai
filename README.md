@@ -1399,6 +1399,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md) - Curated collection of DESIGN.md files representing popular design systems to guide AI coding agents in consistent UI generation. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-design-md?style=social)
 - [Awesome Claude Skills](https://github.com/ComposioHQ/awesome-claude-skills) - Curated list of Claude Skills, plugins, resources, and custom commands to extend terminal and API workflows. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills?style=social)
 
+- [OpenModelMap](https://github.com/duola15/open-source-model-nav) - Chinese-language open-source AI model discovery engine with 2,300+ models across text generation, image generation, speech recognition, TTS, multimodal, and embedding categories. Features daily auto-sync, AI-translated introductions, hardware-requirement filtering, deploy command generation, and 3,000+ SSG pages with JSON-LD structured data. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/duola15/open-source-model-nav?style=social)
 ---
 
 ## Contributing
