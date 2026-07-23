@@ -1181,6 +1181,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [AIRI](https://github.com/moeru-ai/airi) - Self-hosted cyber companion and VTuber platform with Live2D character rendering, real-time voice chat, and game integration capabilities. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/moeru-ai/airi?style=social)
 - [Next AI Draw.io](https://github.com/DayuanJiang/next-ai-draw-io) - Next.js web application that integrates AI capabilities with draw.io diagrams to create and edit diagrams through natural language. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/DayuanJiang/next-ai-draw-io?style=social)
 - [nanobot](https://github.com/HKUDS/nanobot) - Lightweight personal AI agent with a built-in WebUI, model routing, MCP, and multi-channel chat integrations. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/HKUDS/nanobot?style=social)
+- [Hivekeep](https://github.com/MarlBurroW/hivekeep) - Self-hosted platform to run a team of specialized AI agents with persistent memory and a web UI. Agents collaborate and build their own tools, mini-apps and plugins, and are reachable over Telegram, Slack, Discord and Matrix. Single container (Bun + SQLite). MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/MarlBurroW/hivekeep?style=social)
 
 #### Full Self-hosted AI Platforms
 
