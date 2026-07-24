@@ -1193,6 +1193,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Plane](https://github.com/makeplane/plane) - Open-source Jira, Linear, Monday, and ClickUp alternative. AI-powered project management platform with intelligent task triage, sprint planning, and automated workflows. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social)
 - [RAG Web UI](https://github.com/rag-web-ui/rag-web-ui) - Intelligent dialogue system based on RAG technology. Build intelligent Q&A systems on your own knowledge base with modern web interface. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/rag-web-ui/rag-web-ui?style=social)
 - [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Self-hosted machine translation API powered by Argos Translate, offering a free and offline-capable alternative to proprietary translation services. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/LibreTranslate/LibreTranslate?style=social)
+- [Buzz](https://github.com/block/buzz) - Self-hostable workspace and Nostr relay implementation where human team members and AI agents collaborate in shared channels, canvases, and workflows. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/block/buzz?style=social)
 
 #### Desktop & Mobile AI Apps
 
@@ -1210,6 +1211,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first local AI meeting assistant for real-time transcription and summary generation. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Zackriya-Solutions/meetily?style=social)
 - [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper) - macOS dictation application providing real-time audio transcription and drag-and-drop file transcription using Whisper and Parakeet models. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Starmel/OpenSuperWhisper?style=social)
 - [T3 Code](https://github.com/pingdotgg/t3code) - Minimal web GUI and desktop app for interacting with coding agents like Codex, Claude Code, Cursor, and OpenCode. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/pingdotgg/t3code?style=social)
+- [ego lite](https://github.com/citrolabs/ego-lite) - Desktop browser designed for running web automation tasks and AI agents in parallel within isolated workspaces. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/citrolabs/ego-lite?style=social)
 
 #### Agent & Voice Infrastructure
 
@@ -1250,6 +1252,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [DeepCode](https://github.com/HKUDS/DeepCode) - Transforms research papers and natural language into production-ready code. AI-powered research-to-code automation tool. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/HKUDS/DeepCode?style=social)
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) framework and CLI tool for AI coding assistants, providing structured workflows for proposing, implementing, and archiving code changes. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Fission-AI/OpenSpec?style=social)
 - [Spec Kit](https://github.com/github/spec-kit) - Toolkit and CLI for Spec-Driven Development that integrates with AI coding agents to generate structured code implementations from executable specifications. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/github/spec-kit?style=social)
+- [Open Code Review](https://github.com/alibaba/open-code-review) - AI-powered code review CLI tool combining deterministic analysis pipelines with LLM agents for precise, line-level feedback. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/alibaba/open-code-review?style=social)
 
 #### Notebooks & Interactive Computing
 
