@@ -441,6 +441,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Maka](https://github.com/apache/maka) - Apache-incubating local-first AI-agent workspace with durable append-only agent execution history, licensed under Apache-2.0. ![GitHub stars](https://img.shields.io/github/stars/apache/maka?style=social)
 - [Ruflo](https://github.com/ruvnet/ruflo) - Multi-agent orchestration and meta-harness for coordinating agent swarms with shared memory, licensed under the MIT license. ![GitHub stars](https://img.shields.io/github/stars/ruvnet/ruflo?style=social)
 - [munder-difflin](https://github.com/chaitanyagiri/munder-difflin) - MIT-licensed desktop multi-agent workspace and harness for coordinating local coding agents across multiple LLM backends. ![GitHub stars](https://img.shields.io/github/stars/chaitanyagiri/munder-difflin?style=social)
+- [fractal](https://github.com/plasma-ai/fractal) - Hierarchical coding-agent orchestrator with recursive delegation, per-node Git worktrees, configurable limits, persistent SQLite state, and live terminal monitoring and steering. ![GitHub stars](https://img.shields.io/github/stars/plasma-ai/fractal?style=social)
 
 #### Agent Protocols & Standards
 
