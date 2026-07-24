@@ -1196,6 +1196,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Desktop & Mobile AI Apps
 
+- [AI Language Partner](https://github.com/duct-tape2/ai-language-partner) - Local-first Expo and FastAPI Japanese practice app for Korean speakers that uses Whisper-compatible STT, local TTS, and embedding-based dialogue matching without a runtime LLM. ![GitHub stars](https://img.shields.io/github/stars/duct-tape2/ai-language-partner?style=social)
 - [Jan](https://github.com/janhq/jan) - Local-first AI app framework. ![GitHub stars](https://img.shields.io/github/stars/janhq/jan?style=social)
 - [Cherry Studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=social)
 - [DeepChat](https://github.com/ThinkInAIXYZ/deepchat) - A smart assistant that connects powerful AI to your personal world. Built-in MCP and ACP support, multiple search engines, privacy-focused with local data storage. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/ThinkInAIXYZ/deepchat?style=social)
