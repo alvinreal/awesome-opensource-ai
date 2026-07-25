@@ -397,7 +397,6 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Multi-Agent Orchestration
 
-- [MetaGPT](https://github.com/FoundationAgents/MetaGPT) - The Multi-Agent Framework: First AI Software Company. Assigns different roles to GPTs to form a collaborative software entity. Takes one-line requirements and outputs comprehensive software development artifacts including user stories, competitive analysis, requirements, data structures, APIs, and documents. ICLR 2024 oral presentation (top 1.2%). MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT?style=social)
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - Multi-agent software development framework where AI agents collaborate as programmers, designers, and testers to build software. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social)
 - [CAMEL](https://github.com/camel-ai/camel) - First and best multi-agent framework for building scalable agent systems. Apache 2.0 licensed with extensive tooling for agent communication and task automation. ![GitHub stars](https://img.shields.io/github/stars/camel-ai/camel?style=social)
 - [DeepAgents](https://github.com/langchain-ai/deepagents) - Batteries-included LangChain agent harness for building and running structured multi-agent workflows with reusable runtime patterns. ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/deepagents?style=social)
