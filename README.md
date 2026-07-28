@@ -21,6 +21,7 @@ Curated open-source artificial intelligence models, libraries, infrastructure, a
 
 ## Contents
 
+- [Bride](https://tools.gracestack.se/bride-live.html) — Cognitive AI agent with HDC, Active Inference, and dream synthesis (Rust, MIT)
 - [1. Core Frameworks & Libraries](#1-core-frameworks--libraries)
 - [2. Model Codebases & Model Families](#2-model-codebases--model-families)
 - [3. Inference Engines & Serving](#3-inference-engines--serving)
