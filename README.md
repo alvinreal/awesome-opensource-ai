@@ -452,6 +452,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and API designed for long-lived AI agents to store, retrieve, and reuse long-horizon context with low latency. ![GitHub stars](https://img.shields.io/github/stars/supermemoryai/supermemory?style=social)
 - [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) - Framework-agnostic, local-first memory lifecycle for AI agents with a Rust CLI, SQLite/FTS recall, redaction, forgetting, audit checks, consolidation, and agent-skill guidance. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/TerminallyLazy/Tree-Ring-Memory?style=social)
 - [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance C-based codebase intelligence engine and MCP server that indexes repositories into local type-resolved knowledge graphs. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/DeusData/codebase-memory-mcp?style=social)
+- [book-to-skill](https://github.com/virgiliojr94/book-to-skill) - CLI tool that distills technical books, documents, and reference materials into structured, on-demand agent skills. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/virgiliojr94/book-to-skill?style=social)
 
 #### Autonomous Coding Agents
 
@@ -1295,6 +1296,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill and ruleset for Claude Code, Cursor, and Codex to prevent generic, AI-generated layouts. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Nutlope/hallmark?style=social)
 - [Code Review Graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph that builds a persistent map of a codebase to provide token-optimized context for AI coding tools. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/tirth8205/code-review-graph?style=social)
 - [CAD Skills](https://github.com/earthtojake/text-to-cad) - A library of modular agent skills for generating, inspecting, slicing, and exporting CAD and robot-description geometry (STEP, STL, URDF, SDF). MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/earthtojake/text-to-cad?style=social)
+- [ADHD](https://github.com/UditAkhourii/adhd) - Tree-of-thought divergent reasoning skill for AI agents that spawns parallel cognitive frames to prune traps and score surviving paths. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/UditAkhourii/adhd?style=social)
 
 #### UI Components & Chat Libraries
 
