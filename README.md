@@ -198,6 +198,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Streamlit](https://github.com/streamlit/streamlit) - The fastest way to build and share data apps. Transform Python scripts into beautiful web applications with minimal code. Widely used for ML model demos, data visualization, and internal tools. ![GitHub stars](https://img.shields.io/github/stars/streamlit/streamlit?style=social)
 - [Gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. The de facto standard for creating interactive ML demos with automatic UI generation from function signatures. Powers thousands of Hugging Face Spaces. ![GitHub stars](https://img.shields.io/github/stars/gradio-app/gradio?style=social)
 - [Marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor. ![GitHub stars](https://img.shields.io/github/stars/marimo-team/marimo?style=social)
+- [Pixel Pet](https://letmethink.cc/app/pixel-pet/) - Turn a personality description into a deterministic ASCII pixel companion in the browser.
 
 #### Model Training & Optimization Utilities
 
