@@ -341,6 +341,7 @@ Good entries should have a clear reason to exist. They should help people build,
 #### Inference Kernels & Runtime Primitives
 
 - [DeepEP](https://github.com/deepseek-ai/DeepEP) - Communication library for efficient expert-parallel training/inference pipelines, reducing MoE cross-device communication overhead. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepEP?style=social)
+- [FlashKDA](https://github.com/MoonshotAI/FlashKDA) - High-performance CUTLASS-based Kimi Delta Attention CUDA kernels for linear attention mechanisms. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/MoonshotAI/FlashKDA?style=social)
 - [DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - Clean, high-performance FP8 GEMM kernels with fine-grained scaling for modern inference workloads. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepGEMM?style=social)
 - [RAFT](https://github.com/rapidsai/raft) - CUDA-accelerated algorithms and ANN building blocks for high-performance similarity search, clustering, and matrix learning workloads. ![GitHub stars](https://img.shields.io/github/stars/rapidsai/raft?style=social)
 - [ThunderKittens](https://github.com/HazyResearch/ThunderKittens) - CUDA tile primitives and kernel templates for accelerating transformer attention blocks. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/HazyResearch/ThunderKittens?style=social)
@@ -709,6 +710,7 @@ Good entries should have a clear reason to exist. They should help people build,
 #### Face Swap & Deepfake
 
 - [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - Real-time face swap and one-click video deepfake with only a single image. High-quality face swapping for live video streaming and content creation. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/hacksider/Deep-Live-Cam?style=social)
+- [Faceswap](https://github.com/deepfakes/faceswap) - Open-source deep learning software for recognizing and swapping faces in pictures and videos. GPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/deepfakes/faceswap?style=social)
 
 #### Portrait Animation
 
@@ -1210,6 +1212,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first local AI meeting assistant for real-time transcription and summary generation. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Zackriya-Solutions/meetily?style=social)
 - [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper) - macOS dictation application providing real-time audio transcription and drag-and-drop file transcription using Whisper and Parakeet models. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Starmel/OpenSuperWhisper?style=social)
 - [T3 Code](https://github.com/pingdotgg/t3code) - Minimal web GUI and desktop app for interacting with coding agents like Codex, Claude Code, Cursor, and OpenCode. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/pingdotgg/t3code?style=social)
+- [OpenWork](https://github.com/different-ai/openwork) - Open-source desktop app for sharing AI workflows, skills, and MCP capabilities across agents. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/different-ai/openwork?style=social)
 - [ego lite](https://github.com/citrolabs/ego-lite) - Desktop browser designed for running web automation tasks and AI agents in parallel within isolated workspaces. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/citrolabs/ego-lite?style=social)
 
 #### Agent & Voice Infrastructure
