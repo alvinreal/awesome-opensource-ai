@@ -396,6 +396,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Page Agent](https://github.com/alibaba/page-agent) - JavaScript-native, in-page GUI agent framework for controlling web interfaces with natural language without screenshots or external browser automation. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/alibaba/page-agent?style=social)
 - [Computer (Cloudflare)](https://github.com/cloudflare/computer) - Virtual filesystem inside a Durable Object providing sandboxed execution environments for AI agents. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/cloudflare/computer?style=social)
 - [Embabel](https://github.com/embabel/embabel-agent) - Agent framework for the JVM written in Kotlin with dynamic goal-oriented planning and Spring Boot integration. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/embabel/embabel-agent?style=social)
+- [Ouroboros](https://github.com/razzant/ouroboros) - Self-hosted general-purpose agent with durable identity and memory, specialist subagent coordination, and reviewed changes to its own implementation. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/razzant/ouroboros?style=social)
 
 #### Multi-Agent Orchestration
 
