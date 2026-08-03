@@ -740,6 +740,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time. SV2TTS implementation with speaker encoder and vocoder for instant voice synthesis. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/CorentinJ/Real-Time-Voice-Cloning?style=social)
 - [Supertonic](https://github.com/supertone-inc/supertonic) - Lightning-fast, on-device, multilingual text-to-speech system running natively via ONNX. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/supertone-inc/supertonic?style=social)
 - [Voicebox](https://github.com/jamiepine/voicebox) - Local-first AI voice studio to clone voices, generate speech in multiple languages, and dictate text locally. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/jamiepine/voicebox?style=social)
+- [Voice-Pro](https://github.com/abus-aikorea/voice-pro) - Multilingual AI speech recognition, text-to-speech, and zero-shot voice cloning WebUI. GPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/abus-aikorea/voice-pro?style=social)
 
 #### 3D & Creative Tools
 
@@ -1138,6 +1139,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [NCNN](https://github.com/Tencent/ncnn) - High-performance neural network inference framework optimized for mobile platforms. No third-party dependencies, cross-platform, and runs faster than all known open-source frameworks on mobile CPU. Powers Tencent apps including QQ, WeChat, and Pitu. BSD-3-Clause licensed. ![GitHub stars](https://img.shields.io/github/stars/Tencent/ncnn?style=social)
 - [MNN](https://github.com/alibaba/MNN) - Blazing-fast, lightweight inference engine battle-tested by Alibaba. Supports inference and training with industry-leading on-device performance. Powers high-performance LLMs and Edge AI with MNN-LLM runtime. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/alibaba/MNN?style=social)
 - [RuView](https://github.com/ruvnet/RuView) - Real-time spatial intelligence, vital sign monitoring, and human pose estimation using commodity WiFi signals and neural networks. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/ruvnet/RuView?style=social)
+- [ANE Training](https://github.com/maderix/ANE) - Neural network training and backpropagation directly on Apple Neural Engine via reverse-engineered private APIs. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/maderix/ANE?style=social)
 
 #### Legal AI & Contract Analysis
 
