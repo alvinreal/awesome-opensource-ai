@@ -746,6 +746,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [gsplat (3D Gaussian Splatting tools)](https://github.com/nerfstudio-project/gsplat) - High-performance 3D Gaussian Splatting library. ![GitHub stars](https://img.shields.io/github/stars/nerfstudio-project/gsplat?style=social)
 - [LichtFeld-Studio](https://github.com/MrNeRF/LichtFeld-Studio) - Native application for training, editing, and exporting 3D Gaussian Splatting scenes with MCMC optimization and timelapse generation. GPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/MrNeRF/LichtFeld-Studio?style=social)
 - [OpenSplat](https://github.com/pierotofy/OpenSplat) - Production-grade, portable implementation of 3D Gaussian Splatting with CPU/GPU support for Windows, Mac, and Linux. Creates 3D scenes from camera poses and sparse points. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/pierotofy/OpenSplat?style=social)
+- [TRELLIS.2](https://github.com/microsoft/TRELLIS.2) - 3D generative model for high-fidelity image-to-3D generation utilizing compact structured latents. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/microsoft/TRELLIS.2?style=social)
 
 ---
 
