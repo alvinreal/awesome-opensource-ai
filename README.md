@@ -945,6 +945,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [AgentBench (THUDM)](https://github.com/THUDM/AgentBench) - Comprehensive benchmark to evaluate LLMs as agents across 8 diverse environments including household, web shopping, OS interaction, and database tasks. ICLR 2024. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=social)
 - [MLE-bench (OpenAI)](https://github.com/openai/mle-bench) - Benchmark for measuring how well AI agents perform at machine learning engineering. Evaluates agents on 75 Kaggle competitions covering diverse ML tasks. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/openai/mle-bench?style=social)
 - [PinchBench](https://github.com/pinchbench/skill) - Benchmarking system for evaluating LLM models as OpenClaw coding agents. Built with Rust by the kilo.ai team. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/pinchbench/skill?style=social)
+- [PlenumView](https://github.com/evan-khanna-dev/plenumview) - Open-source tool that sends one prompt to multiple LLMs via OpenRouter and shows their responses side by side, so you can see how models actually diverge instead of trusting a single answer. ![GitHub stars](https://img.shields.io/github/stars/evan-khanna-dev/plenumview?style=social)
 
 #### Evaluation Frameworks
 
