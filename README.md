@@ -456,6 +456,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Autonomous Coding Agents
 
+- [Free Claude Code](https://github.com/Alishahryar1/free-claude-code) - Multi-provider proxy and launcher for Claude Code, Codex, and Pi with a local Admin UI to route coding agents to 31+ cloud and local LLM backends. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Alishahryar1/free-claude-code?style=social)
 - [Background Agents](https://github.com/ColeMurray/background-agents) - Open-source background coding agent system inspired by Ramp's Inspect, supporting file and environment snapshots, cron-based automation, and multi-provider models. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/ColeMurray/background-agents?style=social)
 - [OpenHands (ex-OpenDevin)](https://github.com/All-Hands-AI/OpenHands) - Full-featured open-source AI software engineer. ![GitHub stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social)
 - [HEXStrike AI](https://github.com/0x4m4/hexstrike-ai) - MCP-powered coding-focused cybersecurity agent framework for automated pentesting and bug-hunting workflows. ![GitHub stars](https://img.shields.io/github/stars/0x4m4/hexstrike-ai?style=social)
@@ -664,6 +665,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Document Conversion & Preprocessing
 
+- [pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF classification and text extraction that detects scanned vs text-based documents to route RAG pipelines without OCR. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/firecrawl/pdf-inspector?style=social)
 - [OpenDataLoader PDF](https://github.com/opendataloader-project/opendataloader-pdf) - Accessibility-aware PDF parser and conversion pipeline for AI-ready markdown and structured data workflows. ![GitHub stars](https://img.shields.io/github/stars/opendataloader-project/opendataloader-pdf?style=social)
 - [MarkItDown (Microsoft)](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. Supports PDF, PowerPoint, Word, Excel, images, audio, HTML, and more with OCR and transcription capabilities. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/microsoft/markitdown?style=social)
 - [LiteParse](https://github.com/run-llama/liteparse) - Lightweight document parsing toolkit for AI and RAG pipelines with PDF/OCR extraction and clean preprocessing defaults. ![GitHub stars](https://img.shields.io/github/stars/run-llama/liteparse?style=social)
