@@ -457,6 +457,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Autonomous Coding Agents
 
+- [BitFun](https://github.com/GCWing/BitFun) - Open-source coding agent with a Rust runtime, desktop and CLI interfaces, self-hosted remote access, and support for custom tools and skills. ![GitHub stars](https://img.shields.io/github/stars/GCWing/BitFun?style=social)
 - [Free Claude Code](https://github.com/Alishahryar1/free-claude-code) - Multi-provider proxy and launcher for Claude Code, Codex, and Pi with a local Admin UI to route coding agents to 31+ cloud and local LLM backends. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Alishahryar1/free-claude-code?style=social)
 - [Background Agents](https://github.com/ColeMurray/background-agents) - Open-source background coding agent system inspired by Ramp's Inspect, supporting file and environment snapshots, cron-based automation, and multi-provider models. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/ColeMurray/background-agents?style=social)
 - [OpenHands (ex-OpenDevin)](https://github.com/All-Hands-AI/OpenHands) - Full-featured open-source AI software engineer. ![GitHub stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social)
