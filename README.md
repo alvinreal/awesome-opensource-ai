@@ -394,6 +394,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Agent-Native](https://github.com/BuilderIO/agent-native) - TypeScript-first framework for building agent-first applications featuring shared database state, real-time multiplayer editing, and action-driven tools. ISC licensed. ![GitHub stars](https://img.shields.io/github/stars/BuilderIO/agent-native?style=social)
 - [rlm](https://github.com/alexzhang13/rlm) - General plug-and-play inference library for Recursive Language Models (RLMs) that programmatically execute sub-LM calls inside isolated code sandboxes. ![GitHub stars](https://img.shields.io/github/stars/alexzhang13/rlm?style=social)
 - [Page Agent](https://github.com/alibaba/page-agent) - JavaScript-native, in-page GUI agent framework for controlling web interfaces with natural language without screenshots or external browser automation. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/alibaba/page-agent?style=social)
+- [Computer (Cloudflare)](https://github.com/cloudflare/computer) - Virtual filesystem inside a Durable Object providing sandboxed execution environments for AI agents. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/cloudflare/computer?style=social)
 
 #### Multi-Agent Orchestration
 
@@ -548,6 +549,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Supermemory](https://github.com/supermemoryai/supermemory) - Memory API and app for AI agents that provides fast, scalable, context-aware storage and retrieval across projects. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/supermemoryai/supermemory?style=social)
 - [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - Fully local long-term memory layer for AI agents with a four-tier progressive pipeline and zero external dependencies. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/TencentCloud/TencentDB-Agent-Memory?style=social)
 - [Cognee](https://github.com/topoteretes/cognee) - AI memory platform for agents that builds a self-hosted knowledge graph for persistent, long-term memory across sessions. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/topoteretes/cognee?style=social)
+- [LoopX](https://github.com/huangruiteng/loopx) - Lightweight state kernel and local control plane for long-running AI agent loops with goal tracking, auto-wake, and verifiable handoffs. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/huangruiteng/loopx?style=social)
 
 ---
 
