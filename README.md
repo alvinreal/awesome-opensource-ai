@@ -432,6 +432,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Council of High Intelligence](https://github.com/0xNyk/council-of-high-intelligence) - Multi-agent deliberation framework that routes specialized personas across different LLM providers to debate topics and reach consensus. ![GitHub stars](https://img.shields.io/github/stars/0xNyk/council-of-high-intelligence?style=social)
 - [Gas Town](https://github.com/gastownhall/gastown) - Multi-agent workspace manager and orchestration system for Claude Code and other coding agents with persistent work tracking, mailboxes, and automated merge queues. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/gastownhall/gastown?style=social)
 - [Open Deep Research](https://github.com/langchain-ai/open_deep_research) - Open-source deep research assistant that orchestrates language models and search tools to run multi-step web research and compile reports. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/open_deep_research?style=social)
+- [Claudexor](https://github.com/razzant/claudexor) - Local-first control plane for routing coding work across Claude Code, Codex, Cursor, and OpenCode, with quota-aware rotation across multiple Claude/Codex subscription profiles, shared thread context, best-of-N runs, and cross-model review. ![GitHub stars](https://img.shields.io/github/stars/razzant/claudexor?style=social)
 
 #### Agent Protocols & Standards
 
