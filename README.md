@@ -395,6 +395,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [rlm](https://github.com/alexzhang13/rlm) - General plug-and-play inference library for Recursive Language Models (RLMs) that programmatically execute sub-LM calls inside isolated code sandboxes. ![GitHub stars](https://img.shields.io/github/stars/alexzhang13/rlm?style=social)
 - [Page Agent](https://github.com/alibaba/page-agent) - JavaScript-native, in-page GUI agent framework for controlling web interfaces with natural language without screenshots or external browser automation. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/alibaba/page-agent?style=social)
 - [Computer (Cloudflare)](https://github.com/cloudflare/computer) - Virtual filesystem inside a Durable Object providing sandboxed execution environments for AI agents. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/cloudflare/computer?style=social)
+- [Embabel](https://github.com/embabel/embabel-agent) - Agent framework for the JVM written in Kotlin with dynamic goal-oriented planning and Spring Boot integration. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/embabel/embabel-agent?style=social)
 
 #### Multi-Agent Orchestration
 
