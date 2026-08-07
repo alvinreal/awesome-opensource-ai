@@ -1071,6 +1071,7 @@ Good entries should have a clear reason to exist. They should help people build,
 #### Creative Writing & Narrative AI
 
 - [Alex](https://github.com/Alex663028/Alex-Novel-Platform) - Open-source desktop novel-writing engine and AI story scaffold with Tauri, FastAPI, SQLite, and plot-generation workflows. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Alex663028/Alex-Novel-Platform?style=social)
+- [Humanize-Text](https://github.com/lynote-ai/humanize-text) - Python toolkit with four reference text-humanization methods and a configurable multi-engine rewriting pipeline. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/lynote-ai/humanize-text?style=social)
 
 #### Game AI & Simulations
 
