@@ -918,6 +918,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [ChainForge](https://github.com/ianarawjo/ChainForge) - Visual programming environment for battle-testing prompts and evaluating LLM outputs. Features node-based prompt chains, multi-model comparison, and hypothesis testing. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/ianarawjo/ChainForge?style=social)
 - [Future AGI](https://github.com/future-agi/future-agi) - Open-source self-hostable end-to-end agent engineering and optimization platform that unifies tracing, evals, simulations, datasets, gateway, and guardrails. Built for shipping self-improving AI agents with one feedback loop from prototype to production. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/future-agi/future-agi?style=social)
 - [KubeStellar Console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes dashboard with GPU workload monitoring, AI pipeline observability, and CNCF ecosystem integrations. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/kubestellar/console?style=social)
+- [Unified AI System](https://github.com/happy520ai/unified-ai-system) - Self-hosted, local-first AI gateway combining multi-model routing, governed agent and workforce modules, knowledge tools, approval surfaces, and a credential-free fake-provider runtime. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/happy520ai/unified-ai-system?style=social)
 
 #### Guardrails & Safety Tools
 
