@@ -432,6 +432,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Council of High Intelligence](https://github.com/0xNyk/council-of-high-intelligence) - Multi-agent deliberation framework that routes specialized personas across different LLM providers to debate topics and reach consensus. ![GitHub stars](https://img.shields.io/github/stars/0xNyk/council-of-high-intelligence?style=social)
 - [Gas Town](https://github.com/gastownhall/gastown) - Multi-agent workspace manager and orchestration system for Claude Code and other coding agents with persistent work tracking, mailboxes, and automated merge queues. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/gastownhall/gastown?style=social)
 - [Open Deep Research](https://github.com/langchain-ai/open_deep_research) - Open-source deep research assistant that orchestrates language models and search tools to run multi-step web research and compile reports. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/open_deep_research?style=social)
+- [MiroFish](https://github.com/666ghj/MiroFish) - Multi-agent swarm intelligence engine that constructs parallel digital environments with autonomous agents to simulate and predict real-world outcomes. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/666ghj/MiroFish?style=social)
 
 #### Agent Protocols & Standards
 
@@ -494,6 +495,8 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Agents CLI (Google)](https://github.com/google/agents-cli) - CLI and skills that turn coding assistants into experts at creating, evaluating, and deploying AI agents on Google Cloud. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/google/agents-cli?style=social)
 - [Claude Code Skills & Plugins](https://github.com/alirezarezvani/claude-skills) - Modular instruction packages, custom commands, and utility scripts for Claude Code, Gemini CLI, Cursor, and other AI coding agents. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/alirezarezvani/claude-skills?style=social)
 - [AG Kit](https://github.com/vudovn/ag-kit) - Antigravity-first agent engineering kit featuring rules, skills, persistent memory, MCP guidance, and a native safety hook. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/vudovn/ag-kit?style=social)
+- [Prime Agent](https://github.com/PrimeIntellect-ai/prime-agent) - Self-improving recursive language model (RLM) agent for coding workflows and autonomous tasks. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/PrimeIntellect-ai/prime-agent?style=social)
+- [Agent Skills (Google)](https://github.com/google/skills) - Official collection of Agent Skills for Google Cloud and Google developer platforms, extending AI coding agents with product and technology workflows. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/google/skills?style=social)
 
 #### Prompt Engineering & Structured Outputs
 
