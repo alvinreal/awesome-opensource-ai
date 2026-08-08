@@ -661,6 +661,7 @@ Good entries should have a clear reason to exist. They should help people build,
 #### Knowledge Graphs for RAG
 
 - [Graphiti](https://github.com/getzep/graphiti) - Build real-time temporal knowledge graphs for AI agents. Tracks how facts change over time with provenance to source data. Supports prescribed and learned ontology for evolving real-world data. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/getzep/graphiti?style=social)
+- [Semantica](https://github.com/semantica-agi/semantica) - Graph-native infrastructure for context management, bi-temporal knowledge graphs, GraphRAG document chunking, and explainable AI reasoning. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/semantica-agi/semantica?style=social)
 
 #### Web Data Ingestion
 
