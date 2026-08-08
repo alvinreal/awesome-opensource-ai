@@ -1405,6 +1405,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Starter Projects & Examples
 
+- [AI Invention Company OS](https://github.com/AI-Invention/ai-invention-company-os) - Open-source company operating system for running an AI automation business in public: brand, products, playbooks, decisions, revenue, and daily sessions. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/AI-Invention/ai-invention-company-os?style=social)
 - [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - A collection of run-ready artificial intelligence templates and agent customizer scripts, featuring over 100 retrieval-augmented generation (RAG) and intelligent agent blueprints. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps?style=social)
 - [Claude Cookbooks](https://github.com/anthropics/claude-cookbooks) - Official collection of recipes and notebooks demonstrating tool use, prompt caching, structured outputs, and agentic workflows with Claude. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/anthropics/claude-cookbooks?style=social)
 - [Hugging Face Transformers Notebooks](https://github.com/huggingface/notebooks) - Run Transformers, Datasets, and more in Colab. ![GitHub stars](https://img.shields.io/github/stars/huggingface/notebooks?style=social)
