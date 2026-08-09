@@ -496,6 +496,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [AG Kit](https://github.com/vudovn/ag-kit) - Antigravity-first agent engineering kit featuring rules, skills, persistent memory, MCP guidance, and a native safety hook. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/vudovn/ag-kit?style=social)
 - [Prime Agent](https://github.com/PrimeIntellect-ai/prime-agent) - Self-improving recursive language model (RLM) agent for coding workflows and autonomous tasks. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/PrimeIntellect-ai/prime-agent?style=social)
 - [Agent Skills (Google)](https://github.com/google/skills) - Official collection of Agent Skills for Google Cloud and Google developer platforms, extending AI coding agents with product and technology workflows. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/google/skills?style=social)
+- [Tura](https://github.com/Tura-AI/tura) - Build agent that uses 80% less token and delivers better results. AGPL-3.0-or-later licensed. ![GitHub stars](https://img.shields.io/github/stars/Tura-AI/tura?style=social)
 
 #### Prompt Engineering & Structured Outputs
 
