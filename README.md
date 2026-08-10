@@ -663,6 +663,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 - [Graphiti](https://github.com/getzep/graphiti) - Build real-time temporal knowledge graphs for AI agents. Tracks how facts change over time with provenance to source data. Supports prescribed and learned ontology for evolving real-world data. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/getzep/graphiti?style=social)
 - [Semantica](https://github.com/semantica-agi/semantica) - Graph-native infrastructure for context management, bi-temporal knowledge graphs, GraphRAG document chunking, and explainable AI reasoning. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/semantica-agi/semantica?style=social)
+- [Code-Graph-RAG](https://github.com/vitali87/code-graph-rag) - Multi-language codebase RAG framework using Tree-sitter and Memgraph knowledge graphs to query, edit, and optimize codebases with AI. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/vitali87/code-graph-rag?style=social)
 
 #### Web Data Ingestion
 
@@ -1051,7 +1052,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Weather & Climate AI
 
-- [GraphCast](https://github.com/google-deepmind/graphcast) - Deep learning weather forecasting model from Google DeepMind. State-of-the-art AI weather prediction with 10-day global forecasts matching or exceeding traditional numerical methods. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/google-deepmind/graphcast?style=social)
+- [WeatherNext](https://github.com/google-deepmind/weathernext) - Global weather and tropical cyclone forecasting framework from Google DeepMind, including WeatherNext 2, GraphCast, and GenCast models. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/google-deepmind/weathernext?style=social)
 
 #### Scientific AI & Physics ML
 
@@ -1154,6 +1155,7 @@ Good entries should have a clear reason to exist. They should help people build,
 #### Legal AI & Contract Analysis
 
 - [OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) - Self-hosted document annotation platform for legal AI. Semantic search, contract analysis, version control, and MCP integration for building legal knowledge bases. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/Open-Source-Legal/OpenContracts?style=social)
+- [Harvey LAB](https://github.com/harveyai/harvey-labs) - Benchmark dataset and execution harness for evaluating AI agents on complex legal work across 24+ practice areas. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/harveyai/harvey-labs?style=social)
 
 #### Autonomous Driving & Robotics Simulators
 
