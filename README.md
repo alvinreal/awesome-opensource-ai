@@ -284,6 +284,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [ds4](https://github.com/antirez/ds4) - Native inference engine optimized for DeepSeek V4 and GLM models with Metal, CUDA, and ROCm support. ![GitHub stars](https://img.shields.io/github/stars/antirez/ds4?style=social)
 - [omlx](https://github.com/jundot/omlx) - Apple-centric inference server for local-first AI workflows with model management, GPU orchestration, and OpenAI-compatible APIs for self-hosted deployment. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/jundot/omlx?style=social)
 - [llmfit](https://github.com/AlexsJones/llmfit) - Terminal tool and TUI that right-sizes LLM models to hardware specs and scores local compatibility across GPU, CPU, and RAM. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/AlexsJones/llmfit?style=social)
+- [Needle](https://github.com/cactus-compute/needle) - Compact 45M-parameter foundation model and 14MB inference engine for tool calling and structured extraction on tiny devices. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/cactus-compute/needle?style=social)
 
 #### High-performance Serving & API Servers
 
@@ -315,6 +316,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Microsoft BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs (BitNet b1.58). Enables running large models on CPU with minimal memory footprint. Features custom kernels for ternary weight quantization and efficient matmul operations. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/microsoft/BitNet?style=social)
 - [FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy gateway that stacks the free tiers of multiple LLM providers behind a single endpoint with automatic failover and rate tracking. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/tashfeenahmed/freellmapi?style=social)
 - [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Unified AI gateway and proxy supporting over 230 providers with token compression, automatic failover, and routing strategies. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social)
+- [Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - Rust proxy and library for routing, protocol translation, and operational metrics across LLM backends and coding agents. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/NVIDIA-NeMo/Switchyard?style=social)
 
 #### Additional Inference Engines
 
@@ -1217,6 +1219,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [RAG Web UI](https://github.com/rag-web-ui/rag-web-ui) - Intelligent dialogue system based on RAG technology. Build intelligent Q&A systems on your own knowledge base with modern web interface. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/rag-web-ui/rag-web-ui?style=social)
 - [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Self-hosted machine translation API powered by Argos Translate, offering a free and offline-capable alternative to proprietary translation services. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/LibreTranslate/LibreTranslate?style=social)
 - [Buzz](https://github.com/block/buzz) - Self-hostable workspace and Nostr relay implementation where human team members and AI agents collaborate in shared channels, canvases, and workflows. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/block/buzz?style=social)
+- [Macro](https://github.com/macro-inc/macro) - Unified team workspace combining email, messaging, documents, tasks, CRM, and AI agents with shared memory. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/macro-inc/macro?style=social)
 
 #### Desktop & Mobile AI Apps
 
