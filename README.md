@@ -1365,6 +1365,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Testing & Debugging Tools
 
+- [AI Crawler Access Checker](https://github.com/mitdralla/mydentify-ai-crawler-access-checker) - MIT-licensed Node CLI and browser tool for checking robots.txt rules, page directives, response headers, and documented OpenAI and Anthropic crawler user agents without claiming provider-IP verification. ![GitHub stars](https://img.shields.io/github/stars/mitdralla/mydentify-ai-crawler-access-checker?style=social)
 - [no-mistakes](https://github.com/kunchenguid/no-mistakes) - A local Git proxy and validation pipeline that runs AI-driven checks and applies fixes in a temporary worktree before forwarding pushes and opening clean PRs. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/kunchenguid/no-mistakes?style=social)
 - [oai-smoke](https://github.com/airouter-dev/openai-compatible-api-smoke-test) - MIT-licensed, standard-library-only Go CLI that validates `/models` and opt-in `/chat/completions` behavior for OpenAI-compatible APIs and emits bounded diagnostics without credentials or response bodies. ![GitHub stars](https://img.shields.io/github/stars/airouter-dev/openai-compatible-api-smoke-test?style=social)
 
