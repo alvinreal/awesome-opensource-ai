@@ -449,6 +449,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Agent Context, Memory & Knowledge
 
+- [Obsidian Agent Skills](https://github.com/kepano/obsidian-skills) - Agent skills and open-format tooling for Obsidian vaults, Markdown, Bases, and JSON Canvas compatible with Claude Code, Codex, and OpenCode. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/kepano/obsidian-skills?style=social)
 - [Cangjie Skill](https://github.com/kangarooking/cangjie-skill) - Pipeline to distill books, videos, and podcasts into structured, executable agent skills using verification and testing workflows. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/kangarooking/cangjie-skill?style=social)
 - [Hexis](https://github.com/Bevel-Software/Hexis) - Git-backed platform for managing and sharing skills, tools, and context across AI agents through a remote MCP server. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/Bevel-Software/Hexis?style=social)
 - [Codegraph](https://github.com/colbymchenry/codegraph) - Local pre-indexed code knowledge graph for coding agents to reduce token usage and redundant tool calls across Claude, Codex, and other agents. ![GitHub stars](https://img.shields.io/github/stars/colbymchenry/codegraph?style=social)
@@ -759,6 +760,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### 3D & Creative Tools
 
+- [Modly](https://github.com/lightningpixel/modly) - Desktop application for image-to-3D mesh generation using local GPU-accelerated AI models. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/lightningpixel/modly?style=social)
 - [gsplat (3D Gaussian Splatting tools)](https://github.com/nerfstudio-project/gsplat) - High-performance 3D Gaussian Splatting library. ![GitHub stars](https://img.shields.io/github/stars/nerfstudio-project/gsplat?style=social)
 - [LichtFeld-Studio](https://github.com/MrNeRF/LichtFeld-Studio) - Native application for training, editing, and exporting 3D Gaussian Splatting scenes with MCMC optimization and timelapse generation. GPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/MrNeRF/LichtFeld-Studio?style=social)
 - [OpenSplat](https://github.com/pierotofy/OpenSplat) - Production-grade, portable implementation of 3D Gaussian Splatting with CPU/GPU support for Windows, Mac, and Linux. Creates 3D scenes from camera poses and sparse points. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/pierotofy/OpenSplat?style=social)
