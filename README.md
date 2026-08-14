@@ -106,7 +106,6 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Pandas](https://github.com/pandas-dev/pandas) - The gold standard for data analysis and manipulation in Python. ![GitHub stars](https://img.shields.io/github/stars/pandas-dev/pandas?style=social)
 - [Polars](https://github.com/pola-rs/polars) - Blazing-fast DataFrame library (Rust backend) - modern alternative to Pandas for large-scale workloads. ![GitHub stars](https://img.shields.io/github/stars/pola-rs/polars?style=social)
 - [cuDF](https://github.com/rapidsai/cudf) - GPU DataFrame library from RAPIDS. Accelerates Pandas workflows on NVIDIA GPUs with zero code changes using cuDF.pandas accelerator mode. ![GitHub stars](https://img.shields.io/github/stars/rapidsai/cudf?style=social)
-- [Modin](https://github.com/modin-project/modin) - Parallel Pandas DataFrames. Scale Pandas workflows by changing a single line of code - distributes data and computation automatically. ![GitHub stars](https://img.shields.io/github/stars/modin-project/modin?style=social)
 - [Dask](https://github.com/dask/dask) - Parallel computing for big data - scales Pandas/NumPy/scikit-learn to clusters. ![GitHub stars](https://img.shields.io/github/stars/dask/dask?style=social)
 - [DataFlow](https://github.com/OpenDCAI/DataFlow) - LLM-ready data preparation system for turning raw PDFs, conversations, code, databases, and other sources into SFT, QA, and RAG-ready datasets. ![GitHub stars](https://img.shields.io/github/stars/OpenDCAI/DataFlow?style=social)
 - [NumPy](https://github.com/numpy/numpy) - Fundamental array computing library that powers almost every AI stack. ![GitHub stars](https://img.shields.io/github/stars/numpy/numpy?style=social)
@@ -517,7 +516,6 @@ Good entries should have a clear reason to exist. They should help people build,
 - [LM Format Enforcer](https://github.com/noamgat/lm-format-enforcer) - Enforce output format (JSON Schema, Regex, etc) of language models by filtering allowed tokens at each generation step. Compatible with Hugging Face, llama-cpp-python, and vLLM. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/noamgat/lm-format-enforcer?style=social)
 
 - [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - Library to build and auto-optimize LLM applications with LLM-AutoDiff for fine-tuning-free optimization. End-to-end workflow optimization with tracing and human-in-the-loop capabilities. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/SylphAI-Inc/AdalFlow?style=social)
-- [PromptTools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation with support for LLMs and vector databases. Test prompt variants across multiple providers (OpenAI, LLaMA) and vector stores (Chroma, Weaviate, LanceDB). Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/hegelai/prompttools?style=social)
 
 
 #### Domain-Specific Agents
