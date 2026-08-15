@@ -1372,6 +1372,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 - [Helicone](https://github.com/Helicone/helicone) - Open-source LLM observability platform with prompt management, versioning, and experimentation. One-line integration, YC W23 company. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/Helicone/helicone?style=social)
 - [GEPA](https://github.com/gepa-ai/gepa) - Reflective prompt evolution optimizer using natural language reflection and Pareto frontier learning. Outperforms reinforcement learning for prompt optimization. Integrated with DSPY and MLflow. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/gepa-ai/gepa?style=social)
+- [Entroly](https://github.com/juyterman1000/entroly) - Local-first MCP server for explicit-budget context selection, content-addressed exact recovery, and auditable Context Receipts. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/juyterman1000/entroly?style=social)
 
 ---
 
