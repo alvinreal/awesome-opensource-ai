@@ -1326,6 +1326,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Code Review Graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph that builds a persistent map of a codebase to provide token-optimized context for AI coding tools. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/tirth8205/code-review-graph?style=social)
 - [CAD Skills](https://github.com/earthtojake/text-to-cad) - A library of modular agent skills for generating, inspecting, slicing, and exporting CAD and robot-description geometry (STEP, STL, URDF, SDF). MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/earthtojake/text-to-cad?style=social)
 - [ADHD](https://github.com/UditAkhourii/adhd) - Tree-of-thought divergent reasoning skill for AI agents that spawns parallel cognitive frames to prune traps and score surviving paths. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/UditAkhourii/adhd?style=social)
+- [MCP Lens](https://github.com/labmimors/dsh-mcp-lens) - DeepSeek Harness plugin that exposes configured remote MCP tools through a search interface and an explicit server/tool call interface with exact input schemas. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/labmimors/dsh-mcp-lens?style=social)
 
 #### UI Components & Chat Libraries
 
