@@ -449,6 +449,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Agent Context, Memory & Knowledge
 
+- [LWC (Local Wiki CLI)](https://github.com/JanYork/llm-wiki-cli) - Local-first, source-grounded project memory for coding agents with bounded MCP retrieval, citations and provenance, atomic changesets, and optional document and code knowledge graphs. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/JanYork/llm-wiki-cli?style=social)
 - [Obsidian Agent Skills](https://github.com/kepano/obsidian-skills) - Agent skills and open-format tooling for Obsidian vaults, Markdown, Bases, and JSON Canvas compatible with Claude Code, Codex, and OpenCode. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/kepano/obsidian-skills?style=social)
 - [Cangjie Skill](https://github.com/kangarooking/cangjie-skill) - Pipeline to distill books, videos, and podcasts into structured, executable agent skills using verification and testing workflows. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/kangarooking/cangjie-skill?style=social)
 - [Hexis](https://github.com/Bevel-Software/Hexis) - Git-backed platform for managing and sharing skills, tools, and context across AI agents through a remote MCP server. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/Bevel-Software/Hexis?style=social)
