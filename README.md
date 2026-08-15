@@ -1357,7 +1357,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [DesktopCommander MCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - MCP server for Claude providing terminal control, file system search, and diff file editing capabilities. Enables autonomous code editing through Model Context Protocol. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/wonderwhy-er/DesktopCommanderMCP?style=social)
 - [Claude Code Action](https://github.com/anthropics/claude-code-action) - GitHub Action for running Claude Code in PR and issue workflows with approval-aware automation and coding assistance. ![GitHub stars](https://img.shields.io/github/stars/anthropics/claude-code-action?style=social)
 - [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files without external Office installations. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/iOfficeAI/OfficeCLI?style=social)
-- [SandBase CLI](https://github.com/sandbaseai/cli) - Agent-first CLI that connects 17+ AI coding clients to 2,000+ tools and 200+ models through MCP, with multimodal generation and cloud sandbox workflows. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/sandbaseai/cli?style=social)
+- [SandBase CLI](https://github.com/sandbaseai/cli) - Agent-first CLI and MCP bridge for accessing 2,000+ AI models and APIs, with multimodal generation, structured output, and cloud sandbox workflows. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/sandbaseai/cli?style=social)
 
 #### SDKs & API Development Tools
 
