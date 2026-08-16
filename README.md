@@ -1355,6 +1355,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [DesktopCommander MCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - MCP server for Claude providing terminal control, file system search, and diff file editing capabilities. Enables autonomous code editing through Model Context Protocol. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/wonderwhy-er/DesktopCommanderMCP?style=social)
 - [Claude Code Action](https://github.com/anthropics/claude-code-action) - GitHub Action for running Claude Code in PR and issue workflows with approval-aware automation and coding assistance. ![GitHub stars](https://img.shields.io/github/stars/anthropics/claude-code-action?style=social)
 - [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files without external Office installations. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/iOfficeAI/OfficeCLI?style=social)
+- [CLI-Anything](https://github.com/HKUDS/CLI-Anything) - Framework for converting software applications into agent-native command-line interfaces for AI coding agents. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/HKUDS/CLI-Anything?style=social)
 
 #### SDKs & API Development Tools
 
