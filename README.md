@@ -435,6 +435,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Gas Town](https://github.com/gastownhall/gastown) - Multi-agent workspace manager and orchestration system for Claude Code and other coding agents with persistent work tracking, mailboxes, and automated merge queues. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/gastownhall/gastown?style=social)
 - [Open Deep Research](https://github.com/langchain-ai/open_deep_research) - Open-source deep research assistant that orchestrates language models and search tools to run multi-step web research and compile reports. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/open_deep_research?style=social)
 - [MiroFish](https://github.com/666ghj/MiroFish) - Multi-agent swarm intelligence engine that constructs parallel digital environments with autonomous agents to simulate and predict real-world outcomes. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/666ghj/MiroFish?style=social)
+- [Okto Pulse](https://github.com/OktoLabsAI/okto-pulse) - Local-first, spec-driven SDLC workbench with governance gates, knowledge graphs, and MCP for AI coding agents. Elastic License 2.0. ![GitHub stars](https://img.shields.io/github/stars/OktoLabsAI/okto-pulse?style=social)
 
 #### Agent Protocols & Standards
 
