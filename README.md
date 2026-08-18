@@ -461,6 +461,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) - Framework-agnostic, local-first memory lifecycle for AI agents with a Rust CLI, SQLite/FTS recall, redaction, forgetting, audit checks, consolidation, and agent-skill guidance. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/TerminallyLazy/Tree-Ring-Memory?style=social)
 - [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance C-based codebase intelligence engine and MCP server that indexes repositories into local type-resolved knowledge graphs. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/DeusData/codebase-memory-mcp?style=social)
 - [book-to-skill](https://github.com/virgiliojr94/book-to-skill) - CLI tool that distills technical books, documents, and reference materials into structured, on-demand agent skills. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/virgiliojr94/book-to-skill?style=social)
+- [AI Memory](https://github.com/akitaonrails/ai-memory) - Rust-native long-term memory server and MCP client for agent coding CLIs, featuring Karpathy-style LLM wiki compilation, FTS5 recall, and cross-agent session handoffs. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/akitaonrails/ai-memory?style=social)
 
 #### Autonomous Coding Agents
 
