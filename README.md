@@ -1359,6 +1359,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Claude Code Action](https://github.com/anthropics/claude-code-action) - GitHub Action for running Claude Code in PR and issue workflows with approval-aware automation and coding assistance. ![GitHub stars](https://img.shields.io/github/stars/anthropics/claude-code-action?style=social)
 - [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files without external Office installations. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/iOfficeAI/OfficeCLI?style=social)
 - [CLI-Anything](https://github.com/HKUDS/CLI-Anything) - Framework for converting software applications into agent-native command-line interfaces for AI coding agents. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/HKUDS/CLI-Anything?style=social)
+- [SandBase CLI](https://github.com/sandbaseai/cli) - Apache-2.0 CLI and local MCP bridge that configures 25 AI clients to discover, inspect, and call more than 2,000 AI models and APIs through one account. ![GitHub stars](https://img.shields.io/github/stars/sandbaseai/cli?style=social)
 
 #### SDKs & API Development Tools
 
