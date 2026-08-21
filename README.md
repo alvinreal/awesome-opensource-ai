@@ -1209,6 +1209,8 @@ Good entries should have a clear reason to exist. They should help people build,
 - [LifeOS](https://github.com/danielmiessler/LifeOS) - General-purpose personal AI harness and assistant framework with persistent memory, custom skills, and goal tracking. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/danielmiessler/LifeOS?style=social)
 - [ThoughtDAG](https://github.com/chenxiachan/thoughtdag) - Local-first visual LLM workspace where graph edges determine the context sent to the model, with branching, merging, document extraction, and Ollama or OpenAI-compatible endpoint support. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/chenxiachan/thoughtdag?style=social)
 
+#### Full Self-hosted AI Platforms
+
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) - All-in-one RAG + agents platform. ![GitHub stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social)
 - [Flowise](https://github.com/FlowiseAI/Flowise) - Drag-and-drop LLM app builder. ![GitHub stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
 - [LocalAI](https://github.com/mudler/LocalAI) - Open-source AI engine running LLMs, vision, voice, image, and video models on any hardware. Self-hosted OpenAI-compatible API. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/mudler/LocalAI?style=social)
