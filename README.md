@@ -79,6 +79,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [oneDNN](https://github.com/uxlfoundation/oneDNN) - oneAPI Deep Neural Network Library. Cross-platform performance library of basic building blocks for deep learning, optimized for Intel CPUs, GPUs, and Arm architectures. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/uxlfoundation/oneDNN?style=social)
 - [ONNX](https://github.com/onnx/onnx) - Open standard for machine learning interoperability. Open Neural Network Exchange provides an open ecosystem that empowers AI developers to choose the right tools as their project evolves. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/onnx/onnx?style=social)
 - [IREE](https://github.com/iree-org/iree) - Retargetable MLIR-based machine learning compiler and runtime toolkit. Lowers ML models to unified IR that scales from datacenter to mobile and edge deployments. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/iree-org/iree?style=social)
+- [Modular Platform](https://github.com/modular/modular) - Open-source AI compute and programming platform built around the MAX Engine and Mojo programming language. ![GitHub stars](https://img.shields.io/github/stars/modular/modular?style=social)
 
 #### Rust ML Frameworks
 
