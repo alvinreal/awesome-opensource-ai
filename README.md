@@ -200,6 +200,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. The de facto standard for creating interactive ML demos with automatic UI generation from function signatures. Powers thousands of Hugging Face Spaces. ![GitHub stars](https://img.shields.io/github/stars/gradio-app/gradio?style=social)
 - [Marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor. ![GitHub stars](https://img.shields.io/github/stars/marimo-team/marimo?style=social)
 
+- [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: notes, tasks, and AI chat over plain Markdown files. Connects to Ollama for free private AI.
 #### Model Training & Optimization Utilities
 
 - [Hugging Face Accelerate](https://github.com/huggingface/accelerate) - Simple API to make training scripts run on any hardware (multi-GPU, TPU, mixed precision) with minimal code changes. ![GitHub stars](https://img.shields.io/github/stars/huggingface/accelerate?style=social)
