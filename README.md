@@ -1193,6 +1193,7 @@ Good entries should have a clear reason to exist. They should help people build,
 #### Local AI Chat UIs & Personal Assistants
 
 - [OpenClaw](https://github.com/openclaw/openclaw) - Local-first personal AI assistant with multi-channel integrations and full agentic task execution. ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)
+- [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: notes and tasks as plain Markdown on your machine, with an AI chat grounded in your own files. Ollama or any OpenAI-compatible API. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/jayamitkatariya/personacli?style=social)
 - [AstrBot](https://github.com/AstrBotDevs/AstrBot) - Multi-channel personal AI agent assistant and integration framework for messaging platforms, LLMs, and plugins. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/AstrBotDevs/AstrBot?style=social)
 - [Open WebUI](https://github.com/open-webui/open-webui) - Most popular self-hosted ChatGPT-style interface. ![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)
 - [text-generation-webui](https://github.com/oobabooga/text-generation-webui) - Web UI for running local LLMs with multiple backends, extensions, and model formats. ![GitHub stars](https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=social)
