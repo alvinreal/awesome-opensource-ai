@@ -316,6 +316,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy gateway that stacks the free tiers of multiple LLM providers behind a single endpoint with automatic failover and rate tracking. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/tashfeenahmed/freellmapi?style=social)
 - [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Unified AI gateway and proxy supporting over 230 providers with token compression, automatic failover, and routing strategies. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social)
 - [Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - Rust proxy and library for routing, protocol translation, and operational metrics across LLM backends and coding agents. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/NVIDIA-NeMo/Switchyard?style=social)
+- [Bifrost](https://github.com/maximhq/bifrost) - LLM gateway with a unified OpenAI-compatible API across providers, routing, load balancing, fallbacks, guardrails, and observability. ![GitHub stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social)
 
 #### Additional Inference Engines
 
