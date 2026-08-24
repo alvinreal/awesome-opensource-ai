@@ -438,6 +438,8 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Gas Town](https://github.com/gastownhall/gastown) - Multi-agent workspace manager and orchestration system for Claude Code and other coding agents with persistent work tracking, mailboxes, and automated merge queues. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/gastownhall/gastown?style=social)
 - [Open Deep Research](https://github.com/langchain-ai/open_deep_research) - Open-source deep research assistant that orchestrates language models and search tools to run multi-step web research and compile reports. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/open_deep_research?style=social)
 - [MiroFish](https://github.com/666ghj/MiroFish) - Multi-agent swarm intelligence engine that constructs parallel digital environments with autonomous agents to simulate and predict real-world outcomes. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/666ghj/MiroFish?style=social)
+- [Maka](https://github.com/apache/maka) - Apache-incubating local-first AI-agent workspace with durable append-only agent execution history, licensed under Apache-2.0. ![GitHub stars](https://img.shields.io/github/stars/apache/maka?style=social)
+- [Ruflo](https://github.com/ruvnet/ruflo) - Multi-agent orchestration and meta-harness for coordinating agent swarms with shared memory, licensed under the MIT license. ![GitHub stars](https://img.shields.io/github/stars/ruvnet/ruflo?style=social)
 
 #### Agent Protocols & Standards
 
