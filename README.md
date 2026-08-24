@@ -570,6 +570,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - Fully local long-term memory layer for AI agents with a four-tier progressive pipeline and zero external dependencies. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/TencentCloud/TencentDB-Agent-Memory?style=social)
 - [Cognee](https://github.com/topoteretes/cognee) - AI memory platform for agents that builds a self-hosted knowledge graph for persistent, long-term memory across sessions. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/topoteretes/cognee?style=social)
 - [LoopX](https://github.com/huangruiteng/loopx) - Lightweight state kernel and local control plane for long-running AI agent loops with goal tracking, auto-wake, and verifiable handoffs. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/huangruiteng/loopx?style=social)
+- [Verified Memory Vault](https://github.com/secondbrainstarter/verified-memory-vault) - Obsidian-based agent memory system that stores agent memories as plain Markdown files in a vault, with a deterministic Python linter (`memory_check.py`) that scores memory hygiene (broken links, stale frontmatter, oversized notes) and a git pre-commit hook (`memory_guard.py`) that blocks accidental mass deletions by the coding agent itself. CC BY 4.0 / MIT. ![GitHub stars](https://img.shields.io/github/stars/secondbrainstarter/verified-memory-vault?style=social)
 
 ---
 
