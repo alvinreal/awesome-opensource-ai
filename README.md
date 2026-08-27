@@ -573,6 +573,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - Fully local long-term memory layer for AI agents with a four-tier progressive pipeline and zero external dependencies. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/TencentCloud/TencentDB-Agent-Memory?style=social)
 - [Cognee](https://github.com/topoteretes/cognee) - AI memory platform for agents that builds a self-hosted knowledge graph for persistent, long-term memory across sessions. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/topoteretes/cognee?style=social)
 - [LoopX](https://github.com/huangruiteng/loopx) - Lightweight state kernel and local control plane for long-running AI agent loops with goal tracking, auto-wake, and verifiable handoffs. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/huangruiteng/loopx?style=social)
+- [Statewave](https://github.com/smaramwbc/statewave) - Open-source memory runtime for AI agents that compiles reproducible, provenance-tagged context bundles instead of relying on query-time retrieval, self-hosted on Postgres and pgvector with Python and TypeScript SDKs. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/smaramwbc/statewave?style=social)
 
 ---
 
