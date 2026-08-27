@@ -269,6 +269,7 @@ Good entries should have a clear reason to exist. They should help people build,
 #### Local / On-device Inference
 
 - [llama.cpp](https://github.com/ggml-org/llama.cpp) - Pure C/C++ inference engine with GGUF format support. The gold standard for CPU/GPU/Apple Silicon on-device running. Includes llama-server for OpenAI-compatible API. Now at 100K+ stars. ![GitHub stars](https://img.shields.io/github/stars/ggml-org/llama.cpp?style=social)
+- [qwen3.8-27b-in-c](https://github.com/shyringo/qwen3.8-27b-in-c) - Native C inference engine for Qwen3.8-27B on a single laptop CPU, with direct GGUF loading, a tested 8 GB memory path, and bit-identical optimized/native logits for the same weights. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/shyringo/qwen3.8-27b-in-c?style=social)
 - [Ollama](https://github.com/ollama/ollama) - Dead-simple local LLM runner with a one-line install, model registry, and OpenAI-compatible API. ![GitHub stars](https://img.shields.io/github/stars/ollama/ollama?style=social)
 - [Foundry Local](https://github.com/microsoft/Foundry-Local) - Open-source on-device AI platform covering discovery, model running, sandboxed execution, and evaluation of open models. ![GitHub stars](https://img.shields.io/github/stars/microsoft/Foundry-Local?style=social)
 - [Potato OS](https://github.com/slomin/potato-os) - Linux distribution for fully local AI inference on Raspberry Pi 5 and 4, optimized for running open models at the edge. ![GitHub stars](https://img.shields.io/github/stars/slomin/potato-os?style=social)
