@@ -1235,6 +1235,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Self-hosted machine translation API powered by Argos Translate, offering a free and offline-capable alternative to proprietary translation services. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/LibreTranslate/LibreTranslate?style=social)
 - [Buzz](https://github.com/block/buzz) - Self-hostable workspace and Nostr relay implementation where human team members and AI agents collaborate in shared channels, canvases, and workflows. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/block/buzz?style=social)
 - [Macro](https://github.com/macro-inc/macro) - Unified team workspace combining email, messaging, documents, tasks, CRM, and AI agents with shared memory. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/macro-inc/macro?style=social)
+- [ODS](https://github.com/Osmantic/ODS) - Apache-2.0-licensed self-hosted local AI stack for inference, chat, voice, agents, workflows, and RAG. ![GitHub stars](https://img.shields.io/github/stars/Osmantic/ODS?style=social)
 
 #### Desktop & Mobile AI Apps
 
@@ -1288,6 +1289,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Terax](https://github.com/crynta/terax-ai) - Lightweight terminal-first AI-native dev workspace (ADE) featuring multi-tab terminals, a code editor with AI edit diffs, source control, and agentic workflows. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/crynta/terax-ai?style=social)
 - [Pi Web](https://github.com/agegr/pi-web) - Web UI and local workspace for the pi coding agent with session browsing, file previews, and model configuration. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/agegr/pi-web?style=social)
 - [Garcon](https://github.com/cfal/garcon) - Browser and mobile workspace for running and steering parallel Claude Code, Codex, Cursor Agent, OpenCode, Amp, Droid, and Pi sessions, with integrated terminal, file editing, diff review, Git/PR workflows, mobile approvals, scheduling, and cross-agent transfers. GPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/cfal/garcon?style=social)
+- [screenshot-to-code](https://github.com/abi/screenshot-to-code) - MIT-licensed tool that turns screenshots, mockups, and Figma designs into frontend code. ![GitHub stars](https://img.shields.io/github/stars/abi/screenshot-to-code?style=social)
 
 #### AI Coding Assistants (open-source)
 
@@ -1441,6 +1443,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Made With ML (Goku Mohandas)](https://github.com/GokuMohandas/Made-With-ML) - End-to-end course on building production-grade ML systems with MLOps fundamentals, from design to deployment and iteration. ![GitHub stars](https://img.shields.io/github/stars/GokuMohandas/Made-With-ML?style=social)
 - [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub) - 93+ production-ready projects with in-depth tutorials on LLMs, RAG, and real-world AI agent applications. Comprehensive resources for all skill levels from beginner to advanced. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/patchy631/ai-engineering-hub?style=social)
 - [Complete Agentic AI Engineering Course](https://github.com/ed-donner/agents) - 6-week comprehensive course on Agentic AI covering autonomous agents, multi-agent systems, and practical agent development. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/ed-donner/agents?style=social)
+- [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - MIT-licensed multi-agent platform for interactive learning and course generation. ![GitHub stars](https://img.shields.io/github/stars/THU-MAIC/OpenMAIC?style=social)
 
 #### Starter Projects & Examples
 
