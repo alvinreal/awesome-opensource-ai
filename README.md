@@ -560,6 +560,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [The Agency](https://github.com/msitarzewski/agency-agents) - Extensive library of specialized developer and workflow agent personas with installer support for Claude Code, Cursor, Codex, and other coding assistants. ![GitHub stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=social)
 - [CubeSandbox (Tencent Cloud)](https://github.com/TencentCloud/CubeSandbox) - High-performance, secure agent sandbox built on RustVMM and KVM, compatible with the E2B SDK. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/TencentCloud/CubeSandbox?style=social)
 - [DeepTutor](https://github.com/HKUDS/DeepTutor) - Multi-agent system for lifelong personalized tutoring with interactive and adaptive learning workflows. ![GitHub stars](https://img.shields.io/github/stars/HKUDS/DeepTutor?style=social)
+- [Corsair](https://github.com/corsairdev/corsair) - Domain-specific AI agent framework for building and running specialized agents. ![GitHub stars](https://img.shields.io/github/stars/corsairdev/corsair?style=social)
 
 #### Agent Memory & State
 
@@ -1155,6 +1156,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Gymnasium (ex-OpenAI Gym)](https://github.com/Farama-Foundation/Gymnasium) - Standard RL environment API. ![GitHub stars](https://img.shields.io/github/stars/Farama-Foundation/Gymnasium?style=social)
 - [OpenEnv](https://github.com/huggingface/OpenEnv) - End-to-end sandbox execution environment framework for agentic reinforcement learning training built on Gymnasium-compatible APIs. ![GitHub stars](https://img.shields.io/github/stars/huggingface/OpenEnv?style=social)
 - [JaxMARL](https://github.com/FLAIROx/JaxMARL) - Multi-agent reinforcement learning library with JAX-accelerated environments and baselines. ![GitHub stars](https://img.shields.io/github/stars/FLAIROx/JaxMARL?style=social)
+- [MicroDuck RL](https://github.com/pollen-robotics/microduck_rl) - Reinforcement learning environments and training tools for the MicroDuck robotics platform. ![GitHub stars](https://img.shields.io/github/stars/pollen-robotics/microduck_rl?style=social)
 
 #### Time Series & Scientific AI
 
