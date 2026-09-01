@@ -1099,6 +1099,7 @@ Good entries should have a clear reason to exist. They should help people build,
 #### Creative Writing & Narrative AI
 
 - [Alex](https://github.com/Alex663028/Alex-Novel-Platform) - Open-source desktop novel-writing engine and AI story scaffold with Tauri, FastAPI, SQLite, and plot-generation workflows. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Alex663028/Alex-Novel-Platform?style=social)
+- [AI Novel Writer](https://github.com/EthanYoQ/AI-Novel-Writer) - Local-first desktop workbench for long-form fiction that organizes story premises, characters, worldbuilding, chapter blueprints, drafting, review, and revision, with Ollama support and Windows/macOS releases. GPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/EthanYoQ/AI-Novel-Writer?style=social)
 
 #### HR & Recruiting AI
 
