@@ -516,6 +516,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Prime Agent](https://github.com/PrimeIntellect-ai/prime-agent) - Self-improving recursive language model (RLM) agent for coding workflows and autonomous tasks. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/PrimeIntellect-ai/prime-agent?style=social)
 - [Agent Skills (Google)](https://github.com/google/skills) - Official collection of Agent Skills for Google Cloud and Google developer platforms, extending AI coding agents with product and technology workflows. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/google/skills?style=social)
 - [Agent Skills (Anthropic)](https://github.com/anthropics/skills) - Official collection of Agent Skills and reference implementations for Claude Code, Claude API, and AI agents. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/anthropics/skills?style=social)
+- [Superagent](https://github.com/pungme/superagent-desktop) - macOS desktop app giving Claude Code and Codex a real browser to drive, an iOS Simulator to install and screenshot apps in, and a phone companion app for remote monitoring. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/pungme/superagent-desktop?style=social)
 
 #### Prompt Engineering & Structured Outputs
 
