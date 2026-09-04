@@ -1400,6 +1400,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Testing & Debugging Tools
 
+- [deepseek-peak-hours](https://github.com/xyzs996/deepseek-peak-hours) - Dated boundary vectors and a ~30-line reference implementation in Python and JavaScript for DeepSeek's peak/off-peak billing windows, with a conformance harness that runs the vectors against the peak predicate of nine published billing plugins. CC0 licensed. ![GitHub stars](https://img.shields.io/github/stars/xyzs996/deepseek-peak-hours?style=social)
 - [no-mistakes](https://github.com/kunchenguid/no-mistakes) - A local Git proxy and validation pipeline that runs AI-driven checks and applies fixes in a temporary worktree before forwarding pushes and opening clean PRs. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/kunchenguid/no-mistakes?style=social)
 - [oai-smoke](https://github.com/airouter-dev/openai-compatible-api-smoke-test) - MIT-licensed, standard-library-only Go CLI that validates `/models` and opt-in `/chat/completions` behavior for OpenAI-compatible APIs and emits bounded diagnostics without credentials or response bodies. ![GitHub stars](https://img.shields.io/github/stars/airouter-dev/openai-compatible-api-smoke-test?style=social)
 
