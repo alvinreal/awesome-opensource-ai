@@ -946,6 +946,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [ChainForge](https://github.com/ianarawjo/ChainForge) - Visual programming environment for battle-testing prompts and evaluating LLM outputs. Features node-based prompt chains, multi-model comparison, and hypothesis testing. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/ianarawjo/ChainForge?style=social)
 - [Future AGI](https://github.com/future-agi/future-agi) - Open-source self-hostable end-to-end agent engineering and optimization platform that unifies tracing, evals, simulations, datasets, gateway, and guardrails. Built for shipping self-improving AI agents with one feedback loop from prototype to production. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/future-agi/future-agi?style=social)
 - [KubeStellar Console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes dashboard with GPU workload monitoring, AI pipeline observability, and CNCF ecosystem integrations. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/kubestellar/console?style=social)
+- [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run below the harness and replays it offline byte-for-byte, or forks it from a checkpoint onto another model. ![GitHub stars](https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaReplay?style=flat-square)
 
 #### Guardrails & Safety Tools
 
