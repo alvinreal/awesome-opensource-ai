@@ -181,6 +181,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [ydata-profiling](https://github.com/ydataai/ydata-profiling) - One line of code for comprehensive data quality profiling and exploratory data analysis. Generates detailed reports for Pandas and Spark DataFrames including statistics, correlations, missing values, and data quality alerts. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/ydataai/ydata-profiling?style=social)
 - [Soda Core](https://github.com/sodadata/soda-core) - Data contracts engine for the modern data stack. Define data quality checks in YAML and automatically validate schema and data across your pipelines. Supports 20+ data sources including Snowflake, BigQuery, and PostgreSQL. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/sodadata/soda-core?style=social)
 - [TFX (TensorFlow Extended)](https://github.com/tensorflow/tfx) - End-to-end platform for deploying production ML pipelines. Data validation, transformation, model training, and serving with TensorFlow. Powers Google's production ML infrastructure. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/tensorflow/tfx?style=social)
+- [VibeAudit](https://vibeaudit.sh/) - Pre-launch security audit for AI-built apps: reads the whole repo and returns findings with file:line and a paste-ready fix prompt each. Free quick scan.
 
 #### Data Labeling & Annotation
 
