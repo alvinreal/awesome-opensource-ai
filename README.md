@@ -476,6 +476,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance C-based codebase intelligence engine and MCP server that indexes repositories into local type-resolved knowledge graphs. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/DeusData/codebase-memory-mcp?style=social)
 - [book-to-skill](https://github.com/virgiliojr94/book-to-skill) - CLI tool that distills technical books, documents, and reference materials into structured, on-demand agent skills. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/virgiliojr94/book-to-skill?style=social)
 - [AI Memory](https://github.com/akitaonrails/ai-memory) - Rust-native long-term memory server and MCP client for agent coding CLIs, featuring Karpathy-style LLM wiki compilation, FTS5 recall, and cross-agent session handoffs. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/akitaonrails/ai-memory?style=social)
+- [Busabase](https://github.com/busabase/busabase) - Open-source database and workspace that gives AI agents structured data, durable knowledge, docs, skills, and apps through MCP, OpenAPI, CLI, and coding-agent skills; material writes can remain reviewable ChangeRequests before becoming canonical. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/busabase/busabase?style=social)
 
 #### Autonomous Coding Agents
 
