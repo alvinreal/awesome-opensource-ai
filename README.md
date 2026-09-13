@@ -1270,6 +1270,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [OpenWork](https://github.com/different-ai/openwork) - Open-source desktop app for sharing AI workflows, skills, and MCP capabilities across agents. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/different-ai/openwork?style=social)
 - [ego lite](https://github.com/citrolabs/ego-lite) - Desktop browser designed for running web automation tasks and AI agents in parallel within isolated workspaces. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/citrolabs/ego-lite?style=social)
 - [Off Grid AI Desktop](https://github.com/off-grid-ai/OGAD) - Local-first macOS AI app that runs LLM chat, image generation, voice transcription, and personal memory/RAG fully on-device via llama.cpp - nothing leaves the machine. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/off-grid-ai/OGAD?style=social)
+- [Clips Kitty](https://github.com/ColinGPT9/clips-studio) - Local-first Windows desktop app that turns long videos and livestreams into vertical clips, using faster-whisper for word-level captions and a local LLM through Ollama to pick highlights. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/ColinGPT9/clips-studio?style=social)
 
 #### Agent & Voice Infrastructure
 
