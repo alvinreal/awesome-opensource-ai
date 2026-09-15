@@ -1397,6 +1397,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Claude Code Action](https://github.com/anthropics/claude-code-action) - GitHub Action for running Claude Code in PR and issue workflows with approval-aware automation and coding assistance. ![GitHub stars](https://img.shields.io/github/stars/anthropics/claude-code-action?style=social)
 - [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files without external Office installations. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/iOfficeAI/OfficeCLI?style=social)
 - [CLI-Anything](https://github.com/HKUDS/CLI-Anything) - Framework for converting software applications into agent-native command-line interfaces for AI coding agents. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/HKUDS/CLI-Anything?style=social)
+- [MulmoTerminal](https://github.com/receptron/mulmoterminal) - Browser grid of live Claude Code and Codex sessions started with one `npx` command. Each cell is a real PTY with a colour-coded status, tmux-backed persistence, and a git worktree per cell. For Claude Code, needs-you is shown separately from done, read from the CLI's own hooks. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/receptron/mulmoterminal?style=social)
 
 #### SDKs & API Development Tools
 
