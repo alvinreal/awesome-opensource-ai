@@ -284,6 +284,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [omlx](https://github.com/jundot/omlx) - Apple-centric inference server for local-first AI workflows with model management, GPU orchestration, and OpenAI-compatible APIs for self-hosted deployment. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/jundot/omlx?style=social)
 - [llmfit](https://github.com/AlexsJones/llmfit) - Terminal tool and TUI that right-sizes LLM models to hardware specs and scores local compatibility across GPU, CPU, and RAM. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/AlexsJones/llmfit?style=social)
 - [Needle](https://github.com/cactus-compute/needle) - Compact 45M-parameter foundation model and 14MB inference engine for tool calling and structured extraction on tiny devices. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/cactus-compute/needle?style=social)
+- [Colibri](https://github.com/JustVugg/colibri) - Zero-dependency C inference engine that runs large Mixture-of-Experts models locally by streaming experts across disk, RAM, and VRAM. ![GitHub stars](https://img.shields.io/github/stars/JustVugg/colibri?style=social)
 
 #### High-performance Serving & API Servers
 
@@ -568,6 +569,8 @@ Good entries should have a clear reason to exist. They should help people build,
 - [CubeSandbox (Tencent Cloud)](https://github.com/TencentCloud/CubeSandbox) - High-performance, secure agent sandbox built on RustVMM and KVM, compatible with the E2B SDK. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/TencentCloud/CubeSandbox?style=social)
 - [DeepTutor](https://github.com/HKUDS/DeepTutor) - Multi-agent system for lifelong personalized tutoring with interactive and adaptive learning workflows. ![GitHub stars](https://img.shields.io/github/stars/HKUDS/DeepTutor?style=social)
 - [Corsair](https://github.com/corsairdev/corsair) - Domain-specific AI agent framework for building and running specialized agents. ![GitHub stars](https://img.shields.io/github/stars/corsairdev/corsair?style=social)
+- [DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) - Self-hosted sales CRM that uses autonomous AI agents, WhatsApp integration, tenant RAG, and MCP tooling for chat-based sales workflows. ![GitHub stars](https://img.shields.io/github/stars/melgarafael/DeskcommCRM?style=social)
+- [OpenResearch](https://github.com/alphaXiv/OpenResearch) - Local-first workspace and harness for turning coding agents into autonomous research agents for literature review, hypothesis generation, and experiments. ![GitHub stars](https://img.shields.io/github/stars/alphaXiv/OpenResearch?style=social)
 
 #### Agent Memory & State
 
@@ -680,6 +683,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [FastGPT](https://github.com/labring/FastGPT) - Knowledge-base platform with RAG retrieval, document processing, visual AI workflows, and self-hosted deployment options. ![GitHub stars](https://img.shields.io/github/stars/labring/FastGPT?style=social)
 - [MaxKB](https://github.com/1Panel-dev/MaxKB) - Self-hostable knowledge-base and agent platform for document ingestion, RAG pipelines, and enterprise assistant workflows. ![GitHub stars](https://img.shields.io/github/stars/1Panel-dev/MaxKB?style=social)
 - [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Self-hosted AI data assistant for private knowledge, database-aware conversations, and data-heavy RAG workflows. ![GitHub stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=social)
+- [WeKnora](https://github.com/Tencent/WeKnora) - Enterprise knowledge platform that combines RAG retrieval, autonomous reasoning agents, wiki generation, and multi-source document ingestion. ![GitHub stars](https://img.shields.io/github/stars/Tencent/WeKnora?style=social)
 - [localGPT](https://github.com/PromtEngineer/localGPT) - Local document-chat project for private, on-device Q&A over files without sending data to external APIs. ![GitHub stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social)
 - [SurfSense](https://github.com/MODSetter/SurfSense) - Privacy-focused NotebookLM-style workspace for teams to search, organize, and query knowledge with self-hosted RAG. ![GitHub stars](https://img.shields.io/github/stars/MODSetter/SurfSense?style=social)
 - [PieKBS](https://github.com/pieteams/piekbs) - Local-first knowledge search engine for agents with FTS5 full-text search and graph-based document expansion via citation/support/wiki links. Pure Go, no embedding required. ![GitHub stars](https://img.shields.io/github/stars/pieteams/piekbs?style=social)
@@ -774,6 +778,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Supertonic](https://github.com/supertone-inc/supertonic) - Lightning-fast, on-device, multilingual text-to-speech system running natively via ONNX. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/supertone-inc/supertonic?style=social)
 - [Voicebox](https://github.com/jamiepine/voicebox) - Local-first AI voice studio to clone voices, generate speech in multiple languages, and dictate text locally. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/jamiepine/voicebox?style=social)
 - [Voice-Pro](https://github.com/abus-aikorea/voice-pro) - Multilingual AI speech recognition, text-to-speech, and zero-shot voice cloning WebUI. GPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/abus-aikorea/voice-pro?style=social)
+- [VoiceStudio](https://github.com/debpalash/VoiceStudio) - Local-first voice platform for multi-engine text-to-speech, voice cloning and design, video dubbing, and dictation. ![GitHub stars](https://img.shields.io/github/stars/debpalash/VoiceStudio?style=social)
 
 #### 3D & Creative Tools
 
@@ -1302,6 +1307,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Pi Web](https://github.com/agegr/pi-web) - Web UI and local workspace for the pi coding agent with session browsing, file previews, and model configuration. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/agegr/pi-web?style=social)
 - [Garcon](https://github.com/cfal/garcon) - Browser and mobile workspace for running and steering parallel Claude Code, Codex, Cursor Agent, OpenCode, Amp, Droid, and Pi sessions, with integrated terminal, file editing, diff review, Git/PR workflows, mobile approvals, scheduling, and cross-agent transfers. GPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/cfal/garcon?style=social)
 - [screenshot-to-code](https://github.com/abi/screenshot-to-code) - MIT-licensed tool that turns screenshots, mockups, and Figma designs into frontend code. ![GitHub stars](https://img.shields.io/github/stars/abi/screenshot-to-code?style=social)
+- [Atlas](https://github.com/pacifio/atlas) - Local-first agentic development environment and source-control system that connects Git commits with agent sessions, tool calls, reasoning traces, and shared memory. ![GitHub stars](https://img.shields.io/github/stars/pacifio/atlas?style=social)
 
 #### AI Coding Assistants (open-source)
 
@@ -1398,6 +1404,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files without external Office installations. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/iOfficeAI/OfficeCLI?style=social)
 - [CLI-Anything](https://github.com/HKUDS/CLI-Anything) - Framework for converting software applications into agent-native command-line interfaces for AI coding agents. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/HKUDS/CLI-Anything?style=social)
 - [MulmoTerminal](https://github.com/receptron/mulmoterminal) - Browser grid of live Claude Code and Codex sessions started with one `npx` command. Each cell is a real PTY with a colour-coded status, tmux-backed persistence, and a git worktree per cell. For Claude Code, needs-you is shown separately from done, read from the CLI's own hooks. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/receptron/mulmoterminal?style=social)
+- [Worktrunk](https://github.com/max-sixty/worktrunk) - CLI for Git worktree management and workflow automation designed for parallel AI coding-agent workflows. ![GitHub stars](https://img.shields.io/github/stars/max-sixty/worktrunk?style=social)
 
 #### SDKs & API Development Tools
 
