@@ -35,6 +35,7 @@ GITHUB_REPO_URL_RE = re.compile(
 )
 ALLOWED_BETWEEN_LINKS_RE = re.compile(r"^\s*(?:\+\s*)?$")
 ALLOWED_TRAILING_META_RE = re.compile(r"^\s*(?:\([^)]*\)\s*)*$")
+CHAINED_PROJECT_LINK_RE = re.compile(r"(?:^|\s)\+\s*(?:\*\*)?\[[^\]]+\]\(https?://")
 
 
 @dataclass(frozen=True)
@@ -142,9 +143,8 @@ def parse_entries(path: Path) -> tuple[list[ParsedEntry], list[Problem]]:
 
         head = content[:description_index]
         description = content[description_index + 3 :]
-        project_link_after_description = any(
-            match.start() == 0 or description[match.start() - 1] != "!"
-            for match in ENTRY_RE.finditer(description)
+        project_link_after_description = (
+            CHAINED_PROJECT_LINK_RE.search(description) is not None
         )
         if project_link_after_description:
             problems.append(
@@ -167,7 +167,9 @@ def parse_entries(path: Path) -> tuple[list[ParsedEntry], list[Problem]]:
             )
             continue
 
-        badge_repos = {match.group("badge_repo") for match in BADGE_RE.finditer(content)}
+        badge_repos = {
+            match.group("badge_repo").lower() for match in BADGE_RE.finditer(content)
+        }
 
         parsed_links: list[ParsedLink] = []
         if head[: matches[0].start()].strip():
@@ -198,12 +200,14 @@ def parse_entries(path: Path) -> tuple[list[ParsedEntry], list[Problem]]:
                 ParsedLink(
                     label=match.group("label"),
                     url=match.group("url"),
-                    badge_repo=repo_ref.full_name if repo_ref and repo_ref.full_name in badge_repos else None,
+                    badge_repo=repo_ref.full_name
+                    if repo_ref and repo_ref.full_name.lower() in badge_repos
+                    else None,
                     repo_ref=repo_ref,
                 )
             )
 
-            if repo_ref and repo_ref.full_name not in badge_repos:
+            if repo_ref and repo_ref.full_name.lower() not in badge_repos:
                 problems.append(
                     Problem(
                         "error",

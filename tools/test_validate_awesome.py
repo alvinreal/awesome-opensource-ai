@@ -34,6 +34,31 @@ class ValidateAwesomeTests(unittest.TestCase):
         self.assertEqual(len(entries), 1)
         self.assertEqual(problems, [])
 
+    def test_allows_markdown_links_in_description(self):
+        entries, problems = self.parse_entries(
+            [
+                "- [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) - "
+                "Ray-based RLHF framework supporting PPO, DPO, and "
+                "[SimPO](https://arxiv.org/abs/2405.14734). "
+                "![GitHub stars](https://img.shields.io/github/stars/OpenRLHF/OpenRLHF?style=social)"
+            ]
+        )
+
+        self.assertEqual(len(entries), 1)
+        self.assertEqual(problems, [])
+
+    def test_allows_case_mismatched_star_badge(self):
+        entries, problems = self.parse_entries(
+            [
+                "- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - "
+                "Unified efficient fine-tuning framework for LLMs. "
+                "![GitHub stars](https://img.shields.io/github/stars/hiyouga/llama-factory?style=social)"
+            ]
+        )
+
+        self.assertEqual(len(entries), 1)
+        self.assertEqual(problems, [])
+
     def test_reports_project_link_after_description(self):
         _, problems = self.parse_entries(
             [
