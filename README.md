@@ -523,6 +523,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Agent Skills (Google)](https://github.com/google/skills) - Official collection of Agent Skills for Google Cloud and Google developer platforms, extending AI coding agents with product and technology workflows. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/google/skills?style=social)
 - [Agent Skills (Anthropic)](https://github.com/anthropics/skills) - Official collection of Agent Skills and reference implementations for Claude Code, Claude API, and AI agents. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/anthropics/skills?style=social)
 - [Superagent](https://github.com/pungme/superagent-desktop) - macOS desktop app giving Claude Code and Codex a real browser to drive, an iOS Simulator to install and screenshot apps in, and a phone companion app for remote monitoring. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/pungme/superagent-desktop?style=social)
+- [BrowserSkill (Tencent)](https://github.com/Tencent/BrowserSkill) - CLI and extension enabling AI coding agents to control authenticated browser sessions in background tabs without interrupting user workflows. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Tencent/BrowserSkill?style=social)
 
 #### Prompt Engineering & Structured Outputs
 
@@ -1251,6 +1252,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Buzz](https://github.com/block/buzz) - Self-hostable workspace and Nostr relay implementation where human team members and AI agents collaborate in shared channels, canvases, and workflows. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/block/buzz?style=social)
 - [Macro](https://github.com/macro-inc/macro) - Unified team workspace combining email, messaging, documents, tasks, CRM, and AI agents with shared memory. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/macro-inc/macro?style=social)
 - [ODS](https://github.com/Osmantic/ODS) - Apache-2.0-licensed self-hosted local AI stack for inference, chat, voice, agents, workflows, and RAG. ![GitHub stars](https://img.shields.io/github/stars/Osmantic/ODS?style=social)
+- [Octop (Tencent Cloud)](https://github.com/TencentCloud/Octop) - Self-hosted multi-user, multi-agent AI assistant platform featuring long-term memory, MCP tool integration, and sandboxed execution. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/TencentCloud/Octop?style=social)
 
 #### Desktop & Mobile AI Apps
 
