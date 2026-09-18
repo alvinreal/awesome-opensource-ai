@@ -1253,6 +1253,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Macro](https://github.com/macro-inc/macro) - Unified team workspace combining email, messaging, documents, tasks, CRM, and AI agents with shared memory. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/macro-inc/macro?style=social)
 - [ODS](https://github.com/Osmantic/ODS) - Apache-2.0-licensed self-hosted local AI stack for inference, chat, voice, agents, workflows, and RAG. ![GitHub stars](https://img.shields.io/github/stars/Osmantic/ODS?style=social)
 - [Octop (Tencent Cloud)](https://github.com/TencentCloud/Octop) - Self-hosted multi-user, multi-agent AI assistant platform featuring long-term memory, MCP tool integration, and sandboxed execution. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/TencentCloud/Octop?style=social)
+- [ENZO](https://github.com/theguysudo/ENZO) - Self-hosted AI workspace combining agents, skills, and tools (Gmail, Calendar, file conversion) that runs entirely on your own provider API keys, sealed in the browser so the server stores none of them. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/theguysudo/ENZO?style=social)
 
 #### Desktop & Mobile AI Apps
 
