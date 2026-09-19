@@ -1370,6 +1370,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [CAD Skills](https://github.com/earthtojake/text-to-cad) - A library of modular agent skills for generating, inspecting, slicing, and exporting CAD and robot-description geometry (STEP, STL, URDF, SDF). MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/earthtojake/text-to-cad?style=social)
 - [ADHD](https://github.com/UditAkhourii/adhd) - Tree-of-thought divergent reasoning skill for AI agents that spawns parallel cognitive frames to prune traps and score surviving paths. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/UditAkhourii/adhd?style=social)
 - [MCP Lens](https://github.com/labmimors/dsh-mcp-lens) - DeepSeek Harness plugin that exposes configured remote MCP tools through a search interface and an explicit server/tool call interface with exact input schemas. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/labmimors/dsh-mcp-lens?style=social)
+- [jev-use](https://github.com/shitianfang/jev-use) - Claude Code, Codex and pi plugin that routes agent-loop steps needing no text output to a typed judgment model, returning anything it should not decide to the LLM. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/shitianfang/jev-use?style=social)
 
 #### UI Components & Chat Libraries
 
