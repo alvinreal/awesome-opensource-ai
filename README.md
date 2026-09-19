@@ -524,6 +524,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Agent Skills (Anthropic)](https://github.com/anthropics/skills) - Official collection of Agent Skills and reference implementations for Claude Code, Claude API, and AI agents. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/anthropics/skills?style=social)
 - [Superagent](https://github.com/pungme/superagent-desktop) - macOS desktop app giving Claude Code and Codex a real browser to drive, an iOS Simulator to install and screenshot apps in, and a phone companion app for remote monitoring. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/pungme/superagent-desktop?style=social)
 - [BrowserSkill (Tencent)](https://github.com/Tencent/BrowserSkill) - CLI and extension enabling AI coding agents to control authenticated browser sessions in background tabs without interrupting user workflows. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Tencent/BrowserSkill?style=social)
+- [Ordewell](https://github.com/ordewell/ordewell) - Terminal CLI and TUI that turns one goal into an ordered, editable plan of coding agent tasks, each carrying its own runner (Claude Code, Codex, OpenCode), model and mode, where a task counts as done only when its completion marker appears in that runner's output. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/ordewell/ordewell?style=social)
 
 #### Prompt Engineering & Structured Outputs
 
