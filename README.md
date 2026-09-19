@@ -285,6 +285,8 @@ Good entries should have a clear reason to exist. They should help people build,
 - [llmfit](https://github.com/AlexsJones/llmfit) - Terminal tool and TUI that right-sizes LLM models to hardware specs and scores local compatibility across GPU, CPU, and RAM. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/AlexsJones/llmfit?style=social)
 - [Needle](https://github.com/cactus-compute/needle) - Compact 45M-parameter foundation model and 14MB inference engine for tool calling and structured extraction on tiny devices. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/cactus-compute/needle?style=social)
 - [Colibri](https://github.com/JustVugg/colibri) - Zero-dependency C inference engine that runs large Mixture-of-Experts models locally by streaming experts across disk, RAM, and VRAM. ![GitHub stars](https://img.shields.io/github/stars/JustVugg/colibri?style=social)
+- [Claude Code Local](https://github.com/nicedreamzapp/claude-code-local) - MLX-native server that speaks the Anthropic Messages API so the unmodified Claude Code CLI runs against local models on Apple Silicon, with parsing for local models' tool-call formats. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/nicedreamzapp/claude-code-local?style=social)
+- [nemotron-omni-mlx](https://github.com/nicedreamzapp/nemotron-omni-mlx) - Pure MLX runtime for the vision and audio towers of NVIDIA Nemotron 3 Nano Omni on Apple Silicon, tested for parity against NVIDIA's PyTorch reference. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/nicedreamzapp/nemotron-omni-mlx?style=social)
 
 #### High-performance Serving & API Servers
 
