@@ -480,6 +480,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [book-to-skill](https://github.com/virgiliojr94/book-to-skill) - CLI tool that distills technical books, documents, and reference materials into structured, on-demand agent skills. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/virgiliojr94/book-to-skill?style=social)
 - [AI Memory](https://github.com/akitaonrails/ai-memory) - Rust-native long-term memory server and MCP client for agent coding CLIs, featuring Karpathy-style LLM wiki compilation, FTS5 recall, and cross-agent session handoffs. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/akitaonrails/ai-memory?style=social)
 - [Busabase](https://github.com/busabase/busabase) - Open-source database and workspace that gives AI agents structured data, durable knowledge, docs, skills, and apps through MCP, OpenAPI, CLI, and coding-agent skills; material writes can remain reviewable ChangeRequests before becoming canonical. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/busabase/busabase?style=social)
+- [ThreadShelf](https://github.com/ChrystianSchutz/ThreadShelf) - Local-first archive and semantic search for AI conversation histories across multiple providers, with local embeddings, LanceDB storage, complete thread retrieval, HTTP and CLI access, and a stdio MCP server. ![GitHub stars](https://img.shields.io/github/stars/ChrystianSchutz/ThreadShelf?style=social)
 
 #### Autonomous Coding Agents
 
