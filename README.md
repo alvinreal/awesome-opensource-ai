@@ -1282,6 +1282,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Off Grid AI Desktop](https://github.com/off-grid-ai/OGAD) - Local-first macOS AI app that runs LLM chat, image generation, voice transcription, and personal memory/RAG fully on-device via llama.cpp - nothing leaves the machine. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/off-grid-ai/OGAD?style=social)
 - [Clips Kitty](https://github.com/ColinGPT9/clips-studio) - Local-first Windows desktop app that turns long videos and livestreams into vertical clips, using faster-whisper for word-level captions and a local LLM through Ollama to pick highlights. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/ColinGPT9/clips-studio?style=social)
 - [Voz](https://github.com/quietbin/voz-mac) - macOS dictation app that types transcribed speech at the cursor in any application, with whisper.cpp and the Whisper model bundled so it runs offline with no setup. Also records meetings on-device and generates summaries through a bundled llama.cpp. GPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/quietbin/voz-mac?style=social)
+- [Codex-X](https://github.com/yynxxxxx/Codex-X) - Cross-platform desktop management application for OpenAI Codex Desktop and CLI with provider switching, local failover routing, session history management, MCP configuration, and token usage analytics. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/yynxxxxx/Codex-X?style=social)
 
 #### Agent & Voice Infrastructure
 
