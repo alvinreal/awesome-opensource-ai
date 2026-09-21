@@ -740,6 +740,7 @@ Good entries should have a clear reason to exist. They should help people build,
 ---
 
 ## 6. Generative Media Tools
+- [MagicKit](https://github.com/kaketiti/magickit) - Free open-source AI toolbox: FLUX image generation, AI writing, video gen. MIT license, no sign-up.
 
 > Open-source models and applications for image, video, audio, and 3D generation and editing.
 
