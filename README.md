@@ -863,6 +863,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [RLinf](https://github.com/RLinf/RLinf) - Scalable open-source RL infrastructure for post-training foundation models via reinforcement learning. Features M2Flow paradigm for embodied AI and agentic workflows with real-world robotics integrations. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/RLinf/RLinf?style=social)
 - [dstack](https://github.com/dstackai/dstack) - Vendor-agnostic orchestration for training, inference and agentic workloads across NVIDIA, AMD, TPU, and Tenstorrent on clouds, Kubernetes, and bare metal. MPL-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/dstackai/dstack?style=social)
 - [Streaming (MosaicML)](https://github.com/mosaicml/streaming) - High-performance data streaming library for efficient neural network training. Streams training data from cloud storage (S3, GCS, Azure) with local caching and deterministic shuffling. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/mosaicml/streaming?style=social)
+- [Higgsfield](https://github.com/higgsfield-ai/higgsfield) - Fault-tolerant GPU orchestration and distributed ML framework for training models at billion- to trillion-parameter scale. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/higgsfield-ai/higgsfield?style=social)
 
 #### Model Quantization & Optimization
 
@@ -1386,6 +1387,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Deep Chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website. Supports OpenAI, direct API services, and custom endpoints. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/OvidijusParsiunas/deep-chat?style=social)
 - [Markstream](https://github.com/Simon-He95/markstream-vue) - Multi-framework streaming Markdown renderer for AI chat interfaces, with incomplete Markdown handling, Mermaid, KaTeX, Shiki/Monaco code blocks, SSR, and packages for Vue, React, Svelte, and Angular. ![GitHub stars](https://img.shields.io/github/stars/Simon-He95/markstream-vue?style=social)
 - [CopilotKit](https://github.com/CopilotKit/CopilotKit) - Best-in-class SDK for building full-stack agentic applications, Generative UI, and chat applications. Creators of the AG-UI Protocol adopted by Google, LangChain, AWS, and Microsoft. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=social)
+- [json-render](https://github.com/vercel-labs/json-render) - Generative UI framework for rendering dynamic, type-safe interfaces from structured JSON streamed by LLMs and agents. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/vercel-labs/json-render?style=social)
 
 #### CLI Tools & API Clients
 
