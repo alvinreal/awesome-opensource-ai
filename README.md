@@ -1016,6 +1016,7 @@ Good entries should have a clear reason to exist. They should help people build,
 #### High-quality Open Datasets & Data Tools
 
 - [Hugging Face Datasets](https://github.com/huggingface/datasets) - Largest open repository of datasets. ![GitHub stars](https://img.shields.io/github/stars/huggingface/datasets?style=social)
+- [OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) - Open corpus of the instructions and tool schemas shipping AI agents are actually sent: 119 artifacts from 43 products, 44 of them recorded off the wire with the command that reproduces each, every file marked captured or reported. AGPL-3.0. ![GitHub stars](https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaPromptVault?style=social)
 - [FineWeb / FineWeb-2 (Hugging Face)](https://huggingface.co/datasets/HuggingFaceFW/fineweb) - Curated 15T+ token web dataset for pre-training.
 - [OSWorld](https://github.com/xlang-ai/OSWorld) - Multimodal agent benchmark dataset. ![GitHub stars](https://img.shields.io/github/stars/xlang-ai/OSWorld?style=social)
 
