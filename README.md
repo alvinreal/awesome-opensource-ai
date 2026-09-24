@@ -1076,6 +1076,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 - [Responsible AI Toolbox](https://github.com/microsoft/responsible-ai-toolbox) - Suite of tools providing model and data exploration, assessment interfaces and libraries for understanding AI systems. Enables developers to develop and monitor AI more responsibly with better data-driven actions. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/microsoft/responsible-ai-toolbox?style=social)
 - [Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) - Security and compliance toolkit for autonomous agents with policy enforcement, zero-trust identity, and sandboxed execution to reduce operational risk. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/microsoft/agent-governance-toolkit?style=social)
+- [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) - Open database of real-world AI agent security incidents, with each sourced record flagged for confirmed harm, AI involvement and kind, plus JSON/CSV exports. CC BY 4.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/Continuum-AI-Corp/Orca-AI-Incident-Archive?style=social)
 
 #### Privacy-Preserving AI
 
