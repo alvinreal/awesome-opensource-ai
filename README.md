@@ -287,6 +287,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Colibri](https://github.com/JustVugg/colibri) - Zero-dependency C inference engine that runs large Mixture-of-Experts models locally by streaming experts across disk, RAM, and VRAM. ![GitHub stars](https://img.shields.io/github/stars/JustVugg/colibri?style=social)
 - [Claude Code Local](https://github.com/nicedreamzapp/claude-code-local) - MLX-native server that speaks the Anthropic Messages API so the unmodified Claude Code CLI runs against local models on Apple Silicon, with parsing for local models' tool-call formats. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/nicedreamzapp/claude-code-local?style=social)
 - [nemotron-omni-mlx](https://github.com/nicedreamzapp/nemotron-omni-mlx) - Pure MLX runtime for the vision and audio towers of NVIDIA Nemotron 3 Nano Omni on Apple Silicon, tested for parity against NVIDIA's PyTorch reference. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/nicedreamzapp/nemotron-omni-mlx?style=social)
+- [Magnitude](https://github.com/magnitudedev/magnitude) - Hardware-aware local inference engine that profiles host hardware, recommends suitable open models, and tunes execution across Apple Silicon, NVIDIA, AMD, and CPU. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/magnitudedev/magnitude?style=social)
 
 #### High-performance Serving & API Servers
 
@@ -447,6 +448,8 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Ruflo](https://github.com/ruvnet/ruflo) - Multi-agent orchestration and meta-harness for coordinating agent swarms with shared memory, licensed under the MIT license. ![GitHub stars](https://img.shields.io/github/stars/ruvnet/ruflo?style=social)
 - [munder-difflin](https://github.com/chaitanyagiri/munder-difflin) - MIT-licensed desktop multi-agent workspace and harness for coordinating local coding agents across multiple LLM backends. ![GitHub stars](https://img.shields.io/github/stars/chaitanyagiri/munder-difflin?style=social)
 - [fractal](https://github.com/plasma-ai/fractal) - Hierarchical coding-agent orchestrator with recursive delegation, per-node Git worktrees, configurable limits, persistent SQLite state, and live terminal monitoring and steering. ![GitHub stars](https://img.shields.io/github/stars/plasma-ai/fractal?style=social)
+- [AX (Google)](https://github.com/google/ax) - Declarative, high-throughput agent orchestration runtime for sandboxed agent workloads at cluster scale. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/google/ax?style=social)
+- [Strands Agent Harness](https://github.com/strands-agents/harness-sdk) - Production SDK and harness runtime for building, monitoring, and controlling end-to-end AI agent lifecycles in Python and TypeScript. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/strands-agents/harness-sdk?style=social)
 
 #### Agent Protocols & Standards
 
