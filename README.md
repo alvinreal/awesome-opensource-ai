@@ -1248,6 +1248,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [LifeOS](https://github.com/danielmiessler/LifeOS) - General-purpose personal AI harness and assistant framework with persistent memory, custom skills, and goal tracking. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/danielmiessler/LifeOS?style=social)
 - [ThoughtDAG](https://github.com/chenxiachan/thoughtdag) - Local-first visual LLM workspace where graph edges determine the context sent to the model, with branching, merging, document extraction, and Ollama or OpenAI-compatible endpoint support. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/chenxiachan/thoughtdag?style=social)
 - [Thursday](https://github.com/cgoinglove/thursday) - Voice assistant started with `npx thursday-agent` that runs on the user's computer: an OpenAI GPT-Live call stays in conversation while background bots on OpenAI, Anthropic, Google or xAI models work with a shell, a browser, Agent Skills and MCP servers, and calls, memory and files stay in `~/.thursday`. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/cgoinglove/thursday?style=social)
+- [Arelis](https://github.com/sAnct1x/Arelis) - Windows desktop research assistant that runs a local model through Ollama, searches the web, drives its own browser, and asks for approval before writing files or sending messages. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/sAnct1x/Arelis?style=social)
 
 #### Full Self-hosted AI Platforms
 
