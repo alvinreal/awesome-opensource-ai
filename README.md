@@ -1382,6 +1382,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [ADHD](https://github.com/UditAkhourii/adhd) - Tree-of-thought divergent reasoning skill for AI agents that spawns parallel cognitive frames to prune traps and score surviving paths. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/UditAkhourii/adhd?style=social)
 - [MCP Lens](https://github.com/labmimors/dsh-mcp-lens) - DeepSeek Harness plugin that exposes configured remote MCP tools through a search interface and an explicit server/tool call interface with exact input schemas. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/labmimors/dsh-mcp-lens?style=social)
 - [jev-use](https://github.com/shitianfang/jev-use) - Claude Code, Codex and pi plugin that routes agent-loop steps needing no text output to a typed judgment model, returning anything it should not decide to the LLM. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/shitianfang/jev-use?style=social)
+- [ThreadFox Lite](https://github.com/amflimited/threadfox-lite) - MCP server and agent skill for Claude Code, Codex and Claude Desktop that read Reddit through the user's own signed-in browser: subreddit rules, community search, account standing and post status, read-only. MIT license. ![GitHub stars](https://img.shields.io/github/stars/amflimited/threadfox-lite?style=social)
 
 #### UI Components & Chat Libraries
 
