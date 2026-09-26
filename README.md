@@ -237,7 +237,6 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Multimodal & Vision-Language Codebases
 
-- [openai/CLIP](https://github.com/openai/CLIP) - Canonical OpenAI contrastive vision-language model codebase with pretrained checkpoints and practical reference implementation for image-text retrieval and classification. ![GitHub stars](https://img.shields.io/github/stars/openai/CLIP?style=social)
 - [OpenCLIP](https://github.com/mlfoundations/open_clip) - Open implementation of CLIP with training code, pretrained models, and zero-shot evaluation tooling. ![GitHub stars](https://img.shields.io/github/stars/mlfoundations/open_clip?style=social)
 - [OmniParser](https://github.com/microsoft/OmniParser) - Vision-based GUI parsing model and tooling for computer-use agents. ![GitHub stars](https://img.shields.io/github/stars/microsoft/OmniParser?style=social)
 - [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - Compact vision-language model family with edge-focused deployment examples and strong OCR-oriented use cases. ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social)
@@ -724,7 +723,6 @@ Good entries should have a clear reason to exist. They should help people build,
 - [LiteParse](https://github.com/run-llama/liteparse) - Lightweight document parsing toolkit for AI and RAG pipelines with PDF/OCR extraction and clean preprocessing defaults. ![GitHub stars](https://img.shields.io/github/stars/run-llama/liteparse?style=social)
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Large-scale OCR suite with detection, recognition, and layout analysis, used widely for document digitization and downstream RAG pipelines. ![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=social)
 - [DocETL (UC Berkeley)](https://github.com/ucbepic/docetl) - Agentic LLM-powered data processing and ETL system for complex document processing. Query rewriting and evaluation for unstructured data analysis with 80% higher accuracy than baselines. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/ucbepic/docetl?style=social)
-- [olmOCR (Allen Institute for AI)](https://github.com/allenai/olmocr) - Toolkit for reconstructing and linearizing PDF documents into clean text optimized for LLM datasets, training, and RAG pipelines. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/allenai/olmocr?style=social)
 
 #### LLM Application Frameworks
 
@@ -782,7 +780,6 @@ Good entries should have a clear reason to exist. They should help people build,
 - [ACE-Step 1.5](https://github.com/ace-step/ACE-Step-1.5) - Local-first music generation model with broad hardware support across Mac, AMD, Intel, and CUDA devices. ![GitHub stars](https://img.shields.io/github/stars/ace-step/ACE-Step-1.5?style=social)
 - [Magenta RealTime 2](https://github.com/magenta/magenta-realtime) - Open-weights live music model for streaming generation and real-time interaction. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/magenta/magenta-realtime?style=social)
 - [YuE](https://github.com/multimodal-art-projection/YuE) - Full-song music generation foundation model with symbolic melody-and-chord planning, acoustic synthesis, zero-shot covers, and song editing. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/multimodal-art-projection/YuE?style=social)
-- [Amphion](https://github.com/open-mmlab/Amphion) - Comprehensive toolkit for Audio, Music, and Speech Generation (9.7K stars). ![GitHub stars](https://img.shields.io/github/stars/open-mmlab/Amphion?style=social)
 - [Stable Audio Tools](https://github.com/Stability-AI/stable-audio-tools) - Stability AI's open-source audio and music generative models. Latent diffusion model for generating audio conditioned on metadata and timing, providing faster inference times and creative control for sound effects and music production. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Stability-AI/stable-audio-tools?style=social)
 - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - Few-shot voice cloning with just 1 minute of voice data. Combines GPT and SoVITS architectures for high-quality TTS with cross-lingual support and emotional expression. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/RVC-Boss/GPT-SoVITS?style=social)
 - [Supertonic](https://github.com/supertone-inc/supertonic) - Lightning-fast, on-device, multilingual text-to-speech system running natively via ONNX. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/supertone-inc/supertonic?style=social)
@@ -815,7 +812,6 @@ Good entries should have a clear reason to exist. They should help people build,
 - [ms-swift](https://github.com/modelscope/ms-swift) - Unified training framework for 600+ LLMs and 300+ MLLMs with CPT/SFT/DPO/GRPO (AAAI 2025). ![GitHub stars](https://img.shields.io/github/stars/modelscope/ms-swift?style=social)
 - [Unsloth](https://github.com/unslothai/unsloth) - 2× faster, 70% less memory fine-tuning. ![GitHub stars](https://img.shields.io/github/stars/unslothai/unsloth?style=social)
 - [LitGPT](https://github.com/Lightning-AI/litgpt) - Clean from-scratch implementations of 20+ LLMs. ![GitHub stars](https://img.shields.io/github/stars/Lightning-AI/litgpt?style=social)
-- [LLM Foundry](https://github.com/mosaicml/llm-foundry) - Databricks' training framework for composable LLM training with StreamingDataset and Composer. ![GitHub stars](https://img.shields.io/github/stars/mosaicml/llm-foundry?style=social)
 - [torchtune](https://github.com/pytorch/torchtune) - PyTorch-native library for post-training, fine-tuning, and experimentation with LLMs. ![GitHub stars](https://img.shields.io/github/stars/pytorch/torchtune?style=social)
 - [kohya_ss](https://github.com/bmaltais/kohya_ss) - Gradio-based GUI and CLI for training Stable Diffusion models (LoRA, Dreambooth, fine-tuning, SDXL). Provides accessible interface to Kohya's powerful training scripts. ![GitHub stars](https://img.shields.io/github/stars/bmaltais/kohya_ss?style=social)
 - [TRL (Transformers Reinforcement Learning)](https://github.com/huggingface/trl) - Official library for RLHF, SFT, DPO, ORPO. ![GitHub stars](https://img.shields.io/github/stars/huggingface/trl?style=social)
