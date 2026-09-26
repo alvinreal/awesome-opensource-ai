@@ -449,6 +449,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [fractal](https://github.com/plasma-ai/fractal) - Hierarchical coding-agent orchestrator with recursive delegation, per-node Git worktrees, configurable limits, persistent SQLite state, and live terminal monitoring and steering. ![GitHub stars](https://img.shields.io/github/stars/plasma-ai/fractal?style=social)
 - [AX (Google)](https://github.com/google/ax) - Declarative, high-throughput agent orchestration runtime for sandboxed agent workloads at cluster scale. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/google/ax?style=social)
 - [Strands Agent Harness](https://github.com/strands-agents/harness-sdk) - Production SDK and harness runtime for building, monitoring, and controlling end-to-end AI agent lifecycles in Python and TypeScript. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/strands-agents/harness-sdk?style=social)
+- [StarNet](https://github.com/androoAGI/starnet) - Local-first desktop multi-agent harness with persistent workspaces, capability-scoped tools, agent memory, budgets, schedules, and live runtime visualization. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/androoAGI/starnet?style=social)
 
 #### Agent Protocols & Standards
 
