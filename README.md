@@ -1266,6 +1266,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [ODS](https://github.com/Osmantic/ODS) - Apache-2.0-licensed self-hosted local AI stack for inference, chat, voice, agents, workflows, and RAG. ![GitHub stars](https://img.shields.io/github/stars/Osmantic/ODS?style=social)
 - [Octop (Tencent Cloud)](https://github.com/TencentCloud/Octop) - Self-hosted multi-user, multi-agent AI assistant platform featuring long-term memory, MCP tool integration, and sandboxed execution. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/TencentCloud/Octop?style=social)
 - [ENZO](https://github.com/theguysudo/ENZO) - Self-hosted AI workspace combining agents, skills, and tools (Gmail, Calendar, file conversion) that runs entirely on your own provider API keys, sealed in the browser so the server stores none of them. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/theguysudo/ENZO?style=social)
+- [OpenBot](https://github.com/regnull/openbot) - Self-hosted platform for running a team of persistent AI bots that use tools and MCP servers, keep long-term memory, hand work to each other in shared threads, and can pause to ask a human for approval. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/regnull/openbot?style=social)
 
 #### Desktop & Mobile AI Apps
 
