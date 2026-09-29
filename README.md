@@ -450,6 +450,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [AX (Google)](https://github.com/google/ax) - Declarative, high-throughput agent orchestration runtime for sandboxed agent workloads at cluster scale. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/google/ax?style=social)
 - [Strands Agent Harness](https://github.com/strands-agents/harness-sdk) - Production SDK and harness runtime for building, monitoring, and controlling end-to-end AI agent lifecycles in Python and TypeScript. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/strands-agents/harness-sdk?style=social)
 - [StarNet](https://github.com/androoAGI/starnet) - Local-first desktop multi-agent harness with persistent workspaces, capability-scoped tools, agent memory, budgets, schedules, and live runtime visualization. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/androoAGI/starnet?style=social)
+- [Raven](https://github.com/EverMind-AI/Raven) - Multi-agent harness whose host agent plans complex tasks as DAGs and delegates them to built-in research, coding, design, and on-call agents or to third-party agents over ACP, CLI, or OpenAI-compatible APIs, with cross-session memory and an experimental self-evolution loop that installs only verified changes. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/EverMind-AI/Raven?style=social)
 
 #### Agent Protocols & Standards
 
