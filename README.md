@@ -234,6 +234,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Mamba](https://github.com/state-spaces/mamba) - State Space Model implementation with pretrained checkpoints, architecture code, and research tooling for efficient long-sequence modeling. ![GitHub stars](https://img.shields.io/github/stars/state-spaces/mamba?style=social)
 - [GPT-NeoX](https://github.com/EleutherAI/gpt-neox) - Large-scale language model training codebase from EleutherAI with distributed training support and historical open-model importance. ![GitHub stars](https://img.shields.io/github/stars/EleutherAI/gpt-neox?style=social)
 - [GLM-5](https://github.com/zai-org/GLM-5) - Open-source mixture-of-experts language model family optimized for long-horizon planning, agentic tasks, and coding. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/zai-org/GLM-5?style=social)
+- [Bonsai Demo](https://github.com/PrismML-Eng/Bonsai-demo) - Local runtime and model package for the Bonsai ternary reasoning model family, with GGUF and MLX support for on-device text, vision, and tool-calling workloads. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/PrismML-Eng/Bonsai-demo?style=social)
 
 #### Multimodal & Vision-Language Codebases
 
@@ -451,6 +452,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [AX (Google)](https://github.com/google/ax) - Declarative, high-throughput agent orchestration runtime for sandboxed agent workloads at cluster scale. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/google/ax?style=social)
 - [Strands Agent Harness](https://github.com/strands-agents/harness-sdk) - Production SDK and harness runtime for building, monitoring, and controlling end-to-end AI agent lifecycles in Python and TypeScript. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/strands-agents/harness-sdk?style=social)
 - [StarNet](https://github.com/androoAGI/starnet) - Local-first desktop multi-agent harness with persistent workspaces, capability-scoped tools, agent memory, budgets, schedules, and live runtime visualization. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/androoAGI/starnet?style=social)
+- [OpenRig](https://github.com/mvschwarz/openrig) - Local multi-agent harness for defining persistent Claude Code and Codex teams, with YAML topologies, tmux sessions, durable state, and a shared terminal UI. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/mvschwarz/openrig?style=social)
 - [Raven](https://github.com/EverMind-AI/Raven) - Multi-agent harness whose host agent plans complex tasks as DAGs and delegates them to built-in research, coding, design, and on-call agents or to third-party agents over ACP, CLI, or OpenAI-compatible APIs, with cross-session memory and an experimental self-evolution loop that installs only verified changes. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/EverMind-AI/Raven?style=social)
 
 #### Agent Protocols & Standards
@@ -799,6 +801,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [LichtFeld-Studio](https://github.com/MrNeRF/LichtFeld-Studio) - Native application for training, editing, and exporting 3D Gaussian Splatting scenes with MCMC optimization and timelapse generation. GPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/MrNeRF/LichtFeld-Studio?style=social)
 - [OpenSplat](https://github.com/pierotofy/OpenSplat) - Production-grade, portable implementation of 3D Gaussian Splatting with CPU/GPU support for Windows, Mac, and Linux. Creates 3D scenes from camera poses and sparse points. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/pierotofy/OpenSplat?style=social)
 - [TRELLIS.2](https://github.com/microsoft/TRELLIS.2) - 3D generative model for high-fidelity image-to-3D generation utilizing compact structured latents. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/microsoft/TRELLIS.2?style=social)
+- [MCP for Blender](https://github.com/ahujasid/mcp-for-blender) - Blender add-on and MCP server that let LLM agents create and manipulate 3D scenes through structured tools. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/ahujasid/mcp-for-blender?style=social)
 
 ---
 
