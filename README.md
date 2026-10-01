@@ -1003,6 +1003,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [SWE-rebench (Nebius)](https://huggingface.co/datasets/nebius/SWE-rebench) - Continuously updated benchmark with 21,000+ real-world SWE tasks for evaluating agentic LLMs. Decontaminated, mined from GitHub.
 - [MLE-bench (OpenAI)](https://github.com/openai/mle-bench) - Benchmark for measuring how well AI agents perform at machine learning engineering. Evaluates agents on 75 Kaggle competitions covering diverse ML tasks. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/openai/mle-bench?style=social)
 - [PinchBench](https://github.com/pinchbench/skill) - Benchmarking system for evaluating LLM models as OpenClaw coding agents. Built with Rust by the kilo.ai team. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/pinchbench/skill?style=social)
+- [ImageBench V1](https://imagebench.ai/imagebench-v1) - Prompt-adherence leaderboard for text-to-image models. Same prompts run across 60+ frontier models (Flux 2 Max, Nano Banana Pro, Seedream V4, Reve 2.1, Imagen 4 Ultra, Qwen Image 2.0 Pro) and judged by a VLM panel. [Public methodology](https://imagebench.ai/imagebench-v1/methodology), [head-to-head compare pages](https://imagebench.ai/imagebench-v1/compare), and the full [prompt+judgment dataset on Hugging Face](https://huggingface.co/datasets/dh7/imagebench) (CC0).
 
 #### Evaluation Frameworks
 
