@@ -586,6 +586,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) - Self-hosted sales CRM that uses autonomous AI agents, WhatsApp integration, tenant RAG, and MCP tooling for chat-based sales workflows. ![GitHub stars](https://img.shields.io/github/stars/melgarafael/DeskcommCRM?style=social)
 - [OpenResearch](https://github.com/alphaXiv/OpenResearch) - Local-first workspace and harness for turning coding agents into autonomous research agents for literature review, hypothesis generation, and experiments. ![GitHub stars](https://img.shields.io/github/stars/alphaXiv/OpenResearch?style=social)
 - [call4me](https://github.com/skeptrunedev/call4me) - Voice agent and remote MCP server that places phone calls to businesses for a coding agent user, navigating phone menus and returning the transcript and outcome. ![GitHub stars](https://img.shields.io/github/stars/skeptrunedev/call4me?style=social)
+- [AdsTurbo Creative MCP](https://github.com/AdsTurbo/adsturbo-creative-mcp) - Local stdio MCP server and CLI that turns a product page or reference ad into structured video ad briefs, hook variants, UGC scripts and storyboards, with no API key and no network calls. ![GitHub stars](https://img.shields.io/github/stars/AdsTurbo/adsturbo-creative-mcp?style=social)
 
 #### Agent Memory & State
 
