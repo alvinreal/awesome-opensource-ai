@@ -404,6 +404,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Computer (Cloudflare)](https://github.com/cloudflare/computer) - Virtual filesystem inside a Durable Object providing sandboxed execution environments for AI agents. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/cloudflare/computer?style=social)
 - [Embabel](https://github.com/embabel/embabel-agent) - Agent framework for the JVM written in Kotlin with dynamic goal-oriented planning and Spring Boot integration. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/embabel/embabel-agent?style=social)
 - [Ouroboros](https://github.com/razzant/ouroboros) - Self-hosted general-purpose agent with durable identity and memory, specialist subagent coordination, and reviewed changes to its own implementation. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/razzant/ouroboros?style=social)
+- [OpenAmer](https://github.com/openamer/openamer) - Open-source Windows-native agent that runs its cognition in-process (five native tools: think, learn, remember, trigger, heartbeat) and operates the real desktop locally — filesystem, terminal, GUI and browser over the Chrome DevTools Protocol. A single 10-subsystem heartbeat replaces 84 cron entries, and an A2A mesh routes work peer-to-peer between instances. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/openamer/openamer?style=social)
 
 #### Multi-Agent Orchestration
 
