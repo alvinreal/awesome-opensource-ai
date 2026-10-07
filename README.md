@@ -74,6 +74,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [GGML](https://github.com/ggml-org/ggml) - Tensor library for machine learning. The foundational C/C++ library powering llama.cpp and many on-device inference engines. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/ggml-org/ggml?style=social)
 - [MLX](https://github.com/ml-explore/mlx) - Array framework for machine learning on Apple silicon. Efficient unified memory design with NumPy-like API, automatic differentiation, and multi-device support. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/ml-explore/mlx?style=social)
 - [notorch](https://github.com/ariannamethod/notorch) - Neural network framework in pure C with reverse-mode automatic differentiation, model training, and GGUF inference, without a Python runtime. ![GitHub stars](https://img.shields.io/github/stars/ariannamethod/notorch?style=social)
+- [MemTether](https://github.com/MemTether/MemTether) - **[MemTether](https://github.com/MemTether/MemTether)** — Cross-client AI memory hub. Tamper-evident evidence chain, supersession chains, 23 client adapters. 334 tests. Apache-2.0.
 
 #### High-Performance Compute Libraries
 
