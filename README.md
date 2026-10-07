@@ -594,6 +594,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [OpenResearch](https://github.com/alphaXiv/OpenResearch) - Local-first workspace and harness for turning coding agents into autonomous research agents for literature review, hypothesis generation, and experiments. ![GitHub stars](https://img.shields.io/github/stars/alphaXiv/OpenResearch?style=social)
 - [call4me](https://github.com/skeptrunedev/call4me) - Voice agent and remote MCP server that places phone calls to businesses for a coding agent user, navigating phone menus and returning the transcript and outcome. ![GitHub stars](https://img.shields.io/github/stars/skeptrunedev/call4me?style=social)
 - [AdsTurbo Creative MCP](https://github.com/AdsTurbo/adsturbo-creative-mcp) - Local stdio MCP server and CLI that turns a product page or reference ad into structured video ad briefs, hook variants, UGC scripts and storyboards, with no API key and no network calls. ![GitHub stars](https://img.shields.io/github/stars/AdsTurbo/adsturbo-creative-mcp?style=social)
+- [Unsora MCP](https://github.com/Shipped-Studio/unsora/tree/main/apps/mcp) - Remote MCP server that lets agents generate images, video, voiceovers and music, cut long videos into short clips, and schedule or publish posts to connected social accounts, with interactive MCP Apps previews. The Express API, Next.js app and Trigger.dev workers it calls live in the same AGPL-3.0 repo. ![GitHub stars](https://img.shields.io/github/stars/Shipped-Studio/unsora?style=social)
 
 #### Agent Memory & State
 
