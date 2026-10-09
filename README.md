@@ -774,6 +774,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 - [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - Real-time face swap and one-click video deepfake with only a single image. High-quality face swapping for live video streaming and content creation. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/hacksider/Deep-Live-Cam?style=social)
 - [Faceswap](https://github.com/deepfakes/faceswap) - Open-source deep learning software for recognizing and swapping faces in pictures and videos. GPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/deepfakes/faceswap?style=social)
+- [xdfdet](https://github.com/mertkayacs/xdfdet) - Deepfake video detection with eight EfficientNet-B4 models trained on FaceForensics++, with Grad-CAM heatmaps and attention measured across eight facial regions. Code MIT licensed, model weights CC BY-NC 4.0. ![GitHub stars](https://img.shields.io/github/stars/mertkayacs/xdfdet?style=social)
 
 #### Portrait Animation
 
