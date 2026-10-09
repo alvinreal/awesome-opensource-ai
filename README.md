@@ -1358,6 +1358,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Spec Kit](https://github.com/github/spec-kit) - Toolkit and CLI for Spec-Driven Development that integrates with AI coding agents to generate structured code implementations from executable specifications. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/github/spec-kit?style=social)
 - [SpecJudge](https://github.com/JoaquinRuiz/SpecJudge) - CLI that reads a project's specification files and recommends which LLM fits the work, using a local judge model via Ollama and citing the spec fragment behind each demand level. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/JoaquinRuiz/SpecJudge?style=social)
 - [Open Code Review](https://github.com/alibaba/open-code-review) - AI-powered code review CLI tool combining deterministic analysis pipelines with LLM agents for precise, line-level feedback. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/alibaba/open-code-review?style=social)
+- [CodeOtter](https://github.com/dharmeshgurnani/CodeOtter) - Self-hosted AI pull request reviewer for GitHub, Forgejo and Gitea that scores PRs, enforces merge gates as status checks and posts inline fixes, using local GGUF models via llama.cpp or a hosted model API. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/dharmeshgurnani/CodeOtter?style=social)
 
 #### Notebooks & Interactive Computing
 
