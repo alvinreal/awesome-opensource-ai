@@ -492,6 +492,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [AI Memory](https://github.com/akitaonrails/ai-memory) - Rust-native long-term memory server and MCP client for agent coding CLIs, featuring Karpathy-style LLM wiki compilation, FTS5 recall, and cross-agent session handoffs. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/akitaonrails/ai-memory?style=social)
 - [Busabase](https://github.com/busabase/busabase) - Open-source database and workspace that gives AI agents structured data, durable knowledge, docs, skills, and apps through MCP, OpenAPI, CLI, and coding-agent skills; material writes can remain reviewable ChangeRequests before becoming canonical. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/busabase/busabase?style=social)
 - [ThreadShelf](https://github.com/ChrystianSchutz/ThreadShelf) - Local-first archive and semantic search for AI conversation histories across multiple providers, with local embeddings, LanceDB storage, complete thread retrieval, HTTP and CLI access, and a stdio MCP server. ![GitHub stars](https://img.shields.io/github/stars/ChrystianSchutz/ThreadShelf?style=social)
+- [drevon](https://github.com/csakash/drevon) - `npx drevon init` turns any directory into an AI workspace with one shared config, persistent cross-session memory, prompts and skills for Claude Code, Codex, Copilot, Cursor, Windsurf, Cline, Aider and Continue. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/csakash/drevon?style=social)
 
 #### Autonomous Coding Agents
 
