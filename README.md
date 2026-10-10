@@ -1342,6 +1342,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Garcon](https://github.com/cfal/garcon) - Browser and mobile workspace for running and steering parallel Claude Code, Codex, Cursor Agent, OpenCode, Amp, Droid, and Pi sessions, with integrated terminal, file editing, diff review, Git/PR workflows, mobile approvals, scheduling, and cross-agent transfers. GPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/cfal/garcon?style=social)
 - [screenshot-to-code](https://github.com/abi/screenshot-to-code) - MIT-licensed tool that turns screenshots, mockups, and Figma designs into frontend code. ![GitHub stars](https://img.shields.io/github/stars/abi/screenshot-to-code?style=social)
 - [Atlas](https://github.com/pacifio/atlas) - Local-first agentic development environment and source-control system that connects Git commits with agent sessions, tool calls, reasoning traces, and shared memory. ![GitHub stars](https://img.shields.io/github/stars/pacifio/atlas?style=social)
+- [Vibld](https://github.com/vibld/vibld) - Open-source AI app builder that turns a plain-English description into a React, TypeScript, and Vite repo you can self-host or publish to GitHub, Cloudflare, or Docker. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/vibld/vibld?style=social)
 
 #### AI Coding Assistants (open-source)
 
