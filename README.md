@@ -738,6 +738,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [LiteParse](https://github.com/run-llama/liteparse) - Lightweight document parsing toolkit for AI and RAG pipelines with PDF/OCR extraction and clean preprocessing defaults. ![GitHub stars](https://img.shields.io/github/stars/run-llama/liteparse?style=social)
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Large-scale OCR suite with detection, recognition, and layout analysis, used widely for document digitization and downstream RAG pipelines. ![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=social)
 - [DocETL (UC Berkeley)](https://github.com/ucbepic/docetl) - Agentic LLM-powered data processing and ETL system for complex document processing. Query rewriting and evaluation for unstructured data analysis with 80% higher accuracy than baselines. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/ucbepic/docetl?style=social)
+- [kordoc](https://github.com/chrisryugj/kordoc) - TypeScript library, CLI, and MCP server that converts Korean documents (HWP 3.x/5.x, HWPX, HWPML) as well as PDF, DOCX, XLSX, PPTX, and images to Markdown and structured data. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/chrisryugj/kordoc?style=social)
 
 #### LLM Application Frameworks
 
@@ -1218,6 +1219,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 - [OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) - Self-hosted document annotation platform for legal AI. Semantic search, contract analysis, version control, and MCP integration for building legal knowledge bases. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/Open-Source-Legal/OpenContracts?style=social)
 - [Harvey LAB](https://github.com/harveyai/harvey-labs) - Benchmark dataset and execution harness for evaluating AI agents on complex legal work across 24+ practice areas. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/harveyai/harvey-labs?style=social)
+- [Korean Law MCP](https://github.com/chrisryugj/korean-law-mcp) - MCP server and CLI for Korea's official legal database (Ministry of Government Legislation Open API) covering statutes, precedents, administrative rules, local ordinances, and treaties, with existence and content checks for legal citations in LLM output. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/chrisryugj/korean-law-mcp?style=social)
 
 #### Autonomous Driving & Robotics Simulators
 
