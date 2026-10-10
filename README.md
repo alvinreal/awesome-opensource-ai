@@ -1177,6 +1177,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [torchaudio](https://github.com/pytorch/audio) - PyTorch audio processing library. Comprehensive toolkit for audio I/O, transformations, and deep learning with support for speech recognition, TTS, and audio classification. BSD-2-Clause licensed. ![GitHub stars](https://img.shields.io/github/stars/pytorch/audio?style=social)
 - [MediaPipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform multimodal pipelines. ![GitHub stars](https://img.shields.io/github/stars/google-ai-edge/mediapipe?style=social)
 - [OpenEyes](https://github.com/mandarwagh9/openeyes) - Hardware-agnostic robot vision framework with world models for predictive intelligence on edge devices. ![GitHub stars](https://img.shields.io/github/stars/mandarwagh9/openeyes?style=social)
+- [xdfdet](https://github.com/mertkayacs/xdfdet) - Deepfake video detection with eight EfficientNet-B4 models trained on FaceForensics++, with Grad-CAM heatmaps and attention measured across eight facial regions. Code MIT licensed, model weights CC BY-NC 4.0. ![GitHub stars](https://img.shields.io/github/stars/mertkayacs/xdfdet?style=social)
 
 #### 3D Vision & Point Cloud Processing
 
