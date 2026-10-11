@@ -1373,6 +1373,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### IDE Plugins & Extensions
 
+- [Parallel Search MCP](https://github.com/parallel-web/search-mcp) - MIT-licensed client packages and a setup skill that connect coding agents to Parallel's hosted web search and page fetching service without a Parallel account or API key. ![GitHub stars](https://img.shields.io/github/stars/parallel-web/search-mcp?style=social)
 - [Archify](https://github.com/tt-a1i/archify) - Diagram-generation agent skill for Claude Code, Codex, and OpenCode that converts natural language into interactive system, workflow, sequence, data flow, and lifecycle diagrams. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/tt-a1i/archify?style=social)
 - [Graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill that maps a codebase and resource directory into an interactive knowledge graph for local query and navigation. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Graphify-Labs/graphify?style=social)
 - [llama.vim](https://github.com/ggml-org/llama.vim) - Local LLM-powered code completion plugin for Vim/Neovim using llama.cpp. Fast, privacy-first, no API key needed. ![GitHub stars](https://img.shields.io/github/stars/ggml-org/llama.vim?style=social)
