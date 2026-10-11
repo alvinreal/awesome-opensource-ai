@@ -1456,6 +1456,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Worktrunk](https://github.com/max-sixty/worktrunk) - CLI for Git worktree management and workflow automation designed for parallel AI coding-agent workflows. ![GitHub stars](https://img.shields.io/github/stars/max-sixty/worktrunk?style=social)
 - [bestax-mcp](https://github.com/allxsmith/bestax/tree/main/bestax-mcp) - Offline MCP server and Agent Skills that give coding agents the props, examples and CSS variables of Bestax, a React component library for Bulma v1. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/allxsmith/bestax?style=social)
 - [KyttoMCP](https://github.com/heyitsjakub/KyttoMCP) - Desktop app for macOS (Swift) and Windows (.NET) that shows every MCP server across Claude Desktop, Claude Code, Cursor, VS Code and Codex in one matrix, runs health checks and a tool-description safety scan, and backs up configs before writing. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/heyitsjakub/KyttoMCP?style=social)
+- [Archcore](https://github.com/archcore-ai/archcore) - Git-native context engineering and spec-driven development for AI coding agents. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/archcore-ai/archcore?style=social)
 
 #### SDKs & API Development Tools
 
