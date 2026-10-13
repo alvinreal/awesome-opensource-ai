@@ -615,6 +615,8 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Vestige](https://github.com/samvallad33/vestige) - Causal proof engine and operating system for AI agents built on Strata, an append-only signed log, with no vectors and no RAG, where every answer carries its proof as a memory id, an edge path or a receipt and a failure is traced back to the commit that caused it. AGPL 3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/samvallad33/vestige?style=social)
 
 ---
+- [Xenon](https://github.com/xianyu-sheng/Xenon) - Verifiable terminal coding agent with an append-only evidence hash chain, a single deterministic verification gate, and a manual-verification checklist for what it could not check. Multi-provider and MCP client. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/xianyu-sheng/Xenon?style=social)
+
 
 ## 5. Retrieval-Augmented Generation (RAG) & Knowledge
 
