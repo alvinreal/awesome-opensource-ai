@@ -458,6 +458,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Raven](https://github.com/EverMind-AI/Raven) - Multi-agent harness whose host agent plans complex tasks as DAGs and delegates them to built-in research, coding, design, and on-call agents or to third-party agents over ACP, CLI, or OpenAI-compatible APIs, with cross-session memory and an experimental self-evolution loop that installs only verified changes. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/EverMind-AI/Raven?style=social)
 - [5dive](https://github.com/5dive-ai/5dive) - Self-hosted CLI that runs a team of AI agents on one Linux server, each its own Linux user running Claude Code, Codex or another official agent CLI as a systemd service, sharing an org chart and a backlog. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/5dive-ai/5dive?style=social)
 - [subagent-tuner](https://github.com/Kruhlikau/subagent-tuner) - Claude Code mod that sets the model and reasoning effort of each subagent by asking the user, by task-kind recommendation, or from a saved default. ![GitHub stars](https://img.shields.io/github/stars/Kruhlikau/subagent-tuner?style=social)
+- [apowerb](https://github.com/apowerb/apowerb) - Platform to build, run and govern multi-agent systems on ADK, with RAG, Text-to-SQL, MCP tools, token quotas and per-session audit. Apache 2.0 licensed, self-hosted with Docker Compose or Helm. ![GitHub stars](https://img.shields.io/github/stars/apowerb/apowerb?style=social)
 
 #### Agent Protocols & Standards
 
