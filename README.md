@@ -1144,7 +1144,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 - [Alex](https://github.com/Alex663028/Alex-Novel-Platform) - Open-source desktop novel-writing engine and AI story scaffold with Tauri, FastAPI, SQLite, and plot-generation workflows. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Alex663028/Alex-Novel-Platform?style=social)
 - [AI Novel Writer](https://github.com/EthanYoQ/AI-Novel-Writer) - Local-first desktop workbench for long-form fiction that organizes story premises, characters, worldbuilding, chapter blueprints, drafting, review, and revision, with Ollama support and Windows/macOS releases. GPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/EthanYoQ/AI-Novel-Writer?style=social)
-- [Ozan](https://github.com/arbazsiddiqui/Ozan) - Reproducible training recipe and open weights for a Mistral-Nemo-12B creative-writing fine-tune built with QLoRA and anti-slop DPO, with GGUF quants and the lowest slop score of any 12B model measured on EQ-Bench Creative Writing v3. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/arbazsiddiqui/Ozan?style=social)
+- [Ozan](https://github.com/arbazsiddiqui/Ozan) - Reproducible training recipe and open weights for a Mistral-Nemo-12B creative-writing fine-tune built with QLoRA and anti-slop DPO, with GGUF quants and the lowest slop score among the same-size 12B models tested on EQ-Bench Creative Writing v3. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/arbazsiddiqui/Ozan?style=social)
 
 #### HR & Recruiting AI
 
