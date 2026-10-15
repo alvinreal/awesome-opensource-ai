@@ -778,6 +778,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Upscayl](https://github.com/upscayl/upscayl) - Free and open-source AI image upscaler for Linux, macOS, and Windows. Uses Real-ESRGAN and Vulkan architecture to enhance images by reconstructing high-resolution details. Cross-platform desktop app with batch processing. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/upscayl/upscayl?style=social)
 - [upres-cli](https://github.com/auroracapital/upres-cli) - Open-source (MIT) CLI and MCP server for [UpRes](https://upres.ai), an image and video upscaler with 14 public model aliases (faces, text, print, art, motion) and 8K output. ![GitHub stars](https://img.shields.io/github/stars/auroracapital/upres-cli?style=social)
 - [Krita AI Diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined AI image generation plugin for Krita. Inpaint and outpaint with optional text prompt, no tweaking required. Integrates ComfyUI backend for professional digital painting workflows. GPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/Acly/krita-ai-diffusion?style=social)
+- [ImageLoom](https://github.com/elapen/imageloom) - Local AI image studio for macOS (Windows build experimental) built on stable-diffusion.cpp, with a chat-style UI for generating, editing (instruction or brush mask), upscaling and exporting images, plus a CLI and agent skills. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/elapen/imageloom?style=social)
 
 #### Face Swap & Deepfake
 
