@@ -1024,6 +1024,7 @@ Good entries should have a clear reason to exist. They should help people build,
 #### Evaluation Frameworks
 
 - [DeepEval](https://github.com/confident-ai/deepeval) - The "Pytest for LLMs". ![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social)
+- [iFixAi](https://github.com/ifixai-ai/iFixAi) - Agent-auditing framework that runs adversarial and operational inspections against AI agents, producing scored JSON and Markdown reports for CLI, CI, and agent-plugin workflows. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/ifixai-ai/iFixAi?style=social)
 - [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) - Framework for large language model evaluations from the UK AI Security Institute. ![GitHub stars](https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai?style=social)
 - [Lighteval](https://github.com/huggingface/lighteval) - Evaluation toolkit for LLMs across multiple backends with reusable tasks, metrics, and result tracking. ![GitHub stars](https://img.shields.io/github/stars/huggingface/lighteval?style=social)
 - [Hugging Face Evaluate](https://github.com/huggingface/evaluate) - Standardized evaluation metrics. ![GitHub stars](https://img.shields.io/github/stars/huggingface/evaluate?style=social)
