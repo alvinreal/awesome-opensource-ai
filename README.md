@@ -1474,6 +1474,8 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Caprock](https://github.com/dspv/caprock) - Desktop app and local dashboard for Claude Code, Codex and OpenCode sessions: agents in tabs and split panes, token cost per repository at API list prices, plan-limit windows, loop alerts and searchable history. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/dspv/caprock?style=social)
 - [LynxPrompt](https://github.com/GeiserX/LynxPrompt) - Self-hosted web app and `lynxp` CLI that turn one set of AI coding rules into the rule files of 30 tools, among them AGENTS.md, CLAUDE.md and Cursor rules, with blueprints a team can share. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/GeiserX/LynxPrompt?style=social)
 
+- [gateway-price-check](https://github.com/happy520ai/gateway-price-check) - Zero-dependency CLI that sends one unauthenticated `GET /v1/models` to any OpenAI-compatible endpoint and classifies price disclosure into five verdicts, keeping "publishes no prices" separate from "could not be read"; includes a daily CI archive of the raw readings. ![GitHub stars](https://img.shields.io/github/stars/happy520ai/gateway-price-check?style=social)
+
 #### SDKs & API Development Tools
 
 - [Vercel AI SDK](https://github.com/vercel/ai) - Provider-agnostic TypeScript toolkit for building AI-powered applications and agents. Unified API for OpenAI, Anthropic, Google, and 20+ providers with first-class streaming, tool-calling, and structured output support. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/vercel/ai?style=social)
