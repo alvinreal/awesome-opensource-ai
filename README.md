@@ -1296,6 +1296,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [ENZO](https://github.com/theguysudo/ENZO) - Self-hosted AI workspace combining agents, skills, and tools (Gmail, Calendar, file conversion) that runs entirely on your own provider API keys, sealed in the browser so the server stores none of them. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/theguysudo/ENZO?style=social)
 - [OpenBot](https://github.com/regnull/openbot) - Self-hosted platform for running a team of persistent AI bots that use tools and MCP servers, keep long-term memory, hand work to each other in shared threads, and can pause to ask a human for approval. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/regnull/openbot?style=social)
 - [Tale](https://github.com/tale-project/tale) - MIT-licensed project workspace coordinating people and AI agents through shared tasks, manager delegation, persistent sandboxes, and human review of delivered work. ![GitHub stars](https://img.shields.io/github/stars/tale-project/tale?style=social)
+- [Bunkhouse](https://github.com/braedonsaunders/bunkhouse) - Self-hosted platform for running AI employees for small businesses, each with its own mailbox, job description, governed procedures, memory, and place on an org chart, with observable desktop, browser, and terminal sessions. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/braedonsaunders/bunkhouse?style=social)
 
 #### Desktop & Mobile AI Apps
 
