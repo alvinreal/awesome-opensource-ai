@@ -328,6 +328,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Bifrost](https://github.com/maximhq/bifrost) - LLM gateway with a unified OpenAI-compatible API across providers, routing, load balancing, fallbacks, guardrails, and observability. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social)
 - [freelm](https://github.com/shihabshahrier/freelm) - Python and TypeScript client library, with an optional local OpenAI-compatible server, that pools the free tiers of Gemini, Groq, OpenRouter, Cloudflare Workers AI and other providers with key rotation and failover. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/shihabshahrier/freelm?style=social)
 - [fitcheck](https://github.com/SIDDARTHAREDDY8/fitcheck) - Zero-dependency Python CLI that plans LLM VRAM before you serve: real per-token KV-cache math, FITS/TIGHT/OOM verdicts, max safe context, and paste-ready vLLM/llama.cpp flags. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/SIDDARTHAREDDY8/fitcheck?style=social)
+- [Weave Router](https://github.com/weave-os/router) - Self-hostable drop-in proxy for the Anthropic Messages, OpenAI Chat Completions and Gemini APIs that picks a model for each request with an on-box embedder; supports BYOK and OTLP traces and works with Claude Code, Codex, opencode and pi. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/weave-os/router?style=social)
 
 #### Additional Inference Engines
 
