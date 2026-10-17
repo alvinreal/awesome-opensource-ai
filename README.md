@@ -999,6 +999,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [DeepTeam (Confident AI)](https://github.com/confident-ai/deepteam) - Red teaming framework for LLM systems with 50+ vulnerabilities, 20+ adversarial attacks, and production-ready guardrails. Includes OWASP, NIST, and MITRE ATLAS framework mappings. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepteam?style=social)
 - [SkillSpector (NVIDIA)](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills that detects vulnerabilities, malicious patterns, and security risks. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/SkillSpector?style=social)
 - [ADR (Uber)](https://github.com/uber/ADR) - Enterprise security system for AI agents providing telemetry collection, benchmark evaluations, and threat detection. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/uber/ADR?style=social)
+- [SafetyCard](https://github.com/safetycard/safetycard) - Safety-check MCP servers and AI agents against the OWASP agentic Top 10, and get the safest setup to run them. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/safetycard/safetycard?style=social)
 
 ---
 
