@@ -1490,6 +1490,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [IBM MCP Context Forge](https://github.com/IBM/mcp-context-forge) - Gateway and registry for MCP/A2A/REST APIs with unified discovery, routing, and guardrails for production agent integrations. ![GitHub stars](https://img.shields.io/github/stars/IBM/mcp-context-forge?style=social)
 - [Fern](https://github.com/fern-api/fern) - Open-source SDK generator for REST APIs. Generate type-safe API clients in TypeScript, Python, Go, Java, and more from OpenAPI specs. Powers SDKs for companies like OpenAI, Anthropic, and Cloudflare. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/fern-api/fern?style=social)
 - [Cortex](https://github.com/cortex-docs/cortex) - Generates typed SDKs, API documentation, and MCP servers from OpenAPI, AsyncAPI, GraphQL, Protocol Buffer, OpenRPC, and Markdown sources. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/cortex-docs/cortex?style=social)
+- [Spectrum](https://github.com/photon-hq/spectrum-ts) - TypeScript framework that runs an agent over iMessage, WhatsApp Business, Telegram, Slack, and the terminal through one message loop, with hosted Spectrum Cloud or a local iMessage database. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/photon-hq/spectrum-ts?style=social)
 
 #### Testing & Debugging Tools
 
