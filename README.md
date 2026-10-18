@@ -1478,6 +1478,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [LynxPrompt](https://github.com/GeiserX/LynxPrompt) - Self-hosted web app and `lynxp` CLI that turn one set of AI coding rules into the rule files of 30 tools, among them AGENTS.md, CLAUDE.md and Cursor rules, with blueprints a team can share. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/GeiserX/LynxPrompt?style=social)
 
 - [gateway-price-check](https://github.com/happy520ai/gateway-price-check) - Zero-dependency CLI that sends one unauthenticated `GET /v1/models` to any OpenAI-compatible endpoint and classifies price disclosure into five verdicts, keeping "publishes no prices" separate from "could not be read"; includes a daily CI archive of the raw readings. ![GitHub stars](https://img.shields.io/github/stars/happy520ai/gateway-price-check?style=social)
+- [agent-chain-doctor](https://github.com/elfovo/agent-chain-doctor) - Zero-dependency shell script that runs 30 read-only checks on cron, launchd and systemd state and logs to find why scheduled AI-agent chains stop silently, with a missed-run alarm; ships an MCP server and a SKILL.md. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/elfovo/agent-chain-doctor?style=social)
 
 #### SDKs & API Development Tools
 
