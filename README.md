@@ -1050,7 +1050,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) - Open corpus of the instructions and tool schemas shipping AI agents are actually sent: 119 artifacts from 43 products, 44 of them recorded off the wire with the command that reproduces each, every file marked captured or reported. AGPL-3.0. ![GitHub stars](https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaPromptVault?style=social)
 - [FineWeb / FineWeb-2 (Hugging Face)](https://huggingface.co/datasets/HuggingFaceFW/fineweb) - Curated 15T+ token web dataset for pre-training.
 - [OSWorld](https://github.com/xlang-ai/OSWorld) - Multimodal agent benchmark dataset. ![GitHub stars](https://img.shields.io/github/stars/xlang-ai/OSWorld?style=social)
-- [The Deploy Log](https://github.com/dotcomjack/the-deploy-log) - Open dataset of AI products, models and APIs that shipped and are available now, 1,674 rows from 124 companies (October 2026), each dated and linked to the publisher's own page, in CSV and JSON under CC BY 4.0 with no login, refreshed daily from [deployedbyai.com/log](https://deployedbyai.com/log/?k=awesome). ![GitHub stars](https://img.shields.io/github/stars/dotcomjack/the-deploy-log?style=social)
+- [The Deploy Log](https://github.com/dotcomjack/the-deploy-log) - Open dataset of AI products, models and APIs that shipped and are available now, 1,674 rows from 124 companies (October 2026), each dated and linked to the publisher's own page, in CSV and JSON under CC BY 4.0 with no login, refreshed daily from [deployedbyai.com/log](https://deployedbyai.com/log/). ![GitHub stars](https://img.shields.io/github/stars/dotcomjack/the-deploy-log?style=social)
 
 ---
 
