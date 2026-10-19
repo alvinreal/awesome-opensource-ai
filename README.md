@@ -1555,6 +1555,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md) - Curated collection of DESIGN.md files representing popular design systems to guide AI coding agents in consistent UI generation. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-design-md?style=social)
 - [Awesome Claude Skills](https://github.com/ComposioHQ/awesome-claude-skills) - Curated list of Claude Skills, plugins, resources, and custom commands to extend terminal and API workflows. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills?style=social)
 - [Best of Open-Source AI](https://github.com/archestack/best-of-ai) - Ranked list of open-source AI apps, agents, model servers and infrastructure tools, each scored from public GitHub data with written strengths and weaknesses and refreshed twice a day. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/archestack/best-of-ai?style=social)
+- [Awesome AI Agents](https://github.com/ianwieds/awesome-ai-agents) - Curated list of AI agent frameworks, coding agents, browser agents, tools, platforms and research. ![GitHub stars](https://img.shields.io/github/stars/ianwieds/awesome-ai-agents?style=social)
 
 ---
 
