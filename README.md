@@ -1496,6 +1496,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [no-mistakes](https://github.com/kunchenguid/no-mistakes) - A local Git proxy and validation pipeline that runs AI-driven checks and applies fixes in a temporary worktree before forwarding pushes and opening clean PRs. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/kunchenguid/no-mistakes?style=social)
 - [oai-smoke](https://github.com/airouter-dev/openai-compatible-api-smoke-test) - MIT-licensed, standard-library-only Go CLI that validates `/models` and opt-in `/chat/completions` behavior for OpenAI-compatible APIs and emits bounded diagnostics without credentials or response bodies. ![GitHub stars](https://img.shields.io/github/stars/airouter-dev/openai-compatible-api-smoke-test?style=social)
 - [e2e](https://github.com/tester-army/e2e) - Agent-native web and mobile end-to-end testing framework that executes natural-language goals and records verified actions for replay without further model calls. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/tester-army/e2e?style=social)
+- [tokenwatt-verify](https://github.com/tokenwatt/tokenwatt-verify) - CLI that checks whether an LLM API endpoint serves the model it claims by comparing graded answers, input-token counts, refusals and latency against a reference endpoint, with a monitor mode for intermittent swaps. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/tokenwatt/tokenwatt-verify?style=social)
 
 #### Prompt Engineering & Management
 
