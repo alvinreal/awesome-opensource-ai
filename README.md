@@ -1015,6 +1015,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Benchmark Suites
 
+- [Mode VC Benchmarks](https://modevc.com/benchmarks/) - Live empirical latency, throughput, and token unit economics benchmarks across 80 distributed VPS nodes with open DuckDB Parquet telemetry. MIT licensed.
 - [LiveBench](https://github.com/LiveBench/LiveBench) - Contamination-free LLM benchmark with objective ground-truth scoring. ICLR 2025 spotlight paper featuring frequently-updated questions from recent sources. Tests math, coding, reasoning, language, instruction following, and data analysis. ![GitHub stars](https://img.shields.io/github/stars/LiveBench/LiveBench?style=social)
 - [lm-evaluation-harness (EleutherAI)](https://github.com/EleutherAI/lm-evaluation-harness) - De-facto standard for generative model evaluation. ![GitHub stars](https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness?style=social)
 - [HELM (Stanford)](https://github.com/stanford-crfm/helm) - Holistic Evaluation of Language Models. ![GitHub stars](https://img.shields.io/github/stars/stanford-crfm/helm?style=social)
