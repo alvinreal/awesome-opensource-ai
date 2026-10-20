@@ -996,6 +996,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Future AGI](https://github.com/future-agi/future-agi) - Open-source self-hostable end-to-end agent engineering and optimization platform that unifies tracing, evals, simulations, datasets, gateway, and guardrails. Built for shipping self-improving AI agents with one feedback loop from prototype to production. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/future-agi/future-agi?style=social)
 - [KubeStellar Console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes dashboard with GPU workload monitoring, AI pipeline observability, and CNCF ecosystem integrations. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/kubestellar/console?style=social)
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run below the harness and replays it offline with the network off, or forks it from a checkpoint onto another model. ![GitHub stars](https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaReplay?style=social)
+- [tokenwatt-check](https://github.com/tokenwatt/tokenwatt-check) - CLI that health-checks NVIDIA GPU nodes against reference values for the same model (power limit, sustained clocks, BF16 TFLOPS, memory bandwidth, throttle reasons, PCIe, ECC), with a per-minute watch mode for rentals. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/tokenwatt/tokenwatt-check?style=social)
 
 #### Guardrails & Safety Tools
 
