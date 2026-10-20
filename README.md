@@ -463,6 +463,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [subagent-tuner](https://github.com/Kruhlikau/subagent-tuner) - Claude Code mod that sets the model and reasoning effort of each subagent by asking the user, by task-kind recommendation, or from a saved default. ![GitHub stars](https://img.shields.io/github/stars/Kruhlikau/subagent-tuner?style=social)
 - [apowerb](https://github.com/apowerb/apowerb) - Platform to build, run and govern multi-agent systems on ADK, with RAG, Text-to-SQL, MCP tools, token quotas and per-session audit. Apache 2.0 licensed, self-hosted with Docker Compose or Helm. ![GitHub stars](https://img.shields.io/github/stars/apowerb/apowerb?style=social)
 - [Frink](https://github.com/benord-labs/frink) - Fine-tuned automation for everyone: visual workflows where AI coding agents (Claude Code, Codex, OpenCode, GitHub Copilot, Cursor) act on your tickets, errors and schedules, and ask before they change anything. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/benord-labs/frink?style=social)
+- [Codealong](https://github.com/codealong/codealong) - Desktop app for macOS and Linux that finds every Claude Code, Codex, OpenCode, Antigravity and Cursor session on your machine and shows them on one board by repo, worktree, branch and pull request, where you can allow commands, answer questions and reply to each agent. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/codealong/codealong?style=social)
 
 #### Agent Protocols & Standards
 
