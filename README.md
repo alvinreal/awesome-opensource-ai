@@ -1015,6 +1015,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Benchmark Suites
 
+- [Mode VC Radar MCP](https://github.com/alexbuilding/modevc-radar-mcp) - Open-source MCP and W3C WebMCP server exposing 39 empirical AI benchmark and pricing charts, a 3,650-firm VC atlas, and 8 founder calculators. MIT licensed.
 - [LiveBench](https://github.com/LiveBench/LiveBench) - Contamination-free LLM benchmark with objective ground-truth scoring. ICLR 2025 spotlight paper featuring frequently-updated questions from recent sources. Tests math, coding, reasoning, language, instruction following, and data analysis. ![GitHub stars](https://img.shields.io/github/stars/LiveBench/LiveBench?style=social)
 - [lm-evaluation-harness (EleutherAI)](https://github.com/EleutherAI/lm-evaluation-harness) - De-facto standard for generative model evaluation. ![GitHub stars](https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness?style=social)
 - [HELM (Stanford)](https://github.com/stanford-crfm/helm) - Holistic Evaluation of Language Models. ![GitHub stars](https://img.shields.io/github/stars/stanford-crfm/helm?style=social)
