@@ -1122,6 +1122,7 @@ Good entries should have a clear reason to exist. They should help people build,
 #### Privacy-Preserving AI
 
 - [Presidio (Microsoft)](https://github.com/microsoft/presidio) - SDK for detecting, redacting, masking, and anonymizing sensitive personally identifiable information (PII) across text and images. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/microsoft/presidio?style=social)
+- [PrivAiTe](https://github.com/crp4222/PrivAiTe) - Self-hosted OpenAI-compatible proxy that swaps detected PII for reversible placeholders before requests reach an LLM provider, tool-call arguments included, and restores the real values in the response. BSD-3-Clause licensed. ![GitHub stars](https://img.shields.io/github/stars/crp4222/PrivAiTe?style=social)
 
 ---
 
