@@ -1007,6 +1007,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [SkillSpector (NVIDIA)](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills that detects vulnerabilities, malicious patterns, and security risks. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/SkillSpector?style=social)
 - [ADR (Uber)](https://github.com/uber/ADR) - Enterprise security system for AI agents providing telemetry collection, benchmark evaluations, and threat detection. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/uber/ADR?style=social)
 - [SafetyCard](https://github.com/safetycard/safetycard) - Safety-check MCP servers and AI agents against the OWASP agentic Top 10, and get the safest setup to run them. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/safetycard/safetycard?style=social)
+- [solvi](https://github.com/solvi-ai/solvi) - Python runtime where a model proposes typed decisions and hard checks, rules and calibrated thresholds decide, with escalation to a person, a tool-call guard for agents and replayable hash-chained traces. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/solvi-ai/solvi?style=social)
 
 ---
 
