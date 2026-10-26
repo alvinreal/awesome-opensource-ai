@@ -1484,6 +1484,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 - [gateway-price-check](https://github.com/happy520ai/gateway-price-check) - Zero-dependency CLI that sends one unauthenticated `GET /v1/models` to any OpenAI-compatible endpoint and classifies price disclosure into five verdicts, keeping "publishes no prices" separate from "could not be read"; includes a daily CI archive of the raw readings. ![GitHub stars](https://img.shields.io/github/stars/happy520ai/gateway-price-check?style=social)
 - [agent-chain-doctor](https://github.com/elfovo/agent-chain-doctor) - Zero-dependency shell script that runs 30 read-only checks on cron, launchd and systemd state and logs to find why scheduled AI-agent chains stop silently, with a missed-run alarm; ships an MCP server and a SKILL.md. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/elfovo/agent-chain-doctor?style=social)
+- [pohunek](https://github.com/zajca/pohunek) - Per-machine Rust daemon that keeps Codex, Claude Code, and Hermes Agent sessions alive across disconnects, shows whether each is working, blocked, or idle, and has a JSON CLI so agents can drive other sessions. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/zajca/pohunek?style=social)
 
 #### SDKs & API Development Tools
 
