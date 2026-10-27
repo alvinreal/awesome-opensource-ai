@@ -1529,6 +1529,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [AI Agents in Depth](https://github.com/bojieli/ai-agent-book) - Open-source textbook and code repository covering AI agent design principles, architectures, and engineering practice. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/bojieli/ai-agent-book?style=social)
 - [Claude How To](https://github.com/luongnv89/claude-howto) - Comprehensive learning path and template guide for Claude Code, covering setup, hooks, custom skills, and MCP server integrations. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/luongnv89/claude-howto?style=social)
 - [Maths, CS & AI Compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) - An open, unconventional textbook covering mathematics, computer science, and artificial intelligence from the ground up. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/HenryNdubuaku/maths-cs-ai-compendium?style=social)
+- [Projects to Land an AI Job](https://github.com/landedjobs/projects-to-land-an-ai-job) - 12 in-depth AI engineering project briefs with staged milestones, evals, and deploy steps. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/landedjobs/projects-to-land-an-ai-job?style=social)
 - [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) - Go-to subreddit for local/open-source LLM topics.
 
 #### Courses & Interactive Playgrounds
