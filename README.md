@@ -793,6 +793,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 - [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - Real-time face swap and one-click video deepfake with only a single image. High-quality face swapping for live video streaming and content creation. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/hacksider/Deep-Live-Cam?style=social)
 - [Faceswap](https://github.com/deepfakes/faceswap) - Open-source deep learning software for recognizing and swapping faces in pictures and videos. GPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/deepfakes/faceswap?style=social)
+- [Swapjutsu](https://github.com/jutsuhq/swapjutsu-seedance-character-swap) - macOS app for swapping a character into a video, with on-device clip preparation (Vision, Core ML) and rendering through Wan 2.2 Animate on a local ComfyUI server or Seedance 2.5 via Comfy. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/jutsuhq/swapjutsu-seedance-character-swap?style=social)
 
 #### Portrait Animation
 
