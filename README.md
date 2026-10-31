@@ -940,6 +940,7 @@ Good entries should have a clear reason to exist. They should help people build,
 #### Model Packaging & Deployment
 
 - [Cog (Replicate)](https://github.com/replicate/cog) - Containerize and deploy ML models with production-grade inference servers. Packages models into standardized containers with automatic API generation, GPU support, and one-command deployment. Powers thousands of production AI models on Replicate. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/replicate/cog?style=social)
+- [warmctl](https://github.com/TensorRails/warmctl) - Checkpoint/restore for vLLM that packages a warmed-up engine (processes, GPU state with CUDA graphs, processed weights; 1–8 GPUs on one node) as an OCI artifact and restores it in seconds on hosts with the same GPUs and driver branch. ![GitHub stars](https://img.shields.io/github/stars/TensorRails/warmctl?style=social)
 
 #### Deployment & Orchestration
 
