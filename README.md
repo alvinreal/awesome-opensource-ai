@@ -565,6 +565,7 @@ Good entries should have a clear reason to exist. They should help people build,
 #### Domain-Specific Agents
 
 - [Composio](https://github.com/ComposioHQ/composio) - Tool integration layer for AI agents with 1000+ toolkits, authentication management, and sandboxed workbench. Powers tool use across major frameworks. ![GitHub stars](https://img.shields.io/github/stars/ComposioHQ/composio?style=social)
+- [OpenConnector](https://github.com/oomol-lab/open-connector) - Self-hostable connector gateway for AI agents to discover and execute SaaS actions through MCP, HTTP, and OpenAPI with credential management and scoped action policies. ![GitHub stars](https://img.shields.io/github/stars/oomol-lab/open-connector?style=social)
 - [Langflow](https://github.com/langflow-ai/langflow) - Visual low-code platform for agentic workflows. ![GitHub stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social)
 - [Dify](https://github.com/langgenius/dify) - Production-ready agentic workflow platform. ![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=social)
 - [OWL (camel-ai/owl)](https://github.com/camel-ai/owl) - Advanced multi-agent collaboration system. ![GitHub stars](https://img.shields.io/github/stars/camel-ai/owl?style=social)
