@@ -463,6 +463,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [subagent-tuner](https://github.com/Kruhlikau/subagent-tuner) - Claude Code mod that sets the model and reasoning effort of each subagent by asking the user, by task-kind recommendation, or from a saved default. ![GitHub stars](https://img.shields.io/github/stars/Kruhlikau/subagent-tuner?style=social)
 - [apowerb](https://github.com/apowerb/apowerb) - Platform to build, run and govern multi-agent systems on ADK, with RAG, Text-to-SQL, MCP tools, token quotas and per-session audit. Apache 2.0 licensed, self-hosted with Docker Compose or Helm. ![GitHub stars](https://img.shields.io/github/stars/apowerb/apowerb?style=social)
 - [Frink](https://github.com/benord-labs/frink) - Desktop-first, open-source application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/benord-labs/frink?style=social)
+- [Sno Station](https://github.com/sno-ai/sno-station) - Local runtime where Codex, Claude Code, Cursor, Hermes Agent and OpenClaw pass tasks over a shared mailbox, hand work to another agent when one hits its usage limit, and review each other's output across vendors, with shared memory stored encrypted in local SQLite. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/sno-ai/sno-station?style=social)
 
 #### Agent Protocols & Standards
 
