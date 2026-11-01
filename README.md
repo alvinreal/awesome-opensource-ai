@@ -1002,6 +1002,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Guardrails & Safety Tools
 
+- [HOL Guard](https://github.com/hashgraph-online/hol-guard) - Open-source security layer that scans agent skills, plugins and MCP servers, and applies local approval or blocking controls to supported AI coding-agent tool actions. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/hashgraph-online/hol-guard?style=social)
 - [PurpleLlama (Meta)](https://github.com/meta-llama/PurpleLlama) - Comprehensive set of tools to assess and improve LLM security. Includes Llama Guard safety classifiers, CyberSec Eval benchmarks, and Prompt Guard for prompt injection detection. BSD-3-Clause licensed. ![GitHub stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?style=social)
 - [Garak (NVIDIA)](https://github.com/NVIDIA/garak) - The LLM vulnerability scanner. Probes models for hallucinations, data leakage, prompt injection, misinformation, toxicity, and jailbreaks. Extensive plugin-based architecture with 100+ vulnerability probes. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/garak?style=social)
 - [Promptfoo](https://github.com/promptfoo/promptfoo) - Open-source LLM evaluation and red teaming framework. Test prompts, agents, and RAGs with automated security vulnerability scanning, side-by-side model comparison, and CI/CD integration. Now part of OpenAI. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
