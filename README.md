@@ -1311,6 +1311,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [OpenBot](https://github.com/regnull/openbot) - Self-hosted platform for running a team of persistent AI bots that use tools and MCP servers, keep long-term memory, hand work to each other in shared threads, and can pause to ask a human for approval. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/regnull/openbot?style=social)
 - [Tale](https://github.com/tale-project/tale) - MIT-licensed project workspace coordinating people and AI agents through shared tasks, manager delegation, persistent sandboxes, and human review of delivered work. ![GitHub stars](https://img.shields.io/github/stars/tale-project/tale?style=social)
 - [Bunkhouse](https://github.com/braedonsaunders/bunkhouse) - Self-hosted platform for running AI employees for small businesses, each with its own mailbox, job description, governed procedures, memory, and place on an org chart, with observable desktop, browser, and terminal sessions. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/braedonsaunders/bunkhouse?style=social)
+- [Breatic](https://github.com/orime-org/breatic) - Open-source collaborative creation workspace with shared documents, AI canvases, and project-aware agents, using Yjs and Hocuspocus. Breatic Source-Available License v1.0. ![GitHub stars](https://img.shields.io/github/stars/orime-org/breatic?style=social)
 
 #### Desktop & Mobile AI Apps
 
