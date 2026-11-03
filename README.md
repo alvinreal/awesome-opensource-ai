@@ -1006,6 +1006,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run below the harness and replays it offline with the network off, or forks it from a checkpoint onto another model. ![GitHub stars](https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaReplay?style=social)
 - [tokenwatt-check](https://github.com/tokenwatt/tokenwatt-check) - CLI that health-checks NVIDIA GPU nodes against reference values for the same model (power limit, sustained clocks, BF16 TFLOPS, memory bandwidth, throttle reasons, PCIe, ECC), with a per-minute watch mode for rentals. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/tokenwatt/tokenwatt-check?style=social)
 - [AiSOC](https://github.com/beenuar/AiSOC) - Self-hostable AI security-operations center that normalizes telemetry, correlates alerts, has local or provider-backed agents investigate through typed tools, records evidence, and requires approval before response actions. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/beenuar/AiSOC?style=social)
+- [tokenecon](https://github.com/karmendra8386/agentic-ai-token-economics) - Python library that costs and tracks LLM agent runs across models and frameworks, reporting tokens, dollars, and cost per solved task, with LiteLLM and LangChain/LangGraph integrations. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/karmendra8386/agentic-ai-token-economics?style=social)
 
 #### Guardrails & Safety Tools
 
