@@ -1174,6 +1174,7 @@ Good entries should have a clear reason to exist. They should help people build,
 #### HR & Recruiting AI
 
 - [Aural](https://github.com/1146345502/aural-oss) - Self-hostable AI interview platform for voice, chat, and video interviews with adaptive follow-ups, automated scoring, and detailed feedback reports. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/1146345502/aural-oss?style=social)
+- [career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent that runs in AI coding CLIs such as Claude Code, Codex and OpenCode, scanning company career pages, scoring each job posting 1-5 against your CV with its reasoning, tailoring an ATS-friendly resume and tracking applications while you review and submit every application yourself. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/career-ops-hq/career-ops?style=social)
 
 #### Game AI & Simulations
 
