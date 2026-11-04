@@ -632,6 +632,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 ---
 - [Xenon](https://github.com/xianyu-sheng/Xenon) - Verifiable terminal coding agent combining an append-only evidence hash chain, a single deterministic verification gate, and a manual-verification checklist for what it could not check (multi-provider, MCP-ready, MIT). ![GitHub stars](https://img.shields.io/github/stars/xianyu-sheng/Xenon?style=social)
+- [recall](https://github.com/fainir/recall) - Reads and writes Claude Code's auto memory, Markdown files with wiki-links, so Codex, Cursor and other agents share the same memories over MCP or from code, with zero dependencies. ![GitHub stars](https://img.shields.io/github/stars/fainir/recall?style=social)
 
 
 ## 5. Retrieval-Augmented Generation (RAG) & Knowledge
