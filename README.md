@@ -564,6 +564,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 - [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - Library to build and auto-optimize LLM applications with LLM-AutoDiff for fine-tuning-free optimization. End-to-end workflow optimization with tracing and human-in-the-loop capabilities. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/SylphAI-Inc/AdalFlow?style=social)
 - [guidelint](https://github.com/SIDDARTHAREDDY8/guidelint) - Zero-dependency Python CLI that lints structured-output configs for vLLM, llama.cpp, and Ollama against 23 version-aware rules, catching silently-ignored fields before production. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/SIDDARTHAREDDY8/guidelint?style=social)
+- [Model Salt](https://github.com/modelsalt/model-salt) - MCP server with one tool that gives the model a few choices to settle before a creative task, drawn from randomness outside the model (random.org atmospheric noise, a quantum random number generator and the drand beacon), so one prompt gives different answers that still do what was asked. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/modelsalt/model-salt?style=social)
 
 
 #### Domain-Specific Agents
