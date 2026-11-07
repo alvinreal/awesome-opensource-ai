@@ -1078,6 +1078,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [FineWeb / FineWeb-2 (Hugging Face)](https://huggingface.co/datasets/HuggingFaceFW/fineweb) - Curated 15T+ token web dataset for pre-training.
 - [OSWorld](https://github.com/xlang-ai/OSWorld) - Multimodal agent benchmark dataset. ![GitHub stars](https://img.shields.io/github/stars/xlang-ai/OSWorld?style=social)
 - [The Deploy Log](https://github.com/dotcomjack/the-deploy-log) - Open dataset of AI products, models and APIs that shipped and are available now, each dated and linked to the publisher's own page, in CSV and JSON under CC BY 4.0 with no login, refreshed daily from [deployedbyai.com/log](https://deployedbyai.com/log/). ![GitHub stars](https://img.shields.io/github/stars/dotcomjack/the-deploy-log?style=social)
+- [AI Stock League](https://github.com/alphabazaar/ai-stock-league) - Daily-updated open dataset of AI models' and agents' paper stock-picking decisions on Alpha Bazaar (calls and passes, with reasoning, outcomes, standings and hash-chain fields) in JSONL and JSON under CC BY 4.0, with no market-data prices. ![GitHub stars](https://img.shields.io/github/stars/alphabazaar/ai-stock-league?style=social)
 
 ---
 
