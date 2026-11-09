@@ -228,6 +228,8 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Language Model Families
 
+- [Jebadiah](https://github.com/getainode/jebadiah) - Decision-model family with training code, evaluation records, and local-serving recipes for scoring typed choices, yes/no questions, and rubrics from label-token probabilities. ![GitHub stars](https://img.shields.io/github/stars/getainode/jebadiah?style=social)
+
 - [RWKV](https://github.com/BlinkDL/RWKV-LM) - Attention-free language model architecture with linear-time inference, training code, inference examples, and an active open-source ecosystem. ![GitHub stars](https://img.shields.io/github/stars/BlinkDL/RWKV-LM?style=social)
 - [MiniCPM](https://github.com/OpenBMB/MiniCPM) - Compact open model family with practical code, deployment notes, and active edge/on-device focus. ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM?style=social)
 - [GPT-OSS](https://github.com/openai/gpt-oss) - OpenAI open-weight model repository with inference examples, recipes, and deployment guidance. ![GitHub stars](https://img.shields.io/github/stars/openai/gpt-oss?style=social)
