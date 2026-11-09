@@ -781,6 +781,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 
 ---
+- [OneTag AI SDK](https://github.com/fengyiqicoder/onetagai) - Browser SDK that adds AI to a static site with one script tag: onetag.ask(prompt, input) takes text, DOM elements, forms or images and streams text or JSON back. Works against the hosted endpoint or any endpoint you set with data-endpoint. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/fengyiqicoder/onetagai?style=social)
 
 ## 6. Generative Media Tools
 
