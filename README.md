@@ -1558,6 +1558,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Educational Resources & Courses
 
+- [Tiny ML Lab](https://github.com/RishabhPande/tiny-ml-lab) - NumPy-only ML workbooks with reference implementations, numerical tests and deliberately failing examples for studying algorithm limits. ![GitHub stars](https://img.shields.io/github/stars/RishabhPande/tiny-ml-lab?style=social)
 - [AI Engineering from Scratch (rohitg00)](https://github.com/rohitg00/ai-engineering-from-scratch) - Comprehensive curriculum covering machine learning, deep learning, NLP, computer vision, and agents by implementing them from scratch. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/rohitg00/ai-engineering-from-scratch?style=social)
 - [AMD Strix Halo Local LLM Guide](https://github.com/hogeheer499-commits/strix-halo-guide) - Reproducible Ubuntu, Ollama, llama.cpp, Vulkan/RADV, and ROCm setup and benchmark evidence for Ryzen AI MAX+ 395 local-AI systems. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/hogeheer499-commits/strix-halo-guide?style=social)
 - [AI Agents in Depth](https://github.com/bojieli/ai-agent-book) - Open-source textbook and code repository covering AI agent design principles, architectures, and engineering practice. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/bojieli/ai-agent-book?style=social)
