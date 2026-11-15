@@ -1219,6 +1219,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Roboflow Supervision](https://github.com/roboflow/supervision) - Reusable computer-vision utilities for detection, tracking, and segmentation pipelines in Python. ![GitHub stars](https://img.shields.io/github/stars/roboflow/supervision?style=social)
 - [torchaudio](https://github.com/pytorch/audio) - PyTorch audio processing library. Comprehensive toolkit for audio I/O, transformations, and deep learning with support for speech recognition, TTS, and audio classification. BSD-2-Clause licensed. ![GitHub stars](https://img.shields.io/github/stars/pytorch/audio?style=social)
 - [MediaPipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform multimodal pipelines. ![GitHub stars](https://img.shields.io/github/stars/google-ai-edge/mediapipe?style=social)
+- [Longpipe](https://github.com/sb2702/longpipe) - Browser SDK for real-time person segmentation and video-call effects (virtual background, face touch-up, auto-reframe), running its own models as WebGPU/WebGL2 shaders; code and weights MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/sb2702/longpipe?style=social)
 - [xdfdet](https://github.com/mertkayacs/xdfdet) - Deepfake video detection with eight EfficientNet-B4 models trained on FaceForensics++, with Grad-CAM heatmaps and attention measured across eight facial regions. Code MIT licensed, model weights CC BY-NC 4.0. ![GitHub stars](https://img.shields.io/github/stars/mertkayacs/xdfdet?style=social)
 
 #### 3D Vision & Point Cloud Processing
