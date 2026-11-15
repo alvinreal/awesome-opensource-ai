@@ -476,6 +476,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [DESIGN.md (Google)](https://github.com/google-labs-code/design.md) - A format specification for describing visual identity to coding agents, combining YAML tokens and markdown prose to give agents a structured understanding of design systems. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/google-labs-code/design.md?style=social)
 - [Agent Skills](https://github.com/agentskills/agentskills) - Standardized specification and document format for bundling and progressively loading AI agent capabilities, instructions, scripts, and resources. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/agentskills/agentskills?style=social)
 - [FastMCP](https://github.com/PrefectHQ/fastmcp) - A Python framework for building Model Context Protocol (MCP) servers and clients with automatic schema generation and validation. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/PrefectHQ/fastmcp?style=social)
+- [Agent Nexus](https://github.com/Strategiumfinancepartner/AgentNexus) - Discovery and health registry for agent-facing APIs, MCP servers and CLIs, with liveness, capability and output-schema probes, signed health receipts and advisory fallbacks. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Strategiumfinancepartner/AgentNexus?style=social)
 
 #### Agent Context, Memory & Knowledge
 
