@@ -737,6 +737,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Beever Atlas](https://github.com/Beever-AI/beever-atlas) - Open-source LLM knowledge base combining Neo4j knowledge graph with Weaviate vector DB for graph-based RAG. Native MCP server, team chat ingestion (Slack, Discord, Teams, Telegram), and BYO LLM via LiteLLM. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/Beever-AI/beever-atlas?style=social)
 - [VidXP](https://github.com/grayhatdevelopers/vidxp) - Local-first multimodal video indexing and semantic search toolkit with transcript extraction, embeddings, scene-aware search. Can be used as a CLI, API and MCP. ![GitHub stars](https://img.shields.io/github/stars/grayhatdevelopers/vidxp?style=social)
 - [CocoIndex](https://github.com/cocoindex-io/cocoindex) - Incremental data transformation engine for AI pipelines with built-in chunking, embedding, and source connectors that recomputes only the inputs that changed. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/cocoindex-io/cocoindex?style=social)
+- [ApeRAG](https://github.com/apecloud/ApeRAG) - Self-hosted Apache-2.0 GraphRAG and hybrid retrieval knowledge base (open-source core of [ApeMind](https://apemind.ai/)) combining vector, full-text, entity-normalized knowledge graph, summary, and vision indexing with MinerU document parsing and a built-in MCP server.
 
 #### Knowledge Graphs for RAG
 
