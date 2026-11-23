@@ -188,6 +188,7 @@ Good entries should have a clear reason to exist. They should help people build,
 #### Data Labeling & Annotation
 
 - [OpenRefine](https://github.com/OpenRefine/OpenRefine) - Free, open-source power tool for working with messy data. Clean, transform, and extend data with web services. Formerly Google Refine. BSD-3-Clause licensed. ![GitHub stars](https://img.shields.io/github/stars/OpenRefine/OpenRefine?style=social)
+- [LLM Agents for Image Annotation](https://github.com/microtaro/llm-agents-for-image-annotation) - Local image annotation app in which a Claude Code or Codex agent writes the annotation plan and draws boxes, polygons and read values, checking zoomed crops and its own overlays, with a person approving each run and COCO JSON export. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/microtaro/llm-agents-for-image-annotation?style=social)
 
 #### AutoML & Hyperparameter Optimization
 
