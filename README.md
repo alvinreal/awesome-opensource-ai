@@ -811,6 +811,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Video Generation
 
+- [fitv-mcp](https://github.com/hanshs474/fitv-mcp) - Open-source MCP server connecting AI agents to [Free Image to Video](https://freeimagetovideo.ai/) for image-to-video and text-to-video generation with synchronized sound and no watermark. ![GitHub stars](https://img.shields.io/github/stars/hanshs474/fitv-mcp?style=social)
 - [Hyperframes (HeyGen)](https://github.com/heygen-com/hyperframes) - Open-source long video generation platform for cinematic and social video creation with timeline control, diffusion-based motion modules, and multimodal conditioning. ![GitHub stars](https://img.shields.io/github/stars/heygen-com/hyperframes?style=social)
 - [LTX-2 (Lightricks)](https://github.com/Lightricks/LTX-2) - Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model. ![GitHub stars](https://img.shields.io/github/stars/Lightricks/LTX-2?style=social)
 - [Helios (PKU-YuanGroup)](https://github.com/PKU-YuanGroup/Helios) - Efficient long-video generation framework with 24GB VRAM support for up to 10,000 frames (5+ minutes) and 1280×768 resolution. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/PKU-YuanGroup/Helios?style=social)
