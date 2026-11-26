@@ -22,6 +22,7 @@ ENTRY_RE = re.compile(
     r"(?:\*\*)?\[(?P<label>[^\]]+)\]\((?P<url>https?://[^)]+)\)(?:\*\*)?"
     r"(?:\s+!\[GitHub stars\]\(https://img\.shields\.io/github/stars/(?P<inline_badge_repo>[^?]+)\?style=social\))?"
 )
+MALFORMED_ENTRY_RE = re.compile(r"^(?:\*\*)?\[[^\]]+\]\(https?://")
 BADGE_RE = re.compile(
     r"!\[GitHub stars\]\(https://img\.shields\.io/github/stars/(?P<badge_repo>[^?]+)\?style=social\)"
 )
@@ -34,6 +35,7 @@ GITHUB_REPO_URL_RE = re.compile(
 )
 ALLOWED_BETWEEN_LINKS_RE = re.compile(r"^\s*(?:\+\s*)?$")
 ALLOWED_TRAILING_META_RE = re.compile(r"^\s*(?:\([^)]*\)\s*)*$")
+CHAINED_PROJECT_LINK_RE = re.compile(r"(?:^|\s)\+\s*(?:\*\*)?\[[^\]]+\]\(https?://")
 
 
 @dataclass(frozen=True)
@@ -116,6 +118,15 @@ def parse_entries(path: Path) -> tuple[list[ParsedEntry], list[Problem]]:
         content = stripped[2:]
         first_match = ENTRY_RE.search(content)
         if not first_match:
+            if MALFORMED_ENTRY_RE.match(content):
+                problems.append(
+                    Problem(
+                        "error",
+                        path.name,
+                        line_number,
+                        "entry link markup could not be parsed",
+                    )
+                )
             continue
 
         description_index = content.find(" - ", first_match.end())
@@ -132,6 +143,18 @@ def parse_entries(path: Path) -> tuple[list[ParsedEntry], list[Problem]]:
 
         head = content[:description_index]
         description = content[description_index + 3 :]
+        project_link_after_description = (
+            CHAINED_PROJECT_LINK_RE.search(description) is not None
+        )
+        if project_link_after_description:
+            problems.append(
+                Problem(
+                    "error",
+                    path.name,
+                    line_number,
+                    "entry contains a project link after its description",
+                )
+            )
         matches = list(ENTRY_RE.finditer(head))
         if not matches:
             problems.append(
@@ -144,7 +167,9 @@ def parse_entries(path: Path) -> tuple[list[ParsedEntry], list[Problem]]:
             )
             continue
 
-        badge_repos = {match.group("badge_repo") for match in BADGE_RE.finditer(content)}
+        badge_repos = {
+            match.group("badge_repo").lower() for match in BADGE_RE.finditer(content)
+        }
 
         parsed_links: list[ParsedLink] = []
         if head[: matches[0].start()].strip():
@@ -175,12 +200,14 @@ def parse_entries(path: Path) -> tuple[list[ParsedEntry], list[Problem]]:
                 ParsedLink(
                     label=match.group("label"),
                     url=match.group("url"),
-                    badge_repo=repo_ref.full_name if repo_ref and repo_ref.full_name in badge_repos else None,
+                    badge_repo=repo_ref.full_name
+                    if repo_ref and repo_ref.full_name.lower() in badge_repos
+                    else None,
                     repo_ref=repo_ref,
                 )
             )
 
-            if repo_ref and repo_ref.full_name not in badge_repos:
+            if repo_ref and repo_ref.full_name.lower() not in badge_repos:
                 problems.append(
                     Problem(
                         "error",
@@ -261,7 +288,7 @@ def validate_toc(path: Path) -> list[Problem]:
 
 def validate_duplicates(entries: list[ParsedEntry]) -> list[Problem]:
     problems: list[Problem] = []
-    repos: dict[tuple[str, str, str], list[ParsedEntry]] = defaultdict(list)
+    repos: dict[tuple[str, str], list[ParsedEntry]] = defaultdict(list)
     raws: dict[tuple[str, str, str], list[ParsedEntry]] = defaultdict(list)
 
     for entry in entries:
@@ -270,14 +297,16 @@ def validate_duplicates(entries: list[ParsedEntry]) -> list[Problem]:
         for link in entry.links:
             if link.repo_ref:
                 repos[
-                    (entry.file.name, section, link.repo_ref.full_name.lower())
+                    (entry.file.name, link.repo_ref.full_name.lower())
                 ].append(entry)
 
-    for (file_name, section, repo_name), repo_entries in sorted(repos.items()):
+    for (file_name, repo_name), repo_entries in sorted(repos.items()):
         if len(repo_entries) <= 1:
             continue
         refs = ", ".join(
-            f"{entry.file.name}:{entry.line_number}" for entry in repo_entries
+            f"{entry.file.name}:{entry.line_number} "
+            f"({entry.section or '(unknown section)'})"
+            for entry in repo_entries
         )
         first = repo_entries[0]
         problems.append(
@@ -285,7 +314,7 @@ def validate_duplicates(entries: list[ParsedEntry]) -> list[Problem]:
                 "warning",
                 file_name,
                 first.line_number,
-                f"repo `{repo_name}` appears multiple times in `{section}` ({refs})",
+                f"repo `{repo_name}` appears multiple times ({refs})",
             )
         )
 
