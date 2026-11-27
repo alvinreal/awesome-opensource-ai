@@ -506,6 +506,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [ThreadShelf](https://github.com/ChrystianSchutz/ThreadShelf) - Local-first archive and semantic search for AI conversation histories across multiple providers, with local embeddings, LanceDB storage, complete thread retrieval, HTTP and CLI access, and a stdio MCP server. ![GitHub stars](https://img.shields.io/github/stars/ChrystianSchutz/ThreadShelf?style=social)
 - [drevon](https://github.com/csakash/drevon) - `npx drevon init` turns any directory into an AI workspace with one shared config, persistent cross-session memory, prompts and skills for Claude Code, Codex, Copilot, Cursor, Windsurf, Cline, Aider and Continue. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/csakash/drevon?style=social)
 - [cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - Embedded, AST-aware code search CLI and MCP server that chunks a repository with tree-sitter grammars, embeds it into a local SQLite index, and re-indexes only the files that changed, for coding agents. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/cocoindex-io/cocoindex-code?style=social)
+- [ClickHouse Loom](https://github.com/ClickHouse/loom) - Self-hosted shared memory, document search, and code intelligence for AI agents, with symbol lookup, caller queries, change impact, and memories linked to code. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/ClickHouse/loom?style=social)
 
 #### Autonomous Coding Agents
 
