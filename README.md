@@ -1401,6 +1401,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [screenshot-to-code](https://github.com/abi/screenshot-to-code) - MIT-licensed tool that turns screenshots, mockups, and Figma designs into frontend code. ![GitHub stars](https://img.shields.io/github/stars/abi/screenshot-to-code?style=social)
 - [Atlas](https://github.com/pacifio/atlas) - Local-first agentic development environment and source-control system that connects Git commits with agent sessions, tool calls, reasoning traces, and shared memory. ![GitHub stars](https://img.shields.io/github/stars/pacifio/atlas?style=social)
 - [Volt](https://github.com/LeulAria/VOLT) - AI code editor built on VS Code (Code - OSS) that runs Claude Code, Codex, OpenCode and Kimi over ACP, with hunk-level keep/undo of agent edits and a Git checkpoint every turn. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/LeulAria/VOLT?style=social)
+- [Codeman](https://github.com/Ark0N/Codeman) - Self-hosted web dashboard that runs Claude Code, Codex, OpenCode, Gemini CLI, GitHub Copilot CLI and six more coding agent CLIs in persistent tmux sessions on your own machine and streams the real terminals to any browser or phone, with a tile grid, alerts when an agent needs input, automatic resume after usage limits, optional per-project Docker containers, and one-click local models on Apple silicon. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Ark0N/Codeman?style=social)
 
 #### AI Coding Assistants (open-source)
 
