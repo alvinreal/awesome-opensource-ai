@@ -1336,6 +1336,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Kwant](https://github.com/alexsergivan/kwant) - Self-hosted team of AI agents in one Rust binary with shared chats, @mention handoffs, scheduled routines, approval prompts, and spaces. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/alexsergivan/kwant?style=social)
 - [Tale](https://github.com/tale-project/tale) - MIT-licensed project workspace coordinating people and AI agents through shared tasks, manager delegation, persistent sandboxes, and human review of delivered work. ![GitHub stars](https://img.shields.io/github/stars/tale-project/tale?style=social)
 - [Bunkhouse](https://github.com/braedonsaunders/bunkhouse) - Self-hosted platform for running AI employees for small businesses, each with its own mailbox, job description, governed procedures, memory, and place on an org chart, with observable desktop, browser, and terminal sessions. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/braedonsaunders/bunkhouse?style=social)
+- [Trina AX](https://github.com/trina-app/trina-ax) - Self-hosted team workspace that runs Claude Code and Codex on shared company files, team skills, and MCP tools, with every file the AI opens checked against the asking person's folder permissions. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/trina-app/trina-ax?style=social)
 
 #### Desktop & Mobile AI Apps
 
