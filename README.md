@@ -1204,6 +1204,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - Open-source personal trading agent and research autopilot platform featuring multi-agent swarms, quantitative backtesting, and broker connectors. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/HKUDS/Vibe-Trading?style=social)
 - [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund) - Multi-agent system simulating an AI-powered hedge fund that utilizes specialized investor agent personalities to make trading decisions. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/virattt/ai-hedge-fund?style=social)
 - [etf-pattern-match-pybind11](https://github.com/redamancy231-create/etf-pattern-match-pybind11) - High-performance ETF pattern matching with C++20/pybind11 acceleration achieving 43x DTW and 58x pattern-matching speedups over pure Python. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/redamancy231-create/etf-pattern-match-pybind11?style=social)
+- [FeraTerra SDK](https://github.com/FeraTerra/feraterra-sdk) - Zero-dependency Python SDK, C++23 64-byte wire headers, CCXT adapter, LangChain/PydanticAI toolkits, and 24-tool MCP server (`stdio` and Streamable HTTP) for autonomous agent trading with stateless `POST /order/preview` margin simulation and client-side `Keccak-256` / `secp256k1` solvency verification. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/FeraTerra/feraterra-sdk?style=social)
 
 #### Computer Vision
 
