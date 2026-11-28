@@ -1101,7 +1101,7 @@ Good entries should have a clear reason to exist. They should help people build,
 #### Safety Evaluation Frameworks
 
 - [AgentOps](https://github.com/AgentOps-AI/agentops) - Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and evaluation. Integrates with CrewAI, Agno, OpenAI Agents SDK, LangChain, Autogen, AG2, and CamelAI. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/AgentOps-AI/agentops?style=social)
-- [Bloom](https://github.com/safety-research/bloom) - Open-source agentic framework for automated behavioral evaluations of frontier AI models. Generates targeted evaluation suites to probe LLMs for specific behaviors (sycophancy, self-preservation, political bias, etc.) with quantitative elicitation rates. From Anthropic's safety research team. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/safety-research/bloom?style=social)
+- [Petri Bloom](https://github.com/meridianlabs-ai/petri_bloom) - Open-source agentic framework for automated behavioral evaluations of frontier AI models. Generates targeted evaluation suites to probe LLMs for specific behaviors (sycophancy, self-preservation, political bias, etc.) with quantitative elicitation rates. Maintained by Meridian Labs. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/meridianlabs-ai/petri_bloom?style=social)
 - [AgentShield Benchmark](https://github.com/doronp/agentshield-benchmark) - Apache-2.0 corpus of 537 test cases and a TypeScript runner for benchmarking AI agent guardrail products, maintained by a vendor whose own product it scores. ![GitHub stars](https://img.shields.io/github/stars/doronp/agentshield-benchmark?style=social)
 
 #### Alignment & RLHF Tools
