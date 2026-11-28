@@ -369,6 +369,8 @@ Good entries should have a clear reason to exist. They should help people build,
 
 ## 4. Agentic AI & Multi-Agent Systems
 
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote Model Context Protocol (MCP) server for touring musicians and AI agents to search 2,200+ North American live-music venues, load-in accessibility details, drive-time routing, and booking contacts.
+
 > Frameworks and platforms for building agent-based systems and multi-agent workflows.
 
 #### Single-Agent Frameworks
