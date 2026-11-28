@@ -1085,6 +1085,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [FineWeb / FineWeb-2 (Hugging Face)](https://huggingface.co/datasets/HuggingFaceFW/fineweb) - Curated 15T+ token web dataset for pre-training.
 - [OSWorld](https://github.com/xlang-ai/OSWorld) - Multimodal agent benchmark dataset. ![GitHub stars](https://img.shields.io/github/stars/xlang-ai/OSWorld?style=social)
 - [The Deploy Log](https://github.com/dotcomjack/the-deploy-log) - Open dataset of AI products, models and APIs that shipped and are available now, each dated and linked to the publisher's own page, in CSV and JSON under CC BY 4.0 with no login, refreshed daily from [deployedbyai.com/log](https://deployedbyai.com/log/). ![GitHub stars](https://img.shields.io/github/stars/dotcomjack/the-deploy-log?style=social)
+- [AI Tools Directory Index](https://github.com/vuuihc/ai-tools-directory-index) - Open dataset of 2,072 AI tools with name, URL, category, pricing text, and tagline, published as JSON and CSV under CC BY 4.0. ![GitHub stars](https://img.shields.io/github/stars/vuuihc/ai-tools-directory-index?style=social)
 
 ---
 
