@@ -1551,6 +1551,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Entroly](https://github.com/juyterman1000/entroly) - Local-first MCP server for explicit-budget context selection, content-addressed exact recovery, and auditable Context Receipts. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/juyterman1000/entroly?style=social)
 - [Vibe-Coding Prompt Template](https://github.com/KhazP/vibe-coding-prompt-template) - Staged prompt workflow and CLI that turns a product idea into a PRD, technical design, and `AGENTS.md` instruction files for AI coding agents. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/KhazP/vibe-coding-prompt-template?style=social)
 - [Webcmd](https://github.com/agentrhq/webcmd) - Self-learning browser infrastructure for AI agents that compiles a site's navigation into deterministic per-site CLI commands (Apache-2.0, TypeScript). ![GitHub stars](https://img.shields.io/github/stars/agentrhq/webcmd?style=social)
+- [OmniForge Launch Audit MCP](https://github.com/zColdWater/mcp-launch-audit) - Read-only MCP server and pre-launch audit toolkit giving AI coding agents passive web security header, client-side JS secret leak, SPF/DKIM/DMARC DNS, and `/llms.txt` checks (MIT, JavaScript). ![GitHub stars](https://img.shields.io/github/stars/zColdWater/mcp-launch-audit?style=social)
 
 ---
 
