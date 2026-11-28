@@ -235,6 +235,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [GPT-NeoX](https://github.com/EleutherAI/gpt-neox) - Large-scale language model training codebase from EleutherAI with distributed training support and historical open-model importance. ![GitHub stars](https://img.shields.io/github/stars/EleutherAI/gpt-neox?style=social)
 - [GLM-5](https://github.com/zai-org/GLM-5) - Open-source mixture-of-experts language model family optimized for long-horizon planning, agentic tasks, and coding. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/zai-org/GLM-5?style=social)
 - [Bonsai Demo](https://github.com/PrismML-Eng/Bonsai-demo) - Local runtime and model package for the Bonsai ternary reasoning model family, with GGUF and MLX support for on-device text, vision, and tool-calling workloads. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/PrismML-Eng/Bonsai-demo?style=social)
+- [Jebadiah](https://github.com/getainode/jebadiah) - Decision-model family with training code, evaluation records, and local-serving recipes for scoring typed choices, yes/no questions, and rubrics from label-token probabilities. ![GitHub stars](https://img.shields.io/github/stars/getainode/jebadiah?style=social)
 
 #### Multimodal & Vision-Language Codebases
 
@@ -618,6 +619,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [AI Agent by TerraLab](https://github.com/TerraLabAI/QGIS_AI-Agent) - QGIS plugin where an AI agent finds open data, runs the analysis and builds the map from a plain-language task, with undo for every change. GPL-2.0 licensed; it calls a hosted service with a free tier. ![GitHub stars](https://img.shields.io/github/stars/TerraLabAI/QGIS_AI-Agent?style=social)
 - [Oh My Android](https://github.com/ateymoori/oh-my-android) - Native macOS control panel for the Android Emulator and real devices with a built-in stdio MCP server (18 tools) that lets Claude Code, Codex, Cursor and VS Code see and drive the emulator. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/ateymoori/oh-my-android?style=social)
 - [MarketMirror](https://github.com/DarkWorldCoder/market-mirror) - Local MCP server and CLI, built on MiroFish and CAMEL-AI OASIS, that tests ads, prices, emails and sales pitches on simulated buyers built from interviewed personas, then backtests the results against real ad data. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/DarkWorldCoder/market-mirror?style=social)
+- [LobbyStack](https://github.com/lobbystack/lobbystack) - Self-hostable AI receptionist that answers business phone calls on OpenAI GPT-Live, books appointments in Google Calendar, Cal.com or Calendly, transfers urgent calls, and exposes an MCP server. MIT license. ![GitHub stars](https://img.shields.io/github/stars/lobbystack/lobbystack?style=social)
 
 #### Agent Memory & State
 
@@ -1375,6 +1377,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Plainsay](https://github.com/conrader/plainsay) - MIT-licensed native macOS menu-bar dictation app whose free Local mode runs Whisper (WhisperKit) or NVIDIA Parakeet (FluidAudio) on device and pastes the text where you dictated it, with optional hosted Polishing and paid cloud transcription. ![GitHub stars](https://img.shields.io/github/stars/conrader/plainsay?style=social)
 - [Poly Duo](https://github.com/vadimchernets/poly-duo) - iPhone Shortcut that chains the official Ask ChatGPT and Ask Claude app actions, so one model answers and the other reviews it, on the user's own accounts with no server or API keys; the Android counterpart is a separate app with its own key path and does not use the Shortcut's actions. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/vadimchernets/poly-duo?style=social)
 - [youcoded.ai](https://github.com/itsdestin/youcoded) - Cross-platform AI assistant with local model support, cloud providers, a skill marketplace and document editing. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/itsdestin/youcoded?style=social)
+- [OpenSubs](https://github.com/open-subs/opensubs) - Subtitle generator that runs Whisper on-device in the browser, as a desktop app or as a browser extension for live subtitles, with SRT/VTT/ASS export, optional translation and burn-in. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/open-subs/opensubs?style=social)
 
 #### Agent & Voice Infrastructure
 
