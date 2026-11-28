@@ -235,6 +235,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [GPT-NeoX](https://github.com/EleutherAI/gpt-neox) - Large-scale language model training codebase from EleutherAI with distributed training support and historical open-model importance. ![GitHub stars](https://img.shields.io/github/stars/EleutherAI/gpt-neox?style=social)
 - [GLM-5](https://github.com/zai-org/GLM-5) - Open-source mixture-of-experts language model family optimized for long-horizon planning, agentic tasks, and coding. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/zai-org/GLM-5?style=social)
 - [Bonsai Demo](https://github.com/PrismML-Eng/Bonsai-demo) - Local runtime and model package for the Bonsai ternary reasoning model family, with GGUF and MLX support for on-device text, vision, and tool-calling workloads. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/PrismML-Eng/Bonsai-demo?style=social)
+- [Jebadiah](https://github.com/getainode/jebadiah) - Decision-model family with training code, evaluation records, and local-serving recipes for scoring typed choices, yes/no questions, and rubrics from label-token probabilities. ![GitHub stars](https://img.shields.io/github/stars/getainode/jebadiah?style=social)
 
 #### Multimodal & Vision-Language Codebases
 
