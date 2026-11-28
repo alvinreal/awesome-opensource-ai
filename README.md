@@ -985,6 +985,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Volcano](https://github.com/volcano-sh/volcano) - Cloud-native batch scheduling system for compute-intensive workloads. CNCF incubating project with gang scheduling, job dependency management, and topology-aware scheduling for AI/ML and deep learning. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/volcano-sh/volcano?style=social)
 - [Apache YuniKorn](https://github.com/apache/yunikorn-core) - Kubernetes resource scheduler for batch, data, and ML workloads. Provides hierarchical resource queues, multi-tenancy fairness, and gang scheduling for big data and machine learning applications. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/apache/yunikorn-core?style=social)
 - [Kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native job queueing system for batch, HPC, AI/ML, and similar applications. Cloud-native job queueing with resource flavor fungibility, fair sharing, cohorts, and preemption policies. Integrates with Kubeflow, Ray, and JobSet. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/kubernetes-sigs/kueue?style=social)
+- [Apidly Tools](https://github.com/idimetrix/apidly-tools) - CLI, MCP server, JavaScript and Python SDKs and Terraform provider for launching and managing GPU servers on Apidly Cloud. ![GitHub stars](https://img.shields.io/github/stars/idimetrix/apidly-tools?style=social)
 
 #### Feature Engineering & Data Preparation
 
