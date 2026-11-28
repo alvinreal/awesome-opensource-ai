@@ -1476,6 +1476,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [MCP Lens](https://github.com/labmimors/dsh-mcp-lens) - DeepSeek Harness plugin that exposes configured remote MCP tools through a search interface and an explicit server/tool call interface with exact input schemas. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/labmimors/dsh-mcp-lens?style=social)
 - [jev-use](https://github.com/shitianfang/jev-use) - Claude Code, Codex and pi plugin that routes agent-loop steps needing no text output to a typed judgment model, returning anything it should not decide to the LLM. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/shitianfang/jev-use?style=social)
 - [Cockney](https://github.com/Kadajett/cockney) - Skill, Claude Code plugin and install script for omp, Claude Code and Codex that makes coding agents reply tersely in a Cockney voice and make the smallest correct change, with plain-English warnings for risky actions. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Kadajett/cockney?style=social)
+- [Engineering Corpus](https://github.com/ymcbzrgn/engineering-corpus) - A library of public GitHub repos you choose and seven read-only research agents that answer with lines at a pinned commit, the license class of each file and a receipt for each source. ![GitHub stars](https://img.shields.io/github/stars/ymcbzrgn/engineering-corpus?style=social)
 
 #### UI Components & Chat Libraries
 
