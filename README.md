@@ -765,6 +765,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Zoom Search](https://github.com/goofrey/zoom-search) - MCP search and evidence tool for AI agents with query rewriting, source zoom-in, sourced answers, and runtime metrics. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/goofrey/zoom-search?style=social)
 - [invisible-playwright](https://github.com/feder-cr/invisible_playwright) - Playwright wrapper for a stealth-patched Firefox 150 binary. Drop-in Browser object for AI agents that need to ingest web data from sites with anti-bot guardrails (reCAPTCHA, FingerprintPro, Cloudflare). Spoofing happens in C++ source, not via JS overrides. MIT (wrapper) + MPL-2.0 (patches). ![GitHub stars](https://img.shields.io/github/stars/feder-cr/invisible_playwright?style=social)
 - [AgentSearch MCP](https://github.com/agentsearchhq-coder/agentsearch-mcp) - MCP server that gives AI agents live web search, URL-to-Markdown extraction, and JavaScript page rendering through one npx-installable tool server, with keyless free search and pay-per-call extract/render. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/agentsearchhq-coder/agentsearch-mcp?style=social)
+- [ClearCaption](https://github.com/Andrii2203/clearcaption-youtube-transcript) - YouTube transcripts, SRT/VTT subtitles and timestamped translation for videos, channels and playlists; works from cloud servers and as an MCP server
 
 #### Document Conversion & Preprocessing
 
