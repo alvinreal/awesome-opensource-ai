@@ -1376,6 +1376,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Plainsay](https://github.com/conrader/plainsay) - MIT-licensed native macOS menu-bar dictation app whose free Local mode runs Whisper (WhisperKit) or NVIDIA Parakeet (FluidAudio) on device and pastes the text where you dictated it, with optional hosted Polishing and paid cloud transcription. ![GitHub stars](https://img.shields.io/github/stars/conrader/plainsay?style=social)
 - [Poly Duo](https://github.com/vadimchernets/poly-duo) - iPhone Shortcut that chains the official Ask ChatGPT and Ask Claude app actions, so one model answers and the other reviews it, on the user's own accounts with no server or API keys; the Android counterpart is a separate app with its own key path and does not use the Shortcut's actions. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/vadimchernets/poly-duo?style=social)
 - [youcoded.ai](https://github.com/itsdestin/youcoded) - Cross-platform AI assistant with local model support, cloud providers, a skill marketplace and document editing. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/itsdestin/youcoded?style=social)
+- [OpenSubs](https://github.com/open-subs/opensubs) - Subtitle generator that runs Whisper on-device in the browser, as a desktop app or as a browser extension for live subtitles, with SRT/VTT/ASS export, optional translation and burn-in. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/open-subs/opensubs?style=social)
 
 #### Agent & Voice Infrastructure
 
